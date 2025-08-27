@@ -9,7 +9,7 @@ description: "Erwartungswert ist die Prognose eines Ergebnisses eines Zufallsexp
   - Mathematisch dargestellt als: $x = E(X)$
 
 ## Diskrete Zufallsvariable
-- Der Erwartungswert $E(X)$ einer [diskreten Zufallsvariable](/lerninhalte/zufallsvariable) wird berechnet durch:
+- Der Erwartungswert $E(X)$ einer [diskreten Zufallsvariable](/open-fidup/lerninhalte/zufallsvariable) wird berechnet durch:
   $$E(X) = \sum x_i \times f(x_i)$$
 - Hierbei addieren wir die Produkte der möglichen Werte $x_i$ und deren relativen Wahrscheinlichkeiten $p_i$.
 
@@ -24,9 +24,9 @@ Berechnung des Erwartungswerts:
 $$E(X) = 9.999 \times 0,01 + 499 \times 0,09 + (-1) \times 0,9 = 144$$
 
 ## Stetige Zufallsvariable
-- Der Erwartungswert $E(X)$ einer [stetigen Zufallsvariable](/lerninhalte/zufallsvariable) wird berechnet durch:
+- Der Erwartungswert $E(X)$ einer [stetigen Zufallsvariable](/open-fidup/lerninhalte/zufallsvariable) wird berechnet durch:
   $$E(X) = \int_{-\infty}^{\infty} x \times f(x)$$
-- Hierbei ist $f(x)$ die [Dichtefunktion](/lerninhalte/dichtefunktion) der Zufallsvariablen.
+- Hierbei ist $f(x)$ die [Dichtefunktion](/open-fidup/lerninhalte/dichtefunktion) der Zufallsvariablen.
 
 ## Zusammenfassung
 - Der Erwartungswert ist ein zentrales Konzept in der Wahrscheinlichkeitstheorie, das den durchschnittlichen Ausgang eines Zufallsexperiments beschreibt.

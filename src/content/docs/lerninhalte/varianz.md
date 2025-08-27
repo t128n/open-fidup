@@ -9,7 +9,7 @@ description: "Varianz misst Streuung von Daten um Mittelwert. Formel für Gesamt
 $v$ = Varianz
 $n$ = Anzahl
 $x_i$ = Daten
-$\bar{x}$ = [Mittelwert](/lerninhalte/quadratisches-mittel) der Daten
+$\bar{x}$ = [Mittelwert](/open-fidup/lerninhalte/quadratisches-mittel) der Daten
 
 ### Gesamtheit
 $$

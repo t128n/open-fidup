@@ -4,7 +4,7 @@ description: "eEPK ist zur Modellierung von Geschäftsprozessen geeignet. Regeln
 ---
 
 - **e**rweiterte **E**reignisgesteuerte **P**rozess**k**etten
-- zur Modellierung von **[Geschäftsprozessen](/lerninhalte/geschaeftsprozess)** geeignet
+- zur Modellierung von **[Geschäftsprozessen](/open-fidup/lerninhalte/geschaeftsprozess)** geeignet
 
 ## Regeln
 1. Ein eEPK **beginnt und endet mit einem Ereignis.**

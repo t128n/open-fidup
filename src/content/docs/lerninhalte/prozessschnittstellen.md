@@ -44,9 +44,9 @@ description: "Prozessschnittstellen definieren Übergabepunkte für Informations
 4. Entwicklung von Verbesserungsvorschläge
 
 ## Werkzeuge für Schnittstellenmanagement
-- [BPMN](/lerninhalte/bpmn) (Business Process Model and Notation)
-- [UML (Unified Modeling Language)](/lerninhalte/uml)
-- [eEPK](/lerninhalte/eepk)
+- [BPMN](/open-fidup/lerninhalte/bpmn) (Business Process Model and Notation)
+- [UML (Unified Modeling Language)](/open-fidup/lerninhalte/uml)
+- [eEPK](/open-fidup/lerninhalte/eepk)
 - API-Management-Tools
 - Prozessmanagement-Software
 

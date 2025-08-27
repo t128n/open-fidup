@@ -13,8 +13,8 @@ description: "Ethernet ist eine weit verbreitete Technologie für lokale Netzwer
   - **Trailer**: Enthält **Prüfziffern** (z.B. CRC), um sicherzustellen, dass die Daten korrekt übertragen wurden.
 
 ## Einordnung
-   - **[OSI-Modell](/lerninhalte/OSI-Modell)**: Ethernet gehört zur **Data Link Layer (Schicht 2)** des OSI-Modells. Hier werden die physikalischen Adressen (MAC-Adressen) verwendet, um Geräte im Netzwerk zu identifizieren und den Zugriff auf das Übertragungsmedium zu steuern.
-    - **[TCP/IP-Modell](/lerninhalte/TCP-IP-Modell)**: Im TCP/IP-Modell wird Ethernet in die **Link Layer** / **Netzzugangsschicht** integriert, die die physische Verbindung und die Datenübertragung zwischen Geräten in einem Netzwerk behandelt. Ethernet ist somit eine der grundlegenden Technologien, die die Kommunikation in TCP/IP-Netzwerken ermöglicht.
+   - **[OSI-Modell](/open-fidup/lerninhalte/OSI-Modell)**: Ethernet gehört zur **Data Link Layer (Schicht 2)** des OSI-Modells. Hier werden die physikalischen Adressen (MAC-Adressen) verwendet, um Geräte im Netzwerk zu identifizieren und den Zugriff auf das Übertragungsmedium zu steuern.
+    - **[TCP/IP-Modell](/open-fidup/lerninhalte/TCP-IP-Modell)**: Im TCP/IP-Modell wird Ethernet in die **Link Layer** / **Netzzugangsschicht** integriert, die die physische Verbindung und die Datenübertragung zwischen Geräten in einem Netzwerk behandelt. Ethernet ist somit eine der grundlegenden Technologien, die die Kommunikation in TCP/IP-Netzwerken ermöglicht.
 
 ## Vorteile
 - **Hohe Geschwindigkeit:** Unterstützt Geschwindigkeiten von 10 Mbps bis zu 100 Gbps und mehr.

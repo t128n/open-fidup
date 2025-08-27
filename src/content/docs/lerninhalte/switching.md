@@ -3,7 +3,7 @@ title: "Switching"
 description: "Switching analysiert Ethernet-Frames, speichert MAC-Adressen in der FDB und leitet Frames an den Zielport weiter. Es ermöglicht effiziente Datenübertragung auf der Netzzugangsschicht."
 ---
 
-- quasi wie [Routing](/lerninhalte/tcp-ip-modell), bloß auf [Ebene 2](/lerninhalte/osi-modell) bzw. [Netzzugangsschicht](/lerninhalte/tcp-ip-modell)
+- quasi wie [Routing](/open-fidup/lerninhalte/tcp-ip-modell), bloß auf [Ebene 2](/open-fidup/lerninhalte/osi-modell) bzw. [Netzzugangsschicht](/open-fidup/lerninhalte/tcp-ip-modell)
 
 ## Ablauf
 1. eingehendes **Ethernet-Frame** wird **analyisiert**

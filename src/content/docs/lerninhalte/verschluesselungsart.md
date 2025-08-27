@@ -11,8 +11,8 @@ description: "Verschlüsselung schützt Daten durch symmetrische Methoden mit ei
 
 ## Asymmetrische Verschlüsselung
 - **ein gemeinsamer**, **ein privater** Schlüssel -> **Schlüsselpaar**
-	- **Public Key**, Verschlüsseln von Nachrichten, Identifikation [digitaler Signaturen](lerninhalte/digitale-signatur)
-		- **Private Key**, Entschlüsseln verschlüsselter Nachrichten, Erstellung [digitaler Signaturen](lerninhalte/digitale-signatur)
+	- **Public Key**, Verschlüsseln von Nachrichten, Identifikation [digitaler Signaturen](/open-fidup/lerninhalte/digitale-signatur)
+		- **Private Key**, Entschlüsseln verschlüsselter Nachrichten, Erstellung [digitaler Signaturen](/open-fidup/lerninhalte/digitale-signatur)
 - **Einsatzbereich**: Besonders geeignet für den Austausch von Schlüsseln oder für die Sicherstellung der Identität, z.B. bei E-Mail-Verschlüsselung oder digitalen Signaturen, wo Sicherheit und Authentifizierung wichtig sind.
 
 ## Auswahl der Verschlüsselungsart

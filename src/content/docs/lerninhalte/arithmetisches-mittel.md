@@ -6,8 +6,8 @@ description: "Das arithmetische Mittel repräsentiert den zentralen Wert einer D
 - auch als **Durchschnittswert** bezeichnet, repräsentiert den zentralen Wert einer Datenmenge
 
 ## Anwendungsbereiche
-- bei [intervall- und verhältnisskalierten](lerninhalte/kardinalskala/) Daten
-- nicht für [ordinal skalierte Variablen](lerninhalte/ordinalskala/) und [nominal skalierte Variablen](lerninhalte/nominalskala/)
+- bei [intervall- und verhältnisskalierten](/open-fidup/lerninhalte/kardinalskala/) Daten
+- nicht für [ordinal skalierte Variablen](/open-fidup/lerninhalte/ordinalskala/) und [nominal skalierte Variablen](/open-fidup/lerninhalte/nominalskala/)
 
 ## Formel
 

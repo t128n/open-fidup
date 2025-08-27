@@ -24,7 +24,7 @@ Diese Maßnahmen beziehen sich auf die **technischen Aspekte** der Datensicherhe
 - **Netzwerksicherheit**
 	- Firewalls
 	- Intrusion Detection Systems (IDS)
-	- [VPNs (Virtual Private Networks)](/lerninhalte/vpn-modelle)
+	- [VPNs (Virtual Private Networks)](/open-fidup/lerninhalte/vpn-modelle)
 - **Datensicherung**
 	- Regelmäßige Backups
 	- Redundante Systeme

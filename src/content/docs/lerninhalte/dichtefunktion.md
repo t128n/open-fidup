@@ -4,11 +4,11 @@ description: "Dichtefunktion gibt an, wie dicht Werte um einen Punkt verteilt si
 ---
 
 - sagt aus **wie dicht** betrachteten Werte **um einen beliebigen Punkt** verteilt sind
-- bei [diskreten Zufallsvariablen](/lerninhalte/zufallsvariable): Wahrscheinlichkeitsfunktion
+- bei [diskreten Zufallsvariablen](/open-fidup/lerninhalte/zufallsvariable): Wahrscheinlichkeitsfunktion
 	- jedem Ergebnis kann eine Wahrscheinlichkeit zugeordnet werden
 	1. Die Wahrscheinlichkeit für ein mögliches Ergebnis **nie kleiner 0**
 	2. Summe aller Wahrscheinlichkeiten **immer 1**
-- bei [stetigen Zufallsvariablen](/lerninhalte/zufallsvariable): Wahrscheinlichkeitsdichte/Dichtefunktion
+- bei [stetigen Zufallsvariablen](/open-fidup/lerninhalte/zufallsvariable): Wahrscheinlichkeitsdichte/Dichtefunktion
 	- keine Einzelnen Punkte
 	- Bildet über unendlich viele Werte ein integral
 	1. $f(x) \geq 0$ für alle $x \in R$

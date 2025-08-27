@@ -3,7 +3,7 @@ title: "Klassifikation"
 description: "Klassifikation ist ein Teil des überwachten Lernens, das Datenpunkte zu vordefinierten Kategorien zuordnet. Algorithmen wie logistische Regression, Entscheidungsbäume und KNN werden verwendet, mit Metriken wie Accuracy und Precision zur Evaluation."
 ---
 
-- gehört zum [überwachten Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
+- gehört zum [überwachten Lernen](/open-fidup/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
 - gesucht wird eine **Funktion**, die eine möglichst genaue **Trennlinie** zwischen den Datenpunkten beschreibt
 - Ziel: Zuordnung von Datenpunkten zu **vordefinierten Kategorien** oder Klassen
 
@@ -18,12 +18,12 @@ description: "Klassifikation ist ein Teil des überwachten Lernens, das Datenpun
 3. **Multi-Label-Klassifikation**: Ein Datenpunkt kann mehreren Klassen zugeordnet werden
 
 ## Wichtige Algorithmen
-- [Logistische Regression](/lerninhalte/regression#logistische-regression): Möglichkeit einer *dichotomen/binären Klassifikation*
-- [Entscheidungsbäume](/lerninhalte/entscheidungsbaum)
-- [Random Forest](/lerninhalte/random-forest)
-- [Support Vector Machines (SVM)](/lerninhalte/support-vector-machine)
-- [K-Nearest Neighbors (KNN)](/lerninhalte/k-nearest-neighbor)
-- [Neuronale Netze](/lerninhalte/neural-network)
+- [Logistische Regression](/open-fidup/lerninhalte/regression#logistische-regression): Möglichkeit einer *dichotomen/binären Klassifikation*
+- [Entscheidungsbäume](/open-fidup/lerninhalte/entscheidungsbaum)
+- [Random Forest](/open-fidup/lerninhalte/random-forest)
+- [Support Vector Machines (SVM)](/open-fidup/lerninhalte/support-vector-machine)
+- [K-Nearest Neighbors (KNN)](/open-fidup/lerninhalte/k-nearest-neighbor)
+- [Neuronale Netze](/open-fidup/lerninhalte/neural-network)
 
 ## Vorgehen
 1. Datensammlung und -aufbereitung

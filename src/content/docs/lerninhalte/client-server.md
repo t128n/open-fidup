@@ -14,7 +14,7 @@ description: "Client-Server ist das gängigste Architekturkonzept mit klarer Ver
 	- sicheres und globales Management von **Zugriffsrechten**
 - **Nachteile**
 	- Ausfall des Servers führt zum **Gesamtausfall des Systems**
-	- schlechtere **Skalierbarkeit** als [Peer-To-Peer](/lerninhalte/peer-to-peer)
+	- schlechtere **Skalierbarkeit** als [Peer-To-Peer](/open-fidup/lerninhalte/peer-to-peer)
 	- **zeitlicher Aufwand**
 - **Anwendungsgebiete**
 	- Webserver

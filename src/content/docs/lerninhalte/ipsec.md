@@ -4,15 +4,15 @@ description: "IPsec ist eine Gruppe von Protokollen zur Sicherung von IP-Verbind
 ---
 
 - Gruppe von **Protokollen** zur **Sicherung von Verbindungen** zwischen Geräten
-- häufig für [VPNs](/lerninhalte/vpn-modelle) benutzt
-- **Verschlüsselung** von [IP-Paketen](/lerninhalte/tcp-ip-modell), **Authentifizierung** der Quelle
+- häufig für [VPNs](/open-fidup/lerninhalte/vpn-modelle) benutzt
+- **Verschlüsselung** von [IP-Paketen](/open-fidup/lerninhalte/tcp-ip-modell), **Authentifizierung** der Quelle
 
 ## Funktionsweise
-1. **Schlüsselaustausch**, [Schlüsselpaar](/lerninhalte/verschluesselungsart#asymmetrische-verschluesselung) wird ausgetauscht
+1. **Schlüsselaustausch**, [Schlüsselpaar](/open-fidup/lerninhalte/verschluesselungsart#asymmetrische-verschluesselung) wird ausgetauscht
 2. **Paket-Header** und **-Trailer**, Daten bekommen extra Header bezüglich *Authentifizierung* und *Verschlüsselung* als auch Trailer -> Overhead
 3. **Authentifizierung**, für jedes Paket Authentifizierung, quasi wie *Echtheitsstempel* auf Sammlerstück -> Pakete garantiert von vertrauenswürdiger Quelle
 4. **Verschlüsselung**, Daten und Header von Paketen werden verschlüsselt
-5. **Übertragung**, Pakete werden als [UDP](/lerninhalte/tcp-udp) verschickt, dadurch kommen Pakete einfacher durch Firewalls
+5. **Übertragung**, Pakete werden als [UDP](/open-fidup/lerninhalte/tcp-udp) verschickt, dadurch kommen Pakete einfacher durch Firewalls
 6. **Entschlüsselung**, Daten werden entschlüsselt
 
 ## Protokolle

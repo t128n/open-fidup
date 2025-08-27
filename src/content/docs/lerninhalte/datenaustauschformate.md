@@ -54,11 +54,11 @@ col1,col2,col3,col4
 data,is,0,"even spaces"
 ```
 ## Daten aus unterschiedlichen Systemen und unterschiedlichen Formaten zusammenführen können
-- **Schnittstellenentwicklung**: Entwicklung von [APIs](/lerninhalte/api-schnittstellen) oder Middleware, um Daten zwischen verschiedenen Systemen auszutauschen und zu konvertieren.
+- **Schnittstellenentwicklung**: Entwicklung von [APIs](/open-fidup/lerninhalte/api-schnittstellen) oder Middleware, um Daten zwischen verschiedenen Systemen auszutauschen und zu konvertieren.
 - **Formate, z.B.**:
-	- [XML](lerninhalte/datenaustauschformate/): Ideal für **komplexe** Datenstrukturen und **hierarchische** Daten.
-	- [JSON](lerninhalte/datenaustauschformate/): Optimal für **Webanwendungen** und **einfache Datenübertragungen**.
-	- [CSV](lerninhalte/datenaustauschformate/): Praktisch für **tabellarische Daten** und **einfache Datenimporte/-exporte**.
+	- [XML](/open-fidup/lerninhalte/datenaustauschformate/): Ideal für **komplexe** Datenstrukturen und **hierarchische** Daten.
+	- [JSON](/open-fidup/lerninhalte/datenaustauschformate/): Optimal für **Webanwendungen** und **einfache Datenübertragungen**.
+	- [CSV](/open-fidup/lerninhalte/datenaustauschformate/): Praktisch für **tabellarische Daten** und **einfache Datenimporte/-exporte**.
 
 ## Quellen
 

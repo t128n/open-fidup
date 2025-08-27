@@ -16,7 +16,7 @@ description: "Digitale Signatur ermöglicht Authentifizierung, Integrität und V
   - CA überprüft Identität des Antragstellers.
 
 - **Zertifikatstypen**:
-  - **SSL/TLS-Zertifikate**: Für sichere Webseiten ([HTTPS](lerninhalte/https)).
+  - **SSL/TLS-Zertifikate**: Für sichere Webseiten ([HTTPS](/open-fidup/lerninhalte/https)).
   - **Code Signing-Zertifikate**: Für die Signierung von Software und Anwendungen.
   - **S/MIME-Zertifikate**: Für die sichere E-Mail-Kommunikation.
 

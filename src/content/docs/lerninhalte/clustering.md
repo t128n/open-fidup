@@ -14,14 +14,14 @@ description: "Clustering ist eine Methode zur Gruppierung ähnlicher Datenpunkte
 - Beispiel-Algorithmen: K-Means, hierarchisches Clustering
 
 ## K-Means Clusteranalyse
-K-Means ist eines der **einfachsten** und **gängigsten** Verfahren zur Clusteranalyse. Es ist ein [unüberwachter Lernalgorithmus](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen), der Datenpunkte in K vordefinierten Clustern gruppiert.
+K-Means ist eines der **einfachsten** und **gängigsten** Verfahren zur Clusteranalyse. Es ist ein [unüberwachter Lernalgorithmus](/open-fidup/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen), der Datenpunkte in K vordefinierten Clustern gruppiert.
 ### Algorithmus
 1. **Initialisierung**: Definiere die Anzahl K der Cluster und wähle K zufällige Datenpunkte als initiale Cluster-Zentren aus.
 2. **Zuordnung**: Ordne jeden Datenpunkt dem nächstgelegenen Cluster-Zentrum zu, basierend auf der euklidischen Distanz.
 3. **Aktualisierung**: Berechne die neuen Cluster-Zentren als Mittelwert aller Datenpunkte im jeweiligen Cluster.
 4. **Iteration**: Wiederhole Schritte 2 und 3, bis die Cluster-Zentren sich nicht mehr signifikant verändern oder eine maximale Anzahl von Iterationen erreicht ist.
 ### Wichtige Aspekte
-- **Distanzmaß**: In der Regel wird die [euklidische Distanz](/lerninhalte/euklidische-distanz) verwendet, insbesondere für zweidimensionale Daten.
+- **Distanzmaß**: In der Regel wird die [euklidische Distanz](/open-fidup/lerninhalte/euklidische-distanz) verwendet, insbesondere für zweidimensionale Daten.
 - **Qualitätsbewertung**: Die Qualität des Clusterings kann anhand der Varianz innerhalb der Cluster beurteilt werden. Ein Clustering mit geringerer Varianz gilt als besser.
 - **Wahl von K**: Die optimale Anzahl der Cluster K kann mithilfe des "Elbow-Plots" bestimmt werden. Dieser zeigt, ab welchem Punkt die Reduktion der Varianz nicht mehr signifikant ist. (Allgemeine Varianz bestimmen, dann halt gucken ab wann Varianz nicht mehr so stark abnimmt)
 ### Vor- und Nachteile
@@ -63,7 +63,7 @@ K-Means ist eines der **einfachsten** und **gängigsten** Verfahren zur Clustera
 4. Wiederholung der Schritte 2-3 bis alle Objekte in einem Cluster sind
 
 ### Distanzmaße
-- [Euklidische Distanz](/lerninhalte/euklidische-distanz)
+- [Euklidische Distanz](/open-fidup/lerninhalte/euklidische-distanz)
 - Manhattan-Distanz
 	- Summe der absoluten Differenzen der Koordinaten zweier Punkte
 	- Auch bekannt als "Cityblock-Distanz" oder "L1-Norm"

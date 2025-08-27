@@ -24,8 +24,8 @@ Der Soll-Ist-Vergleich ist ein **wichtiges Instrument im Controlling** und der U
 - Eine Vielzahl von **Kennzahlen** (Soll- und Istwerte) wird gemessen und gegenübergestellt.
 - Bei Abweichungen zwischen Soll- und Istwerten erfolgt eine detaillierte Ursachenanalyse.
 	- Methoden zur Ursachenanalyse:
-		- [SWOT-Analyse Identifikation von Stärken, Schwächen, Chancen und Risiken.](/lerninhalte/swot-analyse)
-		- Weitere Methoden: [Ursachen-Wirkungs-Diagramm](/lerninhalte/ishikawa-diagramm), 5-Why-Analyse.
+		- [SWOT-Analyse Identifikation von Stärken, Schwächen, Chancen und Risiken.](/open-fidup/lerninhalte/swot-analyse)
+		- Weitere Methoden: [Ursachen-Wirkungs-Diagramm](/open-fidup/lerninhalte/ishikawa-diagramm), 5-Why-Analyse.
 ## Ziel
 - Der Soll-Ist-Vergleich dient dazu, Abweichungen frühzeitig zu erkennen, um geeignete Maßnahmen zur Optimierung und Anpassung der Planung zu ergreifen.
 - Er unterstützt die Entscheidungsfindung und die strategische Ausrichtung des Unternehmens.

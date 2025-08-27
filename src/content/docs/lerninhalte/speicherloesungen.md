@@ -22,7 +22,7 @@ description: "Speicherlösungen umfassen DAS für direkten Anschluss, SAN für N
 - **Anwendungsgebiet**, bei hohen Anforderungen an Performance (Datenbankanwendungen, Caching)
 
 ### Storage Area Network (SAN)
-- Anschluss meist über [Fibre Channel](lerninhalte/fibre-channel)
+- Anschluss meist über [Fibre Channel](/open-fidup/lerninhalte/fibre-channel)
 - Speicherserver haben eigene **Fibre-Channel-Infrastruktur**, analog zur Ethernet-Struktur aufgebaut
 	- NIC -> Fibre-Channel-HBA (*Host-Bus-Adapter*)
 	- Netzwerk Switch -> Fibre-Channel-Switch

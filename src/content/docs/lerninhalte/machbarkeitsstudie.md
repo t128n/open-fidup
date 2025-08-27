@@ -3,21 +3,21 @@ title: "Machbarkeitsstudie"
 description: "Eine Machbarkeitsstudie bewertet die Durchführbarkeit, Rentabilität und Wirtschaftlichkeit eines Projekts. Sie untersucht wirtschaftliche, technische und rechtliche Aspekte, um Risiken zu identifizieren und fundierte Entscheidungen zu treffen."
 ---
 
-Eine Machbarkeitsstudie ist ein wesentliches Instrument im [Projektmanagement](/lerninhalte/projektmanagement), das die **Durchführbarkeit, Rentabilität und Wirtschaftlichkeit** eines Projekts bewertet. Sie untersucht verschiedene Faktoren, um die Erfolgsaussichten zu ermitteln.
+Eine Machbarkeitsstudie ist ein wesentliches Instrument im [Projektmanagement](/open-fidup/lerninhalte/projektmanagement), das die **Durchführbarkeit, Rentabilität und Wirtschaftlichkeit** eines Projekts bewertet. Sie untersucht verschiedene Faktoren, um die Erfolgsaussichten zu ermitteln.
 
 ## Ziele
 - Bestimmung der Bedingungen für den Projekterfolg
 - Einschätzung möglicher Risiken und Einschränkungen
 - Identifizierung benötigter Ressourcen
-- Berechnung des Budgets und des potenziellen [Return on Investment](/lerninhalte/return-on-investment) (ROI)
+- Berechnung des Budgets und des potenziellen [Return on Investment](/open-fidup/lerninhalte/return-on-investment) (ROI)
 - Information der Stakeholder über Projektbedingungen und -phasen
 
 ## Aspekte
 
 ### Wirtschaftliche Aspekte
-- Durchführung einer [Kosten-Nutzen-Analyse](/lerninhalte/kosten-nutzen-analyse)
+- Durchführung einer [Kosten-Nutzen-Analyse](/open-fidup/lerninhalte/kosten-nutzen-analyse)
 - Berücksichtigung von Infrastrukturressourcen
-- Bewertung des [Return on Investment](/lerninhalte/return-on-investment) (ROI)
+- Bewertung des [Return on Investment](/open-fidup/lerninhalte/return-on-investment) (ROI)
 - Analyse des zeitlichen Rahmens und des investierten Kapitals
 - Berechnung des Umsatzpotenzials
 - Ermittlung geeigneter Fördermöglichkeiten

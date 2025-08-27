@@ -6,12 +6,12 @@ description: "Lagemaße wie arithmetisches Mittel, Median und Modalwert beschrei
 Lagemaße sind **statistische Kennzahlen**, die das **Zentrum von Verteilungen** beschreiben. Sie helfen dabei, große Datenmengen zu einem **repräsentativen Wert** zusammenzufassen und **erleichtern die Interpretation** der Daten.
 
 ## Wichtige Lagemaße
-- **[Arithmetisches Mittel](lerninhalte/arithmetisches-mittel)**: 
-  - Das [arithmetische Mittel](lerninhalte/arithmetisches-mittel) ist der Durchschnittswert einer Datenreihe und wird berechnet, indem die Summe aller Werte durch die Anzahl der Werte geteilt wird.
-- **[Median](lerninhalte/median)**: 
-  - Der [Median](lerninhalte/median) ist der Wert, der die Daten in zwei gleich große Hälften teilt. Bei einer ungeraden Anzahl von Werten ist es der mittlere Wert, bei einer geraden Anzahl der Durchschnitt der beiden mittleren Werte.
-- **[Modalwert](lerninhalte/modalwert) (Modus)**: 
-  - Der [Modalwert](lerninhalte/modalwert) ist der Wert, der in einer Datenreihe am häufigsten vorkommt. Es kann mehrere [Modalwerte](lerninhalte/modalwert) geben, wenn mehrere Werte gleich häufig sind.
+- **[Arithmetisches Mittel](/open-fidup/lerninhalte/arithmetisches-mittel)**: 
+  - Das [arithmetische Mittel](/open-fidup/lerninhalte/arithmetisches-mittel) ist der Durchschnittswert einer Datenreihe und wird berechnet, indem die Summe aller Werte durch die Anzahl der Werte geteilt wird.
+- **[Median](/open-fidup/lerninhalte/median)**: 
+  - Der [Median](/open-fidup/lerninhalte/median) ist der Wert, der die Daten in zwei gleich große Hälften teilt. Bei einer ungeraden Anzahl von Werten ist es der mittlere Wert, bei einer geraden Anzahl der Durchschnitt der beiden mittleren Werte.
+- **[Modalwert](/open-fidup/lerninhalte/modalwert) (Modus)**: 
+  - Der [Modalwert](/open-fidup/lerninhalte/modalwert) ist der Wert, der in einer Datenreihe am häufigsten vorkommt. Es kann mehrere [Modalwerte](/open-fidup/lerninhalte/modalwert) geben, wenn mehrere Werte gleich häufig sind.
 
 ## Bedeutung der Lagemaße
 Lagemaße sind wichtig, um:

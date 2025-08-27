@@ -10,10 +10,10 @@ description: "ANR misst die Wahrscheinlichkeit eines erneuten Ausfalls kurz nach
 ## Bedeutung im Risikomanagement
 - Hilft bei der Identifikation von Schwachstellen in Systemen/Prozessen
 - Ermöglicht gezielte Maßnahmenplanung zur Verbesserung der Zuverlässigkeit 
-- Dient als Indikator im [PDCA](/lerninhalte/pdca)-Zyklus (Plan-Do-Check-Act)
+- Dient als Indikator im [PDCA](/open-fidup/lerninhalte/pdca)-Zyklus (Plan-Do-Check-Act)
 
 ## Zusammenhang mit anderen Konzepten
-- Eng verbunden mit [MBTF (Mean Time Between Failures)](/lerninhalte/mbtf)
+- Eng verbunden mit [MBTF (Mean Time Between Failures)](/open-fidup/lerninhalte/mbtf)
 - Wichtiger Bestandteil von Notfallkonzepten 
 - Trägt zur Berechnung von Ausfallwahrscheinlichkeiten bei
 
@@ -34,7 +34,7 @@ $$
 - Erhöht die Gesamtzuverlässigkeit von Systemen
 
 ## Beachtung bei der Anwendung
-- Sollte in Kombination mit anderen Metriken wie [MTBF](/lerninhalte/mbtf) betrachtet werden
+- Sollte in Kombination mit anderen Metriken wie [MTBF](/open-fidup/lerninhalte/mbtf) betrachtet werden
 - Regelmäßige Überprüfung und Aktualisierung erforderlich
 - Berücksichtigung bei der Entwicklung von Risikomanagementstrategien
 

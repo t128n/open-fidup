@@ -7,9 +7,9 @@ description: "Skripte automatisieren wiederkehrende Aufgaben zur Effizienzsteige
 - Vorteile: **Zeitersparnis**, **Konsistenz**, **Entlastung** von **Routineaufgaben**.
 
 ## Skripting-Sprachen
-- **[Bash](lerninhalte/bash)**: Ideal für Unix/Linux-Systeme, einfache Automatisierung von Shell-Befehlen.  
-- **[Python](lerninhalte/python)**: Vielseitig, umfangreiche Bibliotheken für Systemadministration und Automatisierung.  
-- **[PowerShell](lerninhalte/powershell)**: Speziell für Windows-Umgebungen, leistungsstark für Systemmanagement.
+- **[Bash](/open-fidup/lerninhalte/bash)**: Ideal für Unix/Linux-Systeme, einfache Automatisierung von Shell-Befehlen.  
+- **[Python](/open-fidup/lerninhalte/python)**: Vielseitig, umfangreiche Bibliotheken für Systemadministration und Automatisierung.  
+- **[PowerShell](/open-fidup/lerninhalte/powershell)**: Speziell für Windows-Umgebungen, leistungsstark für Systemmanagement.
 
 ## Wichtige Konzepte
 - **Skripterstellung**: Schreiben von Skripten zur Automatisierung von Aufgaben (z.B. Backup, Updates).  

@@ -26,7 +26,7 @@ description: "Portfolioanalyse bewertet Produkte und Dienstleistungen strategisc
 3. Erkenntnisse ableiten
 	- gutes Übersicht über Angebot
 	- Stärken und Schwächen werden deutlich
-	- z.B. mittels [SWOT-Analyse](/lerninhalte/swot-analyse)
+	- z.B. mittels [SWOT-Analyse](/open-fidup/lerninhalte/swot-analyse)
 
 ## Vorteile
 - **Handlungsstrategie** für jedes Feld

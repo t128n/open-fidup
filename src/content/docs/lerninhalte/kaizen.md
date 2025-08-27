@@ -3,12 +3,12 @@ title: "Kaizen"
 description: "Kaizen ist eine Geschäftsphilosophie der stetigen Veränderung und Verbesserung zur Effizienzsteigerung. Sie basiert auf Prinzipien wie Standardisierung, Kritikorientierung und Kundenfokus, fördert Mitarbeiterengagement und führt zu langfristiger Qualitätssteigerung."
 ---
 
-- Geschäftsphilosophie, **stetige Veränderung** und **Verbesserung** -> [KVP](/lerninhalte/kontinuierlicher-verbesserungsprozess)
+- Geschäftsphilosophie, **stetige Veränderung** und **Verbesserung** -> [KVP](/open-fidup/lerninhalte/kontinuierlicher-verbesserungsprozess)
 - hilft bei **Effizienzsteigerung**
 
 ## Zentrale Prinzipien
-1. **Standardisierung**, bei langfristiger Verbesserung dauerhafte Einbindung ([SDCA](/lerninhalte/sdca))
-2. **Kritikorientierung**, Kritik erwünscht, ([PDCA](/lerninhalte/pdca))
+1. **Standardisierung**, bei langfristiger Verbesserung dauerhafte Einbindung ([SDCA](/open-fidup/lerninhalte/sdca))
+2. **Kritikorientierung**, Kritik erwünscht, ([PDCA](/open-fidup/lerninhalte/pdca))
 3. **Qualitätsorientierung**, Qualitätsstandards werden regelmäßig kontrolliert
 4. **Kundenorientierung**, Bedürfnisse & Wünsche sollen erfüllt werden
 5. **Prozessorientierung**, verbesserter Prozess führt zu verbessertes Ergebnis

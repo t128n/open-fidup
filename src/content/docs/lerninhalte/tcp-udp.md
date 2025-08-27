@@ -3,7 +3,7 @@ title: "TCP und UDP"
 description: "TCP ist verbindungsorientiert, garantiert Datenübertragung und Reihenfolge, ideal für E-Mail und Downloads. UDP ist verbindungslos, schneller und effizienter für Streaming und Spiele. Beide Protokolle haben unterschiedliche Header-Größen und Fehlererkennung."
 ---
 
-- Protokolle auf **Transportschicht** [4. Transportschicht (OSI-Modell)](/lerninhalte/osi-modell) / [3. Transportschicht (TCP/IP-Modell)](/lerninhalte/tcp-ip-modell)
+- Protokolle auf **Transportschicht** [4. Transportschicht (OSI-Modell)](/open-fidup/lerninhalte/osi-modell) / [3. Transportschicht (TCP/IP-Modell)](/open-fidup/lerninhalte/tcp-ip-modell)
 
 ## TCP
 - **T**ransmission **C**ontrol **P**rotocol, **20-Byte** Header

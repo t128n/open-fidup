@@ -4,7 +4,7 @@ description: "Das Internet Protocol (IP) ist das Grundprotokoll des Internets au
 ---
 
 - **I**nternet **P**rotocol
-- [Ebene 3, Vermittlungsschicht/Network Layer](/lerninhalte/osi-modell)
+- [Ebene 3, Vermittlungsschicht/Network Layer](/open-fidup/lerninhalte/osi-modell)
 
 ## Adressierung
 ### IPv4

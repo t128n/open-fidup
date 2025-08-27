@@ -4,7 +4,7 @@ description: "Industrie 4.0 integriert Technologien wie IoT, Cloud-Computing und
 ---
 
 - auch **Smart Manufacturing** genannt
-- Integration neuer Technologien wie [IoT](lerninhalte/iot), [Cloud-Computing](lerninhalte/cloud-computing), [Big Data](lerninhalte/big-data) und [Maschinelles Lernen](lerninhalte/maschinelles-lernen)
+- Integration neuer Technologien wie [IoT](/open-fidup/lerninhalte/iot), [Cloud-Computing](/open-fidup/lerninhalte/cloud-computing), [Big Data](/open-fidup/lerninhalte/big-data) und [Maschinelles Lernen](/open-fidup/lerninhalte/maschinelles-lernen)
 
 ### Technologien und Konzepte
 - **Cyber-physische Systeme**: Vernetzung von physischen und digitalen Prozessen

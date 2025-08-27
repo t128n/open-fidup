@@ -24,14 +24,14 @@ description: "Die Ist-Analyse erfasst und bewertet systematisch den aktuellen Zu
 - Relevante **Abteilungen** (z.B. HR, IT, Produktion, ...)
 ### Analysemethoden
 - **Aufgabenkritik** (Fokus auf Aufgaben)
-	- [ABC-Analyse](/lerninhalte/abc-analyse)
-	- [SWOT-Analyse](/lerninhalte/swot-analyse)
-	- [Portfolioanalyse](/lerninhalte/portfolioanalyse)
+	- [ABC-Analyse](/open-fidup/lerninhalte/abc-analyse)
+	- [SWOT-Analyse](/open-fidup/lerninhalte/swot-analyse)
+	- [Portfolioanalyse](/open-fidup/lerninhalte/portfolioanalyse)
 - **Prozessoptimierung** (Fokus auf Prozessen)
-	- [FMEA](/lerninhalte/fmea)
-	- [Ishikawa-Diagramm](/lerninhalte/ishikawa-diagramm)
+	- [FMEA](/open-fidup/lerninhalte/fmea)
+	- [Ishikawa-Diagramm](/open-fidup/lerninhalte/ishikawa-diagramm)
 - **Personalbedarfsermittlung** (Fokus Aufgaben mit Bearbeitungszeiten und Mengen)
-	- [SWOT-Analyse](/lerninhalte/swot-analyse)
+	- [SWOT-Analyse](/open-fidup/lerninhalte/swot-analyse)
 
 ## Checkliste möglicher Schwachstellen
 - **Aufgaben**
@@ -58,7 +58,7 @@ description: "Die Ist-Analyse erfasst und bewertet systematisch den aktuellen Zu
 - **Prozesse**
 	- zu viele Rückkopllungen
 	- zu viele/wenige Verzweigungen
-	- fehlender [Kontinuierlicher Verbesserungsprozess](/lerninhalte/kontinuierlicher-verbesserungsprozess)
+	- fehlender [Kontinuierlicher Verbesserungsprozess](/open-fidup/lerninhalte/kontinuierlicher-verbesserungsprozess)
 	- fehlende Qualitätssicherung
 - **Funktionen (Stellen, Kompetenzen)**
 	- zu zentrale/dezentrale Strukturen

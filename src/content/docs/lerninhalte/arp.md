@@ -4,11 +4,11 @@ description: "ARP ist ein Netzwerkprotokoll zur Übersetzung von IPv4-Adressen i
 ---
 
 - **A**ddress **R**esolution **P**rotocol
-- Netzwerkprotokoll auf [Netzzugangsschicht](/lerninhalte/tcp-ip-modell) bzw. [Sicherungsschicht](/lerninhalte/osi-modell)
+- Netzwerkprotokoll auf [Netzzugangsschicht](/open-fidup/lerninhalte/tcp-ip-modell) bzw. [Sicherungsschicht](/open-fidup/lerninhalte/osi-modell)
 
-- dient zur Übersetzung von [IPv4](/lerninhalte/ip)-Adressen zu [MAC](/lerninhalte/mac)-Adressen 
+- dient zur Übersetzung von [IPv4](/open-fidup/lerninhalte/ip)-Adressen zu [MAC](/open-fidup/lerninhalte/mac)-Adressen 
 - Zuordnung wird ggf. in *ARP-Tabellen* der beteiligten Rechnern hinterlegt
-- equivalent für [IPv6](/lerninhalte/ip) wäre das *Neighbor Discovery Protocol*
+- equivalent für [IPv6](/open-fidup/lerninhalte/ip) wäre das *Neighbor Discovery Protocol*
 
 ## Quellen
 

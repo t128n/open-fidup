@@ -3,12 +3,12 @@ title: "Support Vector Machine"
 description: "SVM ist ein überwachte Lernmethode zur Klassifikation, besonders für kleine Datensätze. Sie findet einen optimalen Hyperplane zur Trennung von Klassen, verwendet Kernel-Trick für nicht-lineare Daten und maximiert den Gap für bessere Generalisierung."
 ---
 
-- **Support Vector Machine** (SVM) ist ein **[Überwachtes und nicht-überwachtes Lernen|überwachter Lernalgorithmus](lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen/)**, der zur **[Klassifikation](lerninhalte/klassifikation)** von Objekten verwendet wird. 
+- **Support Vector Machine** (SVM) ist ein **[Überwachtes und nicht-überwachtes Lernen|überwachter Lernalgorithmus](/open-fidup/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen/)**, der zur **[Klassifikation](/open-fidup/lerninhalte/klassifikation)** von Objekten verwendet wird. 
 - Hauptsächlich eingesetzt für **Text-** und **Bildklassifizierung**.
 - Besonders gut geeignet für **kleinere Datensätze mit klarer Trennbarkeit**.
 
 ### Vorteile
-- **Effizientes Training**: Schneller trainierbar im Vergleich zu [Neural Networks](lerninhalte/neural-network/). 
+- **Effizientes Training**: Schneller trainierbar im Vergleich zu [Neural Networks](/open-fidup/lerninhalte/neural-network/). 
 - **Gute Leistung** mit **wenigen Trainingsdaten**. 
 - Kann auf lineare und nicht-lineare Daten angewendet werden (mit Hilfe des Kernel-Tricks). 
 

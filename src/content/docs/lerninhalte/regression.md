@@ -7,10 +7,10 @@ description: "Regression ist ein überwachte Lernmethode zur Vorhersage einer ab
 > Multivarielle Regression -> Gradientenabstieg, wie konkrete Umsetzung?
 > https://www.youtube.com/watch?v=YMTwWKPliLw
 
-- gehört zum [überwachten Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
+- gehört zum [überwachten Lernen](/open-fidup/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
 - ausgehend von **einer oder mehreren Variablen** (*Unabhängige Variablen* bzw. *Prädiktoren*) auf **eine weitere Variable** (*Abhängige Variable* bzw. *Kriterium*) zu schließen
 	- **Messung** des **Einflusses** einer oder mehreren Variablen auf eine weitere Variable bzw. **Vorhersage** einer Variable durch eine oder mehrere andere Variablen
-- **Prädikatoren** können metrisch, [ordinal](/lerninhalte/ordinalskala) oder nominal sein
+- **Prädikatoren** können metrisch, [ordinal](/open-fidup/lerninhalte/ordinalskala) oder nominal sein
 
 ## Formen
 
@@ -24,16 +24,16 @@ description: "Regression ist ein überwachte Lernmethode zur Vorhersage einer ab
 	- Aufpunkt/Achsenschnitt $a/	heta_0$
 - **Berechnung**
 	- $b/	heta_1 = r \dfrac{s_y}{s_x}$
-		- [Korrelation](/lerninhalte/korrelationskoeffizient) zwischen $x$ und $y$: $r$
-		- [Standardabweichung](/lerninhalte/standardabweichung) von $y$: $s_y$
-		- [Standardabweichung](/lerninhalte/standardabweichung) von $x$: $s_x$
+		- [Korrelation](/open-fidup/lerninhalte/korrelationskoeffizient) zwischen $x$ und $y$: $r$
+		- [Standardabweichung](/open-fidup/lerninhalte/standardabweichung) von $y$: $s_y$
+		- [Standardabweichung](/open-fidup/lerninhalte/standardabweichung) von $x$: $s_x$
 	- $a/\theta_0 = \bar{y} - b \times \bar{x} = \bar{y} - \theta_1 \times \bar{x}$
-			- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $y$: $\bar{y}$
-			- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $x$: $\bar{x}$
+			- [Mittelwert](/open-fidup/lerninhalte/arithmetisches-mittel) von $y$: $\bar{y}$
+			- [Mittelwert](/open-fidup/lerninhalte/arithmetisches-mittel) von $x$: $\bar{x}$
 			### **Multiple lineare** / **Multivariate** Regression
 	- Vorhersage **eines Kriteriums** anhand **mehrerer Prädikatoren** (n:1)
 	- **Formel:** $\hat{y} = b_1 \times x_1 + b_2 \times x_2 + ... + b_k \times x_k + a = \theta_0+\theta_1x_2+\theta_2x_2+...+\theta_mx_m$
-	- Berechnung und Deutung ähnlich wie bei der [einfachen linearen Regression](/lerninhalte/regression#einfache-lineare-regression)
+	- Berechnung und Deutung ähnlich wie bei der [einfachen linearen Regression](/open-fidup/lerninhalte/regression#einfache-lineare-regression)
 
 	### **Logistische** Regression
 	- Vorhersage eines **Ja/Nein-Prädikators**, Kategorische Einordnung
@@ -41,10 +41,10 @@ description: "Regression ist ein überwachte Lernmethode zur Vorhersage einer ab
 	- **Formel:** $f(z) = \dfrac{1}{1 + e^{{\theta_0}_1 \times x_1 + ... {\theta_0}_k \times x_k + a}}$
 	- Wahrscheinlichkeit, ob abhängige Variable $z$ ist: $P(y=z|x_1,...,x_n) = \dfrac{1}{1 + e^{-({\theta_0}_1 \times x_1 + ... + {\theta_0}_k \times x_k +\theta_1)}}$
 		- Eulersche Zahl $e$ (ungef. $2,71828$) 
-	- Berechnung von $\theta_0$ anhand vom [Gradientabstiegsverfahren](/lerninhalte/regression#gradientabstiegsverfahren)
-	- Ableitung der Kostenfunktion identisch mit der für die [lineare Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
+	- Berechnung von $\theta_0$ anhand vom [Gradientabstiegsverfahren](/open-fidup/lerninhalte/regression#gradientabstiegsverfahren)
+	- Ableitung der Kostenfunktion identisch mit der für die [lineare Regression](/open-fidup/lerninhalte/regression#multiple-lineare-multivariate-regression)
 	- Berechnung nach folgendem Schema:
-		- Berechnung der [multivariaten Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
+		- Berechnung der [multivariaten Regression](/open-fidup/lerninhalte/regression#multiple-lineare-multivariate-regression)
 		- Anwendung der Sigmoidfunktion auf $\hat{y}$ 
 
 ## Kostenfunktion
@@ -225,10 +225,10 @@ for step in range(0, 1000):
 ---
 [^1:] In der Mathematik und beim maschinellen Lernen beschreibt Konvergenz den Prozess, bei dem ein Algorithmus Schritt für Schritt einer optimalen Lösung (z.B. minimaler Fehler) immer näher kommt.
 
-- gehört zum [überwachten Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
+- gehört zum [überwachten Lernen](/open-fidup/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
 - ausgehend von **einer oder mehreren Variablen** (*Unabhängige Variablen* bzw. *Prädiktoren*) auf **eine weitere Variable** (*Abhängige Variable* bzw. *Kriterium*) zu schließen
 	- **Messung** des **Einflusses** einer oder mehreren Variablen auf eine weitere Variable bzw. **Vorhersage** einer Variable durch eine oder mehrere andere Variablen
-- **Prädikatoren** können metrisch, [ordinal](/lerninhalte/ordinalskala) oder nominal sein
+- **Prädikatoren** können metrisch, [ordinal](/open-fidup/lerninhalte/ordinalskala) oder nominal sein
 
 ## Formen
 
@@ -242,17 +242,17 @@ for step in range(0, 1000):
 	- Aufpunkt/Achsenschnitt $a/\theta_0$
 - **Berechnung**
 	- $b/\theta_1 = r \dfrac{s_y}{s_x}$
-		- [Korrelation](/lerninhalte/korrelationskoeffizient) zwischen $x$ und $y$: $r$
-		- [Standardabweichung](/lerninhalte/standardabweichung) von $y$: $s_y$
-		- [Standardabweichung](/lerninhalte/standardabweichung) von $x$: $s_x$
+		- [Korrelation](/open-fidup/lerninhalte/korrelationskoeffizient) zwischen $x$ und $y$: $r$
+		- [Standardabweichung](/open-fidup/lerninhalte/standardabweichung) von $y$: $s_y$
+		- [Standardabweichung](/open-fidup/lerninhalte/standardabweichung) von $x$: $s_x$
 	- $a/\theta_0 = \bar{y} - b \times \bar{x} = \bar{y} - \theta_1 \times \bar{x}$
-		- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $y$: $\bar{y}$
-		- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $x$: $\bar{x}$
+		- [Mittelwert](/open-fidup/lerninhalte/arithmetisches-mittel) von $y$: $\bar{y}$
+		- [Mittelwert](/open-fidup/lerninhalte/arithmetisches-mittel) von $x$: $\bar{x}$
 
 ### **Multiple lineare** / **Multivariate** Regression
 - Vorhersage **eines Kriteriums** anhand **mehrerer Prädikatoren** (n:1)
 - **Formel:** $\hat{y} = b_1 \times x_1 + b_2 \times x_2 + ... + b_k \times x_k + a = \theta_0+\theta_1x_2+\theta_2x_2+...+\theta_mx_m$
-- Berechnung und Deutung ähnlich wie bei der [einfachen linearen Regression](/lerninhalte/regression#einfache-lineare-regression)
+- Berechnung und Deutung ähnlich wie bei der [einfachen linearen Regression](/open-fidup/lerninhalte/regression#einfache-lineare-regression)
 
 ### **Logistische** Regression
 - Vorhersage eines **Ja/Nein-Prädikators**, Kategorische Einordnung
@@ -260,10 +260,10 @@ for step in range(0, 1000):
 - **Formel:** $f(z) = \dfrac{1}{1 + e^{{\theta_0}_1 \times x_1 + ... {\theta_0}_k \times x_k + a}}$
 - Wahrscheinlichkeit, ob abhängige Variable $z$ ist: $P(y=z|x_1,...,x_n) = \dfrac{1}{1 + e^{-({\theta_0}_1 \times x_1 + ... + {\theta_0}_k \times x_k +\theta_1)}}$
 	- Eulersche Zahl $e$ (ungef. $2,71828$) 
-- Berechnung von $\theta_0$ anhand vom [Gradientabstiegsverfahren](/lerninhalte/regression#gradientabstiegsverfahren)
-- Ableitung der Kostenfunktion identisch mit der für die [lineare Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
+- Berechnung von $\theta_0$ anhand vom [Gradientabstiegsverfahren](/open-fidup/lerninhalte/regression#gradientabstiegsverfahren)
+- Ableitung der Kostenfunktion identisch mit der für die [lineare Regression](/open-fidup/lerninhalte/regression#multiple-lineare-multivariate-regression)
 - Berechnung nach folgendem Schema:
-	- Berechnung der [multivariaten Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
+	- Berechnung der [multivariaten Regression](/open-fidup/lerninhalte/regression#multiple-lineare-multivariate-regression)
 	- Anwendung der Sigmoidfunktion auf $\hat{y}$ 
 
 ## Kostenfunktion

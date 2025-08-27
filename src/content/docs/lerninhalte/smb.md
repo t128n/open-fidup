@@ -8,7 +8,7 @@ description: "SMB ist ein Protokoll für Datei- und Druckerfreigabe in Netzwerke
 - **Funktionsweise**:
   - **Client-Server-Architektur**: SMB funktioniert in einer **Client-Server-Architektur**, bei der **Clients Anfragen an den Server senden**, um auf Dateien, Drucker und andere Ressourcen zuzugreifen.
     - **Kommunikation**: SMB verwendet ein **Anfrage-Antwort-Modell**, bei dem der Client eine Anfrage an den Server sendet, der die Anfrage verarbeitet und eine Antwort zurücksendet.
-    - **Netzwerkprotokolle**: SMB kann über verschiedene Netzwerkprotokolle wie [TCP/IP](/lerninhalte/tcp-ip-modell), NetBEUI und IPX/SPX betrieben werden, wobei [TCP/IP](/lerninhalte/tcp-ip-modell) am häufigsten verwendet wird.
+    - **Netzwerkprotokolle**: SMB kann über verschiedene Netzwerkprotokolle wie [TCP/IP](/open-fidup/lerninhalte/tcp-ip-modell), NetBEUI und IPX/SPX betrieben werden, wobei [TCP/IP](/open-fidup/lerninhalte/tcp-ip-modell) am häufigsten verwendet wird.
 
 - **Funktionen**:
   - **Dateizugriff**: Ermöglicht den Zugriff auf Dateien und Verzeichnisse auf einem Remote-Server, als wären sie lokal gespeichert.

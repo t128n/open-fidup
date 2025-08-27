@@ -6,13 +6,13 @@ description: "Wertschöpfungskette zeigt Schritte von Produktentwicklung zu Verk
 - veranschaulicht die **einzelnen Schritte**, die ein **Produkt durchlaufen** muss um mit **Mehrwert verkauft** zu werden
 
 ![[Pasted image 20240928181316.png]]
-- **Primäraktivitäten**, alle Tätigkeiten die **direkt mit der Erstellung** des Produktes/der Dienstleistung zusammenhängen (vgl. [Hauptprozesse](lerninhalte/haupt--und-teilprozesse/))
+- **Primäraktivitäten**, alle Tätigkeiten die **direkt mit der Erstellung** des Produktes/der Dienstleistung zusammenhängen (vgl. [Hauptprozesse](/open-fidup/lerninhalte/haupt--und-teilprozesse/))
 	- Eingangslogistik
 	- Operationen
 	- Marketing und Vertrieb
 	- Ausgangslogistik
 	- Kundendienst
-- **Unterstützungsaktivitäten**, alle Tätigkeiten, die die **Voraussetzung zur Ausführung** der primären Aktivitäten benötigt werden (vgl. [Teilprozesse](lerninhalte/haupt--und-teilprozesse/))
+- **Unterstützungsaktivitäten**, alle Tätigkeiten, die die **Voraussetzung zur Ausführung** der primären Aktivitäten benötigt werden (vgl. [Teilprozesse](/open-fidup/lerninhalte/haupt--und-teilprozesse/))
 	- Unternehmensinfrastruktur
 	- Personalwirtschaft
 	- Technologieentwicklung

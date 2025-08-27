@@ -10,7 +10,7 @@ Ein **Data Warehouse** ist eine zentrale Datenbank, die speziell für **Analysez
 - **Strukturierte Daten**: Data Warehouses speichern Daten in einem strukturierten Format, was die Analyse erleichtert.
 - **Bestandteile**:
   - **Zentrale Datenbank**: Speichert sowohl **aktuelle** als auch **historische Daten** für umfassende Analysen.
-  - **Daten-Integration**: Führt Daten aus **heterogenen Quellen** zusammen, indem sie kopiert und aufbereitet werden (siehe [ETL-Prozess](lerninhalte/etl)).
+  - **Daten-Integration**: Führt Daten aus **heterogenen Quellen** zusammen, indem sie kopiert und aufbereitet werden (siehe [ETL-Prozess](/open-fidup/lerninhalte/etl)).
   - **Meta-Daten**: Informationen über die Daten selbst, die den Kontext (Merkmale, Quelle) beschreiben und die Datenverwaltung erleichtern.
   - **Zugriffs-Tools**: API-Schnittstellen und Integrationen mit anderen Systemen ermöglichen den Zugriff auf die Daten.
 
