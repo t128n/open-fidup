@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import starlightGitHubAlerts from 'starlight-github-alerts';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
+import starlightGiscus from 'starlight-giscus'
 
 
 // https://astro.build/config
@@ -169,7 +170,15 @@ export default defineConfig({
 					}),
 				},
 			],
-			plugins: [starlightGitHubAlerts()],
+			plugins: [
+				starlightGitHubAlerts(),
+				starlightGiscus({
+					repo: 't128n/open-fidup',
+					repoId: 'R_kgDOPlT2yg',
+					category: 'Comments',
+					categoryId: 'DIC_kwDOPlT2ys4Cuq-X'
+				})
+			],
 		}),
 	],
 });

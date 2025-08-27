@@ -13,6 +13,7 @@
         "remark-math": "^6.0.0",
         "sharp": "^0.34.2",
         "starlight-contributor-list": "^0.3.0",
+        "starlight-giscus": "^0.7.0",
         "starlight-github-alerts": "^0.1.0",
         "typescript": "^5.9.2",
       },
@@ -934,6 +935,8 @@
     "space-separated-tokens": ["space-separated-tokens@2.0.2", "", {}, "sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q=="],
 
     "starlight-contributor-list": ["starlight-contributor-list@0.3.0", "", { "dependencies": { "@11ty/eleventy-fetch": "^4.0.1" }, "peerDependencies": { "@astrojs/starlight": ">=0.30" } }, "sha512-mkSQKRQGe0jSRWvXSo1TPvtwhCyRESLXIcnw+ruCKVql0gdguB9hfEuz8LlBtmvK3GfZLmwyH8XML1o2trRweg=="],
+
+    "starlight-giscus": ["starlight-giscus@0.7.0", "", { "peerDependencies": { "@astrojs/starlight": ">=0.35.0" } }, "sha512-5Qt4BFcP7i3QWP7BoyEEZc/VwDNLi1PYGWvT2EfiFzrwovTUfmbJ1wGCvLZYg7usVyLDMVM5ABSZAL/LwNi4iQ=="],
 
     "starlight-github-alerts": ["starlight-github-alerts@0.1.0", "", { "dependencies": { "unist-util-visit": "^5.0.0" }, "peerDependencies": { "@astrojs/starlight": ">=0.35.0" } }, "sha512-mz+btaGen5ByF1BRCMHnqkzSGXsHfvXfiPGGB9BgeczKUvbDR1PAciLYam0gN0JbZYwZSzmhJzgvcHG6gt4f/Q=="],
 
