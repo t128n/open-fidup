@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightGitHubAlerts from 'starlight-github-alerts'
 
+
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://t128n.github.io/open-fidup',
@@ -103,9 +104,4 @@ export default defineConfig({
 			plugins: [starlightGitHubAlerts()],
 		}),
 	],
-	markdown: {
-		remarkPlugins: [
-			
-		],
-	},
 });
