@@ -1,748 +1,526 @@
 ---
-title: "AP2 Themenübersicht"
-description: "Die AP2 Themenübersicht umfasst fachrichtungsübergreifende berufsprofilgebende Fertigkeiten wie Kundenberatung, Beurteilung von IT-Systemen, Entwicklung von IT-Lösungen und Qualitätssicherung. Sie deckt auch Daten- und Prozessanalyse, Programmieren von Softwarelösungen sowie Wirtschafts- und Sozialkunde ab. Dieser Leitfaden hilft bei der Vorbereitung auf die Ausbildungsprüfung."
+title: "Themenübersicht für die AP2"
+description: "Diese Übersicht für die AP2 behandelt fachübergreifende, berufsprofilgebende Kompetenzen, darunter Kundenberatung, die Bewertung von IT-Systemen, die Entwicklung von IT-Lösungen und Qualitätssicherung. Ebenfalls abgedeckt sind die Analyse von Daten und Prozessen, die Programmierung von Software sowie Wirtschafts- und Sozialkunde. Dieser Leitfaden dient der Vorbereitung auf die Abschlussprüfung."
+sidebar:
+  order: 1
 ---
 
-# Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
-## Informieren und Beraten von Kunden und Kundinnen
+> [!CAUTION]
+> Diese Themenübersicht wurde für den Winter 2024/2025 erstellt und ist möglicherweise nicht mehr aktuell.
 
-## Aktives Zuhören, Kommunikationsmodelle (z.B. Telefonkonferenzen, Chat, virtuelle Teambesprechungen), Verkaufsgespräche (Anfrage, Angebot, Auftrag), Analyse der Kundenbedürfnisse (nicht Bestandteil der schriftlichen Prüfung)
+## Übergreifende berufliche Qualifikationen und Kompetenzen
 
-### Kundenbeziehungen unter Beachtung rechtlicher Regelungen und betrieblicher Grundsätze gestalten
-- [[Customer Relationship Management]]
-- [[Gesetz gegen unlauteren Wettbewerb]]
-- [[AGB-Gesetz]]
-- [[Compliance]]
-- [[Regelkonformität]]
+### Kundenberatung und -information
 
-### Instrumente zur Datenauswertung kennen und bedarfsgerecht auswählen sowie Ergebnisse interpretieren können
+**Methoden:** Aktives Zuhören, Anwendung von Kommunikationsmodellen (z.B. bei Telefonkonferenzen, Chats, virtuellen Meetings), Führung von Verkaufsgesprächen (von der Anfrage bis zum Auftrag) und Analyse von Kundenanforderungen (nicht Teil der schriftlichen Prüfung).
+
+#### Gestaltung von Kundenbeziehungen unter Berücksichtigung rechtlicher Vorschriften und betrieblicher Prinzipien
+- [Customer Relationship Management](/lerninhalte/customer-relationship-management)
+- [Gesetz gegen unlauteren Wettbewerb](/lerninhalte/gesetz-gegen-unlauteren-wettbewerb)
+- [AGB-Gesetz](/lerninhalte/agb-gesetz)
+- [Compliance](/lerninhalte/compliance)
+- [Regelkonformität](/lerninhalte/regelkonformitaet)
+
+#### Auswahl und Anwendung von Instrumenten zur Datenauswertung sowie Interpretation der Ergebnisse
 - Präsentationstechniken
-- Grafische Darstellung ([[Diagrammarten]], Bilderbearbeitung, Videos, multimediale Aufbereitung)
+- Grafische Aufbereitung ([Diagrammarten](/lerninhalte/diagrammarten), Bildbearbeitung, Videos, multimediale Inhalte)
 - Tabellenkalkulation
-- Präsentationsprogramme
-- Programme zum Erstellen multimedialer Inhalte
-- [[Corporate Identity ]](CI)
+- Präsentationssoftware
+- Software zur Erstellung multimedialer Inhalte
+- [Corporate Identity (CI)](/lerninhalte/corporate-identity)
 
-## Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen
+### Bewertung von marktgängigen IT-Systemen und kundenspezifischen Lösungen
 
-### Chancen und Risiken der technischen Entwicklungen kennen und identifizieren können
-- [[Datensicherheit]], [[Datenschutz]]
-- Ausfallsicherheit, bspw. [[redundante Systeme]], [[selbstkonfigurierende System]]
-- [[Lebenslanges Lernen]]
-- [[Teilhabe]], [[soziale Stabiliät]]
+#### Erkennen und Identifizieren von Chancen und Risiken technologischer Entwicklungen
+- [Datensicherheit](/lerninhalte/datensicherheit), [Datenschutz](/lerninhalte/datenschutz)
+- Ausfallsicherheit, z.B. [redundante Systeme](/lerninhalte/redundante-systeme), [selbstkonfigurierende Systeme](/lerninhalte/selbstkonfigurierende-system)
+- [Lebenslanges Lernen](/lerninhalte/lebenslanges-lernen)
+- [Teilhabe](/lerninhalte/teilhabe), [soziale Stabilität](/lerninhalte/soziale-stabiliaet)
 
-### Veränderungen von Einsatzfeldern kennen und beurteilen können
-- [[Geräteklassen]]
-- [[Vernetzung]], [[Integration und Modularisierung]], [[Zentralisierung und Dezentralisierung|Zentralisierung/Dezentralisierung]], [[Embedded Systems]]
-- [[Smart Grid]]
-- [[IoT]], [[Industrie 4.0]]
-- [[KI]], [[Autonome Systeme]]
-- [[Big Data]]
-- [[Cloud-Computing|Cloud]]
-- [[Block Chain]], [[Smart Contracts]]
-- [[Augmented Reality]]
+#### Beurteilung von Veränderungen in Einsatzfeldern
+- [Geräteklassen](/lerninhalte/geraeteklassen)
+- [Vernetzung](/lerninhalte/vernetzung), [Integration und Modularisierung](/lerninhalte/integration-und-modularisierung), [Zentralisierung/Dezentralisierung](/lerninhalte/zentralisierung-und-dezentralisierung), [Embedded Systems](/lerninhalte/embedded-systems)
+- [Smart Grid](/lerninhalte/smart-grid)
+- [IoT](/lerninhalte/iot), [Industrie 4.0](/lerninhalte/industrie-4-0)
+- [KI](/lerninhalte/ki), [Autonome Systeme](/lerninhalte/autonome-systeme)
+- [Big Data](/lerninhalte/big-data)
+- [Cloud-Computing](/lerninhalte/cloud-computing)
+- [Block Chain](/lerninhalte/block-chain), [Smart Contracts](/lerninhalte/smart-contracts)
+- [Augmented Reality](/lerninhalte/augmented-reality)
 
-## Entwickeln, Erstellen und Betreuen von IT-Lösungen
+### Entwicklung, Erstellung und Betreuung von IT-Lösungen
 
-### Fehler erkennen, analysieren und beheben
-- [[Debugging]], [[Break Point]]
-- Software-Test, dynamische und statische [[Testverfahren]] (z.B. Black Box, White Box, Review, Extremwertetest)
+#### Fehlererkennung, -analyse und -behebung
+- [Debugging](/lerninhalte/debugging), [Break Point](/lerninhalte/break-point)
+- Software-Tests, dynamische und statische [Testverfahren](/lerninhalte/testverfahren) (z.B. Black Box, White Box, Review, Extremwertetest)
 - Testdaten
 - Komponententest, Funktionstest, Integrationstest
-- [[Versionsmanagement]] des Quellcodes
+- [Versionsmanagement](/lerninhalte/versionsmanagement) des Quellcodes
 
-### Algorithmen formulieren und Programme entwickeln
-- Abbildung der Kontrollstrukturen mittels [[Struktogramm]], [[Programmablaufplan|PAP]] oder [[Pseudocode]] als didaktisches Hilfsmittel
-- UML ([[UML-Anwendungsfalldiagramm|Use Case]], [[UML-Klassendiagramm|Klassendiagramm]])
-- Entwurf der Bildschirmausgabemasken ([[Softwareergonomie]], [[Barrierefreiheit]])
+#### Formulierung von Algorithmen und Entwicklung von Programmen
+- Darstellung von Kontrollstrukturen mittels [Struktogramm](/lerninhalte/struktogramm), [Programmablaufplan (PAP)](/lerninhalte/programmablaufplan) oder [Pseudocode](/lerninhalte/pseudocode)
+- UML ([Use Case-Diagramm](/lerninhalte/uml-anwendungsfalldiagramm), [Klassendiagramm](/lerninhalte/uml-klassendiagramm))
+- Entwurf von Benutzeroberflächen ([Softwareergonomie](/lerninhalte/softwareergonomie), [Barrierefreiheit](/lerninhalte/barrierefreiheit))
 
-### Datenbanken modellieren und erstellen
-- Relationale und nicht-relationale Datenbanken, NoSQL Datenbanken
-- Datentypen: Boolesche Werte, Ganzzahl, Gleitkommawerte, Währung, Datumswerte, Texte fester und variabler Länge, BLO, Geokoordinaten
-- [[Normalisierung|Normalisieren, 1. bis 3. Normalform]]
-- [[Entity Relationship Model|ER-Diagramm, Attribute, Beziehungen, Kardinalitäten]], referenzielle Integrität, Aktualisierungsweitergabe, Löschweitergabe, Primärschlüssel, Fremdschlüssel
-- Datenbankabfrage, Datenpflege
-- Tabellenstruktur (CREATE TABLE, ALTER TABLE), Index (CREATE INDEX), Manipulation (INSERT, UPDATE, DELETE), Projektion (SELECT FROM), Selektion (SELECT FROM ... WHERE) und (SELECT ... (SELECT ...)), Sortieren (ORDER BY), Gruppieren (GROUP BY, HAVING)
-- Abfrage über mehrere Tabellen (JOIN)
+#### Modellierung und Erstellung von Datenbanken
+- Relationale und nicht-relationale Datenbanken, NoSQL-Datenbanken
+- Datentypen: Boolesche Werte, Ganzzahlen, Gleitkommawerte, Währung, Datum, Text, BLOB, Geokoordinaten
+- [Normalisierung](/lerninhalte/normalisierung) (1. bis 3. Normalform)
+- [Entity-Relationship-Modell](/lerninhalte/entity-relationship-model) (Attribute, Beziehungen, Kardinalitäten), referenzielle Integrität, Weitergabe von Aktualisierungen und Löschungen, Primär- und Fremdschlüssel
+- Datenbankabfragen und Datenpflege
+- Tabellenstruktur (CREATE TABLE, ALTER TABLE), Index (CREATE INDEX), Datenmanipulation (INSERT, UPDATE, DELETE), Projektion (SELECT FROM), Selektion (WHERE), Sortierung (ORDER BY), Gruppierung (GROUP BY, HAVING)
+- Abfragen über mehrere Tabellen (JOIN)
 - Ausdrücke und Bedingungen
-- Aggregat-Funktionen, z.B. SUM
-- [[OpenData]], [[API-Schnittstellen]]
+- Aggregatfunktionen (z.B. SUM)
+- [OpenData](/lerninhalte/opendata), [API-Schnittstellen](/lerninhalte/api-schnittstellen)
 
-## Durchführen und Dokumentieren von qualitätssichernden Maßnahmen
+### Durchführung und Dokumentation von qualitätssichernden Maßnahmen
 
-### Methoden der Qualitätslenkung anwenden
-- [[Prüfverfahren|Verschiedene Prüfverfahren, z.B. Parität, Redundanz]]
-- Software-Test, dynamische und statische Testverfahren (z.B. Black Box, White Box, Review, Extremwertetest, Testdaten)
-- [[Debugging]], [[Ablaufverfolgung]]
-- [[Netzwerkanalyse]], Bandbreite, Reaktionszeiten
+#### Anwendung von Methoden der Qualitätslenkung
+- [Prüfverfahren](/lerninhalte/pruefverfahren) (z.B. Parität, Redundanz)
+- Software-Tests (dynamisch und statisch, z.B. Black Box, White Box, Review, Extremwertetest)
+- [Debugging](/lerninhalte/debugging), [Ablaufverfolgung](/lerninhalte/ablaufverfolgung)
+- [Netzwerkanalyse](/lerninhalte/netzwerkanalyse) (Bandbreite, Reaktionszeiten)
 
-### Methoden zur Messung der Zielerreichung im QM-Prozess kennen und anwenden
-- Verbesserungsprozess, [[PDCA|PDCA-Zyklus]], [[Kontinuierlicher Verbesserungsprozess|KVP]], [[KPI|Kennzahlen]]
-- Kontrollverfahren
-	- [[Hardwaretest]], z.B. Wareneingangskontrolle, mangelhafte Lieferung, Warenausgangskontrolle, [[Abnahmeprotokoll]]
-	- SW-Test, z.B. [[Testverfahren]], [[Abnahmeprotokoll]]
-- [[Soll-Ist-Vergleich]], Abweichungen erkennen und berechnen
-- [[Testdatengeneratoren]]
-- [[Testprotokolle]]
+#### Anwendung von Methoden zur Messung der Zielerreichung im QM-Prozess
+- Verbesserungsprozesse: [PDCA-Zyklus](/lerninhalte/pdca), [Kontinuierlicher Verbesserungsprozess (KVP)](/lerninhalte/kontinuierlicher-verbesserungsprozess), [Kennzahlen (KPIs)](/lerninhalte/kpi)
+- Kontrollverfahren:
+    - [Hardwaretests](/lerninhalte/hardwaretest) (z.B. Wareneingangs-/Warenausgangskontrolle, [Abnahmeprotokoll](/lerninhalte/abnahmeprotokoll))
+    - Software-Tests (z.B. [Testverfahren](/lerninhalte/testverfahren), [Abnahmeprotokoll](/lerninhalte/abnahmeprotokoll))
+- [Soll-Ist-Vergleich](/lerninhalte/soll-ist-vergleich), Erkennung und Berechnung von Abweichungen
+- [Testdatengeneratoren](/lerninhalte/testdatengeneratoren)
+- [Testprotokolle](/lerninhalte/testprotokolle)
 
-## Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz
+### Umsetzung, Integration und Prüfung von Maßnahmen zur IT-Sicherheit und zum Datenschutz
 
-### Für jede Anwendung, die verwendeten IT-Systeme und die verarbeiteten Informationen gilt: Betrachtung zu erwartender Schäden, die bei einer Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit entstehen könnten!
+**Grundsatz:** Für jede Anwendung, jedes IT-System und alle verarbeiteten Informationen müssen potenzielle Schäden bei Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit bewertet werden.
 
-### [[Schadenspotenziale von IT-Sicherheitsvorfällen ]]einschätzen und Schäden verhindern können, z.B.
+#### Einschätzung von [Schadenspotenzialen bei IT-Sicherheitsvorfällen](/lerninhalte/schadenspotenziale-von-it-sicherheitsvorfaellen) und Schadensprävention
 - Imageschaden
 - Wirtschaftlicher Schaden
 - Datenverlust
 
-### [[Präventive IT-Sicherheitsmaßnahmen]] für verschiedene Bedrohungsszenarien planen und umsetzen, z.B.
-- [[Datendiebstahl]]
-- Digitale Erpressung ([[Ransomware]])
-- Identitätsdiebstahl ([[Phishing]])
+#### Planung und Umsetzung [präventiver IT-Sicherheitsmaßnahmen](/lerninhalte/praeventive-it-sicherheitsmassnahmen) für diverse Bedrohungsszenarien
+- [Datendiebstahl](/lerninhalte/datendiebstahl)
+- Digitale Erpressung ([Ransomware](/lerninhalte/ransomware))
+- Identitätsdiebstahl ([Phishing](/lerninhalte/phishing))
 
-### Ziele zur Entwicklung von IT-Sicherheitskriterien definieren, z.B.
-- Richtschnur für Entwickler
-- Objektive Bewertung der Systeme ([[IT-Grundschutzmodell|IT-Grundschutzmodellierung]])
-- Anwender/Benutzer bei der Auswahl eines geeigneten IT-Sicherheitsproduktes unterstützen ([[Security by Design]])
+#### Definition von Zielen für die Entwicklung von IT-Sicherheitskriterien
+- Richtlinien für Entwickler
+- Objektive Systembewertung ([IT-Grundschutzmodellierung](/lerninhalte/it-grundschutzmodell))
+- Unterstützung von Anwendern bei der Produktauswahl ([Security by Design](/lerninhalte/security-by-design))
 
-### Kunden zur IT-Sicherheit beraten
+#### Beratung von Kunden zur IT-Sicherheit
 - Private Haushalte
-- Unternehmen (intern, extern)
-- Öffentliche Hand
-- Funktionale Anforderungen
-- Qualitätsanforderungen Anforderungen
-- Rahmenbedingungen
-	- Technologisch
-	- Organisatorisch
-	- Rechtlich
-	- Ethisch
+- Unternehmen
+- Öffentlicher Sektor
+- Funktionale und qualitative Anforderungen
+- Rahmenbedingungen (technologisch, organisatorisch, rechtlich, ethisch)
 - Risikoanalyse
 
-## IT-Sicherheitsmaßnahmen mit verschiedenen Tools überprüfen, z.B.
-- [[Penetrations-Test]]
-- [[Device Security Check]]
-- [[Identity & Access Management]]
-- [[Schwachstellenanalyse]] (z.B. Ende-zu-Ende-Verschlüsselung)
+#### Überprüfung von IT-Sicherheitsmaßnahmen mit verschiedenen Werkzeugen
+- [Penetrations-Test](/lerninhalte/penetrations-test)
+- [Device Security Check](/lerninhalte/device-security-check)
+- [Identity & Access Management](/lerninhalte/identity-&-access-management)
+- [Schwachstellenanalyse](/lerninhalte/schwachstellenanalyse) (z.B. Ende-zu-Ende-Verschlüsselung)
 
-## Technische organisatorische Maßnahmen ([[TOM]]) kontrollieren
-- Zutrittskontrolle, z.B.
-	- Alarmanlage
-	- Videoüberwachung
-	- Besucherausweise
-- Zugangskontrolle, z.B.
-	- Bildschirmschoner mit Passwortschutz
-	- Biometrische Verfahren
-	- Magnet- oder Chipkarte
-- Zugriffskontrolle, z.B.
-	- Verschlüsselung von Datenträgern
-	- Löschung von Datenträgern
-	- User/Rollenkonzept
-- Log management
-- Compliance Reports
+#### Kontrolle von [technisch-organisatorischen Maßnahmen (TOM)](/lerninhalte/tom)
+- Zutrittskontrolle (z.B. Alarmanlage, Videoüberwachung)
+- Zugangskontrolle (z.B. passwortgeschützte Bildschirmschoner, Biometrie)
+- Zugriffskontrolle (z.B. Verschlüsselung, Rollenkonzepte)
+- Log-Management
+- Compliance-Reports
 
-# Daten- und Prozessanalyse
-## Betreiben von IT-Systemen
+## Daten- und Prozessanalyse
 
-### Schichtenmodelle, z.B. [[OSI-Modell|OSI]], [[TCP-IP-Modell|TCP/IP]] benennen und zuordnen können
-- [[IP|IPv4, IPv6]]
-- [[MAC]]
-- [[TCP-IP-Modell#^b4a03f|Routing]]
-- [[Switching]]
-- [[ARP]]
+### Betrieb von IT-Systemen
 
-### Netzwerkkomponenten vergleichen und analysieren können
+#### Kenntnis und Zuordnung von Schichtenmodellen ([OSI](/lerninhalte/osi-modell), [TCP/IP](/lerninhalte/tcp-ip-modell))
+- [IPv4, IPv6](/lerninhalte/ip)
+- [MAC](/lerninhalte/mac)
+- [Routing](/lerninhalte/tcp-ip-modell#^b4a03f)
+- [Switching](/lerninhalte/switching)
+- [ARP](/lerninhalte/arp)
 
-### [[Netzwerkkonzepte]] (-topologien, -infrastrukturen) benennen und charakterisieren
-- Ausdehnung
+#### Vergleich und Analyse von Netzwerkkomponenten
+
+#### Benennung und Charakterisierung von [Netzwerkkonzepten](/lerninhalte/netzwerkkonzepte)
+- Ausdehnung (LAN/WAN/MAN/GAN)
 - Datenübertragungsrate
-- Verschlüsselung (preshared key, RADIUS, ...)
-- LAN/WAN/MAN/GAN
-- Strukturierte Verkabelung
-- VLAN
-- Drahtlos: PAN/WLAN
+- Verschlüsselung (Preshared Key, RADIUS)
+- Strukturierte Verkabelung, VLAN
+- Drahtlos-Technologien (PAN/WLAN, Bluetooth)
 - Sicherheitskonzepte und -risiken
-- Bluetooth
 
-### [[Peer-To-Peer]] bzw. [[Client-Server]]-Konzepte vergleichen und hinsichtlich ihres Einsatzes bewerten können
-- ([[Netzwerktopologie]] (FI DV/SI))
-- [[Netzwerkplan]]
+#### Vergleich und Bewertung von [Peer-To-Peer](/lerninhalte/peer-to-peer)- und [Client-Server](/lerninhalte/client-server)-Konzepten
+- ([Netzwerktopologie](/lerninhalte/netzwerktopologie))
+- [Netzwerkplan](/lerninhalte/netzwerkplan)
 
-### Übertragungsprotokolle erläutern und zielgerichtet einsetzen können
-- [[TCP-UDP|TCP/UDP]]
-- [[HTTPS]]
+#### Erläuterung und Einsatz von Übertragungsprotokollen
+- [TCP/UDP](/lerninhalte/tcp-udp)
+- [HTTPS](/lerninhalte/https)
 
-### Standortübergreifende und -unabhängige Kommunikation situationsgerecht auswählen und einrichten können
-- [[VPN-Modelle]]
-- [[Tunneling]]
-- [[IPsec]]
+#### Auswahl und Einrichtung standortübergreifender Kommunikation
+- [VPN-Modelle](/lerninhalte/vpn-modelle)
+- [Tunneling](/lerninhalte/tunneling)
+- [IPsec](/lerninhalte/ipsec)
 
-### Netzwerkrelevante Dienste administrieren
-- [[DNS]]
-- [[DHCP]]
-- [[Proxy]]
+#### Administration netzwerkrelevanter Dienste
+- [DNS](/lerninhalte/dns)
+- [DHCP](/lerninhalte/dhcp)
+- [Proxy](/lerninhalte/proxy)
 
-### Anwendungsdienste sicherstellen können
-- Echtzeitkommunikation sicherstellen können
-- [[Mailserver]]
-- [[Webserver]]
-- [[Groupware]]
-- [[DBMS|Datenbanken]]
+#### Sicherstellung von Anwendungsdiensten
+- Echtzeitkommunikation
+- [Mailserver](/lerninhalte/mailserver)
+- [Webserver](/lerninhalte/webserver)
+- [Groupware](/lerninhalte/groupware)
+- [Datenbanken (DBMS)](/lerninhalte/dbms)
 
-### Risiken identifizieren, Maßnahmen planen und Ausfallwahrscheinlichkeiten berücksichtigen
-- [[PDCA|PDCA-Zyklus]]
-- [[MTBF]]
-- [[ANR]]
-- [[Disaster Recovery|Notfallkonzept]]
+#### Risikoidentifikation, Maßnahmenplanung und Berücksichtigung von Ausfallwahrscheinlichkeiten
+- [PDCA-Zyklus](/lerninhalte/pdca)
+- [MTBF](/lerninhalte/mtbf)
+- [ANR](/lerninhalte/anr)
+- [Notfallkonzept (Disaster Recovery)](/lerninhalte/disaster-recovery)
 
-### Maßnahmen zur Sicherstellung des Betriebes beurteilen können
-- Elektrotechnisch ([[USV]])
-- Hardwaretechnisch ([[Hardware-Redundanzen|Redundanzen]]), [[RAID]]
-- Softwaretechnisch ([[Backup]], ...)
+#### Beurteilung von Maßnahmen zur Betriebssicherstellung
+- Elektrotechnik ([USV](/lerninhalte/usv))
+- Hardware ([Redundanzen](/lerninhalte/hardware-redundanzen), [RAID](/lerninhalte/raid))
+- Software ([Backup](/lerninhalte/backup))
 
-### Monitoringsysteme anwenden und Ergebnisse interpretieren können
-- [[SNMP]], [[S.M.A.R.T.]] u. Ä.
-- [[Systemlastanalyse]]
-- [[Predictive Maintenance]]
-- [[Load Balancing]]
-- [[Incident Management]] (Ticketsystem)
+#### Anwendung und Interpretation von Monitoringsystemen
+- [SNMP](/lerninhalte/snmp), [S.M.A.R.T.](/lerninhalte/s.m.a.r.t.)
+- [Systemlastanalyse](/lerninhalte/systemlastanalyse)
+- [Predictive Maintenance](/lerninhalte/predictive-maintenance)
+- [Load Balancing](/lerninhalte/load-balancing)
+- [Incident Management](/lerninhalte/incident-management) (Ticketsystem)
 
-### Monitoringergebnisse analyseiren und korrektive Maßnahmen bestimmen können
-- Standard Operation Procedures ([[SOP]])
-- Service Level Agreement ([[SLA]]), Service Level 1 -3
+#### Analyse von Monitoringergebnissen und Ableitung korrektiver Maßnahmen
+- Standard Operation Procedures ([SOP](/lerninhalte/sop))
+- Service Level Agreement ([SLA](/lerninhalte/sla)), Service Level 1-3
 
-### Erstellen und Erweitern von Handbüchern für Benutzer und Systembetreuer 
-(Schwerpunkt der praktischen Prüfung)
+#### Erstellung und Erweiterung von Benutzer- und Systemhandbüchern (Praxisprüfungsschwerpunkt)
 
-## Inbetriebnehmen von [[Speicherlösungen]]
+### Inbetriebnahme von [Speicherlösungen](/lerninhalte/speicherloesungen)
 
-### Technische und organisatorische Maßnahmen ([[TOM]])
+#### [Technische und organisatorische Maßnahmen (TOM)](/lerninhalte/tom)
 - Berechtigungskonzepte, Organisationsstrukturen (Zugang, Zutritt, Zugriff)
 
-### Möglichkeiten der [[Hardwaretechnischen Absicherung]] benennen
-- Zugangskontrolle (z.B. Gebäude, Serverraum, Schrank, ...)
+#### Benennung von Möglichkeiten zur [hardwaretechnischen Absicherung](/lerninhalte/hardwaretechnischen-absicherung)
+- Zugangskontrolle (Gebäude, Serverraum, etc.)
 
-### Möglichkeiten der [[Softwaretechnischen Absicherung]] implementieren können
+#### Implementierung von Möglichkeiten zur [softwaretechnischen Absicherung](/lerninhalte/softwaretechnischen-absicherung)
 - User-Management
 - Firewall/Webfilter
 - Port-Security
 - Verschlüsselung (TPM)
 
-### Verschiedene Service- und Liefermodelle benennen und bedarfsorientiert auswählen können
-- [[Fog-Computing]], [[Cloud-Computing|Cloud]], ...
-- [[Cloud-Dienste|SaaS, XaaS]], ...
+#### Benennung und Auswahl verschiedener Service- und Liefermodelle
+- [Fog-Computing](/lerninhalte/fog-computing), [Cloud-Computing](/lerninhalte/cloud-computing)
+- [Cloud-Dienste (SaaS, XaaS)](/lerninhalte/cloud-dienste)
 
-### Daten heterogener Quellen zusammenführen
-- [[Data Warehouse]]
-- [[Data Lake]]
-### Netzwerkkomponenten und -protokolle beschreiben können, z.B.
-- [[iSCSI]]
-- [[SMB]]
-- [[NFS]]
-- [[Ethernet]], [[Fibre Channel]]
+#### Zusammenführung heterogener Datenquellen
+- [Data Warehouse](/lerninhalte/data-warehouse)
+- [Data Lake](/lerninhalte/data-lake)
 
-## Programmieren von Softwarelösungen
+#### Beschreibung von Netzwerkkomponenten und -protokollen
+- [iSCSI](/lerninhalte/iscsi)
+- [SMB](/lerninhalte/smb)
+- [NFS](/lerninhalte/nfs)
+- [Ethernet](/lerninhalte/ethernet), [Fibre Channel](/lerninhalte/fibre-channel)
 
-### [[Software-Anforderungen|Anforderungen]] kundengerecht erfassen
-- Änderbarkeit
-- Benutzbarkeit
-- Effizienz
-- Funktionalität
-- Übertragbarkeit
-- Zuverlässigkeit
-- Normen anwenden
+### Programmierung von Softwarelösungen
 
-### Planen mit geeigneten Modellen
-- [[Entity Relationship Model|ERM]]
-- [[UML-Klassendiagramm]]
-- [[Mock-up]]
-- [[UML-Aktivitätsdiagramm]]
-- [[UML-Anwendungsfalldiagramm]] (FI AE, DP)
-- [[UML-Sequenzdiagramm ]](FI AE, DP)
-- [[UML-Zustandsdiagramm]] (FI AE, DP)
+#### Kundengerechte Erfassung von [Software-Anforderungen](/lerninhalte/software-anforderungen)
+- Änderbarkeit, Benutzbarkeit, Effizienz, Funktionalität, Übertragbarkeit, Zuverlässigkeit
+- Anwendung von Normen
 
-### Festlegen von Schnittstellen und vorhandene Schnittstellen nutzen
-- [[Datenaustauschformate]] (xml, json, ...)
-- Datenbankverbindung implementieren
-- [[SQL]]
-- [[API-Schnittstellen|API]]
+#### Planung mit geeigneten Modellen
+- [Entity-Relationship-Modell (ERM)](/lerninhalte/entity-relationship-model)
+- [UML-Klassendiagramm](/lerninhalte/uml-klassendiagramm)
+- [Mock-up](/lerninhalte/mock-up)
+- [UML-Aktivitätsdiagramm](/lerninhalte/uml-aktivitaetsdiagramm)
+- [UML-Anwendungsfalldiagramm](/lerninhalte/uml-anwendungsfalldiagramm)
+- [UML-Sequenzdiagramm](/lerninhalte/uml-sequenzdiagramm)
+- [UML-Zustandsdiagramm](/lerninhalte/uml-zustandsdiagramm)
 
-### Situationsgerechte Auswahl einer passenden [[Programmiersprachen|Programmiersprache]] begründen können
-- Performance, Speicherverbrauch
-- Portabilität
-- Framework/Bibliotheken
-- Einsatz von integrierten Entwicklungsumgebungen
-- Aufwand
-- Know-how/Fachkenntnis
+#### Definition und Nutzung von Schnittstellen
+- [Datenaustauschformate](/lerninhalte/datenaustauschformate) (XML, JSON, etc.)
+- Implementierung von Datenbankverbindungen
+- [SQL](/lerninhalte/sql)
+- [API-Schnittstellen](/lerninhalte/api-schnittstellen)
 
-### Algorithmen in einer Programmiersprache darstellen
-Die Darstellung soll in allgemein verständlich verständlichen Programm- oder [[Pseudocode]] erfolgen. Der Code soll für Dritte, ohne Kenntnis der verwendeten Programmiersprache, lesbar sein. Der Code muss nicht in der geschriebenen Sprache kompilierbar bzw. ausführbar sein.
+#### Begründung der Auswahl einer passenden [Programmiersprache](/lerninhalte/programmiersprachen)
+- Performance, Speicherverbrauch, Portabilität, Frameworks/Bibliotheken, IDEs, Aufwand, Know-how
 
-### [[Wiederkehrende Systemabläufe mithilfe von Skripten automatisieren und überwachen können]]
-- [[Shellprogrammierung]] (z.B. [[PowerShell]], [[Bash]])
-- [[Skriptprogrammierung]] (z.B. [[Python]], ...)
+#### Darstellung von Algorithmen in einer Programmiersprache
+Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/lerninhalte/pseudocode)) und muss nicht kompilierbar sein.
 
-## Analysieren von Arbeits- und Geschäftsprozessen
+#### [Automatisierung und Überwachung wiederkehrender Systemabläufe mittels Skripten](/lerninhalte/wiederkehrende-systemablaeufe-mithilfe-von-skripten-automatisieren-und-ueberwachen-koennen)
+- [Shellprogrammierung](/lerninhalte/shellprogrammierung) ([PowerShell](/lerninhalte/powershell), [Bash](/lerninhalte/bash))
+- [Skriptprogrammierung](/lerninhalte/skriptprogrammierung) ([Python](/lerninhalte/python))
 
-### Prozesse identifzieren
-- Mit Kunden, Lieferanten, beteiligten Bereichen, Mitarbeitern
-- [[Prozessschnittstellen|Schnittstellen zu anderen Prozessen]]
-- [[KPI|Leistungs-]], [[Prozessindikatoren]]
-- Verfahren: [[Ist-Analyse|Methoden der Ist-Analyse]]
+### Analyse von Arbeits- und Geschäftsprozessen
 
-### Prozesse im Unternehmen einordnen können
-- [[Aufbauorganisation]]
-- [[Ablauforganisation]]
+#### Identifikation von Prozessen
+- Interaktion mit Kunden, Lieferanten, beteiligten Bereichen
+- [Schnittstellen zu anderen Prozessen](/lerninhalte/prozessschnittstellen)
+- Leistungs- und [Prozessindikatoren](/lerninhalte/prozessindikatoren)
+- [Methoden der Ist-Analyse](/lerninhalte/ist-analyse)
 
-### Prozesse beschreiben können z.B.
-- [[Prozesslandkarten]]
-- [[Flussdiagramm|Flussdiagramme]]
-- [[eEPK]]
-- [[UML-Aktivitätsdiagramm]]
-- [[Flussdiagramm|Prozessablaufdiagramm]]
+#### Einordnung von Prozessen im Unternehmen
+- [Aufbauorganisation](/lerninhalte/aufbauorganisation)
+- [Ablauforganisation](/lerninhalte/ablauforganisation)
 
-### Prozesse bewerten
-- [[Schwachstellenanalyse]] zur Identifizierung und Strukturierung von Problemen, z.B.
-	- [[FMEA|FMEA (Fehlermöglichkeits- und Einflussanalyse]] 
-	- [[Ishikawa-Diagramm|Ursache-Wirkungsdiagramm (Ishikawa-Diagramm = Fischgräten-Diagramm)]]
-- [[ABC-Analyse|ABC-Analyse zur Priorisierung von Schwerpunkten]]
-- [[Nutzwertanalyse|Nutzwertanalyse zum Vergleich mehrerer Varianten]]
-- [[Polaritätsprofil|Polaritätsprofil zum Vergleichen mehrerer Varianten]]
-- [[Wertschöpfungskette]]
+#### Beschreibung von Prozessen
+- [Prozesslandkarten](/lerninhalte/prozesslandkarten)
+- [Flussdiagramme](/lerninhalte/flussdiagramm)
+- [eEPK](/lerninhalte/eepk)
+- [UML-Aktivitätsdiagramm](/lerninhalte/uml-aktivitaetsdiagramm)
 
-### Prozesse modifizieren können
+#### Bewertung von Prozessen
+- Schwachstellenanalyse:
+    - [FMEA (Fehlermöglichkeits- und Einflussanalyse)](/lerninhalte/fmea)
+    - [Ursache-Wirkungs-Diagramm (Ishikawa)](/lerninhalte/ishikawa-diagramm)
+- Priorisierung: [ABC-Analyse](/lerninhalte/abc-analyse)
+- Variantenvergleich: [Nutzwertanalyse](/lerninhalte/nutzwertanalyse), [Polaritätsprofil](/lerninhalte/polaritaetsprofil)
+- [Wertschöpfungskette](/lerninhalte/wertschoepfungskette)
+
+#### Modifikation und Einführung von Prozessen
 - Programmiertechnische Umsetzung
+- Unterstützung des [Roll-outs des Sollprozesses](/lerninhalte/roll-out-des-sollprozesses)
 
-### Prozesse einführen können
-- Unterstützung des [[Roll-out des Sollprozesses]]
+#### Steuerung von Prozessen
+- [Kennzahlen (KPIs)](/lerninhalte/kpi)
+- [Benchmarking](/lerninhalte/benchmarking)
+- [Wissensmanagement](/lerninhalte/wissensmanagement)
 
-### Prozesse steuern können aufgrund von
-- [[KPI|Kennzahlen]] 
-- [[Benchmarking]]
-- [[Wissensmanagement]]
+#### Beschreibung von Managementansätzen zur Prozessorientierung
+- [Kaizen](/lerninhalte/kaizen) / [Kontinuierlicher Verbesserungsprozess](/lerninhalte/kontinuierlicher-verbesserungsprozess)
+- [Lean Management](/lerninhalte/lean-management)
+- [Total Quality Management (TQM)](/lerninhalte/total-quality-management)
 
-### Managementansätze, die die Prozessorientierung unterstützen, in ihren Auswirkungen beschreiben können
-- [[Kaizen]]/[[Kontinuierlicher Verbesserungsprozess]]
-- [[Lean Management]]
-- [[Total Quality Management|Total Quality Management (TQM)]]
+#### Anwendung von Konzepten zur Prozessoptimierung
+- [Six Sigma](/lerninhalte/six-sigma) mit [DMAIC-Zyklus](/lerninhalte/six-sigma#dmaic-zyklus)
+- Agile und hybride Konzepte ([SCRUM](/lerninhalte/scrum), [PRINCE2](/lerninhalte/prince2))
 
-### Konzepte zur Prozessoptimierung anwenden können
-- Basiswissen zu
-	- [[Six Sigma]] mit
-		- [[Six Sigma#DMAIC-Zyklus|DMAIC (Define, Measure, Analyze, Improve, Control)]]
-	- Agile und hybride Konzepte, z.B.
-		- [[SCRUM]]
-		- [[PRINCE2]]
+### Analyse von Datenquellen und Bereitstellung von Daten
 
-## Analysieren von Datenquellen und Bereitstellen von Daten
+#### Identifikation prozessrelevanter Daten
+- [Data Mining](/lerninhalte/data-mining) ([CRISP-DM](/lerninhalte/crisp-dm))
 
-### Für einen Prozess relevante Daten identifizieren können
-- [[Data Mining]] ([[CRISP-DM]])
+#### Zusammenführung von Daten aus unterschiedlichen Quellen und Formaten
+- [Schnittstellenentwicklung](/lerninhalte/api-schnittstellen)
+- Formate ([XML](/lerninhalte/datenaustauschformate), [JSON](/lerninhalte/datenaustauschformate), [CSV](/lerninhalte/datenaustauschformate))
 
-### Daten aus unterschiedlichen Systemen und unterschiedlichen Formaten zusammenführen können
-- [[API-Schnittstellen|Schnittstellenentwicklung]]
-- Formate, z.B.
-	- [[Datenaustauschformate|XML]]
-	- [[Datenaustauschformate|JSON]]
-	- [[Datenaustauschformate|CSV]]
+#### Speicherung und Verarbeitung von Daten in Datenbanken
+- [Datenbankarchitektur](/lerninhalte/datenbankarchitektur), [3-Ebenen-Modell](/lerninhalte/ansi-sparc-architektur)
+- Auswahl eines [DBMS](/lerninhalte/dbms): [NoSQL vs. SQL](/lerninhalte/no-sql-sql-vergleich)
+- Datenmodellierung ([ERM](/lerninhalte/entity-relationship-model), [UML-Klassendiagramm](/lerninhalte/uml-klassendiagramm), [Relationenmodell](/lerninhalte/relationenmodell))
+- Anwendung von SQL-Befehlen
 
-## Daten in einer Datenbank speichern und verarbeiten können
-- [[Datenbankarchitektur]], [[ANSI-SPARC-Architektur|3-Ebenen-Modell]]
-- Auswahl eines geeigneten [[DBMS]]: [[No-SQL]] vs. [[SQL]]
-- Datenmodellierung, z.B. [[Entity Relationship Model]], [[UML-Klassendiagramm]], [[Relationenmodell]]
-- SQL-Befehle anwenden können
+#### Klassifizierung von Daten
 
-### Daten klassifizieren können
+#### Kenntnis rechtlicher Grundlagen
+- [Urheberrecht](/lerninhalte/urheberrecht)
+- [Datenschutz](/lerninhalte/datenschutz)
+- [Mitbestimmungsrechte laut Betriebsverfassungsgesetz](/lerninhalte/mitbestimmungsrechte-laut-betriebsverfassungsgesetz)
+- [Patentrecht](/lerninhalte/patentrecht)
 
-### Rechtliche Grundlagen erkennen können
-- [[Urheberrecht]]
-- [[Datenschutz]]
-- [[Mitbestimmungsrechte laut Betriebsverfassungsgesetz]]
-- [[Patentrecht]]
+#### Einbindung interner/externer Stellen bei Unklarheiten
 
-### Einbinden unterschiedlicher interner/externer Stellen/Ansprechpartner bei Zweifelsfällen
+#### Diskussion ethischer Konsequenzen der Datennutzung
 
-### Ethische Konsequenzen aus der Nutzung und Verknüpfung von Daten diskutieren können
+#### Realisierung der [technischen Verfügbarkeit von Daten](/lerninhalte/technische-verfuegbarkeit-von-daten)
 
-### [[Technische Verfügbarkeit von Daten]] realisieren können
+#### Speicherung von Daten auf einer einheitlichen Plattform
 
-### Daten auf einer einheitlichen Plattform speichern
+### Nutzung von Daten zur Optimierung von Prozessen und Geschäftsmodellen
 
-## Nutzen der Daten zur Optimierung von Arbeits- und Geschäftsprozessen sowie zur Optimierung digitaler Geschäftsmodelle
+#### Aufbereitung von Daten zur Feststellung des Ist-Zustandes
+- Überprüfung auf Vollständigkeit
+- Beurteilung der Datenmengen (Stichprobengröße)
 
-### Daten zur Feststellung des Istzustandes aufbereiten, Reproduzierbarkeit/Wiederholbarkeit von Daten
-- Vollständigkeit überprüfen
-- Datenmengen im Hinblick auf die Verwendung beurteilen (Stichprobengröße)
+#### Feststellung von Defiziten in der [Datenqualität](/lerninhalte/datenqualitaet)
+- Messung auf Vollständigkeit, Korrektheit, Aktualität, Widerspruchsfreiheit
 
-### Defizite gegenüber dem Sollzustand in der [[Datenqualität]] anhand von Merkmalen feststellen
-- Messung auf Vollständigkeit, Korrektheit, Aktualität, Historisierung, Widerspruchsfreiheit, z.B. defect per million opportunities
+#### Ableitung von Maßnahmen zur Verbesserung der Datenqualität
+- [Normalisierung](/lerninhalte/normalisierung)
+- [Plausibilitätskontrollen](/lerninhalte/plausibilitaetskontrollen)
+- Kenntnis verschiedener [Datenbanksysteme](/lerninhalte/dbms) ([relationale DB](/lerninhalte/sql-datenbanken), [No-SQL DB](/lerninhalte/no-sql))
+- [Data Warehouse](/lerninhalte/data-warehouse)
+- Berechnung von [Lagemaßen](/lerninhalte/lagemasse) und [Streumaßen](/lerninhalte/streumasse)
+- [Arithmetisches Mittel](/lerninhalte/arithmetisches-mittel)
+- [Median](/lerninhalte/median)
+- [Standardabweichung](/lerninhalte/standardabweichung)
+- [Verteilung](/lerninhalte/verteilung)
 
-### Maßnahmen zur Verbesserung der Datenqualität ableiten
-- [[Normalisierung|Normalisierung durchführen]]
-- [[Plausibilitätskontrollen]]
-- Merkmale verschiedener [[DBMS|Datenbanksysteme]] kennen
-- [[DBMS|Datenbanksysteme]] (z.B. relationale DB, No-SQL DB)
-- [[Data Warehouse]]
-- [[Lagemaße]] und [[Streumaße]] berechnen können
-- [[Arithmetisches Mittel]]
-- [[Median]]
-- [[Standardabweichung]]
-- [[Verteilung]]
-
-### Angemessene grafische Repräsentation für Analyseergebnisse auswählen z.B.
+#### Auswahl angemessener grafischer Darstellungen für Analyseergebnisse
 - Tabellen, Texte
-- [[Diagrammarten|Diagramme]]
+- [Diagramme](/lerninhalte/diagrammarten)
 - Dashboards
-- [[Verteilung#Normalverteilung|Normalverteilung]]
+- [Normalverteilung](/lerninhalte/verteilung#normalverteilung)
 
-### Mathematische Vorhersagemodelle anwenden
-- [[Wahrscheinlichkeiten]]/[[Erwartungswerte]]
-- [[Clustering]]/[[Assoziation]]/[[Regression]]/[[Klassifikation]]
+#### Anwendung mathematischer Vorhersagemodelle
+- [Wahrscheinlichkeiten](/lerninhalte/wahrscheinlichkeiten) / [Erwartungswerte](/lerninhalte/erwartungswerte)
+- [Clustering](/lerninhalte/clustering) / [Assoziation](/lerninhalte/assoziation) / [Regression](/lerninhalte/regression) / [Klassifikation](/lerninhalte/klassifikation)
 
-### Grundlagen des maschinellen Lernens anwenden können
-- [[K-Nearest Neighbor]]/[[Entscheidungsbaum|Decision Tree]] (z.B. [[ID3]])
-- [[Evolutionäre Algorithmen]]
-- [[Entropie und Informationsgewinn|Entropy, Information gain]]
+#### Anwendung der Grundlagen des maschinellen Lernens
+- [K-Nearest Neighbor](/lerninhalte/k-nearest-neighbor) / [Entscheidungsbaum](/lerninhalte/entscheidungsbaum) ([ID3](/lerninhalte/id3))
+- [Evolutionäre Algorithmen](/lerninhalte/evolutionaere-algorithmen)
+- [Entropie und Informationsgewinn](/lerninhalte/entropie-und-informationsgewinn)
 
-### Verfahren einordnen und weitere Konzepte kennen
-- [[Neural Network|Neuronales Netz]]
-- [[Support Vector Machine]]
-- [[Überwachtes und nicht-überwachtes Lernen]]
-### Format für zielgruppengerechte Berichterstattung erarbeiten
+#### Einordnung von Verfahren und Kenntnis weiterer Konzepte
+- [Neuronales Netz](/lerninhalte/neural-network)
+- [Support Vector Machine](/lerninhalte/support-vector-machine)
+- [Überwachtes und nicht-überwachtes Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
+
+#### Erarbeitung eines Formats für die zielgruppengerechte Berichterstattung
 - Zielgruppen, Stakeholder
 
-### Kennzahlen ableiten und für ein Monitoringsystem vorschlagen
+#### Ableitung von Kennzahlen für ein Monitoringsystem
 
+### Umsetzung des Datenschutzes und der [Schutzziele der Datensicherheit](/lerninhalte/schutz--und-gewaehrleistungsziele-der-informationssicherheit)
 
-## Umsetzen des Datenschutzes und der [[Schutz- und Gewährleistungsziele der Informationssicherheit|Schutzziele der Datensicherheit]]
+#### Erkennung und Zuordnung von Akteuren/Rollen im [Datenschutz](/lerninhalte/datenschutz)
+- Betroffene Personen, Verantwortliche, Auftragsverarbeiter, Empfänger, Dritte, Aufsichtsbehörden
 
-### Akteure/Rollen im [[Datenschutz]] erkennen und ihre Beziehung untereinander zuordnen können
-- Betroffene Personen
-- Verantwortliche
-- Auftragsverarbeitende
-- Empfänger
-- Dritte
-- Aufsichtsbehörnde
+#### Beschreibung grundlegender [Schutz- und Gewährleistungsziele der Informationssicherheit](/lerninhalte/schutz--und-gewaehrleistungsziele-der-informationssicherheit)
+- Verfügbarkeit, Integrität, Vertraulichkeit, Datenminimierung, Transparenz, Intervenierbarkeit, Nichtverkettung
 
-### Grundlegende [[Schutz- und Gewährleistungsziele der Informationssicherheit]] beschreiben können
-- Verfügbarkeit
-- Integrität
-- Vertraulichkeit
-- Datenminimierung
-- Transparenz
-- Intervenierbarkeit
-- Nichtverkettung
+#### Auswahl von Datenfeldern nach Notwendigkeit
+- [Datensparsamkeit](/lerninhalte/datensparsamkeit)
+- [Datensorgfalt](/lerninhalte/datensorgfalt)
 
-### Auswahl von Datenfeldern, die für eine Zweckerreichung zwingend benötigt werden
-- [[Datensparsamkeit]]
-- [[Datensorgfalt]]
+#### Auswahl und Nutzung von Datenverschlüsselungsverfahren
+- Auswahl der [Verschlüsselungsart](/lerninhalte/verschluesselungsart) (symmetrisch, asymmetrisch, hybrid)
+- Auswahl des [Hashing- und Verschlüsselungsverfahrens](/lerninhalte/hashing--und-verschluesselungsverfahren) (z.B. MD5, SHA256)
+- Notwendigkeit und Umsetzung der [Digitalen Signatur](/lerninhalte/digitale-signatur)
+- Anwendungsszenarien für [Hashing](/lerninhalte/hashing)
 
-### Verfahren zur Datenverschlüsselung auswählen und nutzen
-- Auswahl der [[Verschlüsselungsart]] (synchron, asynchron, hybrid) in Abhängigkeit von Datenmenge und Schutzbedarf
-- Auswahl des konkreten [[Hashing- und Verschlüsselungsverfahren]] (z.B. MD5, SHA256, ...)
-- Notwendigkeit einer [[Digitale Signatur|Signierung]] und praktische Umsetzung
-- Anwendungsszenarien für [[Hashing]]
+## Wirtschafts- und Sozialkunde
 
-# Wirtschafts- und Sozialkunde
+### Berufsausbildung, Arbeits- und Tarifrecht
 
-## Berufsausbildung sowie Arbeits- und Tarifrecht
+#### Rechte und Pflichten in der Ausbildung
+- Inhalte des Ausbildungsvertrages (Partner, Arbeitszeit, Probezeit, Vergütung, Urlaub, Kündigung)
+- Konsequenzen bei Nichteinhaltung, Beendigung, Arbeitszeugnis
 
-### Rechte und Pflichten des Auszubildenden und des Ausbildenden
-- Inhalte des Ausbildungsvertrages
-	- Vertragspartner
-	- Dauer der täglichen Arbeitszeit
-	- Probezeit
-	- Vergütungs- und Urlaubsregelungen
-	- Kündigungsbedingungen
-	- Folgen bei Nichteinhaltung der Rechte und Pflichten
-	- Geltungsbereich
-	- Beendigung
-	- Arbeitszeugnis
-	- Prüfungen, Abschluss
+#### Vorteile des dualen Ausbildungssystems
+- Verschiedene Lernorte und Zusammenwirken von Betrieb und Berufsschule
 
-### Vorteile der Ausbildung im dualen System der Berufsbildung
-- Unterschiedliche Lernorte, auf regionaler Ebene
-- Zusammenwirken von Betrieb und Berufsschule
+#### Aufgaben der Akteure in der Berufsausbildung
+- Ausbildungsbetrieb, Berufsschule, Kammern (IHK/HWK)
+- Berufsbildungsgesetz, Ausbildungsordnung, Schulpflicht
 
-### Aufgaben von Ausbildungsbetrieb, Berufsschule und Kammern im Rahmen der Berufsausbildung
-- Berufsbildungsgesetz, Ausbildungsordnung
-- Aufgaben der Berufsschule, Berufsschulpflicht
-- Aufgaben der Kammern
+#### Ausbildungsrahmenplan und betrieblicher Ausbildungsplan
+- Sachliche und zeitliche Gliederung, Zuordnung von Lernzielen
 
-### Ausbildungsrahmenplan, sachliche und zeitliche Gliederung
-- Rahmenlehrplan
-- Betrieblicher Ausbildungsplan
-- Zuordnung der Lernziele des Ausbildungsrahmenplans zu den Inhalten des betrieblichen Ausbildungsplans unter Berücksichtigung betrieblicher Besonderheiten
-- Einsatz und Versetzungsplan im Betrieb
-- Rahmenplan für die berufsschulische Ausbildung
+#### Grundsätze des Individual- und Kollektivarbeitsrechts
+- Arbeitnehmerrechte und -pflichten
+- Wichtige Gesetze (BBiG, ArbSchG, KSchG, JArbSchG, ArbZG, BetrVG)
+- Sozialversicherung, Lohnsteuer
 
-### Grundsätze des Individual- und Kollektivarbeitsrechtes
-- Kenntnis der Arbeitnehmerrechte und -pflichten im Betrieb
-- Kenntnis der wesentlichen Bestimmungen aus den relevanten Rechtsgebieten
-	- Berufsbildungsgesetz
-	- Arbeitsschutzgesetz
-	- Bundeselterngeld- und Elternzeitgesetz
-	- Allgemeines Gleichbehandlungsgesetz
-	- Kündigungsschutzgesetz
-	- Jugendarbeitsschutzgesetz
-	- Arbeitsstättenverodnung
-	- Arbeitszeitgesetz
-	- Betriebsverfassungsgesetz
-	- Betriebsvereinbarungen (z.B. betriebliche Arbeitszeitregelung, betriebliches Beurteilungsverfahren)
-	- Sozialversicherung
-	- Lohnsteuer
-	- Mutterschutzgesetz
-	- Schwerbehindertengesetz
+#### Arbeitgeber- und Arbeitnehmerorganisationen
+- Verbände (Arbeitgeber, Wirtschaft), Kammern
+- Gewerkschaften, Betriebsräte (Wahl, Mitbestimmung), JAV
 
-### Arbeitgeberorganisationen
-- Arbeitgeberverbände
-- Industrie- und Handelskammern
-- Wirtschaftsverbände
+#### Tarifrecht
+- Tarifverträge, Tarifautonomie, Tarifverhandlungen, Arbeitskampf
 
-### Arbeitnehmerorganisationen
-- Gewerkschaften
-- Betriebsräte
-	- Wahl und Zusammensetzung
-	- Mitbestimmungs- und Mitwirkungsrechte
-	- Betriebsversamlung
-	- Einigungsstelle
-	- Jugend- und Auszubildendenvertretung
-### Tarifrecht
-- Tarifverträge (z.B. Entgelttarifvertrag, Manteltarifvertrag)
-- Tarifautonomie, Tarifverhandlung, Tarifbindung, Tarifkonflikt (Arbeitskampf)
-- Geltungsbereich
-- Laufzeit
-### Lohn- und Gehaltsformen
-- Brutto/Netto-Entgelt
-- Lohnsteuer, Kirchensteuer
-- Sozialabgaben: Krankenversicherung, Arbeitslosenversicherung, Rentenversicherung, Pflegeversicherung
-- Vermögenswirksame Leistungen
-- Steuerklassen
+#### Lohn- und Gehaltsformen
+- Brutto/Netto-Entgelt, Steuern, Sozialabgaben, vermögenswirksame Leistungen
 
-### Lebensbegleitendes lernen
-- Regelungen und Möglichkeiten für interne und externe Weiterbildung in Betrieb und Branche, evtl. tarifvertragliche Regelungen
-- Berufliche Fortbildung und Umschulung
-- Innerbetriebliche Fortbildung
-- Staatliche Fördermaßnahmen
+#### Lebensbegleitendes Lernen
+- Weiterbildungsmöglichkeiten (intern, extern), berufliche Fortbildung, Umschulung, staatliche Förderungen
 
-### Lerntechniken
-- Visuelles Lernen, z.B. Lernposter mit Mindmaps, Schaubilder, Grafiken erstellen, Videos ansehen, eigene Zusammenfassungen und Lernkarteien schreiben
-- Auditives Lernen, z.B. Lerngruppen bilden, Vorträge anhören, Lerninhalte aufnahmen und abspielen
-- Kommunikatives Lernen, z.B. Dialoge, Diskussionen, Lerngruppen, Frage-Antwort-Spiele
-- Motorisches Lernen, z.B. Learning by Doing, Rollenspiele, Gruppenaktivitäten
+#### Lern- und Arbeitstechniken
+- Lernmethoden (visuell, auditiv, kommunikativ, motorisch)
+- Zeitmanagement, Präsentationstechniken, Projektplanung, Nutzung digitaler Lernmedien
 
-### Arbeitstechniken
-- Zeitmanagementtechniken, flexible Arbeitszeiten
-- Moderations- und Präsentationstechniken
-- Arbeitsplanung- und Projektplanungstechniken
-- Verschiedene Arbeitstechnik erlernen
-- Gestaltung eines lernförderlichen und das Lernen integrierenden Arbeitsplatzes
-- Beschaffung, Auswahl und Auswertung von Fachinformationen
-- Digitale Lernmedien nutzen und individuell bewerten
-	- Internet
-	- Apps
-	- Plattformen (Kommunikation, Information, Videos, Austausch)
-	- Netzwerke
-	- Computer Based Training (CBT)
-	- Web Based Training (WBT)
-	- Umgang mit mobilen Endgeräten
+#### Berufliche Weiterentwicklung und Lebensplanung
+- Fortbildung, Studium, Auslandserfahrungen, Karriereplanung, Altersvorsorge, Existenzgründung
 
-### Berufliche Fortbildung und Umschulung
-- IT-Weiterbildung ergänzend zur Ausbildung in den IT-Berufen
-- Staatliche Fördermaßnahmen
-- Innerbetriebliche Fortbildung
-- Umschulungen
+### Aufbau und Organisation des Ausbildungsbetriebes
 
-### Lebensplanung
-- Regelungen und Möglichkeiten für interne und externe Weiterbildung in Betrieb und Branche, evtl. tarifvertragliche Regelungen
-- Bildungseinrichtungen
-- Auslandsaufenthalte, z.B. mithilfe von EU-Förderprogrammen
-- Persönliche Weiterbildung
-	- Studium von Fachliteratur
-	- Selbstlernmaterialien
-	- Fachmessen
-- Entwicklung bezüglich
-	- Eigenständigkeit
-	- Verantwortung
-	- Reflexivität
-	- Lernkompetenz
-	- Team- und Führungsfähigkeit
-	- Mitgestaltung
-	- Kommunikation
-- Überbetriebliche Fortbildung
-- Europass
-- Mobilitätsprogramme
-- Europäische Sozialcharta
-- Potenzialanalyse
-- Karriereplanung
-- Möglichkeiten und Grenzen einer Existenzgründung
-- Altersvorsorge
+#### Der Betrieb
+- Branchenzugehörigkeit, Produktpalette, Märkte
 
-## Aufbau und Organisation des Ausbildungsbetriebes
+#### Rechtsformen
+- Personengesellschaften (Einzelunternehmen, KG, OHG)
+- Kapitalgesellschaften (GmbH, AG)
+- Öffentliche und gemeinnützige Organisationen
 
-### Der Betrieb
-- Branchenzugehörigkeit
-- Gesamtwirtschaft, z.B. primärer, sekundärer, tertiärer Sektor, erwerbswirtschaftliche Betriebe
-- Produktpalette und Märkte
+#### Unternehmensstruktur und -organisation
+- Organisationsformen (Einlinien-, Mehrlinien-, Stabliniensystem, Matrixorganisation)
 
-### Rechtsformen
-- Gesellschaft bürgerlichen Rechts
-- Personengesellschaften, z.B. Einzelunternehmen, KG, OHG, GmbH & Co. KG
-- Kapitalgesellschaften, z.B. GMBH, AG
-- Staatliche order kommunale Unternehmen, Unternehmendes öffentlichen Rechts
-- Gemeinnützige Organisationen
+#### Wirtschaftliche Verflechtungen
+- Konzerne, Kartelle, Fusionen
 
-### Unternehmensstruktur und Organisationsform
-- Unternehmenszentrale, Filialunternehmen, Niederlassung, Außenstelle
-- Einlinien- bzw. Mehrlinien-, Stabliniensystem
-- Spartenorganisation
-- Matrixorganisation
-- Arbeitsabläufe und Aufgabenteilung
+#### Unternehmensziele
+- Produktivität, Wirtschaftlichkeit, Rentabilität
 
-### Wirtschaftliche Verflechtung
-- Konzern
-- Kartell
-- Fusion
+#### Arbeitsteilung
+- Betriebliche und gesamtwirtschaftliche Arbeitsteilung, Globalisierung, soziale Marktwirtschaft
 
-### Ziele von Betrieben und Unternehmen
-- Produktivität
-- Wirtschaftlichkeit
-- Rentabilität
+#### Verbände, Behörden und Vertretungen
+- Ziele und Aufgaben von Arbeitgeber- und Arbeitnehmerverbänden, Behörden
+- Grundsatz der vertrauensvollen Zusammenarbeit (BetrVG)
 
-### Betriebliche und gesamtwirtschaftliche Arbeitsteilung
-- Internationale Spezialisierung, Globalisierung
-- Betriebliche und gesamtwirtschaftliche Arbeitsteilung
-- Möglichkeiten und Grenzen der sozialen Marktwirtschaft
+### Sicherheit und Gesundheitsschutz bei der Arbeit
 
-### Ziele und Aufgaben von Arbeitgeber- und Arbeitnehmerverbänden
-- Branchenspezifische Gewerkschaften und Arbeitgeberverbände
-- Wirtschaftsorganisationen
-- Berufsständische Vertretungen und Organisationen
-- Ehrenamtliche Mitwirkung, z.B. Prüfungsausschuss
-### Ziele und Aufgaben von Behörden und Verwaltungen
-- Vertretung gesamtgesellschaftlicher Interessen
+#### Gesundheits- und Arbeitsschutzvorschriften
+- Gesetze (ArbSchG, ArbSichG, ArbZG), Verordnungen (BetrSichV, ArbStättV), Unfallverhütungsvorschriften (UVV)
+- Arbeitsplatzergonomie, Bildschirmarbeitsplatzverordnung
 
-### Grundsatz der vertrauensvollen Zusammenarbeit zwischen Arbeitgeber- und Arbeitnehmervertretern
-- Betriebsverfassungsgesetz
-- Arbeitnehmervertretung, Betriebsrat
-- Jugend- und Auszubildendenvertreter und deren Informations-, Beratungs- und Mitbestimmungsrechte
-- Betriebsvereinbarungen bzw. Personalvertretung auf Grundlage des Personalvertretungsgesetzes
+#### Wahrnehmung und Einschätzung von Gefährdungen
+- Mechanische, elektrische, thermische, chemische, ergonomische, akustische und psychische Gefahren
+- Sicherheitshinweise beachten, Ersthelfer, ergonomische Gestaltung
 
+#### Vorsorgeuntersuchungen
+- Augenuntersuchung, psychische Gefährdungsbeurteilung
 
-## Sicherheit und Gesundheitsschutz bei der Arbeit
+#### Aufgaben von Sicherheitsbeauftragten
 
-### Gesundheits- und Arbeitsschutzvorschriften
-- Arbeitsschutzgesetz
-- Arbeitssicherheitsgesetz
-- Arbeitszeitgesetz
-- Betriebssicherheitsverordnung
-- Arbeitsstättenverordnung
-- Unfallverhütungsvorschriften (UVV)
-- Berufsgenossenschaften
-- Arbeitsplatzergonomie
-- Bildschirmarbeitsplatzverordnung
-- Aufsichtsbehörde für Arbeitsschutz (Gewerbeaufsicht)
-- Jugendarbeitsschutzgesetz
+#### Vorschriften im Arbeitsablauf
+- Umgang mit Gefahren, Verhaltensregeln, Fluchtwege, Schutzarten und -klassen elektrischer Betriebsmittel
 
-### Gefährdung und Beanspruchungen wahrnehmen und einschätzen
-- Mechanische, elektrische, thermische und chemische Gefahren
-- Ergonomische, akustische und psychische Gefahren
-- Gefahren beachten und ggf. melden
-- Sicherheitshinweise, Vorschriften und Anweisungen beachten
-- Besondere Fürsorgepflicht des Arbeitgebers
-- Ersthelfer am Arbeitsplatz
-- Ergonomische Arbeitsplatzgestaltung
+#### Verhalten bei Unfällen
+- Erste Hilfe, Notruf, Meldeketten, Evakuierung
 
-### Vorsorgeuntersuchungen
-- Augenuntersuchung für Bildschirmarbeitsplätze
-- Psychische Gefährdungsbeurteilung
-### Aufgaben der Sicherheitsbeauftragten
+#### Verhalten im Brandfall und vorbeugender Brandschutz
+- Brandursachen, Brandschutzordnung, Brandschutzmittel (Feuerlöscher), Fluchtwege, Sicherheitszeichen
 
-### Vorschriften im betrieblichen und persönlichen Arbeitsablauf
-- Sachgerechter Umgang mit Gefahrenpotenzialen
-- Allgemeine und betriebliche Verhaltensregeln
-- Notausgänge (Kennzeichnung), Fluchtwege im Gebäude/am Arbeitsplatz
-- Schutzarten elektrischer Betriebsmittel
-- Schutzklassen
-- Prüfzeichen, z.B. CE-Zeichen
-- Schriften, Farben und Zeichen des Arbeitsschutzes
+### Umweltschutz
 
-### Verhaltensweisen bei Unfällen
-- Erste-Hilfe-Maßnahmen
-- Ersthelfer, Notruf- und Notfallnummern
-- Meldeketten
-- Fluchtwege und Sammelplätze
-- Evakuierung und Dokumentation
-- Meldepflicht von Unfällen
+#### Vermeidung von Umweltbelastungen
+- Rationelle Energie- und Ressourcennutzung (Green IT)
+- Wiederverwertung (Recycling), Abfalltrennung und -vermeidung
 
-### Verhaltensweisen im Brandfall sowie verbeugender Brandschutz
-- Brandursachen durch brennbare Stoffe und Hitzeentwicklung
-- Brandschutzordnung z.B. Verbot zur Fahrstuhlnutzung, Schließen von Türen und Fenstern im Gebäude/am Arbeitsplatz
-- Brandschutzmittel
-	- Feuerlöscher (Arten, Standort, Bedienungsanleitung, Wirkungsweise)
-	- Löschdecken
-- Verhalten in Brandfällen, z.B. Verbot zur Fahrstuhlnutzung, Schließen von Türen und Fenstern im Gebäude/am Arbeitsplatz
-- Sammelplätze
-- Flucht und Rettungswege
-- Sicherheitszeichen
-- Brandschutzklassen (A, B, C, D)
-- Brandmeldung
-- Schulung
+#### Umgang mit Abfällen
+- Erfassung, Lagerung und Entsorgung branchenspezifischer Abfälle
 
-## Umweltschutz
+#### Öffentliche Systeme und Gesetze
+- Duales System (Verpackungsentsorgung), Immissionsschutzgesetz
 
-### Umweltbelastungen wahrnehmen und vermeiden helfen
-- Spezifische Risiken der IT-Prozesse, sowie von IT beteiligten Prozessen z.B. USV-Anlagen
-- Rationelle Energie- und Ressourcenverwendung
-	- unnötige Gerätelaufzeiten vermeiden
-	- Umgang mit Speicher- und Printmedien
-- Green IT
-- Wiederverwertung (Recycling)
-- Abfalltrennung und -vermeidung
+#### Nachhaltigkeit und Ressourcennutzung
+- Berücksichtigung bei Einkauf und Lieferantenauswahl
+- Sparsamer Umgang mit Roh-, Hilfs- und Betriebsstoffen, Nutzung regenerativer Energien
 
-### Umgang mit Abfällen
-- Branchenspezifische Abfälle
-	- Erfassung
-	- Lagerung und Entsorgung von z.B. Datenträgern oder Kabeln
+#### Abfallvermeidung und Rechtsfolgen
+- Kreislaufwirtschaftsgesetz, papierloses Büro, Verursacherprinzip
 
-### Öffentliche Systeme und Verordnungen/Gesetze
-- Teilnahme am Dualen System im Hinblick auf Verpackungsentsorgung
-- Immsionsschutzgestz, technische Anleitungen, z.B. zu Lärm, Luft, Abfall
+### Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien
 
-### Externe Auswirkungen
-- Im Rahmen von Nachhaltigkeit sind auch Auswirkungen auf Umwelt, Pflanzen, Tiere, Lebensräume zu reflektieren
+#### Wertschätzende Zusammenarbeit
+- Interdisziplinäre und interkulturelle Teamarbeit, Übernahme gemeinsamer Verantwortung
+- Beachtung von Unternehmenswerten und Compliance-Regeln, Beseitigung von Vorurteilen
 
-### Umweltschonende Ressourcennutzung
-- Berücksichtigen wirtschaftlicher Nachhaltigkeit bereits bei Einkauf und Lieferantenauswahl
-- Sparsamer und effektiver Umgang mit Roh-, Hilfs- und Betriebsstoffen (ggf. erforderliche Kennzeichnung und getrennte Lagerung beachten)
-- Ressourcenverbrauch und Umweltschutz in Kombination bedenken, z.B. Nutzung von Strom aus regenerativen Quellen
-### Abfallvermeidung und -reduzierung
-- Kreislaufwirtschaftsgesetz 
-- Papierloses Büro
-### Rechtsfolgen bei Nichteinhaltung
-- Verursacherprinzip
+#### Berücksichtigung informationstechnischer Schutzziele
+- Integrität, Vertraulichkeit und Authentizität (BSI-Standards)
+- Sensibler Umgang mit Kommunikation und Adressatenlisten
 
-## Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien
-
-### Wertschätzende Zusammenarbeit
-- Interdisziplinarität, Interkulturarität
-- Fähigkeit, effektive, integer und respektvoll mit verschiedenen Teams zusammenzuarbeiten
-- Übernahme gemeinsamer Verantwortung für die Zusammenarbeit und Wertschätzung der einzelnen Beiträge jedes Teammitglieds
-- Unternehmenswerte beachten und betriebliche Ethikregeln anwenden
-- (Un-)bewusste Vorurteile erkennen und beseitigen
-- Compliance-Regeln kennen und beachten
-
-### Informationstechnische Schutzziele: Integrität, Vertraulichkeit und Authentizität berücksichtigen
-- Standards des BSI beachten und einhalten
-- betriebliche Regelungen kennen und beachten
-- Reflexion von Erfahrungen in virtuellen Räumen
-- Im Umgang mit Kommunikation und Information Zuständigkeitsabgrenzung verdeutlichen
-- Nachrichten und Inhalte auch aus Sicht der Empfänger betrachten
-- Sensibler Umgang mit Adressatenlisten in der digitalen Kommunikation
-- Die möglichen (auch juristischen) Konsequenzen von Äußerungen über den eigenen Arbeitgeber in sozialen Netzwerken berücksichtigen
-
-### Ethische Aspekte und Compliance-Regelungen
-- "Diversity" gewährleisten und unterschiedliche Perspektiven berücksichtigen
-- Aus der Verschiedenheit Vorteile für das Unternehmen ziehen
-- Gender-Neutralität gewährleisten, aber auch z.B. das dritte Geschlecht berücksichtigen
-- Im Zentrum ethischer Aspekte steht die Würde aller menschen sowie deren Integrität. Diese ist für alle direkt und indirekt Betroffenen der IT-Lösungen kurz-, mittel- und langfristig zu gewährleisten
-- Im Rahmen von Nachhaltigkeit sind auch Auswirkungen auf alles Lebendige (Umwelt, Pflanzen, Tiere, Lebensräume) zu reflektieren
-- Ergänzend dazu sind auch allgemeine und betriebliche Compliance-Regelungen zu berücksichtigen.
+#### Ethische Aspekte und Compliance
+- Gewährleistung von "Diversity", Gender-Neutralität
+- Wahrung der Menschenwürde und Integrität in IT-Lösungen
+- Berücksichtigung von Nachhaltigkeit und Auswirkungen auf die Umwelt
