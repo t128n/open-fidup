@@ -2,7 +2,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightGitHubAlerts from 'starlight-github-alerts'
-import remarkWikiLink from '@flowershow/remark-wiki-link';
 
 // https://astro.build/config
 export default defineConfig({
@@ -106,10 +105,7 @@ export default defineConfig({
 	],
 	markdown: {
 		remarkPlugins: [
-			[
-				remarkWikiLink,
-				{},
-			],
+			
 		],
 	},
 });
