@@ -1,0 +1,44 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bookGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#28a745;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Book spine -->
+  <rect x="140" y="50" width="20" height="100" fill="url(#bookGradient)" />
+  
+  <!-- Left page -->
+  <rect x="80" y="50" width="60" height="100" fill="#f8f9fa" stroke="url(#bookGradient)" stroke-width="2" />
+  
+  <!-- Right page -->
+  <rect x="160" y="50" width="60" height="100" fill="#f8f9fa" stroke="url(#bookGradient)" stroke-width="2" />
+  
+  <!-- Circuit patterns on left page -->
+  <g fill="url(#bookGradient)" opacity="0.7">
+    <rect x="90" y="60" width="10" height="10" />
+    <rect x="110" y="60" width="10" height="10" />
+    <line x1="90" y1="75" x2="120" y2="75" stroke="url(#bookGradient)" stroke-width="2" />
+    <line x1="90" y1="85" x2="120" y2="85" stroke="url(#bookGradient)" stroke-width="2" />
+    <circle cx="95" cy="95" r="3" />
+    <circle cx="115" cy="95" r="3" />
+    <line x1="95" y1="95" x2="115" y2="95" stroke="url(#bookGradient)" stroke-width="1" />
+  </g>
+  
+  <!-- Circuit patterns on right page -->
+  <g fill="url(#bookGradient)" opacity="0.7">
+    <rect x="170" y="60" width="10" height="10" />
+    <rect x="190" y="60" width="10" height="10" />
+    <line x1="170" y1="75" x2="200" y2="75" stroke="url(#bookGradient)" stroke-width="2" />
+    <line x1="170" y1="85" x2="200" y2="85" stroke="url(#bookGradient)" stroke-width="2" />
+    <circle cx="175" cy="95" r="3" />
+    <circle cx="195" cy="95" r="3" />
+    <line x1="175" y1="95" x2="195" y2="95" stroke="url(#bookGradient)" stroke-width="1" />
+  </g>
+  
+  <!-- Text -->
+  <text x="150" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="url(#bookGradient)">
+    <tspan font-weight="bold">Open</tspan> Fidup
+  </text>
+</svg>

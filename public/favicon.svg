@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill-rule="evenodd" d="M81 36 64 0 47 36l-1 2-9-10a6 6 0 0 0-9 9l10 10h-2L0 64l36 17h2L28 91a6 6 0 1 0 9 9l9-10 1 2 17 36 17-36v-2l9 10a6 6 0 1 0 9-9l-9-9 2-1 36-17-36-17-2-1 9-9a6 6 0 1 0-9-9l-9 10v-2Zm-17 2-2 5c-4 8-11 15-19 19l-5 2 5 2c8 4 15 11 19 19l2 5 2-5c4-8 11-15 19-19l5-2-5-2c-8-4-15-11-19-19l-2-5Z" clip-rule="evenodd"/><path d="M118 19a6 6 0 0 0-9-9l-3 3a6 6 0 1 0 9 9l3-3Zm-96 4c-2 2-6 2-9 0l-3-3a6 6 0 1 1 9-9l3 3c3 2 3 6 0 9Zm0 82c-2-2-6-2-9 0l-3 3a6 6 0 1 0 9 9l3-3c3-2 3-6 0-9Zm96 4a6 6 0 0 1-9 9l-3-3a6 6 0 1 1 9-9l3 3Z"/><style>path{fill:#000}@media (prefers-color-scheme:dark){path{fill:#fff}}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+	<defs>
+		<style>
+			.data-icon { fill: #3b82f6; }
+			.process-icon { fill: #10b981; }
+			.bg { fill: #f8fafc; }
+		</style>
+	</defs>
+
+	<!-- Background circle -->
+	<circle cx="50" cy="50" r="48" class="bg" stroke="#e2e8f0" stroke-width="2"/>
+
+	<!-- Database/Data icon -->
+	<rect x="25" y="35" width="20" height="12" rx="2" class="data-icon"/>
+	<rect x="27" y="37" width="16" height="1.5" fill="white"/>
+	<rect x="27" y="40" width="16" height="1.5" fill="white"/>
+	<rect x="27" y="43" width="16" height="1.5" fill="white"/>
+
+	<!-- Process/Flow icon -->
+	<circle cx="65" cy="40" r="6" class="process-icon"/>
+	<polygon points="65,34 68.5,40 65,46 61.5,40" class="process-icon"/>
+	<path d="M 65 46 L 73 52 L 65 58" stroke="#10b981" stroke-width="1.5" fill="none" marker-end="url(#arrowhead)"/>
+
+	<!-- Arrow marker -->
+	<defs>
+		<marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+			<polygon points="0 0, 8 3, 0 6" fill="#10b981"/>
+		</marker>
+	</defs>
+
+	<!-- Second process step -->
+	<circle cx="80" cy="55" r="4" fill="#10b981" opacity="0.7"/>
+</svg>

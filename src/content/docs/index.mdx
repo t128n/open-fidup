@@ -1,36 +1,44 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: FiDuP Wissensdatenbank
+description: Kostenlose Wissensdatenbank für die Vorbereitung auf die Abschlussprüfung Fachinformatiker für Daten- und Prozessanalyse (FiDuP). Umfassende Lernmaterialien und Übungen.
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Ihre kostenlose Wissensdatenbank für die FiDuP-Prüfung
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/logo.webp
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Mit dem Lernen beginnen
+      link: /lerninhalte/datenanalyse
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
+    - text: Über open-fidup
+      link: /ueber
+      icon: information
       variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Willkommen bei open-fidup
+
+**open-fidup** ist Ihre kostenlose Wissensdatenbank für die Vorbereitung auf die Abschlussprüfung zum Fachinformatiker für Daten- und Prozessanalyse (FiDuP).
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Datenanalyse" icon="seti:db">
+		Lernen Sie Datenmodellierung, SQL, Statistik und Data Mining kennen.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Prozessanalyse" icon="puzzle">
+		Beherrschen Sie BPMN, Prozessoptimierung und Requirements Engineering.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Programmierung" icon="seti:javascript">
+		Python, SQL-Abfragen, APIs und Automatisierung für Datenanalyse.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="IT-Systeme" icon="laptop">
+		Datenbanksysteme, BI-Tools, ETL-Prozesse und Cloud Computing.
+	</Card>
+	<Card title="Projektmanagement" icon="rocket">
+		Agile Methoden, Qualitätssicherung und Teamarbeit.
+	</Card>
+	<Card title="Rechtliche Grundlagen" icon="document">
+		DSGVO, IT-Sicherheit, Compliance und Arbeitsrecht.
 	</Card>
 </CardGrid>
