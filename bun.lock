@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "open-fidup-starlight",
+      "name": "open-fidup",
       "dependencies": {
         "@astrojs/check": "^0.9.4",
         "@astrojs/starlight": "^0.35.2",

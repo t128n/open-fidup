@@ -26,7 +26,7 @@ export default defineConfig({
 			},
 			customCss: ['./src/styles/global.css'],
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://t128n.github.io/open-fidup' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/t128n/open-fidup' },
 			],
 			sidebar: [
 				{
