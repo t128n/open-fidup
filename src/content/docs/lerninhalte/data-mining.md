@@ -12,7 +12,7 @@ description: "Data Mining ist der Prozess der Erkennung von Mustern und wertvoll
 4. **Auswertung** der Ergebnisse, Interpretation, erstellen von Reports
 
 ## Techniken
-- **[CRISP-DM](/lerninhalte/crisp-dm)**
+- **[CRISP-DM](lerninhalte/crisp-dm)**
 - **Assoziationsregeln**, *Beziehungen* zwischen Variablen
 - **Neuronale Netze**, *Deep-Learning-Algorithmen*, bilden menschliches Gehirn nach
 - **Entscheidungsbaum**, *Klassifizierung/Vorhersage* auf Reihe von *Entscheidungen*

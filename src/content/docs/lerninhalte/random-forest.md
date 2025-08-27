@@ -3,8 +3,8 @@ title: "Random Forest"
 description: "Random Forest kombiniert Entscheidungsbäume für Klassifikation und Regression. Er reduziert Overfitting, handhabt hochdimensionale Daten. Hyperparameter steuern Bäume, Feature Importance hilft bei Interpretation."
 ---
 
-- **leistungsstarker** und **vielseitiger** Algorithmus des [maschinellen Lernens](/lerninhalte/maschinelles-lernen), der **mehrere** [Entscheidungsbäume](/lerninhalte/entscheidungsbaum) kombiniert, um ein einzelnes Ergebnis zu erzielen
-- Es handelt sich um einen **[überwachten Lernalgorithmus](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)**, der sowohl für [Klassifikations-](/lerninhalte/klassifikation) als auch für [Regressionsprobleme](/lerninhalte/regression) eingesetzt werden kann 
+- **leistungsstarker** und **vielseitiger** Algorithmus des [maschinellen Lernens](lerninhalte/maschinelles-lernen), der **mehrere** [Entscheidungsbäume](lerninhalte/entscheidungsbaum) kombiniert, um ein einzelnes Ergebnis zu erzielen
+- Es handelt sich um einen **[überwachten Lernalgorithmus](lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)**, der sowohl für [Klassifikations-](lerninhalte/klassifikation) als auch für [Regressionsprobleme](lerninhalte/regression) eingesetzt werden kann 
 
 ## Funktionsweise
 - Random Forest baut mehrere Entscheidungsbäume auf und kombiniert deren Vorhersagen

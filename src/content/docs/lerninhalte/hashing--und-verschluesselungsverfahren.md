@@ -3,9 +3,9 @@ title: "Hashing- und Verschlüsselungsverfahren"
 description: "Hashing-Verfahren wie SHA-256 und Verschlüsselung wie AES schützen Datenintegrität und Vertraulichkeit. Sie werden für digitale Signaturen, Passwortspeicherung und sichere Kommunikation eingesetzt."
 ---
 
-## [Hashing](/lerninhalte/hashing)
+## [Hashing](lerninhalte/hashing)
 - **Definition**: Ein Verfahren, das Daten beliebiger Größe in einen festen Hashwert (Fingerprint) umwandelt.
-- **Einsatzbereich**: Datenintegrität, Passwortspeicherung, [digitale Signaturen](/lerninhalte/digitale-signatur).
+- **Einsatzbereich**: Datenintegrität, Passwortspeicherung, [digitale Signaturen](lerninhalte/digitale-signatur).
 
 ### Auswahl des Hashing-Verfahrens
 - **MD5**

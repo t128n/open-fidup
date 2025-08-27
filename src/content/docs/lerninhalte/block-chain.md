@@ -11,8 +11,8 @@ description: "Blockchain ist eine dezentrale Datenbank, bei der Datenspeicherung
 ## Funktionsweise
 - bestimmte **Informationen** werden als Datensatz in einem Block **verpackt**. Ein Block enthält:
   - Daten
-  - [Hash](/lerninhalte/hashing) der Daten
-  - [Hash](/lerninhalte/hashing) des vorherigen Blocks
+  - [Hash](lerninhalte/hashing) der Daten
+  - [Hash](lerninhalte/hashing) des vorherigen Blocks
 - durch Referenzierung des vorherigen Blocks haben Änderungen **hohen Rechenaufwand**
 - der erste Block in einer Blockchain wird als **Genesis Block** bezeichnet
 - **Proof of Work**: Aufgabe, die erfüllt werden muss, um einen Block zu generieren; verlangsamt die Block-Kalkulation
