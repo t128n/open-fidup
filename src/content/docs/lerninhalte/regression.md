@@ -17,7 +17,7 @@ description: "Regression ist ein überwachte Lernmethode zur Vorhersage einer ab
 ### **Einfache lineare** / **Univariate** Regression
 - Vorhersage **eines Kriteriums** anhand von **eines Prädikators** (1:1)
 - **Formel:**
-	- $\hat{y} = b 	imes x + a = 	heta_0 + 	heta_1 x$ 
+	- $ \hat{y} = b 	imes x + a = 	heta_0 + 	heta_1 x $ 
 	- Kriterium $\hat{y}$
 	- Steigung $b/	heta_1$
 	- Prädikator $x$
@@ -344,9 +344,11 @@ $$
 - Minimierung der Kostenfunktion durch **schrittweise Anpassung** der Parameter $\theta_0$ (y-Achsenabschnitt) und $\theta_1$ (Steigung).
 - Beginn mit zufälligen oder nullinitialisierten $\theta$-Werten.
 - **Vorhersagefunktion**:
-$$
+
+$
 h_\theta(x) = \theta_0 + \theta_1 \cdot x
-$$
+$
+
 - **Kostenfunktion** (Mean Squared Error):
 $$
 J(\theta_0, \theta_1) = \frac{1}{2n} \sum_{i=1}^{n} \left( h_\theta(x^{(i)}) - y^{(i)} \right)^2

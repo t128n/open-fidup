@@ -1,12 +1,18 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightGitHubAlerts from 'starlight-github-alerts'
+import starlightGitHubAlerts from 'starlight-github-alerts';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://t128n.github.io/open-fidup',
+	markdown: {
+		remarkPlugins: [remarkMath],
+		rehypePlugins: [rehypeKatex],
+	},
 	integrations: [
 		starlight({
 			title: 'open-fidup',
@@ -18,6 +24,7 @@ export default defineConfig({
 					lang: 'de',
 				},
 			},
+			customCss: ['./src/styles/global.css'],
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://t128n.github.io/open-fidup' },
 			],
@@ -26,8 +33,6 @@ export default defineConfig({
 					label: 'Startseite',
 					items: [
 						{ label: 'Willkommen', slug: '' },
-						{ label: 'Über open-fidup', slug: 'ueber' },
-						{ label: 'Kontakt', slug: 'kontakt' },
 					],
 				},
 				{
@@ -35,17 +40,10 @@ export default defineConfig({
 					autogenerate: { directory: 'lerninhalte' },
 				},
 				{
-					label: 'Prüfungsvorbereitung',
+					label: 'Info',
 					items: [
-						{ label: '🚧 Prüfungsstruktur (in Vorbereitung)', slug: 'pruefung/struktur' },
-						{ label: '🚧 Übungsaufgaben (in Vorbereitung)', slug: 'pruefung/uebungen' },
-						{ label: '🚧 Musterlösungen (in Vorbereitung)', slug: 'pruefung/loesungen' },
-						{ label: '🚧 Tipps & Tricks (in Vorbereitung)', slug: 'pruefung/tipps' },
-					],
-				},
-				{
-					label: 'Rechtliches',
-					items: [
+						{ label: 'Über open-fidup', slug: 'ueber' },
+						{ label: 'Kontakt', slug: 'kontakt' },
 						{ label: 'Impressum', slug: 'impressum' },
 					],
 				},
