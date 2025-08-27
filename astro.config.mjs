@@ -6,6 +6,7 @@ import starlightGitHubAlerts from 'starlight-github-alerts';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import starlightGiscus from 'starlight-giscus'
+import mermaid from 'astro-mermaid';
 
 
 // https://astro.build/config
@@ -17,6 +18,7 @@ export default defineConfig({
 		rehypePlugins: [rehypeKatex],
 	},
 	integrations: [
+		mermaid(),
 		sitemap({
 			changefreq: 'weekly',
 			priority: 0.7,
