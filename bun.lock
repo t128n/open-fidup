@@ -5,6 +5,7 @@
       "name": "open-fidup",
       "dependencies": {
         "@astrojs/check": "^0.9.4",
+        "@astrojs/sitemap": "^3.5.1",
         "@astrojs/starlight": "^0.35.2",
         "astro": "^5.6.1",
         "katex": "^0.16.22",

@@ -12,4 +12,4 @@ Disallow: /admin/
 Disallow: /private/
 
 # Sitemap
-Sitemap: https://open-fidup.de/sitemap.xml
+Sitemap: https://t128n.github.io/open-fidup/sitemap.xml
