@@ -60,6 +60,13 @@ export default defineConfig({
 				{
 					tag: 'meta',
 					attrs: {
+						name: 'google-site-verification',
+						content: '1qFNw2cAYvmW_rOr36n3S7FReorahcQ9gc_Cjq44ivY',
+					},
+				},
+				{
+					tag: 'meta',
+					attrs: {
 						name: 'description',
 						content: 'Kostenlose Wissensdatenbank für die Vorbereitung auf die Abschlussprüfung Fachinformatiker für Daten- und Prozessanalyse (FiDuP). Umfassende Lernmaterialien und Übungen.',
 					},
