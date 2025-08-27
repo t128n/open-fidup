@@ -1,5 +1,5 @@
 ---
-title: "Projektmanagement: Planung und Durchführung von Projekten"
+title: "Projektmanagement"
 description: "Projektmanagement umfasst Definition, Phasen, Kommunikation und Risiken. Der Projektleiter koordiniert Ressourcen und Stakeholder. Werkzeuge wie Gantt-Diagramme unterstützen die Zielerreichung innerhalb von Zeit, Budget und Qualität."
 ---
 

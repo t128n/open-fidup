@@ -1,5 +1,5 @@
 ---
-title: "IP: Internet Protocol und Adressierung"
+title: "IP"
 description: "Das Internet Protocol (IP) ist das Grundprotokoll des Internets auf Ebene 3 des OSI-Modells. Es umfasst IPv4 und IPv6 für Adressierung, Subnetze und verschiedene Adresstypen wie Unicast, Multicast und Broadcast."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ARP: Address Resolution Protocol"
+title: "ARP"
 description: "ARP ist ein Netzwerkprotokoll zur Übersetzung von IPv4-Adressen in MAC-Adressen auf der Netzzugangsschicht. Es dient der Zuordnung von IP- zu MAC-Adressen und speichert diese ggf. in ARP-Tabellen. Für IPv6 wird stattdessen das Neighbor Discovery Protocol verwendet."
 ---
 

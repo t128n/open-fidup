@@ -1,5 +1,5 @@
 ---
-title: "Präventive IT-Sicherheitsmaßnahmen: Schutz vor Cyberbedrohungen"
+title: "Präventive IT-Sicherheitsmaßnahmen"
 description: "Präventive IT-Sicherheitsmaßnahmen umfassen Netzwerksegmentierung, Firewalls, IDS/IPS und Systemhärtung. Sie zielen auf Zugriffskontrolle, Datensicherheit und Schulung ab. Regelmäßige Audits und Patch-Management sind essenziell."
 ---
 

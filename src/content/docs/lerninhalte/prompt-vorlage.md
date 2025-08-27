@@ -1,5 +1,5 @@
 ---
-title: "Prompt Vorlage: Struktur für Lernzettel-Generierung"
+title: "Prompt Vorlage"
 description: "Die Prompt Vorlage beschreibt eine Struktur zur Erstellung von Lernzetteln über Themen. Sie umfasst Einführung, Struktur, Hervorhebungen, Beispiele, Vorteile, Herausforderungen und Best Practices. Dies standardisiert die Generierung informativer und lesbarer Lernmaterialien."
 ---
 

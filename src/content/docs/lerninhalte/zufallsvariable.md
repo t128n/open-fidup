@@ -1,5 +1,5 @@
 ---
-title: "Zufallsvariable: Zuordnung von Werten zu Experimenten"
+title: "Zufallsvariable"
 description: "Eine Zufallsvariable ordnet Ergebnisse von Zufallsexperimenten reellen Zahlen zu. Diskrete Variablen nehmen endlich oder abzählbar viele Werte an, stetige unendlich viele. Beispiele sind Anzahl von Litern Bier oder Messungen wie Größe oder Zeit."
 ---
 

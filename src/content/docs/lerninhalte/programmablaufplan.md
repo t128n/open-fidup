@@ -1,5 +1,5 @@
 ---
-title: "Programmablaufplan: Grafische Darstellung von Algorithmen"
+title: "Programmablaufplan"
 description: "Programmablaufplan ist ein Ablaufdiagramm zur visuellen Darstellung von Computerprogrammen und Algorithmen. Er verwendet Symbole für Start/Ende, Operationen, Verzweigungen und Ein-/Ausgaben. Dies erleichtert das Verständnis und die Kommunikation von Programmabläufen."
 ---
 

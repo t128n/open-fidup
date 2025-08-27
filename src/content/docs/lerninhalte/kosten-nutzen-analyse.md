@@ -1,5 +1,5 @@
 ---
-title: "Kosten-Nutzen-Analyse: Bewertung der Wirtschaftlichkeit von Projekten"
+title: "Kosten-Nutzen-Analyse"
 description: "Die Kosten-Nutzen-Analyse (KNA) bewertet die Wirtschaftlichkeit von Projekten, indem sie Kosten und Nutzen gegenüberstellt. Sie hilft bei der Entscheidung, ob sich eine Investition lohnt, und berücksichtigt sowohl monetäre als auch nicht-monetäre Faktoren."
 ---
 

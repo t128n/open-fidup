@@ -1,5 +1,5 @@
 ---
-title: "Software-Anforderungen: Funktionale und Nicht-Funktionale Anforderungen"
+title: "Software-Anforderungen"
 description: "Software-Anforderungen umfassen funktionale Features und nicht-funktionale Eigenschaften wie Änderbarkeit, Benutzbarkeit, Effizienz, Zuverlässigkeit und Übertragbarkeit. Sie definieren Qualitätskriterien und Normen für die Entwicklung."
 ---
 

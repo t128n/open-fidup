@@ -1,5 +1,5 @@
 ---
-title: "Kaizen: Philosophie der kontinuierlichen Verbesserung"
+title: "Kaizen"
 description: "Kaizen ist eine Geschäftsphilosophie der stetigen Veränderung und Verbesserung zur Effizienzsteigerung. Sie basiert auf Prinzipien wie Standardisierung, Kritikorientierung und Kundenfokus, fördert Mitarbeiterengagement und führt zu langfristiger Qualitätssteigerung."
 ---
 

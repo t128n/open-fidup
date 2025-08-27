@@ -1,5 +1,5 @@
 ---
-title: "Entity Relationship Model: Grundlagen und Anwendung"
+title: "Entity Relationship Model"
 description: "Das Entity Relationship Model (ERM) wird in der Konzeptionsphase zur Planung oder in der Implementierungsphase zur Dokumentation verwendet. Es besteht aus Entitäten, Beziehungen und Attributen. Beziehungen können 1:1, 1:n oder n:m sein."
 ---
 

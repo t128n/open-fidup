@@ -1,5 +1,5 @@
 ---
-title: "Datenanalyse: Inspektion und Modellierung von Daten"
+title: "Datenanalyse"
 description: "Datenanalyse ist der Prozess der Inspektion, Bereinigung und Modellierung von Daten zur Gewinnung nützlicher Informationen. Ziele sind Mustererkennung und Entscheidungsunterstützung. Arten sind Roh-, strukturierte und unstrukturierte Daten. Methoden umfassen Bereinigung, Aggregation und Visualisierung. Anwendungen sind Marketing und Finanzanalyse."
 ---
 

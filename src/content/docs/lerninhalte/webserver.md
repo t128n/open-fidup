@@ -1,5 +1,5 @@
 ---
-title: "Webserver: Grundlagen und Funktionsweise"
+title: "Webserver"
 description: "Webserver hosten und stellen Webseiten über das Internet bereit. Sie verwenden Protokolle wie HTTP und HTTPS, bestehen aus Software und Datenbanken, und erfordern Sicherheitsmaßnahmen wie SSL/TLS für sichere Datenübertragung."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "KPI: Messbare Werte zur Leistungsbewertung"
+title: "KPI"
 description: "KPIs (Key Performance Indicators) sind messbare Werte zur Bewertung des Unternehmenserfolgs oder Prozesse. In der Qualitätslenkung überwachen sie Aspekte wie Fehlerquote und Kundenzufriedenheit, um fundierte Entscheidungen zu ermöglichen."
 ---
 

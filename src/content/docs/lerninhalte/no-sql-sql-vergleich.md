@@ -1,6 +1,6 @@
 
 ---
-title: "SQL vs NoSQL: Vergleich der Datenbankmodelle"
+title: "SQL vs NoSQL"
 description: "SQL verwendet relationale Tabellen mit statischem Schema und ACID-Eigenschaften, während NoSQL flexible Schemata und BASE-Eigenschaften bietet. SQL ist für strukturierte Daten geeignet, NoSQL für große, unstrukturierte Datenmengen."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Lean Management: Verschlankung von Unternehmensprozessen"
+title: "Lean Management"
 description: "Lean Management zielt auf die Verschlankung aller Unternehmensprozesse ab, um optimale Ergebnisse ohne Ressourcenverschwendung zu erzielen. Es fördert Kundenorientierung, Prozessidentifikation und das Pull-Prinzip für nachhaltige Erfolge."
 ---
 

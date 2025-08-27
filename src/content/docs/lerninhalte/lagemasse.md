@@ -1,5 +1,5 @@
 ---
-title: "Lagemaße: Statistische Kennzahlen für Datenverteilungen"
+title: "Lagemaße"
 description: "Lagemaße wie arithmetisches Mittel, Median und Modalwert beschreiben das Zentrum von Datenverteilungen. Sie fassen große Datenmengen zusammen, erleichtern Vergleiche und helfen bei der Interpretation von Daten in verschiedenen Bereichen."
 ---
 

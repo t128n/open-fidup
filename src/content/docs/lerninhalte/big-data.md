@@ -1,5 +1,5 @@
 ---
-title: "Big Data: Große Datenmengen mit Vielfalt und Geschwindigkeit"
+title: "Big Data"
 description: "Big Data bezeichnet Daten, die in großer Vielfalt, großen Mengen und mit hoher Geschwindigkeit anfallen, charakterisiert durch Volume, Velocity, Variety, Value und Veracity. Es ermöglicht die Lösung geschäftlicher Probleme durch Analyse. Anwendungsfälle sind Produktentwicklung, prädiktive Wartung und Betrugserkennung. Herausforderungen sind Speicherung und Verarbeitung."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Neural Network: Künstliche neuronale Netze"
+title: "Neural Network"
 description: "Neuronale Netze sind Modelle des maschinellen Lernens, die aus Eingabe-, verborgenen und Ausgabeschichten bestehen. Sie verarbeiten Daten durch Gewichtungen und Aktivierungsfunktionen, mit Anwendungen in Mustererkennung und Vorhersage."
 ---
 

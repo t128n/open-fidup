@@ -1,5 +1,5 @@
 ---
-title: "Corporate Identity: Einheitliches Erscheinungsbild"
+title: "Corporate Identity"
 description: "Corporate Identity umfasst das einheitliche Erscheinungsbild und die Identität eines Unternehmens, einschließlich Design, Kommunikation und Verhalten. Ziele sind Wiedererkennung und Vertrauensaufbau. Elemente sind Corporate Design, Communication und Behavior. Vorteile sind Konsistenz und Wettbewerbsvorteil."
 ---
 

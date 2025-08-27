@@ -1,5 +1,5 @@
 ---
-title: "Wertschöpfungskette: Schritte zur Mehrwertschaffung"
+title: "Wertschöpfungskette"
 description: "Wertschöpfungskette zeigt Schritte von Produktentwicklung zu Verkauf. Primäraktivitäten Eingangslogistik bis Kundendienst; Unterstützungsaktivitäten Infrastruktur bis Beschaffung."
 ---
 

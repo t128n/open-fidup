@@ -1,5 +1,5 @@
 ---
-title: "PRINCE2: Prozessorientierte Projektmanagementmethode"
+title: "PRINCE2"
 description: "PRINCE2 ist eine skalierbare Projektmanagementmethode mit 7 Prinzipien, Themen und Prozessen. Sie fokussiert auf Business Case, Qualität und Risiko. Die Methode ist flexibel und nutzenorientiert, erfordert aber Anpassung an Unternehmen."
 ---
 

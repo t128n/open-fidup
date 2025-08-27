@@ -1,5 +1,5 @@
 ---
-title: "Skriptprogrammierung: Automatisierung mit interpretierten Sprachen"
+title: "Skriptprogrammierung"
 description: "Skriptprogrammierung verwendet interpretierte Sprachen für Automatisierung und Webentwicklung. Sprachen wie Python, JavaScript. Vorteile Schnelligkeit, Nachteile Leistung."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mitbestimmungsrechte laut Betriebsverfassungsgesetz: Arbeitnehmerbeteiligung"
+title: "Mitbestimmungsrechte laut Betriebsverfassungsgesetz"
 description: "Das Betriebsverfassungsgesetz regelt die Mitbestimmung der Arbeitnehmer durch den Betriebsrat in Informations-, Mitwirkungs- und Mitbestimmungsrechten. Es umfasst soziale, personelle und wirtschaftliche Angelegenheiten."
 ---
 

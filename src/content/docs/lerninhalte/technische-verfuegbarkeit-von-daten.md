@@ -1,5 +1,5 @@
 ---
-title: "Technische Verfügbarkeit von Daten: Zuverlässiger Datenzugang"
+title: "Technische Verfügbarkeit von Daten"
 description: "Technische Verfügbarkeit von Daten gewährleistet jederzeitigen Zugang in erforderlichen Formaten. Maßnahmen umfassen redundante Systeme, Backups, Lastverteilung und Monitoring zur Minimierung von Ausfallzeiten."
 ---
 

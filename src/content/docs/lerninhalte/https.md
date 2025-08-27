@@ -1,5 +1,5 @@
 ---
-title: "HTTPS: Sichere Kommunikation im Web"
+title: "HTTPS"
 description: "HTTPS erweitert HTTP durch Verschlüsselung aller Daten zwischen Browser und Server. Es verwendet Zertifikate zur Authentifizierung und gewährleistet sichere Übertragung durch pro-Aufruf ausgehandelte Schlüssel."
 ---
 

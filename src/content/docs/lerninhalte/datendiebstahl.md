@@ -1,5 +1,5 @@
 ---
-title: "Datendiebstahl: Unbefugter Zugriff auf sensible Daten"
+title: "Datendiebstahl"
 description: "Datendiebstahl bezeichnet den unbefugten Zugriff auf sensible Daten durch Phishing, Malware oder Social Engineering. Auswirkungen sind finanzielle Verluste und Rufschädigung. Präventionsmaßnahmen sind Zugriffskontrollen und Verschlüsselung. Reaktion umfasst Benachrichtigung und Zusammenarbeit mit Behörden."
 ---
 

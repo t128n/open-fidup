@@ -1,5 +1,5 @@
 ---
-title: "Python: Vielseitige Programmiersprache für Daten und KI"
+title: "Python"
 description: "Python ist eine lesbare, interpretierte Sprache für Webentwicklung, Datenanalyse und KI. Sie bietet dynamische Typisierung und umfangreiche Bibliotheken. Herausforderungen sind Leistung, Vorteile Einfachheit und Community."
 ---
 

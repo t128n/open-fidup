@@ -1,5 +1,5 @@
 ---
-title: "Machbarkeitsstudie: Bewertung der Projektdurchführbarkeit"
+title: "Machbarkeitsstudie"
 description: "Eine Machbarkeitsstudie bewertet die Durchführbarkeit, Rentabilität und Wirtschaftlichkeit eines Projekts. Sie untersucht wirtschaftliche, technische und rechtliche Aspekte, um Risiken zu identifizieren und fundierte Entscheidungen zu treffen."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Netzwerkkonzepte: Typen, Topologien und Sicherheit"
+title: "Netzwerkkonzepte"
 description: "Netzwerkkonzepte umfassen Typen wie PAN, LAN, MAN, WAN und GAN sowie Topologien wie Bus, Stern und Ring. Sie berücksichtigen Sicherheitsaspekte wie Verschlüsselung und Zugriffskontrollen."
 ---
 

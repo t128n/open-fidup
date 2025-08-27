@@ -1,5 +1,5 @@
 ---
-title: "Abnahmeprotokoll: Dokumentation der Projektabnahme"
+title: "Abnahmeprotokoll"
 description: "Ein Abnahmeprotokoll dokumentiert den erfolgreichen Abschluss eines Projekts oder die Übergabe eines Produkts und dient als rechtliche Absicherung. Es enthält grundlegende Informationen, Testresultate und Mängellisten. Die Abnahme markiert den Projektabschluss und löst Gewährleistungsfristen aus."
 ---
 

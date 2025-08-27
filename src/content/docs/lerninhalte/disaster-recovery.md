@@ -1,5 +1,5 @@
 ---
-title: "Disaster Recovery: Wiederherstellung nach Katastrophen"
+title: "Disaster Recovery"
 description: "Disaster Recovery umfasst Strategien zur Vermeidung oder Minimierung von Datenverlusten und Betriebsunterbrechungen. Planung beinhaltet Business-Impact-Analyse, Risikoanalyse und Wiederherstellungsziele. Technologien sind Backups und DRaaS. Tests und Überprüfung sind kontinuierlich."
 ---
 

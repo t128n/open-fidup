@@ -1,5 +1,5 @@
 ---
-title: "Pseudocode: Informelle Beschreibung von Algorithmen"
+title: "Pseudocode"
 description: "Pseudocode beschreibt Algorithmen in menschenlesbarer Form ohne spezifische Programmiersprache. Er verwendet Strukturen wie Schleifen und Bedingungen. Vorteile liegen in Klarheit und Planung vor der Implementierung."
 ---
 

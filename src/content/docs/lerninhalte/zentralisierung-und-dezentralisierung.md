@@ -1,5 +1,5 @@
 ---
-title: "Zentralisierung und Dezentralisierung: IT-Architekturstrategien"
+title: "Zentralisierung und Dezentralisierung"
 description: "Zentralisierung konzentriert IT-Ressourcen an einem Ort für einheitliche Verwaltung, während Dezentralisierung Autonomie und Flexibilität fördert. Beide Ansätze haben Vor- und Nachteile in Sicherheit, Kosten und Innovation."
 ---
 

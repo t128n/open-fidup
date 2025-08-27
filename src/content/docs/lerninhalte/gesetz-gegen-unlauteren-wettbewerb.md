@@ -1,5 +1,5 @@
 ---
-title: "Gesetz gegen unlauteren Wettbewerb: Schutz vor unfairen Praktiken"
+title: "Gesetz gegen unlauteren Wettbewerb"
 description: "Das UWG schützt vor unlauteren Geschäftspraktiken wie irreführender Werbung und aggressiven Methoden. Es fördert fairen Wettbewerb und hat rechtliche Konsequenzen wie Abmahnungen und Schadensersatz."
 ---
 

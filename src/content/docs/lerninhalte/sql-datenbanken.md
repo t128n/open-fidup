@@ -1,5 +1,5 @@
 ---
-title: "SQL-Datenbanken: Relationale Datenverwaltung"
+title: "SQL-Datenbanken"
 description: "SQL-Datenbanken verwenden ein festes Schema für strukturierte Daten in Tabellen mit ACID-Eigenschaften. Sie bieten starke Konsistenz und komplexe Abfragen, sind aber weniger skalierbar als NoSQL. Anwendungen umfassen Geschäftssysteme und Finanztransaktionen."
 ---
 

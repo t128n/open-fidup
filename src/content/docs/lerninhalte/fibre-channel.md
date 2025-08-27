@@ -1,5 +1,5 @@
 ---
-title: "Fibre Channel: Hochgeschwindigkeitsnetzwerkprotokoll"
+title: "Fibre Channel"
 description: "Fibre Channel ist ein Hochgeschwindigkeitsnetzwerkprotokoll für Verbindung von Speichersystemen und Servern. Hauptmerkmale sind hohe Übertragungsraten und geringe Latenz. Architektur umfasst Topologien wie Punkt-zu-Punkt und Fabric. Protokollschichten sind FC-0 bis FC-4. Anwendungsgebiete sind SAN und Datenzentren."
 ---
 

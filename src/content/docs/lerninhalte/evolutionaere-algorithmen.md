@@ -1,5 +1,5 @@
 ---
-title: "Evolutionäre Algorithmen: Metaheuristische Optimierung"
+title: "Evolutionäre Algorithmen"
 description: "Evolutionäre Algorithmen sind stochastische, metaheuristische Optimierungsverfahren, deren Funktionsweise an der Evolution angelehnt ist. Phasen sind Initialisierung, Bewertung, Selektion, Kreuzung und Mutation. Anwendungsgebiete sind Sensornetze und Designoptimierungen. Operatoren sind Mutation, Rekombination und Selektion."
 ---
 

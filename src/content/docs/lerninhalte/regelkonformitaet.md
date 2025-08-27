@@ -1,5 +1,5 @@
 ---
-title: "Regelkonformität: Einhaltung von Regeln und Normen"
+title: "Regelkonformität"
 description: "Regelkonformität bedeutet Übereinstimmung mit Regeln, Normen und Gesetzen. Bedeutung für Rechtssicherheit, Vertrauen und Qualität. Bereiche rechtlich, normativ, ethisch; Maßnahmen wie Schulung und Audits."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Datensparsamkeit: Minimierung der Datenerhebung"
+title: "Datensparsamkeit"
 description: "Datensparsamkeit ist ein Prinzip, das nur die Daten erheben lässt, die für einen bestimmten Zweck erforderlich sind. Es umfasst Zweckbindung, Datenlöschung und Transparenz. Vorteile sind Schutz der Privatsphäre und Kosteneffizienz. Herausforderungen sind Widerstand gegen Veränderungen und technologische Einschränkungen."
 ---
 

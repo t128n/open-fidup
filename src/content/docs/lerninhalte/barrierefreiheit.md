@@ -1,5 +1,5 @@
 ---
-title: "Barrierefreiheit: Zugänglichkeit von IT-Systemen"
+title: "Barrierefreiheit"
 description: "Barrierefreiheit bezeichnet die Gestaltung von IT-Systemen, die es Menschen mit unterschiedlichen Fähigkeiten ermöglicht, diese ohne Einschränkungen zu nutzen. Zielgruppen sind Menschen mit Seh-, Hör-, körperlichen oder kognitiven Beeinträchtigungen. Wichtige Standards sind WCAG und BITV. Technische Maßnahmen umfassen semantisches HTML und Alt-Texte."
 ---
 

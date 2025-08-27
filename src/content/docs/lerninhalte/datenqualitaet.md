@@ -1,5 +1,5 @@
 ---
-title: "Datenqualität: Eignung von Daten für den Zweck"
+title: "Datenqualität"
 description: "Datenqualität bezieht sich auf Aktualität, Genauigkeit, Vollständigkeit und Konsistenz von Daten. Merkmale sind Eindeutigkeit, Konformität und Widerspruchsfreiheit. Messung erfolgt mit DPMO. Prozess umfasst Sicherung, Analyse, Standardisierung und Bereinigung."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Korrelationskoeffizient: Messung statistischer Beziehungen"
+title: "Korrelationskoeffizient"
 description: "Der Korrelationskoeffizient misst die Stärke einer statistischen Beziehung zwischen zwei Variablen, mit Werten zwischen -1 und +1. Positive Korrelation bedeutet, dass mit Zunahme einer Variable die andere ebenfalls zunimmt, negative das Gegenteil."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Likert-Skala: Messinstrument für Einstellungen"
+title: "Likert-Skala"
 description: "Die Likert-Skala ist ein Messinstrument in der empirischen Sozialforschung zur Messung von Einstellungen und Meinungen. Sie bietet 5-7 symmetrische Antwortmöglichkeiten von starker Ablehnung bis Zustimmung und ist einfach anzuwenden."
 ---
 

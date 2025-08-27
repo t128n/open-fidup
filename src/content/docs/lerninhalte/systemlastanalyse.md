@@ -1,5 +1,5 @@
 ---
-title: "Systemlastanalyse: Überwachung von Ressourcenauslastung"
+title: "Systemlastanalyse"
 description: "Systemlastanalyse untersucht Auslastung von Ressourcen wie CPU, RAM. Ziele Leistungsüberwachung, Kapazitätsplanung. Tools Nagios, Zabbix."
 ---
 

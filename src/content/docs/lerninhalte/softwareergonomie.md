@@ -1,5 +1,5 @@
 ---
-title: "Softwareergonomie: Benutzerfreundliche Softwaregestaltung"
+title: "Softwareergonomie"
 description: "Softwareergonomie optimiert Benutzerfreundlichkeit und Effizienz. Prinzipien benutzerzentriert, Konsistenz, Feedback. Methoden Usability-Tests, Prototyping."
 ---
 

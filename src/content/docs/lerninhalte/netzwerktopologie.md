@@ -1,5 +1,5 @@
 ---
-title: "Netzwerktopologie: Strukturen und Verbindungen in Netzwerken"
+title: "Netzwerktopologie"
 description: "Netzwerktopologie beschreibt die Struktur von Netzwerken, wie Point-to-Point, Bus, Stern, Ring und Mesh. Jede Topologie hat Vor- und Nachteile hinsichtlich Kosten, Ausfallsicherheit und Wartung."
 ---
 

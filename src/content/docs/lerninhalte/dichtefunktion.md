@@ -1,5 +1,5 @@
 ---
-title: "Dichtefunktion: Wahrscheinlichkeitsdichte von Zufallsvariablen"
+title: "Dichtefunktion"
 description: "Dichtefunktion gibt an, wie dicht Werte um einen Punkt verteilt sind. Bei diskreten Zufallsvariablen ist es die Wahrscheinlichkeitsfunktion, bei stetigen die Wahrscheinlichkeitsdichte. Eigenschaften sind Nichtnegativität und Integral über alle Werte gleich 1."
 ---
 

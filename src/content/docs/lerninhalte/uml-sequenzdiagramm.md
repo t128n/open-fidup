@@ -1,5 +1,5 @@
 ---
-title: "UML-Sequenzdiagramm: Chronologische Darstellung von Objektinteraktionen"
+title: "UML-Sequenzdiagramm"
 description: "Das UML-Sequenzdiagramm visualisiert den zeitlichen Ablauf von Nachrichten zwischen Objekten in einem System. Es umfasst Elemente wie Lebenslinien, synchrone und asynchrone Nachrichten sowie Aktivitätsbalken."
 ---
 

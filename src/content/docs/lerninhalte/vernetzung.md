@@ -1,5 +1,5 @@
 ---
-title: "Vernetzung: Verbindung von Geräten und Systemen"
+title: "Vernetzung"
 description: "Vernetzung ermöglicht den Austausch von Daten zwischen Geräten. Arten umfassen LAN, WAN, MAN und VPN. Technologien wie Ethernet, Wi-Fi und Bluetooth bieten Ressourcenteilung, Zugänglichkeit und Skalierbarkeit, erfordern aber Sicherheitsmaßnahmen."
 ---
 

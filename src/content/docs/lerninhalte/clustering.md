@@ -1,5 +1,5 @@
 ---
-title: "Clustering: Gruppierung ähnlicher Datenpunkte"
+title: "Clustering"
 description: "Clustering ist eine Methode zur Gruppierung ähnlicher Datenpunkte in homogene Cluster, die intern ähnlich und extern unterschiedlich sind. Algorithmen wie K-Means und hierarchisches Clustering werden verwendet. Anwendungen sind Kundensegmentierung und Anomalieerkennung. Distanzmaße wie euklidische Distanz sind zentral."
 ---
 

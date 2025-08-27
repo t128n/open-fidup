@@ -1,5 +1,5 @@
 ---
-title: "VPN-Modelle: Sichere Netzwerkverbindungen"
+title: "VPN-Modelle"
 description: "VPNs schaffen sichere Verbindungen über unsichere Netze durch Tunneling und Verschlüsselung. Modelle umfassen End-to-End, End-to-Site und Site-to-Site. Sie bieten Datenschutz, aber können Geschwindigkeit reduzieren."
 ---
 

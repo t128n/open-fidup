@@ -1,5 +1,5 @@
 ---
-title: "UML-Aktivitätsdiagramm: Visualisierung von Prozessabläufen"
+title: "UML-Aktivitätsdiagramm"
 description: "Das UML-Aktivitätsdiagramm stellt den Fluss von Aktivitäten in einem System dar, einschließlich Elemente wie Anfangsknoten, Aktionen und Entscheidungspunkte. Es hilft, komplexe Prozesse zu modellieren und zu verstehen."
 ---
 

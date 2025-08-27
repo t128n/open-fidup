@@ -1,5 +1,5 @@
 ---
-title: "Tunneling: Datenübertragung über Netzwerke"
+title: "Tunneling"
 description: "Tunneling transportiert Daten über Netzwerke durch Einkapselung von Paketen in andere Pakete. Es ermöglicht sichere Verbindungen in VPNs und Übertragung nicht unterstützter Protokolle. Protokolle wie GRE und IPsec werden häufig verwendet."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hashing- und Verschlüsselungsverfahren: Sicherheitsmethoden im Überblick"
+title: "Hashing- und Verschlüsselungsverfahren"
 description: "Hashing-Verfahren wie SHA-256 und Verschlüsselung wie AES schützen Datenintegrität und Vertraulichkeit. Sie werden für digitale Signaturen, Passwortspeicherung und sichere Kommunikation eingesetzt."
 ---
 

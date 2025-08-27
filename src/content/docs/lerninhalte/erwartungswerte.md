@@ -1,5 +1,5 @@
 ---
-title: "Erwartungswerte: Prognose von Zufallsexperimenten"
+title: "Erwartungswerte"
 description: "Erwartungswert ist die Prognose eines Ergebnisses eines Zufallsexperiments, der erwartete Ausgang. Bei diskreten Zufallsvariablen ist es die Summe von Wert mal Wahrscheinlichkeit. Bei stetigen erfolgt Integration. Er beschreibt den durchschnittlichen Ausgang."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ordinalskala: Skalenniveau mit Rangfolge"
+title: "Ordinalskala"
 description: "Die Ordinalskala ermöglicht die Bildung von Rangfolgen und Vergleiche wie größer gleich oder kleiner gleich, aber Abstände lassen sich nicht interpretieren. Sie wird für Bewertungen wie sehr lecker verwendet."
 ---
 

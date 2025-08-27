@@ -1,5 +1,5 @@
 ---
-title: "Penetration Testing: Sicherheitsprüfung von IT-Systemen"
+title: "Penetration Testing"
 description: "Penetration Testing simuliert Angriffe auf IT-Systeme, um Schwachstellen zu identifizieren und die Sicherheit zu bewerten. Es umfasst Phasen wie Planung, Informationsbeschaffung, Scanning und Exploitation. Tools wie Metasploit und Nmap unterstützen diesen Prozess zur Verbesserung der Systemsicherheit."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ist-Analyse: Bewertung des aktuellen Zustands"
+title: "Ist-Analyse"
 description: "Die Ist-Analyse erfasst und bewertet systematisch den aktuellen Zustand eines Unternehmens oder Prozesses, um Schwachstellen und Optimierungspotenziale zu identifizieren. Sie nutzt Methoden wie Interviews, Beobachtung und Analysen in Bereichen wie Aufgaben, Prozesse und Personal."
 ---
 

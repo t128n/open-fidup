@@ -1,5 +1,5 @@
 ---
-title: "MTBF: Mean Time Between Failures"
+title: "MTBF"
 description: "MTBF (Mean Time Between Failures) ist die durchschnittliche Zeit zwischen Ausfällen eines Systems. Es wird zur Berechnung der Verfügbarkeit und Ausfallrate verwendet und ist ein wichtiger Kennwert für Zuverlässigkeit."
 ---
 

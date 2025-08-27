@@ -1,5 +1,5 @@
 ---
-title: "SNMP: Simple Network Management Protocol"
+title: "SNMP"
 description: "SNMP überwacht und steuert Netzwerkgeräte via Manager-Agent-Modell. MIB-Datenbank, Nachrichten wie GET/SET/TRAP. Versionen v1-v3 mit Sicherheitsverbesserungen."
 ---
 

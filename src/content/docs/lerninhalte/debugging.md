@@ -1,5 +1,5 @@
 ---
-title: "Debugging: Identifizierung und Behebung von Softwarefehlern"
+title: "Debugging"
 description: "Debugging ist der Prozess zur Identifizierung und Behebung von Softwarefehlern. Arten sind Syntax-, Laufzeit- und Logikfehler. Methoden sind Print-Debugging, Debugger-Tools und Unit-Tests. Strategien umfassen Reproduzieren, Isolieren und Überprüfen von Annahmen. Best Practices sind Code-Reviews und Dokumentation."
 ---
 

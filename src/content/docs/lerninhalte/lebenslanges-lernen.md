@@ -1,5 +1,5 @@
 ---
-title: "Lebenslanges Lernen: Kontinuierlicher Wissenserwerb"
+title: "Lebenslanges Lernen"
 description: "Lebenslanges Lernen ist ein kontinuierlicher, selbstgesteuerter Prozess des Lernens über die formale Ausbildung hinaus. Es zielt auf Anpassung an verändernde Anforderungen, persönliche Entwicklung und gesellschaftliche Teilhabe ab."
 ---
 

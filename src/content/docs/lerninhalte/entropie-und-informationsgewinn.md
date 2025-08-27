@@ -1,6 +1,5 @@
-
 ---
-title: "Entropie und Informationsgewinn: Grundlagen für Entscheidungsbäume"
+title: "Entropie und Informationsgewinn"
 description: "Entropie misst die Unsicherheit oder Unordnung in einem Datensatz und liegt zwischen 0 und 1. Informationsgewinn berechnet den Unterschied der Entropie vor und nach der Teilung eines Attributs. Das Attribut mit dem höchsten Informationsgewinn ermöglicht die beste Aufteilung für Klassifikation."
 ---
 

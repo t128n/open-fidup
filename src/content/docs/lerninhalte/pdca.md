@@ -1,5 +1,5 @@
 ---
-title: "PDCA: Zyklus für kontinuierliche Verbesserung"
+title: "PDCA"
 description: "PDCA ist ein Vorgehensmodell im kontinuierlichen Verbesserungsprozess mit den Schritten Plan, Do, Check, Act. Es ermöglicht die systematische Entwicklung von Produkten und Fehleranalyse."
 ---
 

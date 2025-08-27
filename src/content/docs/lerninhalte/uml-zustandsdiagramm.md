@@ -1,5 +1,5 @@
 ---
-title: "UML-Zustandsdiagramm: Lebenszyklus von Objekten"
+title: "UML-Zustandsdiagramm"
 description: "Das UML-Zustandsdiagramm visualisiert Zustände eines endlichen Automaten und den Lebenszyklus von Objekten. Es enthält Anfangszustand, Endzustand und Zwischenzustände mit Transitionen. Ereignisse wie entry, exit und do lösen Zustandswechsel aus."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Smart Grid: Intelligentes Stromnetz"
+title: "Smart Grid"
 description: "Smart Grid integriert digitale Technologien und intelligente Geräte zur Verbesserung der Energieversorgung. Komponenten wie intelligente Zähler und dezentrale Erzeugung erhöhen Effizienz und Zuverlässigkeit. Herausforderungen umfassen Sicherheitsrisiken und hohe Investitionen."
 ---
 

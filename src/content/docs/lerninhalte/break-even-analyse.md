@@ -1,5 +1,5 @@
 ---
-title: "Break-even Analyse: Wirtschaftlichkeit von Investitionen"
+title: "Break-even Analyse"
 description: "Die Break-even Analyse untersucht die Wirtschaftlichkeit einer Investition, indem sie den Zeitpunkt berechnet, ab dem Gewinn erzielt wird. Die Formel ist Investitionskosten geteilt durch Differenz der alten und neuen Kosten. Beispiel ist die Einführung neuer Software mit Berechnung der Amortisationsdauer."
 ---
 

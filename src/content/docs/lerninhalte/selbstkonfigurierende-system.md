@@ -1,5 +1,5 @@
 ---
-title: "Selbstkonfigurierende Systeme: Automatische Anpassung"
+title: "Selbstkonfigurierende Systeme"
 description: "Selbstkonfigurierende Systeme passen Konfiguration automatisch an. Vorteile reduzierter Aufwand, Fehlerreduktion. Anwendungen Cloud, Netzwerk, IoT."
 ---
 

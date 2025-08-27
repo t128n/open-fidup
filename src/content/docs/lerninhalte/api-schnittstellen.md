@@ -1,5 +1,5 @@
 ---
-title: "API-Schnittstellen: Anwendungsschnittstellen für Softwareentwicklung"
+title: "API-Schnittstellen"
 description: "API-Schnittstellen ermöglichen die Anbindung von Programmen an Softwaresysteme und unterscheiden sich von ABIs durch Definition auf Quelltext-Ebene. Sie umfassen funktions-, datei-, objekt- und protokollorientierte Typen und bieten Zugriff auf Datenbanken, Hardware und GUI-Komponenten. Gut dokumentierte APIs erhöhen die Attraktivität des Systems und unterstützen Drittanbieter-Software."
 ---
 

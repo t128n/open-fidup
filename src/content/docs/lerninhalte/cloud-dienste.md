@@ -1,5 +1,5 @@
 ---
-title: "Cloud-Dienste: Lizenz- und Vertriebsmodelle"
+title: "Cloud-Dienste"
 description: "Cloud-Dienste umfassen Modelle wie SaaS, IaaS, PaaS und XaaS, die Software, Infrastruktur und Plattformen als Service anbieten. Vorteile sind geringere Kosten und Skalierbarkeit, Nachteile sind eingeschränkte Kontrolle und Abhängigkeit vom Internet. Beispiele sind DaaS und DBaaS."
 ---
 

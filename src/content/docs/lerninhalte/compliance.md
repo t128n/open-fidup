@@ -1,5 +1,5 @@
 ---
-title: "Compliance: Einhaltung von Gesetzen und Standards"
+title: "Compliance"
 description: "Compliance bezeichnet die Einhaltung von Gesetzen, Vorschriften, Standards und internen Richtlinien zur Minimierung von Risiken. Arten sind regulatorische, Normen-, interne und Ethik-Compliance. Anforderungen umfassen Dokumentation, Schulung und Überwachung. Vorteile sind Risikominimierung und Vertrauensaufbau."
 ---
 

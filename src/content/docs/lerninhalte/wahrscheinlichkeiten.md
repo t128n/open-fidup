@@ -1,5 +1,5 @@
 ---
-title: "Wahrscheinlichkeiten: Grundlagen der Stochastik"
+title: "Wahrscheinlichkeiten"
 description: "Wahrscheinlichkeiten messen die Chance von Ereignissen in Zufallsexperimenten. Regeln wie Addition und Multiplikation helfen bei Berechnungen, abhängig von Unabhängigkeit oder Bedingungen."
 ---
 

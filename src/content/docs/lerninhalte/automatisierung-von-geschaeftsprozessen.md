@@ -1,5 +1,5 @@
 ---
-title: "Automatisierung von Geschäftsprozessen: Optimierung manueller Abläufe"
+title: "Automatisierung von Geschäftsprozessen"
 description: "Die Automatisierung von Geschäftsprozessen setzt Technologien ein, um manuelle Aufgaben zu optimieren und zu beschleunigen. Ziele sind Effizienzsteigerung, Fehlerreduktion und Kostensenkung. Schritte umfassen Bedarfsanalyse, Implementierung und Monitoring. Beispiele sind Rechnungsstellung und Kundenservice."
 ---
 

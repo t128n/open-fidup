@@ -1,5 +1,5 @@
 ---
-title: "UML-Anwendungsfalldiagramm: Akteure und Anwendungsfälle"
+title: "UML-Anwendungsfalldiagramm"
 description: "Das UML-Anwendungsfalldiagramm modelliert Struktur und Verhalten von Software, zeigt Akteure und Anwendungsfälle mit Beziehungen. Es unterstützt Kommunikation zwischen Auftraggeber und Entwickler. Elemente umfassen Systemgrenzen, Akteure und Beziehungen wie Include und Extend."
 ---
 

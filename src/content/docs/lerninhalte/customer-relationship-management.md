@@ -1,5 +1,5 @@
 ---
-title: "Customer Relationship Management: Kundenbeziehungsmanagement"
+title: "Customer Relationship Management"
 description: "CRM bezeichnet Strategien, Technologien und Praktiken zur Verwaltung von Interaktionen mit Kunden zur Erhöhung der Zufriedenheit und Bindung. Funktionen umfassen Datenmanagement, Segmentierung und Interaktionsmanagement. Vorteile sind verbesserte Effizienz und datenbasierte Entscheidungen. Herausforderungen sind Datenqualität und Integration."
 ---
 

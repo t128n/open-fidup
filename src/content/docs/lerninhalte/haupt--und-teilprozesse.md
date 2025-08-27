@@ -1,5 +1,5 @@
 ---
-title: "Haupt- und Teilprozesse: Struktur der Wertschöpfungskette"
+title: "Haupt- und Teilprozesse"
 description: "Hauptprozesse sind die Kernaktivitäten eines Unternehmens zur Wertschöpfung, während Teilprozesse unterstützende Funktionen übernehmen. Sie definieren den Unternehmenszweck und die Abläufe."
 ---
 

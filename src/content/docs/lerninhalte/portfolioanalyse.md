@@ -1,5 +1,5 @@
 ---
-title: "Portfolioanalyse: Strategische Bewertung von Produkten und Dienstleistungen"
+title: "Portfolioanalyse"
 description: "Portfolioanalyse bewertet Produkte und Dienstleistungen strategisch, um Vorgehensweisen zu planen. Die Boston Matrix teilt Produkte in Kategorien wie Cash Cows und Stars ein. Sie bietet eine einfache Übersicht über Marktpositionen und Konkurrenz."
 ---
 

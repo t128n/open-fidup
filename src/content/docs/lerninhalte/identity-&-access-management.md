@@ -1,5 +1,5 @@
 ---
-title: "Identity & Access Management: Sicherer Zugriff auf Ressourcen"
+title: "Identity & Access Management"
 description: "Identity & Access Management (IAM) verwaltet digitale Identitäten und Zugriffsrechte, um Sicherheit zu gewährleisten. Es umfasst Authentifizierung, Zugriffssteuerung und Überwachung zur Minimierung von Risiken."
 ---
 

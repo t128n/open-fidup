@@ -1,5 +1,5 @@
 ---
-title: "SWOT-Analyse: Strategische Unternehmensbewertung"
+title: "SWOT-Analyse"
 description: "SWOT-Analyse bewertet interne Stärken und Schwächen sowie externe Chancen und Risiken eines Unternehmens. Sie hilft bei der Entwicklung von Strategien durch Kombination der Faktoren. Einfach durchzuführen, aber subjektiv und nicht quantitativ."
 ---
 

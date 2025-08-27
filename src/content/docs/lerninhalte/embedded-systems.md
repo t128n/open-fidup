@@ -1,5 +1,5 @@
 ---
-title: "Einführung in Embedded Systems: Funktionen, Anwendungen und Herausforderungen"
+title: "Embedded Systems"
 description: "Embedded Systems sind spezialisierte Computer, die in andere Geräte integriert sind, um spezifische Funktionen auszuführen. Sie zeichnen sich durch Echtzeitbetrieb, Ressourcenschonung und hohe Zuverlässigkeit aus. Anwendungsbereiche umfassen Automobilindustrie, Medizintechnik und Industrieautomation."
 ---
 

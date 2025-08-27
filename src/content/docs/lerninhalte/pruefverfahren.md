@@ -1,5 +1,5 @@
 ---
-title: "Prüfverfahren: Parität und Redundanz zur Datenüberprüfung"
+title: "Prüfverfahren"
 description: "Prüfverfahren wie Parität und Redundanz stellen Korrektheit und Konsistenz von Daten sicher. Parität vergleicht Implementierungen, Redundanz nutzt zusätzliche Komponenten. Beide erhöhen Zuverlässigkeit, erfordern aber Ressourcen."
 ---
 

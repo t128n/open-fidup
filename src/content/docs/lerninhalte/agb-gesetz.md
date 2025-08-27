@@ -1,5 +1,5 @@
 ---
-title: "AGB-Gesetz: Allgemeine Geschäftsbedingungen im deutschen Recht"
+title: "AGB-Gesetz"
 description: "Das AGB-Gesetz regelt vorformulierte Vertragsbedingungen im deutschen Recht und definiert Voraussetzungen für ihre Gültigkeit. Es schützt Verbraucher vor unangemessenen Klauseln und legt Transparenz- und Benachteiligungsverbote fest. Die Kenntnis des Gesetzes ist essenziell für rechtssichere Vertragsgestaltung."
 ---
 

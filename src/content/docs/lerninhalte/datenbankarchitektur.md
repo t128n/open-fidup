@@ -1,5 +1,5 @@
 ---
-title: "Datenbankarchitektur: Stand-Alone und Multi-User-Systeme"
+title: "Datenbankarchitektur"
 description: "Datenbankarchitektur umfasst Stand-Alone für Einzelplatzanwendungen und Multi-User für Client-Server mit Konkurrenzverwaltung wie Optimistic und Pessimistic Locking. Komponenten sind Benutzeroberfläche, Datenmodul, Datenquelle, Datenmenge und Datenverbindung. Sie ermöglicht effiziente Datenverwaltung."
 ---
 

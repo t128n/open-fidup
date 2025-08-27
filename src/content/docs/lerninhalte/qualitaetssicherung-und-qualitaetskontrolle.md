@@ -1,5 +1,5 @@
 ---
-title: "Qualitätssicherung und Qualitätskontrolle: Datenqualitätsmanagement"
+title: "Qualitätssicherung und Qualitätskontrolle"
 description: "Qualitätssicherung ist prozessbezogen und vorbeugend, Qualitätskontrolle produktbezogen und nachsorgend. Beide umfassen Methoden wie Validierung und Tests. Wirtschaftliche Aspekte wie Kosten-Nutzen sind zu berücksichtigen."
 ---
 

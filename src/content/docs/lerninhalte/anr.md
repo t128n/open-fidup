@@ -1,5 +1,5 @@
 ---
-title: "ANR: Ausfallrate nach Reparatur"
+title: "ANR"
 description: "ANR misst die Wahrscheinlichkeit eines erneuten Ausfalls kurz nach einer Reparatur und ist ein wichtiger Kennzahl im Risikomanagement. Sie hilft bei der Identifikation von Schwachstellen in Systemen und ermöglicht gezielte Verbesserungsmaßnahmen. Die Berechnung erfolgt durch Division der Anzahl der Ausfälle nach Reparatur durch die Gesamtzahl der Reparaturen."
 ---
 

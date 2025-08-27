@@ -1,5 +1,5 @@
 ---
-title: "Datensorgfalt: Verantwortungsvolle Handhabung von Daten"
+title: "Datensorgfalt"
 description: "Datensorgfalt bezieht sich auf die verantwortungsvolle Handhabung von Daten während ihres Lebenszyklus. Sie umfasst Datenqualität, Datenschutz und Datenminimierung. Maßnahmen sind Validierungen, Verschlüsselung und Schulungen. Vorteile sind Schutz der Privatsphäre und rechtliche Sicherheit."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Prozessindikatoren: Messgrößen für Prozesse"
+title: "Prozessindikatoren"
 description: "Prozessindikatoren messen Verlauf, Effizienz und Qualität von Prozessen. Sie umfassen Input-, Output- und Outcome-Indikatoren. Gute Indikatoren sind messbar, relevant und verfügbar, um Optimierungspotenziale zu identifizieren."
 ---
 

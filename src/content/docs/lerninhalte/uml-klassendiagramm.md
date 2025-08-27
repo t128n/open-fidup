@@ -1,5 +1,5 @@
 ---
-title: "UML-Klassendiagramm: Struktur objektorientierter Systeme"
+title: "UML-Klassendiagramm"
 description: "UML-Klassendiagramm zeigt Klassen, Attribute, Methoden, Beziehungen. Elemente Generalisierung, Assoziation, Aggregation, Komposition."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quadratisches Mittel: Statistische Maßzahl für Durchschnittswerte"
+title: "Quadratisches Mittel"
 description: "Das quadratische Mittel (RMS) berechnet den Durchschnitt durch Quadrieren der Werte. Es wird in Physik, Statistik und Ingenieurwesen verwendet. Es ist größer als das arithmetische Mittel und empfindlich gegenüber Ausreißern."
 ---
 

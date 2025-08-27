@@ -1,5 +1,5 @@
 ---
-title: "Plausibilitätskontrollen: Sicherstellung der Datenqualität"
+title: "Plausibilitätskontrollen"
 description: "Plausibilitätskontrollen prüfen die Glaubwürdigkeit und Konsistenz von Daten, um Fehler zu erkennen. Sie umfassen Wertebereichs-, Format- und logische Prüfungen. Automatisierte Implementierung verbessert die Entscheidungsgrundlage und vermeidet Folgefehler."
 ---
 

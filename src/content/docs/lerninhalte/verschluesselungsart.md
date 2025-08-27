@@ -1,5 +1,5 @@
 ---
-title: "Verschlüsselungsarten: Symmetrisch und Asymmetrisch"
+title: "Verschlüsselungsarten"
 description: "Verschlüsselung schützt Daten durch symmetrische Methoden mit einem gemeinsamen Schlüssel oder asymmetrische mit Schlüsselpaaren. Symmetrische Verschlüsselung ist schnell für große Datenmengen, asymmetrische für Sicherheit und Authentifizierung. Hybride Ansätze kombinieren beide für optimale Effizienz und Schutz."
 ---
 

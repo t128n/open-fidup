@@ -1,5 +1,5 @@
 ---
-title: "Ablaufverfolgung: Technik zur Programmüberwachung"
+title: "Ablaufverfolgung"
 description: "Ablaufverfolgung ist eine Technik zur Überwachung und Analyse des Programmablaufs zur Identifikation von Fehlern und Verbesserung der Softwarequalität. Sie umfasst manuelle und automatisierte Methoden sowie Tracing-Frameworks für strukturierte Protokollierung. Best Practices beinhalten konsistente Protokollierung und regelmäßige Überprüfung der Logs."
 ---
 

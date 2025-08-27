@@ -1,5 +1,5 @@
 ---
-title: "Programmiersprachen: Auswahlkriterien und Vergleich"
+title: "Programmiersprachen"
 description: "Programmiersprachen unterscheiden sich in Performance, Portabilität und Frameworks. Kompilierte Sprachen bieten hohe Effizienz, interpretierte Sprachen Einfachheit. Die Wahl hängt von Projektanforderungen, Entwickler-Know-how und verfügbaren Tools ab."
 ---
 

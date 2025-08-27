@@ -1,5 +1,5 @@
 ---
-title: "TCP und UDP: Transportschicht-Protokolle"
+title: "TCP und UDP"
 description: "TCP ist verbindungsorientiert, garantiert Datenübertragung und Reihenfolge, ideal für E-Mail und Downloads. UDP ist verbindungslos, schneller und effizienter für Streaming und Spiele. Beide Protokolle haben unterschiedliche Header-Größen und Fehlererkennung."
 ---
 

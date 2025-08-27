@@ -1,5 +1,5 @@
 ---
-title: "Schadenspotenziale von IT-Sicherheitsvorfällen: Risiken und Prävention"
+title: "Schadenspotenziale von IT-Sicherheitsvorfällen"
 description: "IT-Sicherheitsvorfälle gefährden Vertraulichkeit, Integrität und Verfügbarkeit. Schadenspotenziale umfassen Imageschaden, wirtschaftliche Verluste und Datenverlust, mit Präventionsmaßnahmen wie Kommunikation, Risikomanagement und Backups."
 ---
 

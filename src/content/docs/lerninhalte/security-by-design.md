@@ -1,5 +1,5 @@
 ---
-title: "Security by Design: Sicherheit in der Softwareentwicklung"
+title: "Security by Design"
 description: "Security by Design integriert Sicherheitsaspekte von Anfang an in den Entwicklungsprozess. Prinzipien wie frühe Integration und Risikoanalyse minimieren Angriffsflächen. Vorteile sind frühe Fehlererkennung und erhöhte Sicherheit."
 ---
 

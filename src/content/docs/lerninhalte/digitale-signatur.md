@@ -1,5 +1,5 @@
 ---
-title: "Digitale Signatur: Authentifizierung und Integrität"
+title: "Digitale Signatur"
 description: "Digitale Signatur ermöglicht Authentifizierung, Integrität und Vertraulichkeit durch Zertifikate. Notwendigkeit besteht für Online-Transaktionen. Umsetzung umfasst Zertifizierungsstellen, Zertifikatstypen und Verwaltung. Typen sind SSL/TLS, Code Signing und S/MIME."
 ---
 

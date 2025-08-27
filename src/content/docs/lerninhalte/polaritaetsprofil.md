@@ -1,5 +1,5 @@
 ---
-title: "Polaritätsprofil: Methode zur Einstellungsmessung"
+title: "Polaritätsprofil"
 description: "Das Polaritätsprofil, auch semantisches Differential genannt, misst Einstellungen mittels Gegensatzpaaren auf einer Likert-Skala. Es wird in Marktforschung und Umfragen eingesetzt, um differenzierte Antworten zu erhalten. Vorteile liegen in der tiefgründigen Analyse, Nachteile in möglichen Missverständnissen."
 ---
 

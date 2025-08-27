@@ -1,5 +1,5 @@
 ---
-title: "Datenmengen: SI- und IEC-Einheiten"
+title: "Datenmengen"
 description: "Datenmengen werden in SI-Einheiten wie kB, MB, GB und IEC-Einheiten wie KiB, MiB, GiB gemessen. SI ist dezimal, IEC binär. Formel zur Umrechnung ist Zahl geteilt durch Fremdfaktor mal Eigenfaktor. Wichtig für Speicherung und Übertragung."
 ---
 

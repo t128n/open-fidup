@@ -1,5 +1,5 @@
 ---
-title: "Hardwaretechnische Absicherung: Physische Sicherheit von IT-Systemen"
+title: "Hardwaretechnische Absicherung"
 description: "Hardwaretechnische Absicherung umfasst Zugangskontrolle, Videoüberwachung, physische Barrieren und Alarmanlagen. Sie schützt vor unbefugtem Zugriff und beinhaltet Schulungen sowie Notfallpläne für Mitarbeiter."
 ---
 

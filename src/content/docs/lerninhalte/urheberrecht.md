@@ -1,5 +1,5 @@
 ---
-title: "Urheberrecht: Schutz kreativer Leistungen"
+title: "Urheberrecht"
 description: "Urheberrecht schützt Werke von Autoren und Entwicklern. Rechte wie Vervielfältigung, Lizenzen. Verletzungen und praktische Anwendung in Fachinformatik."
 ---
 

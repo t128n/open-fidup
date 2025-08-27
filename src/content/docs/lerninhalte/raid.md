@@ -1,5 +1,5 @@
 ---
-title: "RAID: Redundant Array of Independent Disks"
+title: "RAID"
 description: "RAID kombiniert Festplatten für höhere Leistung und Sicherheit. Levels wie RAID 0 für Geschwindigkeit, RAID 1 für Spiegelung, RAID 5 für Parität. Formeln berechnen Kapazität, Hot-Spare und Cold-Standby bieten Redundanz."
 ---
 

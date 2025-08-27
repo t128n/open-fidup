@@ -1,5 +1,5 @@
 ---
-title: "Bash: Unix-Shell und Kommandozeilen-Interpreter"
+title: "Bash"
 description: "Bash ist eine Unix-Shell und Kommandozeilen-Interpreter, die als Standard in vielen Linux-Distributionen und macOS verwendet wird. Sie ermöglicht die Ausführung von Befehlen, Skripten und Automatisierung von Aufgaben. Wichtige Befehle sind ls, cd, pwd, cp, mv, rm, echo, cat. Variablen, Kontrollstrukturen und Funktionen sind zentrale Elemente."
 ---
 

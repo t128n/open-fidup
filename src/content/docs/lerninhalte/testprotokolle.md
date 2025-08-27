@@ -1,5 +1,5 @@
 ---
-title: "Testprotokolle: Dokumentation von Softwaretests"
+title: "Testprotokolle"
 description: "Testprotokolle dokumentieren Softwaretestaktivitäten, einschließlich Umgebung, Daten und Ergebnisse. Sie dienen der Nachverfolgbarkeit, Kommunikation und Compliance. Trotz Zeitaufwands bieten sie Transparenz und unterstützen Qualitätssicherung."
 ---
 

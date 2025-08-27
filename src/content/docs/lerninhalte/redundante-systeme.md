@@ -1,5 +1,5 @@
 ---
-title: "Redundante Systeme: Zuverlässigkeit durch Mehrfachauslegung"
+title: "Redundante Systeme"
 description: "Redundante Systeme verwenden zusätzliche Komponenten für Verfügbarkeit und Zuverlässigkeit. Arten wie Hardware-, Software- und Datenredundanz. Vorteile sind Zuverlässigkeit, Nachteile Kosten und Komplexität."
 ---
 

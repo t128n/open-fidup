@@ -1,5 +1,5 @@
 ---
-title: "AP2 Themenübersicht: Fachrichtungsübergreifende Fertigkeiten"
+title: "AP2 Themenübersicht"
 description: "Die AP2 Themenübersicht umfasst fachrichtungsübergreifende berufsprofilgebende Fertigkeiten wie Kundenberatung, Beurteilung von IT-Systemen, Entwicklung von IT-Lösungen und Qualitätssicherung. Sie deckt auch Daten- und Prozessanalyse, Programmieren von Softwarelösungen sowie Wirtschafts- und Sozialkunde ab. Dieser Leitfaden hilft bei der Vorbereitung auf die Ausbildungsprüfung."
 ---
 

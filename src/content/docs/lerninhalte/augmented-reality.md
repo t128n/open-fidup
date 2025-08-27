@@ -1,5 +1,5 @@
 ---
-title: "Augmented Reality: Integration digitaler Inhalte in die reale Welt"
+title: "Augmented Reality"
 description: "Augmented Reality integriert digitale Informationen und Objekte in die reale Welt, um die Wahrnehmung zu erweitern. Sie nutzt Hardware wie Smartphones und Software für Tracking. Anwendungen umfassen Bildung, Medizin und Gaming. Vorteile sind verbesserte Benutzererfahrung und Effizienzsteigerung."
 ---
 

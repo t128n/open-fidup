@@ -1,5 +1,5 @@
 ---
-title: "Vertriebsmodelle: Kaufen, Leasing und Mieten"
+title: "Vertriebsmodelle"
 description: "Vertriebsmodelle wie Kaufen (Eigentum, hohe Investition), Leasing (niedrige Raten, kein Eigentum), Mieten (Flexibilität, keine Wartung). Vorteile/Nachteile je Modell."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ethernet: Technologie für lokale Netzwerke"
+title: "Ethernet"
 description: "Ethernet ist eine weit verbreitete Technologie für lokale Netzwerke, definiert im IEEE 802.3 Standard. Es verwendet CSMA/CD als Zugriffsverfahren. Daten werden in Frames übertragen. Vorteile sind hohe Geschwindigkeit und Zuverlässigkeit. Nachteile sind begrenzte Reichweite und Kollisionen."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Prozessschnittstellen: Übergabepunkte zwischen Prozessen"
+title: "Prozessschnittstellen"
 description: "Prozessschnittstellen definieren Übergabepunkte für Informationsaustausch zwischen Systemen. Sie umfassen technische, organisatorische und menschliche Schnittstellen. Herausforderungen sind Kompatibilität, Best Practices fördern Standardisierung und Dokumentation."
 ---
 

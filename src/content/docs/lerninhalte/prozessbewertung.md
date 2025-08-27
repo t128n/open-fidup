@@ -1,5 +1,5 @@
 ---
-title: "Prozessbewertung: Quantitative und Qualitative Methoden"
+title: "Prozessbewertung"
 description: "Prozessbewertung nutzt Kennzahlen, statistische Verfahren und Feedback zur Analyse von Effizienz. Quantitative Methoden messen Durchlaufzeiten, qualitative erfassen Zufriedenheit. Kombinierte Ansätze wie Nutzwertanalyse ermöglichen ganzheitliche Bewertung."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "BPMN: Business Process Modelling Notation"
+title: "BPMN"
 description: "BPMN ist eine grafische Notation zur Modellierung von Geschäftsprozessen, die Abläufe visualisiert und analysiert. Grundelemente sind Ereignisse, Aktivitäten, Gateways und Verbindungen. Sie unterstützt Prozessoptimierung und Automatisierung. Herausforderungen sind Komplexität und Schulungsbedarf."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hashing: Kryptografische Methode zur Datensicherheit"
+title: "Hashing"
 description: "Hashing wandelt Daten in feste Hashwerte um, die für Integritätsprüfungen, Authentifizierung und Duplikatsuche verwendet werden. Eigenschaften wie Determinismus und Kollisionssicherheit machen es sicher."
 ---
 

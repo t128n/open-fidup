@@ -1,6 +1,6 @@
 
 ---
-title: "Load Balancing: Verteilung von Rechenlasten"
+title: "Load Balancing"
 description: "Load Balancing verteilt Rechenlasten auf mehrere Server, um die Belastung zu reduzieren und die Performance zu erhöhen. Es verwendet statische oder dynamische Algorithmen wie Round-Robin oder Least Connection für effiziente Lastverteilung."
 ---
 

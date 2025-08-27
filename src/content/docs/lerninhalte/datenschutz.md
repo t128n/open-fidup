@@ -1,5 +1,5 @@
 ---
-title: "Datenschutz: Schutz personenbezogener Daten"
+title: "Datenschutz"
 description: "Datenschutz umfasst rechtliche, technische und organisatorische Maßnahmen zum Schutz personenbezogener Daten. Grundprinzipien sind Rechtmäßigkeit, Zweckbindung und Datenminimierung. Maßnahmen sind Verschlüsselung und Schulung. DSGVO regelt Rechte wie Auskunft und Löschung."
 ---
 

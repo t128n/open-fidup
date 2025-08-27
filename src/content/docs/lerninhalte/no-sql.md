@@ -1,5 +1,5 @@
 ---
-title: "NoSQL: Nicht-relationale Datenbanksysteme"
+title: "NoSQL"
 description: "NoSQL-Datenbanken sind nicht-relationale Systeme, die für Skalierbarkeit und Flexibilität bei großen Datenmengen entwickelt wurden. Sie umfassen Typen wie dokumentenorientiert, spaltenorientiert und Key-Value Stores mit Eventual Consistency."
 ---
 

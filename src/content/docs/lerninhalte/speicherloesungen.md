@@ -1,6 +1,6 @@
 
 ---
-title: "Speicherlösungen: DAS, SAN, NAS und Speichertechniken"
+title: "Speicherlösungen"
 description: "Speicherlösungen umfassen DAS für direkten Anschluss, SAN für Netzwerk-Storage und NAS für Datei-Storage. Techniken sind File, Block und Object Storage mit unterschiedlichen Vor- und Nachteilen für verschiedene Anwendungen."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Prozesslandkarten: Darstellung der Ablauforganisation"
+title: "Prozesslandkarten"
 description: "Prozesslandkarten zeigen die Ablauforganisation eines Unternehmens mit Kern-, Führungs- und Supportprozessen. Sie gliedern Leistungsprozesse, Management und Unterstützung. Dies schafft Übersicht über interne Abläufe und Wertschöpfung."
 ---
 

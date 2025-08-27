@@ -1,5 +1,5 @@
 ---
-title: "Ishikawa-Diagramm: Ursachenanalyse mit Fischgrätendiagramm"
+title: "Ishikawa-Diagramm"
 description: "Das Ishikawa-Diagramm, auch Fischgrätendiagramm genannt, analysiert Ursachen von Problemen in 7 Bereichen: Menschen, Maschinen, Material, Methoden, Mitwelt, Messung und Management. Es hilft bei der systematischen Problemlösung."
 ---
 

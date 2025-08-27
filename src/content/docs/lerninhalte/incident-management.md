@@ -1,5 +1,5 @@
 ---
-title: "Incident Management: Behebung von IT-Vorfällen"
+title: "Incident Management"
 description: "Incident Management identifiziert, analysiert und behebt Vorfälle, die den IT-Betrieb stören. Ziel ist die Minimierung von Ausfallzeiten, Erhöhung der Kundenzufriedenheit und Prävention zukünftiger Probleme."
 ---
 

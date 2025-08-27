@@ -1,5 +1,5 @@
 ---
-title: "Mock-up: Vorführmodell für Design und Funktionen"
+title: "Mock-up"
 description: "Ein Mock-up ist ein Vorführmodell oder Demonstrationsmodell, das Design und Teilfunktionen eines geplanten Produkts demonstriert. Es wird in frühen Entwicklungsphasen verwendet, um Anforderungen an die Benutzeroberfläche zu ermitteln."
 ---
 

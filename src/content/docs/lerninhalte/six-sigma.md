@@ -1,5 +1,5 @@
 ---
-title: "Six Sigma: Systematische Prozessoptimierung und Qualitätsmanagement"
+title: "Six Sigma"
 description: "Six Sigma ist ein mathematisches Verfahren zur Prozessoptimierung, das Fehlerquoten reduziert und Kundenzufriedenheit steigert. Es verwendet den DMAIC-Zyklus und Rollen wie Green Belt und Black Belt für nachhaltige Verbesserungen."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Überwachtes und nicht-überwachtes Lernen: Grundlagen des maschinellen Lernens"
+title: "Überwachtes und nicht-überwachtes Lernen"
 description: "Überwachtes Lernen trainiert Modelle mit gekennzeichneten Daten für Vorhersagen, während unüberwachtes Lernen Muster in unbeschrifteten Daten erkennt. Beide Ansätze haben unterschiedliche Anwendungen und Herausforderungen."
 ---
 

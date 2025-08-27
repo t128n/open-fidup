@@ -1,5 +1,5 @@
 ---
-title: "SCRUM: Agiles Projektmanagement-Framework"
+title: "SCRUM"
 description: "SCRUM ist ein agiles Framework für selbstorganisierte Teams, das empirisch, inkrementell und iterativ arbeitet. Es verwendet Sprints, Rollen wie Product Owner und Scrum Master sowie Artefakte wie Product Backlog. Vorteile sind geringer Administrationsaufwand, Nachteile hoher Kommunikationsbedarf."
 ---
 

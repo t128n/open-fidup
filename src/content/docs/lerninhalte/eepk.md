@@ -1,5 +1,5 @@
 ---
-title: "eEPK: Erweiterte Ereignisgesteuerte Prozesskette"
+title: "eEPK"
 description: "eEPK ist zur Modellierung von Geschäftsprozessen geeignet. Regeln sind Beginn und Ende mit Ereignis, Wechsel von Ereignis und Funktion, Konnektoren. Elemente sind Ereignis, Funktion, Konnektoren, Kontrollfluss, Prozesswegweiser, Organisationseinheit, Daten, Programm, Anwendungssystem."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Soll-Ist-Vergleich: Controlling-Instrument"
+title: "Soll-Ist-Vergleich"
 description: "Der Soll-Ist-Vergleich vergleicht geplante Soll-Zustände mit tatsächlichen Ist-Zuständen im Controlling. Abweichungen werden analysiert, um Ursachen zu identifizieren und Maßnahmen zu ergreifen. Methoden wie SWOT-Analyse unterstützen die Ursachenanalyse."
 ---
 

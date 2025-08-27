@@ -1,5 +1,5 @@
 ---
-title: "Regression: Vorhersage von Variablen"
+title: "Regression"
 description: "Regression ist ein überwachte Lernmethode zur Vorhersage einer abhängigen Variable durch unabhängige Variablen. Formen umfassen lineare, multiple und logistische Regression. Berechnung erfolgt durch Minimierung der Kostenfunktion mit Gradientenabstieg."
 ---
 

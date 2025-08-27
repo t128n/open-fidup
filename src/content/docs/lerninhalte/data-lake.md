@@ -1,5 +1,5 @@
 ---
-title: "Data Lake: Zentraler Speicher für Rohdaten"
+title: "Data Lake"
 description: "Data Lake ist ein zentraler Speicher für große Mengen unstrukturierter und strukturierter Rohdaten in ihrem ursprünglichen Format. Er ermöglicht Speicherung und Analyse aus verschiedenen Quellen ohne ETL-Prozess. Anwendungen sind Berichterstellung, Visualisierung und maschinelles Lernen. Vorteile sind Flexibilität und Skalierbarkeit, Nachteile sind Datenqualität und Komplexität."
 ---
 

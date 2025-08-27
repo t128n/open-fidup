@@ -1,5 +1,5 @@
 ---
-title: "Support Vector Machine: Klassifikationsalgorithmus"
+title: "Support Vector Machine"
 description: "SVM ist ein überwachte Lernmethode zur Klassifikation, besonders für kleine Datensätze. Sie findet einen optimalen Hyperplane zur Trennung von Klassen, verwendet Kernel-Trick für nicht-lineare Daten und maximiert den Gap für bessere Generalisierung."
 ---
 

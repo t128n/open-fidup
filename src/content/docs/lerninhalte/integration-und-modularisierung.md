@@ -1,5 +1,5 @@
 ---
-title: "Integration und Modularisierung: Systemarchitektur-Prinzipien"
+title: "Integration und Modularisierung"
 description: "Integration verbindet Systeme für einheitliche Funktionalität, während Modularisierung Systeme in wiederverwendbare Module aufteilt. Beide Ansätze verbessern Wartbarkeit, Effizienz und Erweiterbarkeit, bergen aber Herausforderungen wie Komplexität."
 ---
 

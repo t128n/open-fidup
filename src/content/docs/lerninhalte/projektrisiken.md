@@ -1,5 +1,5 @@
 ---
-title: "Projektrisiken: Identifikation und Management"
+title: "Projektrisiken"
 description: "Projektrisiken sind potenzielle Ereignisse mit negativen Auswirkungen auf Ziele. Sie werden identifiziert, analysiert und durch Vermeidung, Minderung oder Transfer bewältigt. Regelmäßiges Monitoring ist essenziell für den Projekterfolg."
 ---
 

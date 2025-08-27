@@ -1,5 +1,5 @@
 ---
-title: "Fog-Computing: Dezentrale Datenverarbeitung"
+title: "Fog-Computing"
 description: "Fog-Computing ist eine Cloud-Technologie, bei der Endgeräte Daten in Fog Nodes vorverarbeiten, die dann in die Cloud geladen werden. Layer sind Edge, Fog und Cloud. Vorteile sind weniger Netzwerk-Traffic und geringe Latenz. Nachteile sind steigender Wartungsbedarf und höhere Hardware-Kosten."
 ---
 

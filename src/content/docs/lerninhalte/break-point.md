@@ -1,5 +1,5 @@
 ---
-title: "Breakpoint: Debugging-Tool zur Programmunterbrechung"
+title: "Breakpoint"
 description: "Ein Breakpoint ist ein spezieller Punkt im Quellcode, an dem der Debugger die Ausführung anhält, um den Zustand zu untersuchen. Arten sind einfacher, bedingter, Funktions- und Hit Count Breakpoint. Verwendung zur Fehlerdiagnose und Variableninspektion. Vorteile sind Effizienz und Flexibilität, Herausforderungen sind Übermäßiger Einsatz und Performance-Einfluss."
 ---
 

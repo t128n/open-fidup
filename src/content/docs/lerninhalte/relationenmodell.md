@@ -1,5 +1,5 @@
 ---
-title: "Relationenmodell: Datenbankmodell für relationale Datenbanken"
+title: "Relationenmodell"
 description: "Das Relationenmodell überführt das ERM in eine Form für relationale Datenbanken. Vergleich ERM und RM mit Tabellen. Merkmale wie atomare Attribute und Primärschlüssel."
 ---
 

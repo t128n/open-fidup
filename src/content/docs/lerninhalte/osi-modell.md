@@ -1,5 +1,5 @@
 ---
-title: "OSI-Modell: Referenzmodell für Netzwerkprotokolle"
+title: "OSI-Modell"
 description: "Das OSI-Modell ist ein Referenzmodell für Netzwerkprotokolle mit 7 Schichten von der Bitübertragung bis zur Anwendungsschicht. Es ermöglicht standardisierte Kommunikation und gezielte Problembehebung."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Data Warehouse: Zentrale Datenbank für Analysen"
+title: "Data Warehouse"
 description: "Data Warehouse ist eine zentrale Datenbank für Analysezwecke, die strukturierte Daten aus heterogenen Quellen integriert. Merkmale sind ETL-Prozess, Meta-Daten und Zugriffs-Tools. Vorteile sind globale Sicht und Ausgangsbasis für Analysen. Nachteile sind Kosten und Komplexität."
 ---
 

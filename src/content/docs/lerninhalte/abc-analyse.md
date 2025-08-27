@@ -1,5 +1,5 @@
 ---
-title: "ABC-Analyse: Priorisierung von Objekten nach Wichtigkeit"
+title: "ABC-Analyse"
 description: "Die ABC-Analyse ist eine Methode zur Klassifizierung von Objekten in die Kategorien A (sehr wichtig), B (wichtig) und C (weniger wichtig) basierend auf ihrem Wertanteil. Sie ermöglicht es, wesentliche von unwesentlichen Faktoren zu trennen und Handlungsstrategien abzuleiten. Die Analyse ist universell anwendbar und hilft, komplexe Probleme mit vertretbarem Aufwand zu lösen."
 ---
 

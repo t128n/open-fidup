@@ -1,5 +1,5 @@
 ---
-title: "Blockchain: Dezentrale Datenbank für Transaktionen"
+title: "Blockchain"
 description: "Blockchain ist eine dezentrale Datenbank, bei der Datenspeicherung auf allen Rechnern in der Blockkette erfolgt. Blöcke enthalten Transaktionen, Hashes und Referenzen auf vorherige Blöcke. Anwendungsgebiete sind Finanzwesen, Lieferketten und Gesundheitswesen. Vorteile sind Transparenz und Manipulationsresistenz, Nachteile sind hoher Speicheraufwand und niedrige Geschwindigkeit."
 ---
 

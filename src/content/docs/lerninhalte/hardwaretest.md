@@ -1,5 +1,5 @@
 ---
-title: "Hardwaretest: Qualitätssicherung und Prüfverfahren"
+title: "Hardwaretest"
 description: "Hardwaretests umfassen Wareneingangs- und Ausgangskontrollen zur Sicherstellung der Funktionalität und Qualität. Methoden wie visuelle Inspektion und Funktionstests minimieren Mängel und erhöhen Kundenzufriedenheit."
 ---
 

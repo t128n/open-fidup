@@ -1,5 +1,5 @@
 ---
-title: "Standardabweichung: Streuung von Daten um den Mittelwert"
+title: "Standardabweichung"
 description: "Standardabweichung misst Streuung von Daten um Mittelwert. Formel für Gesamtheit/Stichprobe. Vorteile leichte Interpretation, Nachteile Empfindlichkeit gegenüber Ausreißern."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Proxy: Vermittler im Netzwerkverkehr"
+title: "Proxy"
 description: "Proxy-Server leiten Anfragen zwischen Client und Server weiter und bieten Funktionen wie Caching und Anonymisierung. Es gibt verschiedene Arten wie HTTP, HTTPS und SOCKS. Vorteile liegen in Sicherheit und Leistung, Nachteile in Komplexität."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SOP: Standard Operation Procedures"
+title: "SOP"
 description: "SOPs sind dokumentierte Prozesse mit detaillierten Anweisungen zur Durchführung von Aufgaben. Sie gewährleisten Konsistenz, Qualität und Effizienz in Arbeitsabläufen, unterstützen Compliance und Schulung."
 ---
 

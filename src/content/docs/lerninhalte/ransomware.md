@@ -1,5 +1,5 @@
 ---
-title: "Ransomware: Malware zur Datenverschlüsselung"
+title: "Ransomware"
 description: "Ransomware verschlüsselt Daten und fordert Lösegeld. Arten wie Crypto- und Locker-Ransomware verbreiten sich via Phishing. Vorbeugung durch Backups, Sicherheit und Schulung; Reaktion mit Isolation und Wiederherstellung."
 ---
 

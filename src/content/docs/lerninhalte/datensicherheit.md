@@ -1,5 +1,5 @@
 ---
-title: "Datensicherheit: Schutz von Daten vor Verlust und Zugriff"
+title: "Datensicherheit"
 description: "Datensicherheit umfasst Maßnahmen zum Schutz von Daten vor unbefugtem Zugriff, Verlust oder Zerstörung. Sie gewährleistet Vertraulichkeit, Integrität und Verfügbarkeit. Maßnahmen sind Zugriffskontrollen, Verschlüsselung und Sicherheitsrichtlinien. Risiken sind Cyberangriffe und menschliches Versagen."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SMB: Server Message Block für Dateifreigabe"
+title: "SMB"
 description: "SMB ist ein Protokoll für Datei- und Druckerfreigabe in Netzwerken, hauptsächlich für Windows. Es ermöglicht sicheren Zugriff auf Ressourcen über Client-Server-Architektur mit Authentifizierung und Dateisperren."
 ---
 

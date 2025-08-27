@@ -1,5 +1,5 @@
 ---
-title: "CRISP-DM: Modell für Data Mining Prozesse"
+title: "CRISP-DM"
 description: "CRISP-DM ist ein Modell für einheitliches Data Mining mit Phasen wie Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation und Deployment. Ziele sind Schaffung eines einheitlichen Prozesses und übergreifende Nutzung. Es beschreibt den Ablauf von der Problemstellung bis zur Umsetzung der Erkenntnisse."
 ---
 

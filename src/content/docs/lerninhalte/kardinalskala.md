@@ -1,5 +1,5 @@
 ---
-title: "Kardinalskala: Skalenniveau mit hohem Informationsgehalt"
+title: "Kardinalskala"
 description: "Die Kardinalskala ist ein Skalenniveau mit dem höchsten Informationsgehalt, das Reihenfolgen und quantifizierbare Abstände ermöglicht. Sie wird für Messungen wie Temperatur oder Gewicht verwendet, wo Differenzen und Verhältnisse interpretiert werden können."
 ---
 

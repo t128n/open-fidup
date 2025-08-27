@@ -1,5 +1,5 @@
 ---
-title: "Nominalskala: Skalenniveau ohne Ordnung"
+title: "Nominalskala"
 description: "Die Nominalskala ist ein Skalenniveau, bei dem Daten keine logische Reihenfolge haben, sondern nur Ausprägungen unterschieden werden können. Sie wird für Kategorien wie Geschlecht oder Haarfarbe verwendet."
 ---
 

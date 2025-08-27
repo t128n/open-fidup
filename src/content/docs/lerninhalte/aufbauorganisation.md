@@ -1,5 +1,5 @@
 ---
-title: "Aufbauorganisation: Hierarchisches Unternehmensgerüst"
+title: "Aufbauorganisation"
 description: "Aufbauorganisation beschreibt das hierarchische Grundgerüst eines Unternehmens, einschließlich Führung, Verantwortung und Abteilungen. Sie umfasst Aufgabenanalyse und -synthese sowie Organisationsformen wie Einlinien-, Mehrlinien- und Matrixsystem. Das Organigramm strukturiert Aufgaben- und Verantwortungsbereiche."
 ---
 

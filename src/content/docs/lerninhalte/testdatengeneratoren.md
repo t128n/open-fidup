@@ -1,5 +1,5 @@
 ---
-title: "Testdatengeneratoren: Automatische Erstellung von Testdaten"
+title: "Testdatengeneratoren"
 description: "Testdatengeneratoren sind Software-Tools, die automatisch Testdaten für Softwaretests erstellen. Sie umfassen zufallsbasierte, regelbasierte und datenbankbasierte Generatoren, um Vielfalt, Konsistenz und Effizienz in Tests zu gewährleisten."
 ---
 

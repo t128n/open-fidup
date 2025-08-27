@@ -1,5 +1,5 @@
 ---
-title: "Groupware: Software für Teamzusammenarbeit"
+title: "Groupware"
 description: "Groupware unterstützt die Zusammenarbeit in Teams durch Funktionen wie E-Mail, Kalender und Dokumentenmanagement. Beispiele sind Microsoft 365 und Google Workspace. Sie verbessert Effizienz, Transparenz und Sicherheit."
 ---
 

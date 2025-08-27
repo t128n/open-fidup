@@ -1,5 +1,5 @@
 ---
-title: "PowerShell: Skriptsprache für Systemadministration"
+title: "PowerShell"
 description: "PowerShell ist eine objektorientierte Skriptsprache von Microsoft zur Automatisierung und Verwaltung von Windows-Systemen. Sie umfasst Cmdlets, Variablen, Kontrollstrukturen und Funktionen. Skripte mit .ps1-Endung erleichtern die Systemadministration."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Workshops: Interaktive Veranstaltungen zur Wissensvermittlung"
+title: "Workshops"
 description: "Workshops sind interaktive Veranstaltungen zur Vermittlung von Wissen, Entwicklung von Fähigkeiten und Lösung von Problemen. Sie fördern aktive Teilnahme, Teambildung und Innovation durch Methoden wie Brainstorming und Gruppenarbeit."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Künstliche Intelligenz: Simulation menschlicher Intelligenz"
+title: "Künstliche Intelligenz"
 description: "Künstliche Intelligenz (KI) simuliert menschliche Intelligenz durch Algorithmen und Modelle, die Daten analysieren, Muster erkennen und Entscheidungen treffen. Teilgebiete sind maschinelles Lernen, Deep Learning und neuronale Netze mit Anwendungen in Sprachverarbeitung und autonomen Systemen."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Geometrisches Mittel: Berechnung und Anwendung"
+title: "Geometrisches Mittel"
 description: "Das geometrische Mittel wird zur Berechnung durchschnittlicher prozentualer Veränderungen verwendet. Es wird als n-te Wurzel des Produkts der Werte berechnet. Im Beispiel zeigt es die durchschnittliche Wachstumsrate eines Kontostands."
 ---
 

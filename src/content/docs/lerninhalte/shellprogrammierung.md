@@ -1,5 +1,5 @@
 ---
-title: "Shellprogrammierung: Automatisierung mit Skripten"
+title: "Shellprogrammierung"
 description: "Shellprogrammierung ermöglicht Automatisierung von Aufgaben durch Skripte in Bash, Zsh oder PowerShell. Sie umfasst Variablen, Bedingungen, Schleifen und Dateioperationen für Systemadministration und Batch-Verarbeitung."
 ---
 

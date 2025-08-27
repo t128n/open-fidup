@@ -1,5 +1,5 @@
 ---
-title: "Klassifikation: Zuordnung von Daten zu Kategorien"
+title: "Klassifikation"
 description: "Klassifikation ist ein Teil des überwachten Lernens, das Datenpunkte zu vordefinierten Kategorien zuordnet. Algorithmen wie logistische Regression, Entscheidungsbäume und KNN werden verwendet, mit Metriken wie Accuracy und Precision zur Evaluation."
 ---
 

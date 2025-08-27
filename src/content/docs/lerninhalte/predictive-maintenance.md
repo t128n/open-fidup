@@ -1,5 +1,5 @@
 ---
-title: "Predictive Maintenance: Vorhersage von Wartungsbedarf"
+title: "Predictive Maintenance"
 description: "Predictive Maintenance nutzt Datenanalysen zur Vorhersage von Wartungsbedarf und Minimierung von Ausfallzeiten. Sie basiert auf IoT, maschinellem Lernen und Big Data. Vorteile liegen in Kosteneffizienz und Ressourcenschonung."
 ---
 

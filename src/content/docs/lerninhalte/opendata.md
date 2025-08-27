@@ -1,5 +1,5 @@
 ---
-title: "Open Data: Freie Nutzung und Weiterverbreitung von Daten"
+title: "Open Data"
 description: "Open Data sind Daten, die ohne Einschränkungen genutzt, weiterverbreitet und weiterverwendet werden dürfen. Sie fördern Transparenz und Innovation, unterliegen freien Lizenzen und finden Anwendung in Lehrmaterialien und Statistiken."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Softwaretechnische Absicherung: Sicherheitsmaßnahmen"
+title: "Softwaretechnische Absicherung"
 description: "Softwaretechnische Absicherung umfasst User-Management, Firewalls, Port-Security, Verschlüsselung mit TPM. Schutz vor unbefugtem Zugriff und Angriffen."
 ---
 

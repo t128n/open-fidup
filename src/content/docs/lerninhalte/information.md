@@ -1,5 +1,5 @@
 ---
-title: "Information: Grundlagen der Informationsmessung"
+title: "Information"
 description: "Information wird als -log2(P(x)) gemessen, wobei P(x) die Wahrscheinlichkeit eines Ereignisses ist. Sie quantifiziert Überraschung und wird in Entscheidungsbäumen, Datenkompression und maschinellem Lernen angewendet."
 ---
 

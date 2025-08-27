@@ -1,5 +1,5 @@
 ---
-title: "S.M.A.R.T.: Selbstüberwachung von Festplatten"
+title: "S.M.A.R.T."
 description: "S.M.A.R.T. prognostiziert Festplattenausfälle via Sensoren. Parameter Leserfehlerrate, Temperatur, Betriebsstunden. BIOS/UEFI überwacht Normbereiche."
 ---
 

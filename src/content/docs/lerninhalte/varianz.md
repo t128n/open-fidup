@@ -1,5 +1,5 @@
 ---
-title: "Varianz: Streuung von Daten um den Mittelwert"
+title: "Varianz"
 description: "Varianz misst Streuung von Daten um Mittelwert. Formel für Gesamtheit/Stichprobe. Vorteile mathematische Basis, Nachteile Interpretation; Vergleich zu Standardabweichung."
 ---
 

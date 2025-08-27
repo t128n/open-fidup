@@ -1,5 +1,5 @@
 ---
-title: "DHCP: Dynamic Host Configuration Protocol"
+title: "DHCP"
 description: "DHCP ist ein Netzwerkprotokoll zur automatischen Zuweisung von IP-Adressen und Netzwerkkonfigurationen an Geräte. Prozess umfasst Discover, Offer, Request und Acknowledgment. Vorteile sind Automatisierung und zentrale Verwaltung. Optionen sind Subnetzmaske, Gateway und DNS-Server. Sicherheitsmaßnahmen wie DHCP Snooping existieren."
 ---
 

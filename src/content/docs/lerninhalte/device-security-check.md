@@ -1,5 +1,5 @@
 ---
-title: "Device Security Check: Sicherstellung der Endgerätesicherheit"
+title: "Device Security Check"
 description: "Device Security Check umfasst Maßnahmen und Strategien zur Sicherstellung der Sicherheit von Endgeräten. Ziele sind Schutz vor unbefugtem Zugriff und Minimierung von Risiken. Komponenten sind Gerätemanagement, Endpoint Protection und Zugangskontrollen. Tools sind MDM, EDR und Firewalls. Best Practices sind regelmäßige Updates und Schulungen."
 ---
 

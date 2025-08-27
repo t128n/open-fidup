@@ -1,5 +1,5 @@
 ---
-title: "Teilhabe: Digitale Inklusion und Mitgestaltung"
+title: "Teilhabe"
 description: "Teilhabe bedeutet aktive Teilnahme an gesellschaftlichen Prozessen durch Zugang zu digitalen Technologien. In der IT fördert sie demokratische, wirtschaftliche und soziale Integration. Maßnahmen umfassen Bildungsprogramme und barrierefreie Technologien."
 ---
 

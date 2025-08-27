@@ -1,5 +1,5 @@
 ---
-title: "NFS: Network File System für Dateizugriff"
+title: "NFS"
 description: "NFS ist ein Speicherprotokoll für effizienten Dateizugriff über Netzwerke, entwickelt von Sun Microsystems. Es ermöglicht transparenten Zugriff auf Remote-Dateien mit Caching und Dateisperren für Konsistenz."
 ---
 

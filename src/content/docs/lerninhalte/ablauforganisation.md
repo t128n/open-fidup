@@ -1,5 +1,5 @@
 ---
-title: "Ablauforganisation: Gestaltung dynamischer Arbeitsprozesse"
+title: "Ablauforganisation"
 description: "Ablauforganisation befasst sich mit der dynamischen und prozessorientierten Gestaltung von Arbeitsabläufen zur Minimierung von Aufwand, Kosten und Fehlern. Sie umfasst Arbeitsanalyse zur Zerlegung von Aufgaben und Arbeitssynthese zur Zusammenfassung von Abläufen. Die Darstellung erfolgt oft mittels Flussdiagrammen."
 ---
 

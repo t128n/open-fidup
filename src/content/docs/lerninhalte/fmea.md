@@ -1,5 +1,5 @@
 ---
-title: "FMEA: Failure Mode and Effects Analysis"
+title: "FMEA"
 description: "FMEA ist eine System- und Risikoanalyse zur frühzeitigen Erkennung möglicher Fehlerquellen in Produkten, Prozessen oder Systemen. Ablauf umfasst Strukturanalyse, Fehleranalyse, Maßnahmenanalyse und Optimierung. Arten sind System-, Design- und Prozess-FMEA. Vorteile sind steigende Kundenzufriedenheit und Qualitätsbewusstsein."
 ---
 

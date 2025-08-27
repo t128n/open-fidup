@@ -1,5 +1,5 @@
 ---
-title: "Random Forest: Ensemble-Algorithmus für maschinelles Lernen"
+title: "Random Forest"
 description: "Random Forest kombiniert Entscheidungsbäume für Klassifikation und Regression. Er reduziert Overfitting, handhabt hochdimensionale Daten. Hyperparameter steuern Bäume, Feature Importance hilft bei Interpretation."
 ---
 

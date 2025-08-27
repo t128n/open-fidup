@@ -1,5 +1,5 @@
 ---
-title: "Planning Poker: Agile Schätzungsmethode für Projekte"
+title: "Planning Poker"
 description: "Planning Poker ist eine spielerische Technik zur Schätzung von Aufgaben in agilen Projekten wie Scrum. Teilnehmer verwenden Karten mit Zahlenwerten, um unabhängig zu schätzen und anschließend zu diskutieren. Dies fördert strukturierte Abläufe und Wissensverbreitung im Team."
 ---
 

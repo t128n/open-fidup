@@ -1,5 +1,5 @@
 ---
-title: "Industrie 4.0: Digitale Transformation der Fertigung"
+title: "Industrie 4.0"
 description: "Industrie 4.0 integriert Technologien wie IoT, Cloud-Computing und maschinelles Lernen in die Fertigung. Sie ermöglicht cyber-physische Systeme, Automatisierung und datenbasierte Entscheidungen für effizientere Produktion."
 ---
 

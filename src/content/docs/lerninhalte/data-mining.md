@@ -1,5 +1,5 @@
 ---
-title: "Data Mining: Erkennung von Mustern in Daten"
+title: "Data Mining"
 description: "Data Mining ist der Prozess der Erkennung von Mustern und wertvollen Informationen in großen Datenbeständen. Er umfasst Datenaufbereitung, Modellerstellung und Auswertung. Techniken sind Assoziationsregeln, neuronale Netze und Entscheidungsbäume. Vorteile sind Entscheidungsunterstützung und Effizienzsteigerung, Nachteile sind Datenschutzbedenken und Abhängigkeit von Datenqualität."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mailserver: Grundlagen und Funktionalität"
+title: "Mailserver"
 description: "Mailserver senden, empfangen und speichern E-Mails und ermöglichen die Kommunikation über das Internet. Sie verwenden Protokolle wie SMTP, POP3 und IMAP sowie Sicherheitsmaßnahmen wie TLS/SSL und SPF/DKIM/DMARC."
 ---
 

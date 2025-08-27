@@ -1,5 +1,5 @@
 ---
-title: "Backup: Datensicherung zur Vermeidung von Datenverlust"
+title: "Backup"
 description: "Backup erstellt Kopien von Daten an anderen Orten, um Datenverlust durch Fehler oder Angriffe zu vermeiden. Arten sind Voll-, Inkrementell-, Differenziell- und Spiegelung. Strategien wie 3-2-1 und GFS gewährleisten Sicherheit. Wichtige Begriffe sind RPO und RTO."
 ---
 

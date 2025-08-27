@@ -1,5 +1,5 @@
 ---
-title: "Patentrecht: Schutz technischer Erfindungen"
+title: "Patentrecht"
 description: "Das Patentrecht schützt technische Erfindungen und gewährt dem Erfinder exklusive Nutzungsrechte. Voraussetzungen sind Neuheit, erfinderische Tätigkeit und gewerbliche Anwendbarkeit, mit einer Schutzdauer von 20 Jahren."
 ---
 

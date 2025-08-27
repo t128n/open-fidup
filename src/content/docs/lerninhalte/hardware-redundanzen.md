@@ -1,5 +1,5 @@
 ---
-title: "Hardware-Redundanzen: Ausfallsicherheit und Verfügbarkeit"
+title: "Hardware-Redundanzen"
 description: "Hardware-Redundanzen wie Failover, RAID und Cluster erhöhen die Ausfallsicherheit von IT-Systemen. Sie gewährleisten kontinuierlichen Betrieb bei Ausfällen und minimieren Downtime durch Mechanismen wie N+1 oder Multipathing."
 ---
 

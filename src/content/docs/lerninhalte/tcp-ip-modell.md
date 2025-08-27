@@ -1,5 +1,5 @@
 ---
-title: "TCP/IP-Modell: Netzwerkprotokoll-Architektur"
+title: "TCP/IP-Modell"
 description: "Das TCP/IP-Modell ist eine Gruppe von Protokollen für Vermittlung und Transport in dezentralen Netzwerken. Es umfasst vier Schichten von Anwendung bis Netzzugang mit Aufgaben wie Adressierung und Routing. Vorteile sind Standortunabhängigkeit, Nachteile Ineffizienz bei kleinen Datenmengen."
 ---
 

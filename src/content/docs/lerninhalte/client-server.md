@@ -1,5 +1,5 @@
 ---
-title: "Client-Server: Architekturkonzept für Netzwerkanwendungen"
+title: "Client-Server"
 description: "Client-Server ist das gängigste Architekturkonzept mit klarer Verteilung von Aufgaben zwischen Clients und Servern. Server stellen Daten und Dienste bereit, Clients konsumieren sie. Vorteile sind vereinfachte Administration und zentrales Management. Nachteile sind Ausfallrisiko und schlechtere Skalierbarkeit. Anwendungsgebiete sind Web- und E-Mail-Server."
 ---
 

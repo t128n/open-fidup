@@ -1,5 +1,5 @@
 ---
-title: "Kontinuierlicher Verbesserungsprozess: Methode zur ständigen Optimierung"
+title: "Kontinuierlicher Verbesserungsprozess"
 description: "Der kontinuierliche Verbesserungsprozess (KVP) entwickelt und setzt ständige Verbesserung in kleinen Schritten um, indem Mitarbeiter einbezogen werden. Er basiert auf dem PDCA-Zyklus und zielt auf Effizienzsteigerung und Qualitätsverbesserung ab."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IT-Grundschutzmodell: Ansatz zur Informationssicherheit"
+title: "IT-Grundschutzmodell"
 description: "Das IT-Grundschutzmodell bietet einen ganzheitlichen Ansatz zur Informationssicherheit mit technischen, organisatorischen und personellen Maßnahmen. Es umfasst Basis-, Standard- und Kern-Absicherung sowie kontinuierliche Verbesserungsprozesse."
 ---
 

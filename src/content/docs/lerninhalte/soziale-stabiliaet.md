@@ -1,5 +1,5 @@
 ---
-title: "Soziale Stabilität: Harmonie in Gesellschaft und IT"
+title: "Soziale Stabilität"
 description: "Soziale Stabilität bedeutet harmonische Gesellschaft mit Kohäsion und Gerechtigkeit. In IT fördert digitale Inklusion. Maßnahmen Bildung, Programme; Risiken Ungleichheit."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Total Quality Management: Ganzheitliches Qualitätsmanagement"
+title: "Total Quality Management"
 description: "TQM ist ein umfassendes System zur Verankerung von Qualität in allen Unternehmensbereichen. Es zielt auf Kundenzufriedenheit ab, integriert alle Mitarbeiter und fördert kontinuierliche Verbesserung durch Prinzipien wie Kundenorientierung und Lean Management."
 ---
 

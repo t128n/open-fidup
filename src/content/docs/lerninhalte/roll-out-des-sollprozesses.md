@@ -1,5 +1,5 @@
 ---
-title: "Roll-out des Sollprozesses: Systematische Prozesseinführung"
+title: "Roll-out des Sollprozesses"
 description: "Roll-out bezeichnet die systematische Einführung und Umsetzung neuer Prozesse. Phasen umfassen Vorbereitung, Planung, Pilotierung, Schulung und Kontrolle. Erfolgsfaktoren sind Change Management und klare Kommunikation."
 ---
 

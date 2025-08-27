@@ -1,5 +1,5 @@
 ---
-title: "DBMS: Datenbankmanagementsystem"
+title: "DBMS"
 description: "DBMS ist eine Software zur Speicherung, Abfrage und Verwaltung von Daten in Datenbanken. Kernfunktionen sind Datenspeicherung, Transaktionsmanagement und Sicherheit. Architektur umfasst physische, logische und konzeptuelle Ebenen. Datenmodelle sind relational, objektorientiert und dokumentenorientiert. Abfragesprachen wie SQL sind zentral."
 ---
 

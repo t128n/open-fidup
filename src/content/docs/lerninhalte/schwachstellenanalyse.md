@@ -1,5 +1,5 @@
 ---
-title: "Schwachstellenanalyse: Identifikation von Sicherheitslücken"
+title: "Schwachstellenanalyse"
 description: "Schwachstellenanalyse identifiziert und bewertet Sicherheitslücken in IT-Systemen proaktiv. Schritte umfassen Identifikation, Bewertung, Priorisierung und Behebung mit technischen und organisatorischen Maßnahmen. Tools wie Nessus und Penetration Testing unterstützen den Prozess."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Entscheidungsbaum: Klassifikation und Regression"
+title: "Entscheidungsbaum"
 description: "Entscheidungsbaum ist eine nichtparametrische, überwachte Lernmethode für Klassifikation und Regression. Er erstellt Vorhersagen durch einfache Entscheidungsfragen. Arten sind Klassifikations- und Regressionsbaum. Terminologie umfasst Wurzelknoten, Entscheidungsknoten und Blattknoten. Vorteile sind Einfachheit und Transparenz, Nachteile sind Überanpassung und Instabilität."
 ---
 

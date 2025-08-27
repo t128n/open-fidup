@@ -1,5 +1,5 @@
 ---
-title: "ETL: Extract, Transform, Load"
+title: "ETL"
 description: "ETL ist ein Prozess zur Vereinigung von Daten aus heterogenen Quellen. Extraktion selektiert Daten, Transformation verbessert und korrigiert sie, Load lädt sie effizient. Arten der Extraktion sind periodisch, ereignisgesteuert und anfragegesteuert. Ziel ist Datenintegration für Analyse."
 ---
 

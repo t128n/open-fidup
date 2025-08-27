@@ -1,5 +1,5 @@
 ---
-title: "IoT: Vernetzung intelligenter Geräte"
+title: "IoT"
 description: "Das Internet of Things (IoT) verbindet physische Objekte mit Sensoren und Software, um Daten zu sammeln und zu kommunizieren. Es findet Anwendung in Smart Homes, Industrie und Gesundheitswesen, bringt aber Herausforderungen wie Sicherheit und Datenschutz mit sich."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Versionsmanagement: Nachverfolgung von Änderungen"
+title: "Versionsmanagement"
 description: "Versionsmanagement verfolgt Änderungen an Dateien/Projekten. Systeme Git, SVN. Konzepte Repository, Commit, Branching. Vorteile Kollaboration, Fehlerbehebung."
 ---
 

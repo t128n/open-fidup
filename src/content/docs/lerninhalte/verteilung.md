@@ -1,5 +1,5 @@
 ---
-title: "Statistische Verteilungen: Wahrscheinlichkeitsmodelle"
+title: "Statistische Verteilungen"
 description: "Statistische Verteilungen wie Normal-, T-, Chi-Quadrat- und F-Verteilung modellieren Zufallsvariablen. Normalverteilung ist symmetrisch und zentral, während Chi-Quadrat asymmetrisch ist. Sie werden in Tests und Analysen verwendet."
 ---
 

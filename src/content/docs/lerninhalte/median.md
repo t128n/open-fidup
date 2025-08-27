@@ -1,5 +1,5 @@
 ---
-title: "Median: Zentralwert in der Statistik"
+title: "Median"
 description: "Der Median ist der Zentralwert, bei dem 50% der Werte kleiner und 50% größer sind. Er wird bei ordinal, intervall- und verhältnisskalierten Daten verwendet und ist robust gegenüber Ausreißern."
 ---
 

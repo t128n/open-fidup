@@ -1,5 +1,5 @@
 ---
-title: "Phishing: Betrügerische Angriffe auf persönliche Daten"
+title: "Phishing"
 description: "Phishing ist eine Methode, bei der Angreifer sensible Informationen durch Vortäuschung vertrauenswürdiger Quellen stehlen. Es gibt verschiedene Formen wie E-Mail-Phishing, Spear-Phishing und Smishing. Vorbeugung erfolgt durch Aufklärung, sichere Passwörter und Antivirus-Software."
 ---
 

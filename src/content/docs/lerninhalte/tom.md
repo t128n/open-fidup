@@ -1,5 +1,5 @@
 ---
-title: "TOM: Technische und Organisatorische Maßnahmen für Datenschutz"
+title: "TOM"
 description: "TOM steht für Technische Organisatorische Maßnahmen und umfasst Sicherheitsvorkehrungen zur Datensicherheit und Erfüllung des Datenschutzes. Dazu gehören technische Aspekte wie Zutritts- und Zugangskontrolle sowie organisatorische Maßnahmen wie Schulungen und Richtlinien."
 ---
 

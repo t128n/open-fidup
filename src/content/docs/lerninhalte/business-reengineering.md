@@ -1,5 +1,5 @@
 ---
-title: "Business Process Reengineering: Radikale Prozessneugestaltung"
+title: "Business Process Reengineering"
 description: "Business Process Reengineering ist die radikale Neugestaltung von Geschäftsprozessen zur Steigerung von Qualität und Effizienz. Ziele sind Kostensenkung und Kundenzufriedenheit. Methoden folgen den Vier R: Erneuerung, Belebung, Einstellungsänderungen, Neugestaltung. Sinnvoll in Notlagen, aber mit Risiken wie Personalabbau."
 ---
 

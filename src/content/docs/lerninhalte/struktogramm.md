@@ -1,5 +1,5 @@
 ---
-title: "Struktogramm: Nassi-Shneiderman-Diagramm für Programmstrukturierung"
+title: "Struktogramm"
 description: "Das Struktogramm, auch Nassi-Shneiderman-Diagramm genannt, dient der Zerlegung von Gesamtproblemen in kleinere Teilprobleme mittels Top-down-Programmierung. Es umfasst Elemente wie Anweisungen, Bedingungen, Schleifen und Case-Statements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wissensmanagement: Erfassung und Nutzung von Wissen"
+title: "Wissensmanagement"
 description: "Wissensmanagement umfasst Erfassung, Strukturierung, Speicherung und Nutzung von Wissen zur Effizienzsteigerung. Kernprozesse sind Identifikation, Erwerb, Entwicklung, Verteilung und Bewahrung von explizitem und implizitem Wissen."
 ---
 

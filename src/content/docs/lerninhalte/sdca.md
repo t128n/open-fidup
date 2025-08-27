@@ -1,5 +1,5 @@
 ---
-title: "SDCA-Zyklus: Standardisierung und Verbesserung"
+title: "SDCA-Zyklus"
 description: "SDCA-Zyklus ähnlich PDCA: Standardize (Lösung standardisieren), Do (testen), Check (überprüfen), Act (umsetzen). Für kontinuierliche Verbesserung."
 ---
 

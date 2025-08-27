@@ -1,5 +1,5 @@
 ---
-title: "K-Nearest Neighbor: Klassifikationsalgorithmus im maschinellen Lernen"
+title: "K-Nearest Neighbor"
 description: "Der K-Nearest Neighbor (KNN) Algorithmus klassifiziert Datenpunkte basierend auf der Mehrheitswahl der k nächsten Nachbarn. Er ist einfach zu implementieren, verwendet Abstandsmetriken wie Euklidisch oder Manhattan und eignet sich für Mustererkennung und Empfehlungssysteme."
 ---
 

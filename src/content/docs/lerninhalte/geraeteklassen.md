@@ -1,5 +1,5 @@
 ---
-title: "Geräteklassen: Übersicht und Klassifizierung"
+title: "Geräteklassen"
 description: "Geräteklassen kategorisieren Geräte nach Funktionalität, Leistung, Größe und Einsatzgebiet. Wichtige Klassen sind Embedded Systems, Mobile Geräte, Desktop-Computer, Server, IoT-Geräte und Wearables. Diese Klassifizierung hilft bei der Auswahl und Integration in verschiedenen Anwendungen."
 ---
 

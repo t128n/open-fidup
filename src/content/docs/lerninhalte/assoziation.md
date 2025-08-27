@@ -1,5 +1,5 @@
 ---
-title: "Assoziationsanalyse: Suche nach Mustern in Daten"
+title: "Assoziationsanalyse"
 description: "Die Assoziationsanalyse sucht nach häufig auftretenden Mustern und Korrelationen zwischen Datenelementen in großen Datenbanken. Sie verwendet Begriffe wie Support, Konfidenz und Frequent Itemsets. Der Apriori-Algorithmus findet Frequent Itemsets iterativ durch Join und Prune."
 ---
 

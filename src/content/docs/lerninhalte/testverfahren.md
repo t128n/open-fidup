@@ -1,5 +1,5 @@
 ---
-title: "Testverfahren: Überprüfung und Validierung von Software"
+title: "Testverfahren"
 description: "Testverfahren umfassen statische und dynamische Methoden zur Fehlererkennung. Arten wie Black-Box, White-Box; Typen Unit-, Komponenten-, Integrationstests."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Flussdiagramm: Darstellung von Prozessen"
+title: "Flussdiagramm"
 description: "Flussdiagramm zeigt Prozess oder Arbeitsablauf zur Dokumentation, Planung und Optimierung. Elemente sind Terminator, Verbindungspfeil, Prozess, Dokument, Datenbank, Entscheidung und Anmerkungen. Vorteile sind schnelle Darstellung und Überblick. Nachteile sind Schwierigkeiten bei parallelen Prozessen."
 ---
 

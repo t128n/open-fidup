@@ -1,5 +1,5 @@
 ---
-title: "Testkonzept: Qualitätssicherung für Anwendungen"
+title: "Testkonzept"
 description: "Ein Testkonzept definiert Ziele, Umfang, Methoden und Ressourcen für Tests. Es umfasst funktionale, Usability-, Leistungs- und Sicherheitstests, um Qualität und Funktionalität der App sicherzustellen."
 ---
 

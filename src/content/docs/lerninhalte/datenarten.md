@@ -1,5 +1,5 @@
 ---
-title: "Datenarten: Strukturierte, unstrukturierte und halbstrukturierte Daten"
+title: "Datenarten"
 description: "Datenarten umfassen strukturierte Daten in Tabellen, unstrukturierte Daten wie Texte und Bilder sowie halbstrukturierte Daten wie XML und JSON. Strukturierte Daten sind leicht abzufragen, unstrukturierte schwer zu analysieren. Halbstrukturierte bieten Flexibilität. Anwendungen sind Business Intelligence und NLP."
 ---
 

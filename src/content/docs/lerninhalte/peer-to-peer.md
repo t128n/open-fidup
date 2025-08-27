@@ -1,5 +1,5 @@
 ---
-title: "Peer-To-Peer: Dezentrale Netzwerkarchitektur"
+title: "Peer-To-Peer"
 description: "Peer-To-Peer-Netzwerke sind dezentral, wo alle Geräte gleichberechtigt kommunizieren und Funktionen anbieten können. Sie finden Anwendung in File Sharing und Telefonie, bieten hohe Skalierbarkeit und Ausfallsicherheit."
 ---
 

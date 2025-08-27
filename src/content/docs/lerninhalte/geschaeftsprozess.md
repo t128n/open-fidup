@@ -1,5 +1,5 @@
 ---
-title: "Geschäftsprozess: Definition, Ablauf und Risikobewertung"
+title: "Geschäftsprozess"
 description: "Ein Geschäftsprozess ist der Ablauf betrieblicher Funktionen, der zu einem gewünschten Ergebnis wie Umsatz führt. Er wird durch ein definiertes Ereignis ausgelöst und transformiert Input zu Output. Bei Änderungen sind Risiken bezüglich Wahrscheinlichkeit und Auswirkungen zu bewerten."
 ---
 

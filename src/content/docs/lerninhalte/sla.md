@@ -1,5 +1,5 @@
 ---
-title: "SLA: Service Level Agreements für Dienstleistungsqualität"
+title: "SLA"
 description: "SLA definiert Erwartungen zwischen Dienstleister und Kunde. KPIs, Verfügbarkeit, Reaktionszeiten. Arten Customer/Internal/OLA; Supportlevel 1-3."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Netzwerkanalyse: Bewertung von Netzwerkleistung und Sicherheit"
+title: "Netzwerkanalyse"
 description: "Netzwerkanalyse untersucht und bewertet Netzwerkverbindungen hinsichtlich Leistung, Sicherheit und Zuverlässigkeit. Sie umfasst Kennzahlen wie Bandbreite und Latenz sowie Methoden wie Traffic Monitoring und Protokollanalyse."
 ---
 

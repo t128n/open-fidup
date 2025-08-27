@@ -1,5 +1,5 @@
 ---
-title: "Datenaustauschformate: XML, JSON und CSV"
+title: "Datenaustauschformate"
 description: "Datenaustauschformate sind XML für hierarchische Daten, JSON für Webanwendungen und CSV für tabellarische Daten. XML ist flexibel aber speicherintensiv, JSON leichtgewichtig, CSV einfach aber ohne komplexe Strukturen. Sie ermöglichen Datenintegration zwischen Systemen."
 ---
 

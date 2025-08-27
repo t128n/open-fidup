@@ -1,5 +1,5 @@
 ---
-title: "Smart Contracts: Digitale Verträge auf der Blockchain"
+title: "Smart Contracts"
 description: "Smart Contracts sind selbst-ausführende Programme auf der Blockchain, die Bedingungen in Wenn-Dann-Aussagen formulieren. Sie bieten Vorteile wie Nicht-Manipulierbarkeit und Effizienz, haben aber Nachteile wie Programmierfehler."
 ---
 

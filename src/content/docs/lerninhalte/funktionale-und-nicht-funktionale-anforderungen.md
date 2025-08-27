@@ -1,5 +1,5 @@
 ---
-title: "Funktionale und Nicht-Funktionale Anforderungen: Definition und Beispiele"
+title: "Funktionale und Nicht-Funktionale Anforderungen"
 description: "Funktionale Anforderungen beschreiben konkrete Funktionen des Systems, während nicht-funktionale Anforderungen Qualitätsmerkmale wie Leistung und Zuverlässigkeit definieren. Beide sind essenziell für die Produktqualität und sollten gemeinsam dokumentiert werden."
 ---
 

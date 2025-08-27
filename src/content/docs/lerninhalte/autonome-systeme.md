@@ -1,5 +1,5 @@
 ---
-title: "Autonome Systeme: Selbstständige Entscheidungsfindung"
+title: "Autonome Systeme"
 description: "Autonome Systeme treffen selbstständig Entscheidungen und führen Aktionen ohne menschliches Eingreifen aus. Sie nutzen Sensoren, Algorithmen und Aktuatoren. Einsatzfelder sind Transport, Industrie und Gesundheitswesen. Herausforderungen umfassen Sicherheit und Regulierung."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ID3-Algorithmus: Entscheidungsfindung in Entscheidungsbäumen"
+title: "ID3-Algorithmus"
 description: "Der ID3-Algorithmus baut Entscheidungsbäume iterativ auf, indem er Attribute mit dem höchsten Informationsgewinn wählt. Er eignet sich für große Datensätze mit vielen Attributen zur Klassifikation."
 ---
 

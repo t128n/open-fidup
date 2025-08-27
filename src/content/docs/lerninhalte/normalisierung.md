@@ -1,5 +1,5 @@
 ---
-title: "Normalisierung: Beseitigung von Redundanz in Datenbanken"
+title: "Normalisierung"
 description: "Normalisierung ist eine Strategie zur Beseitigung von Redundanz in relationalen Datenbanken durch Überführung in Normalformen wie 1NF, 2NF und 3NF. Sie verhindert Anomalien und ermöglicht spezialisierte Abfragen."
 ---
 

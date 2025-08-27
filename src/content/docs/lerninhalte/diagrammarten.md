@@ -1,5 +1,5 @@
 ---
-title: "Diagrammarten: Visualisierung von Daten und Prozessen"
+title: "Diagrammarten"
 description: "Diagrammarten umfassen Balken-, Liniendiagramme, Streudiagramme und Kreisdiagramme zur Visualisierung von Daten. Vorteile sind einfache Lesbarkeit und Vergleichbarkeit. Nachteile sind Unübersichtlichkeit bei vielen Daten. Anwendungsfälle sind Marktforschung, Umfragen und Finanzberichte."
 ---
 

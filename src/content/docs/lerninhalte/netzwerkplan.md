@@ -1,5 +1,5 @@
 ---
-title: "Netzwerkplan: Schematische Darstellung der Netzwerkarchitektur"
+title: "Netzwerkplan"
 description: "Ein Netzwerkplan zeigt schematisch die Netzwerkarchitektur mit Komponenten wie Router, Switches und Verbindungen. Er dient als Leitfaden für Planung, Implementierung und Verwaltung, einschließlich IP-Adressierung und Sicherheitsmaßnahmen."
 ---
 

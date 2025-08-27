@@ -1,5 +1,5 @@
 ---
-title: "Euklidische Distanz: Berechnung und Anwendung"
+title: "Euklidische Distanz"
 description: "Die euklidische Distanz misst den Abstand zwischen zwei Punkten in einem n-dimensionalen Raum. Sie wird berechnet als Quadratwurzel der Summe der quadrierten Differenzen der Koordinaten. Dieses Maß wird häufig in Algorithmen wie KNN verwendet."
 ---
 

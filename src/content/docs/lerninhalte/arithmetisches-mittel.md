@@ -1,5 +1,5 @@
 ---
-title: "Arithmetisches Mittel: Berechnung des Durchschnittswerts"
+title: "Arithmetisches Mittel"
 description: "Das arithmetische Mittel repräsentiert den zentralen Wert einer Datenmenge und wird bei intervall- und verhältnisskalierten Daten angewendet. Es berücksichtigt alle Werte, ist jedoch empfindlich gegenüber Ausreißern. Die Formel ist die Summe der Werte geteilt durch die Anzahl der Werte."
 ---
 

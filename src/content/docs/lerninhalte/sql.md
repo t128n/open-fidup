@@ -1,5 +1,5 @@
 ---
-title: "SQL: Structured Query Language für Datenbanken"
+title: "SQL"
 description: "SQL ist eine standardisierte Sprache zur Verwaltung relationaler Datenbanken mit Tabellen und Beziehungen. Sie unterstützt Datentypen, Integritätsregeln, CRUD-Operationen und komplexe Abfragen mit Joins und Aggregatfunktionen. Beispiele sind MySQL und PostgreSQL."
 ---
 

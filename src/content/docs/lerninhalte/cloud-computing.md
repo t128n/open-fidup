@@ -1,5 +1,5 @@
 ---
-title: "Cloud-Computing: On-Demand-Rechenressourcen"
+title: "Cloud-Computing"
 description: "Cloud-Computing ermöglicht den On-Demand-Zugriff auf Rechenressourcen wie Server, Speicher und Netzwerkkapazitäten mit nutzungsabhängiger Bezahlung. Arten sind Public, Private, Hybrid und Multicloud. Vorteile sind Flexibilität und Skalierbarkeit, Nachteile sind Datenschutzbedenken und Abhängigkeit vom Anbieter."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "BPMN vs EPK vs UML: Vergleich von Modellierungssprachen"
+title: "BPMN vs EPK vs UML"
 description: "BPMN, EPK und UML sind Notationen zur Modellierung von Prozessen und Systemen. BPMN fokussiert auf Geschäftsprozesse mit hoher Flexibilität, EPK auf einfache Abläufe und UML auf Softwarearchitektur. Der Vergleich zeigt Unterschiede in Zweck, Darstellung und Zielgruppe."
 ---
 

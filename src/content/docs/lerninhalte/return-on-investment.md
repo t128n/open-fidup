@@ -1,5 +1,5 @@
 ---
-title: "Return on Investment: Kennzahl für Investitionsrentabilität"
+title: "Return on Investment"
 description: "ROI misst die Rentabilität einer Investition durch Verhältnis von Gewinn zu Kosten. Formel und Beispiel. Vorteile Einfachheit, Nachteile Kurzfristigkeit."
 ---
 

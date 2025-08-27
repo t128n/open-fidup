@@ -1,5 +1,5 @@
 ---
-title: "USV: Unterbrechungsfreie Stromversorgung für IT-Systeme"
+title: "USV"
 description: "USV-Geräte stellen kontinuierliche Stromversorgung sicher, schützen vor Stromausfällen und Spannungsschwankungen. Arten umfassen Offline, Line-Interactive und Online-USV, je nach Anforderungen an Umschaltzeit und Schutz."
 ---
 

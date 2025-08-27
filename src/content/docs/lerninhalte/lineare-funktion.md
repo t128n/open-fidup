@@ -1,6 +1,6 @@
 
 ---
-title: "Lineare Funktion: Grundlagen und Parameter"
+title: "Lineare Funktion"
 description: "Eine lineare Funktion hat die Form f(x) = mx + b, wobei m die Steigung und b der y-Achsenabschnitt ist. Die Steigung gibt die Richtung und Steilheit an, der y-Achsenabschnitt den Schnittpunkt mit der y-Achse."
 ---
 

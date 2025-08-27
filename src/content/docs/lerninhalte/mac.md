@@ -1,5 +1,5 @@
 ---
-title: "MAC-Adresse: Physische Netzwerkadresse"
+title: "MAC-Adresse"
 description: "Die MAC-Adresse ist eine 48-Bit lange physische Adresse von Netzwerkkarten auf Ebene 2 des OSI-Modells. Sie besteht aus hexadezimalen Ziffern, wobei die ersten drei Segmente die Herstellerkennung und die letzten drei die individuelle Vergabe darstellen."
 ---
 

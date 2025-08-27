@@ -1,5 +1,5 @@
 ---
-title: "Modalwert: Häufigster Wert in der Statistik"
+title: "Modalwert"
 description: "Der Modalwert ist der Wert, der in einer Datenreihe am häufigsten vorkommt. Bei mehreren häufigsten Werten spricht man von einer multimodalen Verteilung."
 ---
 

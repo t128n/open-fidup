@@ -1,6 +1,6 @@
 
 ---
-title: "KI vs ML vs DL: Vergleich der Konzepte"
+title: "KI vs ML vs DL"
 description: "KI ist der Überbegriff für Systeme mit menschenähnlicher Intelligenz, ML ein Teilbereich der KI zum Lernen aus Daten, und DL ein Subfeld des ML mit tiefen neuronalen Netzen. Sie unterscheiden sich in Techniken, Datenabhängigkeit und Anwendungen."
 ---
 

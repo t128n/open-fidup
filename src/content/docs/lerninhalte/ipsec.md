@@ -1,5 +1,5 @@
 ---
-title: "IPsec: Sicherheitsprotokolle für IP-Verbindungen"
+title: "IPsec"
 description: "IPsec ist eine Gruppe von Protokollen zur Sicherung von IP-Verbindungen, häufig für VPNs verwendet. Es bietet Verschlüsselung, Authentifizierung und Integritätsschutz durch AH, ESP und SA."
 ---
 

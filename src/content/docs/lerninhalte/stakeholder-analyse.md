@@ -1,5 +1,5 @@
 ---
-title: "Stakeholder-Analyse: Identifikation und Management von Interessengruppen"
+title: "Stakeholder-Analyse"
 description: "Stakeholder-Analyse identifiziert Personen oder Gruppen mit Interesse an einem Projekt. Sie analysiert Interessen und Befürchtungen, entwickelt Gegenmaßnahmen wie Kommunikation und Einbindung, und überwacht Feedback."
 ---
 

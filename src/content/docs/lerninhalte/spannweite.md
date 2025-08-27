@@ -1,5 +1,5 @@
 ---
-title: "Spannweite: Maß für Datenstreuung"
+title: "Spannweite"
 description: "Die Spannweite misst die Variabilität einer Datenreihe als Differenz zwischen Maximum und Minimum. Sie ist Teil der Streumaße, kann aber durch Ausreißer verzerrt werden. Die Formel lautet R = x_max - x_min."
 ---
 

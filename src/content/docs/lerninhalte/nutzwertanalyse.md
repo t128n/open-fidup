@@ -1,5 +1,5 @@
 ---
-title: "Nutzwertanalyse: Scoring-Modell für Entscheidungen"
+title: "Nutzwertanalyse"
 description: "Die Nutzwertanalyse ist ein Scoring-Modell zur Bewertung von Handlungsalternativen nach verschiedenen Zielkriterien. Sie ermöglicht transparente und objektive Entscheidungen durch Gewichtung und Bewertung qualitativer und quantitativer Faktoren."
 ---
 

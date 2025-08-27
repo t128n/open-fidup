@@ -1,5 +1,5 @@
 ---
-title: "Kostenarten: Kategorisierung von Ausgaben in Projekten"
+title: "Kostenarten"
 description: "Kostenarten kategorisieren verschiedene Ausgaben in Projekten wie Softwarekosten, Hardwarekosten, Personalkosten, Kommunikationskosten und Qualifizierungskosten. Sie helfen bei der präzisen Kostenplanung und Analyse zur Sicherstellung des Projekterfolgs."
 ---
 

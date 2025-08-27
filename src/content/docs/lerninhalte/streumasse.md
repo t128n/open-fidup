@@ -1,5 +1,5 @@
 ---
-title: "Streumaße: Maße der Datenstreuung"
+title: "Streumaße"
 description: "Streumaße fassen Informationen aus großen Datensätzen zusammen und zeigen die Streuung um das Zentrum. Wichtige Streumaße sind Spannweite, Varianz und Standardabweichung. Sie unterscheiden sich von Lagemaßen durch Fokus auf Variation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "iSCSI: Zugriff auf Speicherressourcen über IP"
+title: "iSCSI"
 description: "iSCSI ermöglicht den Zugriff auf blockbasierte Speicherlösungen über TCP/IP, ohne teure Fibre Channel-Infrastruktur. Es verbindet SCSI mit IP und setzt auf Client-Server-Modell mit Initiator und Target Nodes."
 ---
 

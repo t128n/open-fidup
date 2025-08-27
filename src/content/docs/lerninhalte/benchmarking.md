@@ -1,5 +1,5 @@
 ---
-title: "Benchmarking: Systematischer Vergleich von Leistungen"
+title: "Benchmarking"
 description: "Benchmarking ist ein systematischer Prozess des Vergleichens und Messens der eigenen Produkte, Dienstleistungen oder Prozesse mit den besten Praktiken anderer Unternehmen. Ziele sind Leistungsverbesserung und Identifizierung von Best Practices. Arten sind internes, wettbewerbsorientiertes, funktionales und generisches Benchmarking. Der Prozess umfasst Planung, Datensammlung, Analyse und Umsetzung."
 ---
 

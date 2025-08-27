@@ -1,5 +1,5 @@
 ---
-title: "Switching: Datenweiterleitung auf Layer 2"
+title: "Switching"
 description: "Switching analysiert Ethernet-Frames, speichert MAC-Adressen in der FDB und leitet Frames an den Zielport weiter. Es ermöglicht effiziente Datenübertragung auf der Netzzugangsschicht."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "DNS: Domain Name System"
+title: "DNS"
 description: "DNS wandelt Domainnamen in IP-Adressen um und fungiert als Telefonbuch des Internets. Struktur ist hierarchisch mit Root-Servern, TLDs und Subdomains. Einträge sind A, AAAA, CNAME und MX. Vorteile sind Benutzerfreundlichkeit und Skalierbarkeit. Herausforderungen sind Sicherheitsrisiken und Caching-Probleme."
 ---
 

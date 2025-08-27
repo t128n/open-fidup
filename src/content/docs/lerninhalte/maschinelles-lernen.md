@@ -1,5 +1,5 @@
 ---
-title: "Maschinelles Lernen: Lernen aus Daten"
+title: "Maschinelles Lernen"
 description: "Maschinelles Lernen ist ein Teilbereich der KI, der es Computern ermöglicht, aus Daten zu lernen und Muster zu erkennen. Es umfasst überwachte, unüberwachte und bestärkende Lernarten mit Anwendungen in Bilderkennung und Empfehlungssystemen."
 ---
 
