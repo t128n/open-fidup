@@ -9,7 +9,8 @@ import rehypeKatex from 'rehype-katex';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://t128n.github.io/open-fidup/',
+	site: 'https://t128n.github.io/',
+	base: '/open-fidup/',
 	markdown: {
 		remarkPlugins: [remarkMath],
 		rehypePlugins: [rehypeKatex],
