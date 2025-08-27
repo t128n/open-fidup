@@ -3,8 +3,6 @@ title: "Hashing"
 description: "Hashing wandelt Daten in feste Hashwerte um, die für Integritätsprüfungen, Authentifizierung und Duplikatsuche verwendet werden. Eigenschaften wie Determinismus und Kollisionssicherheit machen es sicher."
 ---
 
-# Hashing
-
 - **Kryptografische Methode** zur Umwandlung von Datensätzen und Zeichen beliebiger Länge in **kompakte, feste Hashwerte**.
 - Eine **Hashfunktion** ist ein kryptografischer Algorithmus, der Daten vollständig zerlegt und in eine Zeichenfolge fester Länge umwandelt.
 - Der **Hashwert** ist das Ergebnis der Hashfunktion und hat immer die gleiche Länge, die vom verwendeten Algorithmus abhängt.
