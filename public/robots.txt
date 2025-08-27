@@ -1,15 +1,5 @@
 User-agent: *
-Allow: /
-
-# Allow crawling of all content
-Allow: /lerninhalte/
-Allow: /pruefung/
-Allow: /ueber
-Allow: /kontakt
-
-# Disallow admin areas (if any in future)
-Disallow: /admin/
-Disallow: /private/
+Allow: *
 
 # Sitemap
 Sitemap: https://t128n.github.io/open-fidup/sitemap.xml
