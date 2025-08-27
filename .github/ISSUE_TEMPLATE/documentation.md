@@ -1,0 +1,51 @@
+---
+name: Documentation Issue
+description: Report issues with documentation or suggest improvements
+title: "[DOCS] "
+labels: ["documentation"]
+assignees: []
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of Documentation Issue
+      options:
+        - Missing documentation
+        - Outdated documentation
+        - Incorrect documentation
+        - Unclear documentation
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Where is the documentation issue?
+      placeholder: e.g., README.md, specific page URL, file path
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the documentation issue
+      placeholder: What's wrong with the documentation?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Fix
+      description: How should this be fixed?
+      placeholder: What changes would you suggest?
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context about the documentation issue
+---
+
+<!-- Thank you for helping improve our documentation! -->

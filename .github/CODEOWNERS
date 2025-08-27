@@ -1,0 +1,26 @@
+# This file defines the code owners for this repository
+# When a pull request is opened, the users listed here will be automatically
+# requested for review
+
+# Global owners - apply to all files
+* @t128n
+
+# GitHub-specific files
+.github/ @t128n
+
+# Documentation files
+*.md @t128n
+docs/ @t128n
+
+# Configuration files
+*.config.* @t128n
+*.json @t128n
+*.yml @t128n
+*.yaml @t128n
+
+# Source code (more specific rules can be added here)
+src/ @t128n
+
+# Build and deployment files
+package.json @t128n
+astro.config.mjs @t128n
