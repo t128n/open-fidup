@@ -8,9 +8,9 @@ description: "Streumaße fassen Informationen aus großen Datensätzen zusammen 
 - Geben die **Streuung von Verteilungen um das Zentrum** an.
   
 ### Wichtige Streumaße
-- **[[Spannweite]]**: Differenz zwischen dem größten und dem kleinsten Wert.
-- **[[Varianz]]**: Maß für die durchschnittliche quadratische Abweichung der Werte vom Mittelwert.
-- **[[Standardabweichung]]**: Quadratwurzel der Varianz; gibt an, wie stark die Werte im Durchschnitt um den Mittelwert streuen.
+- **[Spannweite](/lerninhalte/spannweite)**: Differenz zwischen dem größten und dem kleinsten Wert.
+- **[Varianz](/lerninhalte/varianz)**: Maß für die durchschnittliche quadratische Abweichung der Werte vom Mittelwert.
+- **[Standardabweichung](/lerninhalte/standardabweichung)**: Quadratwurzel der Varianz; gibt an, wie stark die Werte im Durchschnitt um den Mittelwert streuen.
 
 ## Gemeinsamkeiten mit Lagemaße
 - Fassen Informationen aus großen Datensätzen zusammen.

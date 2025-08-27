@@ -4,7 +4,7 @@ description: "Diagrammarten umfassen Balken-, Liniendiagramme, Streudiagramme un
 ---
 
 ## Balkendiagramm
-- horizontales [[#Säulendiagramm]]
+- horizontales [Säulendiagramm](/lerninhalte/diagrammarten#saeulendiagramm)
 - leicht zu erkennen, visualisiert Datensätze schnell
 - **Vorteile**
 	1. **leicht zu lesen und zu interpretieren**, was sie ideal für die Präsentation von Daten an ein breites Publikum macht.
@@ -36,7 +36,7 @@ description: "Diagrammarten umfassen Balken-, Liniendiagramme, Streudiagramme un
 	3. **Web-Analytics**: Analyse von Besucherzahlen oder Seitenaufrufen über Zeit, um Trends im Nutzerverhalten zu erkennen.
 ![[Pasted image 20240928120607.png]]
 ## Diagramm Fläche
-- ähnelt [[#Liniendiagramm]]
+- ähnelt [Liniendiagramm](/lerninhalte/diagrammarten#liniendiagramm)
 - zeigt Veränderungen im Zeitverlauf dar, zusätzlichen **Volumen**
 - **Vorteile**
 	1. **Visualisierung von kumulierten Werten**, was hilft, die Gesamtentwicklung über Zeit oder Kategorien hinweg darzustellen.
@@ -117,7 +117,7 @@ description: "Diagrammarten umfassen Balken-, Liniendiagramme, Streudiagramme un
 ![[Pasted image 20240928133602.png]]
 
 ## Blasendiagramm
-- wie [[#Streudiagramm]], bloß werden durch **Punktgröße** und **Farbe** noch zwei weitere Variablen dargestellt
+- wie [Streudiagramm](/lerninhalte/diagrammarten#streudiagramm), bloß werden durch **Punktgröße** und **Farbe** noch zwei weitere Variablen dargestellt
 - **Vorteile**
 	1. **Visualisierung von mehreren Dimensionen**, da die Position der Blasen auf der X- und Y-Achse sowie die Größe der Blasen zusätzliche Informationen darstellen.
 	2. **Identifikation von Mustern und Trends**, da die Verteilung der Blasen auf dem Diagramm Korrelationen zwischen Variablen aufzeigen kann.

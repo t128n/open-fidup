@@ -6,7 +6,7 @@ description: "Der kontinuierliche Verbesserungsprozess (KVP) entwickelt und setz
 - Methode zur **Entwicklung** und **Umsetzung** von **ständiger Verbesserung** in **kleinen Schritten**
 - zieht Mitarbeiter ein die **direkt Leistung erbringen**
 
-- Grundmodell: [[PDCA]]
+- Grundmodell: [PDCA](/lerninhalte/pdca)
 
 ## Quellen
 

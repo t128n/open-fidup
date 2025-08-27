@@ -3,7 +3,7 @@ title: "Relationenmodell"
 description: "Das Relationenmodell überführt das ERM in eine Form für relationale Datenbanken. Vergleich ERM und RM mit Tabellen. Merkmale wie atomare Attribute und Primärschlüssel."
 ---
 
-- Das RM ist ein Schritt in der **Datenbankentwicklung** nach dem [[Entity Relationship Model|Entity-Relationship-Modell (ERM)]]
+- Das RM ist ein Schritt in der **Datenbankentwicklung** nach dem [Entity-Relationship-Modell (ERM)](/lerninhalte/entity-relationship-model)
 - Es überführt das ERM in eine Form, die in relationalen Datenbanken gespeichert werden kann
 
 ## Vergleich ERM und RM

@@ -41,8 +41,8 @@ description: "Autonome Systeme treffen selbstständig Entscheidungen und führen
 
 ### Wichtige Begriffe
 - **Autonome Systeme**: Technologien, die selbstständig Entscheidungen treffen und handeln.
-- **[[IoT]] (Internet of Things)**: Vernetzung von Geräten, die Daten austauschen und miteinander kommunizieren.
-- **Künstliche Intelligenz ([[KI]])**: Technologien, die es Maschinen ermöglichen, menschenähnliche Entscheidungen zu treffen.
+- **[IoT](lerninhalte/iot/) (Internet of Things)**: Vernetzung von Geräten, die Daten austauschen und miteinander kommunizieren.
+- **Künstliche Intelligenz ([KI](lerninhalte/ki/))**: Technologien, die es Maschinen ermöglichen, menschenähnliche Entscheidungen zu treffen.
 
 ## Quellen
 

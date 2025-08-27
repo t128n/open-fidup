@@ -5,15 +5,15 @@ description: "iSCSI ermöglicht den Zugriff auf blockbasierte Speicherlösungen 
 
 - **I**nternet **S**mall **C**omputer **S**ystem **I**nterface
 - Zugriff auf zentral verfügbare Speicherressourcen
-- Verbund von SCSI mit [[TCP-IP-Modell]]
-- Zugriff auf [[Speicherlösungen|blockbasierte Speicherlösungen]] ohne teure [[Fibre Channel]] Infrastruktur
-- setzt auf [[Client-Server|Client-Server-Modell]]
+- Verbund von SCSI mit [TCP-IP-Modell](/lerninhalte/tcp-ip-modell)
+- Zugriff auf [blockbasierte Speicherlösungen](/lerninhalte/speicherloesungen) ohne teure [Fibre Channel](/lerninhalte/fibre-channel) Infrastruktur
+- setzt auf [Client-Server-Modell](/lerninhalte/client-server)
 
 ## Aktoren
 - **iSCSI Node Names**, weltweit einmaliger Name für Target oder Node, meistens **IQN** *(iSCSI Qualified Name)*
 - **iSCSI Initiator Nodes**, Clients
 	- im Betriebssystem installierte Treiber
-	- verschickten SCSI-Befehle eingepackt in [[TCP-IP-Modell|TCP/IP Paketen]]
+	- verschickten SCSI-Befehle eingepackt in [TCP/IP Paketen](/lerninhalte/tcp-ip-modell)
 - **iSCSI Target Nodes**, Server die Speicherplatz bereitstellen
 	- wandeln iSCSI-Befehle in SCSI-Befehle um -> kann zu hoher Rechenlast führen
 	- stellen ein oder mehrere LUs (*Logical Units*[^1]) bereit
@@ -26,13 +26,13 @@ description: "iSCSI ermöglicht den Zugriff auf blockbasierte Speicherlösungen 
 ## Vor- und Nachteile
 - **Vorteile**
 	- Nutzung vorhandener Infrastruktur und Hardware
-	- Administratoren mit [[Ethernet]]/[[TCP-IP-Modell|TCP-IP]] bereits vertraut
-	- Flexibilität, durch [[TCP-IP-Modell|TCP/IP-Protokoll]] Routing über Netzwerksegmente hinweg
+	- Administratoren mit [Ethernet](/lerninhalte/ethernet)/[TCP-IP](/lerninhalte/tcp-ip-modell) bereits vertraut
+	- Flexibilität, durch [TCP/IP-Protokoll](/lerninhalte/tcp-ip-modell) Routing über Netzwerksegmente hinweg
 	- -> kostengünstiger Aufbau, einfache Wartung, hohe Flexibilität und Skalierbarkeit
 - **Nachteile**
-	- höhere Latenzzeit als über [[Fibre Channel]]
-	- Performance Einbuße durch [[TCP-IP-Modell|TCP/IP]] Overhead
-	- [[Netzwerkkonzepte|LAN]]-Performance beeinträchtigt Speicherzugriff
+	- höhere Latenzzeit als über [Fibre Channel](/lerninhalte/fibre-channel)
+	- Performance Einbuße durch [TCP/IP](/lerninhalte/tcp-ip-modell) Overhead
+	- [LAN](/lerninhalte/netzwerkkonzepte)-Performance beeinträchtigt Speicherzugriff
 
 
 [^1:] dezidierte Festplatten-Adressierung

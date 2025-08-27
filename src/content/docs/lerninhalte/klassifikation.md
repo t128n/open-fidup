@@ -3,7 +3,7 @@ title: "Klassifikation"
 description: "Klassifikation ist ein Teil des überwachten Lernens, das Datenpunkte zu vordefinierten Kategorien zuordnet. Algorithmen wie logistische Regression, Entscheidungsbäume und KNN werden verwendet, mit Metriken wie Accuracy und Precision zur Evaluation."
 ---
 
-- gehört zum [[Überwachtes und nicht-überwachtes Lernen|überwachten Lernen]]
+- gehört zum [überwachten Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
 - gesucht wird eine **Funktion**, die eine möglichst genaue **Trennlinie** zwischen den Datenpunkten beschreibt
 - Ziel: Zuordnung von Datenpunkten zu **vordefinierten Kategorien** oder Klassen
 
@@ -18,12 +18,12 @@ description: "Klassifikation ist ein Teil des überwachten Lernens, das Datenpun
 3. **Multi-Label-Klassifikation**: Ein Datenpunkt kann mehreren Klassen zugeordnet werden
 
 ## Wichtige Algorithmen
-- [[Regression#**Logistische** Regression|Logistische Regression]]: Möglichkeit einer *dichotomen/binären Klassifikation*
-- [[Entscheidungsbaum|Entscheidungsbäume]]
-- [[Random Forest]]
-- [[Support Vector Machine|Support Vector Machines (SVM)]]
-- [[K-Nearest Neighbor|K-Nearest Neighbors (KNN)]]
-- [[Neural Network|Neuronale Netze]]
+- [Logistische Regression](/lerninhalte/regression#logistische-regression): Möglichkeit einer *dichotomen/binären Klassifikation*
+- [Entscheidungsbäume](/lerninhalte/entscheidungsbaum)
+- [Random Forest](/lerninhalte/random-forest)
+- [Support Vector Machines (SVM)](/lerninhalte/support-vector-machine)
+- [K-Nearest Neighbors (KNN)](/lerninhalte/k-nearest-neighbor)
+- [Neuronale Netze](/lerninhalte/neural-network)
 
 ## Vorgehen
 1. Datensammlung und -aufbereitung

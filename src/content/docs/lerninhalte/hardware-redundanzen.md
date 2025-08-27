@@ -25,8 +25,7 @@ description: "Hardware-Redundanzen wie Failover, RAID und Cluster erhöhen die A
 
 ### N+2, N+M Redundanz
 - Erweiterte Konzepte von N+1, bei denen mehr als eine redundante Komponente vorhanden ist.
-
-### [[RAID]]
+### [RAID](/lerninhalte/RAID)
 
 ### Cluster-Redundanz
 - **Active-Passive Cluster**: Ein System ist aktiv, das andere im Standby (ähnlich wie Failover).

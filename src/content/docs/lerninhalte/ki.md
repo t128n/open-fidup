@@ -6,21 +6,21 @@ description: "Künstliche Intelligenz (KI) simuliert menschliche Intelligenz dur
 - KI bezeichnet die **Simulation menschlicher Intelligenz** durch Maschinen, besonders Computersysteme. Sie umfasst **Algorithmen und Modelle**, die in der Lage sind, **Daten zu analysieren, Muster zu erkennen und Entscheidungen zu treffen**.
 
 ## Teilgebiete der KI  
-- **[[Maschinelles Lernen|Maschinelles Lernen (ML)]]:** KI-Teilbereich, in dem Systeme aus Daten lernen, ohne explizit programmiert zu werden. Wichtige ML-Methoden:
-  - **[[Überwachtes und nicht-überwachtes Lernen|Überwachtes Lernen]]:** Modell wird mit beschrifteten Daten trainiert (z.B. Klassifikation, Regression).
-  - **[[Überwachtes und nicht-überwachtes Lernen|Unüberwachtes Lernen]]:** Modell erkennt Muster in unbeschrifteten Daten (z.B. Clustering, Dimensionalitätsreduktion).
+- **[Maschinelles Lernen (ML)](/lerninhalte/maschinelles-lernen):** KI-Teilbereich, in dem Systeme aus Daten lernen, ohne explizit programmiert zu werden. Wichtige ML-Methoden:
+  - **[Überwachtes Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen):** Modell wird mit beschrifteten Daten trainiert (z.B. Klassifikation, Regression).
+  - **[Unüberwachtes Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen):** Modell erkennt Muster in unbeschrifteten Daten (z.B. Clustering, Dimensionalitätsreduktion).
   - **Bestärkendes Lernen:** Modell lernt durch Belohnung und Bestrafung.
   
 - **Deep Learning (DL):** Subfeld des maschinellen Lernens, das neuronale Netze mit vielen Schichten verwendet, um komplexe Muster zu erkennen (z.B. Bilderkennung, Sprachverarbeitung).
 
 - **Neuroevolution:** Optimiert neuronale Netze durch evolutionäre Algorithmen.
 
-## [[Neural Network|Künstliche neuronale Netze (KNN)  ]]
+## [Künstliche neuronale Netze (KNN) ](/lerninhalte/neural-network)
 - **Perzeptron:** Einfachste Form eines Neurons, das Input-Gewichte mit einer Aktivierungsfunktion kombiniert.
 - **Mehrschichtige Neuronale Netze (MLP):** Bestehen aus Input-, Hidden- und Output-Schichten, verwenden Aktivierungsfunktionen (z.B. ReLU, Sigmoid).
 - **Backpropagation:** Optimierungsalgorithmus, der Fehler rückwärts durch das Netzwerk propagiert, um Gewichte zu aktualisieren.
 
-## [[Support Vector Machine|Support Vector Machines (SVM)  ]]
+## [Support Vector Machines (SVM) ](/lerninhalte/support-vector-machine)
 - Klassifikationsmodell, das eine **Hyperplane** erstellt, um Daten in verschiedene Klassen zu trennen.
 - **Ziel:** Maximiere den Abstand (Margin) zwischen der Hyperplane und den nächsten Datenpunkten (Support Vectors).
 

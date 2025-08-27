@@ -9,7 +9,7 @@ description: "Webserver hosten und stellen Webseiten über das Internet bereit. 
 
 ## Wichtige Protokolle
 - **HTTP (Hypertext Transfer Protocol)**: Protokoll für die Übertragung von Webseiten.
-- **[[HTTPS]] (HTTP Secure)**: Sichere Version von HTTP, die Daten verschlüsselt.
+- **[HTTPS](/lerninhalte/https/) (HTTP Secure)**: Sichere Version von HTTP, die Daten verschlüsselt.
 
 ## Komponenten eines Webservers
 - **Webserver-Software**: Software, die Anfragen verarbeitet und Webseiten ausliefert (z. B. Apache, Nginx).

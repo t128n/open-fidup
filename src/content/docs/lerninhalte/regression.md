@@ -7,10 +7,10 @@ description: "Regression ist ein überwachte Lernmethode zur Vorhersage einer ab
 > Multivarielle Regression -> Gradientenabstieg, wie konkrete Umsetzung?
 > https://www.youtube.com/watch?v=YMTwWKPliLw
 
-- gehört zum [[Überwachtes und nicht-überwachtes Lernen|überwachten Lernen]]
+- gehört zum [überwachten Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
 - ausgehend von **einer oder mehreren Variablen** (*Unabhängige Variablen* bzw. *Prädiktoren*) auf **eine weitere Variable** (*Abhängige Variable* bzw. *Kriterium*) zu schließen
 	- **Messung** des **Einflusses** einer oder mehreren Variablen auf eine weitere Variable bzw. **Vorhersage** einer Variable durch eine oder mehrere andere Variablen
-- **Prädikatoren** können metrisch, [[Ordinalskala|ordinal]] oder nominal sein
+- **Prädikatoren** können metrisch, [ordinal](/lerninhalte/ordinalskala) oder nominal sein
 
 ## Formen
 
@@ -24,29 +24,29 @@ description: "Regression ist ein überwachte Lernmethode zur Vorhersage einer ab
 	- Aufpunkt/Achsenschnitt $a/	heta_0$
 - **Berechnung**
 	- $b/	heta_1 = r \dfrac{s_y}{s_x}$
-		- [[Korrelationskoeffizient|Korrelation]] zwischen $x$ und $y$: $r$
-		- [[Standardabweichung]] von $y$: $s_y$
-		- [[Standardabweichung]] von $x$: $s_x$
-	- $a/	heta_0 = \bar{y} - b 	imes \bar{x} = \bar{y} - 	heta_1 	imes \bar{x}$
-		- [[Arithmetisches Mittel|Mittelwert]] von $y$: $\bar{y}$
-		- [[Arithmetisches Mittel|Mittelwert]] von $x$: $\bar{x}$
+		- [Korrelation](/lerninhalte/korrelationskoeffizient) zwischen $x$ und $y$: $r$
+		- [Standardabweichung](/lerninhalte/standardabweichung) von $y$: $s_y$
+		- [Standardabweichung](/lerninhalte/standardabweichung) von $x$: $s_x$
+	- $a/\theta_0 = \bar{y} - b \times \bar{x} = \bar{y} - \theta_1 \times \bar{x}$
+			- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $y$: $\bar{y}$
+			- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $x$: $\bar{x}$
+			### **Multiple lineare** / **Multivariate** Regression
+	- Vorhersage **eines Kriteriums** anhand **mehrerer Prädikatoren** (n:1)
+	- **Formel:** $\hat{y} = b_1 \times x_1 + b_2 \times x_2 + ... + b_k \times x_k + a = \theta_0+\theta_1x_2+\theta_2x_2+...+\theta_mx_m$
+	- Berechnung und Deutung ähnlich wie bei der [einfachen linearen Regression](/lerninhalte/regression#einfache-lineare-regression)
 
-### **Multiple lineare** / **Multivariate** Regression
-- Vorhersage **eines Kriteriums** anhand **mehrerer Prädikatoren** (n:1)
-- **Formel:** $\hat{y} = b_1 	imes x_1 + b_2 	imes x_2 + ... + b_k 	imes x_k + a = 	heta_0+	heta_1x_2+	heta_2x_2+...+	heta_mx_m$
-- Berechnung und Deutung ähnlich wie bei der [[#**Einfache lineare** Regression|einfachen linearen Regression]]
+	### **Logistische** Regression
+	- Vorhersage eines **Ja/Nein-Prädikators**, Kategorische Einordnung
+	- abhängige Variable ist eine **dichotome Variable** -> Variable mit nur *zwei Ausprägungen*
+	- **Formel:** $f(z) = \dfrac{1}{1 + e^{{\theta_0}_1 \times x_1 + ... {\theta_0}_k \times x_k + a}}$
+	- Wahrscheinlichkeit, ob abhängige Variable $z$ ist: $P(y=z|x_1,...,x_n) = \dfrac{1}{1 + e^{-({\theta_0}_1 \times x_1 + ... + {\theta_0}_k \times x_k +\theta_1)}}$
+		- Eulersche Zahl $e$ (ungef. $2,71828$) 
+	- Berechnung von $\theta_0$ anhand vom [Gradientabstiegsverfahren](/lerninhalte/regression#gradientabstiegsverfahren)
+	- Ableitung der Kostenfunktion identisch mit der für die [lineare Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
+	- Berechnung nach folgendem Schema:
+		- Berechnung der [multivariaten Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
+		- Anwendung der Sigmoidfunktion auf $\hat{y}$ 
 
-### **Logistische** Regression
-- Vorhersage eines **Ja/Nein-Prädikators**, Kategorische Einordnung
-- abhängige Variable ist eine **dichotome Variable** -> Variable mit nur *zwei Ausprägungen*
-- **Formel:** $f(z) = \dfrac{1}{1 + e^{{	heta_0}_1 	imes x_1 + ... {	heta_0}_k 	imes x_k + a}}$
-- Wahrscheinlichkeit, ob abhängige Variable $z$ ist: $P(y=z|x_1,...,x_n) = \dfrac{1}{1 + e^{-({	heta_0}_1 	imes x_1 + ... + {	heta_0}_k 	imes x_k +	heta_1)}}$
-	- Eulersche Zahl $e$ (ungef. $2,71828$) 
-- Berechnung von $	heta_0$ anhand vom [[#Gradientabstiegsverfahren]]
-- Ableitung der Kostenfunktion identisch mit der für die [[#**Multiple lineare** / **Multivariate** Regression|lineare Regression]]
-- Berechnung nach folgendem Schema:
-	- Berechnung der [[#Multivariate Regression|multivariaten Regression]]
-	- Anwendung der Sigmoidfunktion auf $\hat{y}$ 
 ## Kostenfunktion
 
 ### Univariate Regression
@@ -118,7 +118,7 @@ $$
 > )
 > ```
 
-- akkurater als Gradientabstiegsverfahren, daher keine **[[#^a7aff3|Feature-Skalierung]]**
+- akkurater als Gradientabstiegsverfahren, daher keine **[Feature-Skalierung](#feature-skalierung)**
 - bessere Methode bei kleiner bis mittlerer Datenmenge
 
 ### Gradientabstiegsverfahren
@@ -225,10 +225,10 @@ for step in range(0, 1000):
 ---
 [^1:] In der Mathematik und beim maschinellen Lernen beschreibt Konvergenz den Prozess, bei dem ein Algorithmus Schritt für Schritt einer optimalen Lösung (z.B. minimaler Fehler) immer näher kommt.
 
-- gehört zum [[Überwachtes und nicht-überwachtes Lernen|überwachten Lernen]]
+- gehört zum [überwachten Lernen](/lerninhalte/ueberwachtes-und-nicht-ueberwachtes-lernen)
 - ausgehend von **einer oder mehreren Variablen** (*Unabhängige Variablen* bzw. *Prädiktoren*) auf **eine weitere Variable** (*Abhängige Variable* bzw. *Kriterium*) zu schließen
 	- **Messung** des **Einflusses** einer oder mehreren Variablen auf eine weitere Variable bzw. **Vorhersage** einer Variable durch eine oder mehrere andere Variablen
-- **Prädikatoren** können metrisch, [[Ordinalskala|ordinal]] oder nominal sein
+- **Prädikatoren** können metrisch, [ordinal](/lerninhalte/ordinalskala) oder nominal sein
 
 ## Formen
 
@@ -242,17 +242,17 @@ for step in range(0, 1000):
 	- Aufpunkt/Achsenschnitt $a/\theta_0$
 - **Berechnung**
 	- $b/\theta_1 = r \dfrac{s_y}{s_x}$
-		- [[Korrelationskoeffizient|Korrelation]] zwischen $x$ und $y$: $r$
-		- [[Standardabweichung]] von $y$: $s_y$
-		- [[Standardabweichung]] von $x$: $s_x$
+		- [Korrelation](/lerninhalte/korrelationskoeffizient) zwischen $x$ und $y$: $r$
+		- [Standardabweichung](/lerninhalte/standardabweichung) von $y$: $s_y$
+		- [Standardabweichung](/lerninhalte/standardabweichung) von $x$: $s_x$
 	- $a/\theta_0 = \bar{y} - b \times \bar{x} = \bar{y} - \theta_1 \times \bar{x}$
-		- [[Arithmetisches Mittel|Mittelwert]] von $y$: $\bar{y}$
-		- [[Arithmetisches Mittel|Mittelwert]] von $x$: $\bar{x}$
+		- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $y$: $\bar{y}$
+		- [Mittelwert](/lerninhalte/arithmetisches-mittel) von $x$: $\bar{x}$
 
 ### **Multiple lineare** / **Multivariate** Regression
 - Vorhersage **eines Kriteriums** anhand **mehrerer Prädikatoren** (n:1)
 - **Formel:** $\hat{y} = b_1 \times x_1 + b_2 \times x_2 + ... + b_k \times x_k + a = \theta_0+\theta_1x_2+\theta_2x_2+...+\theta_mx_m$
-- Berechnung und Deutung ähnlich wie bei der [[#**Einfache lineare** Regression|einfachen linearen Regression]]
+- Berechnung und Deutung ähnlich wie bei der [einfachen linearen Regression](/lerninhalte/regression#einfache-lineare-regression)
 
 ### **Logistische** Regression
 - Vorhersage eines **Ja/Nein-Prädikators**, Kategorische Einordnung
@@ -260,11 +260,12 @@ for step in range(0, 1000):
 - **Formel:** $f(z) = \dfrac{1}{1 + e^{{\theta_0}_1 \times x_1 + ... {\theta_0}_k \times x_k + a}}$
 - Wahrscheinlichkeit, ob abhängige Variable $z$ ist: $P(y=z|x_1,...,x_n) = \dfrac{1}{1 + e^{-({\theta_0}_1 \times x_1 + ... + {\theta_0}_k \times x_k +\theta_1)}}$
 	- Eulersche Zahl $e$ (ungef. $2,71828$) 
-- Berechnung von $\theta_0$ anhand vom [[#Gradientabstiegsverfahren]]
-- Ableitung der Kostenfunktion identisch mit der für die [[#**Multiple lineare** / **Multivariate** Regression|lineare Regression]]
+- Berechnung von $\theta_0$ anhand vom [Gradientabstiegsverfahren](/lerninhalte/regression#gradientabstiegsverfahren)
+- Ableitung der Kostenfunktion identisch mit der für die [lineare Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
 - Berechnung nach folgendem Schema:
-	- Berechnung der [[#Multivariate Regression|multivariaten Regression]]
+	- Berechnung der [multivariaten Regression](/lerninhalte/regression#multiple-lineare-multivariate-regression)
 	- Anwendung der Sigmoidfunktion auf $\hat{y}$ 
+
 ## Kostenfunktion
 
 ### Univariate Regression
@@ -336,7 +337,7 @@ $$
 > )
 > ```
 
-- akkurater als Gradientabstiegsverfahren, daher keine **[[#^a7aff3|Feature-Skalierung]]**
+- akkurater als Gradientabstiegsverfahren, daher keine **[Feature-Skalierung](#feature-skalierung)**
 - bessere Methode bei kleiner bis mittlerer Datenmenge
 
 ### Gradientabstiegsverfahren

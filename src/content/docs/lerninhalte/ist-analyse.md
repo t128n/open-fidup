@@ -24,14 +24,14 @@ description: "Die Ist-Analyse erfasst und bewertet systematisch den aktuellen Zu
 - Relevante **Abteilungen** (z.B. HR, IT, Produktion, ...)
 ### Analysemethoden
 - **Aufgabenkritik** (Fokus auf Aufgaben)
-	- [[ABC-Analyse]]
-	- [[SWOT-Analyse]]
-	- [[Portfolioanalyse]]
+	- [ABC-Analyse](/lerninhalte/abc-analyse)
+	- [SWOT-Analyse](/lerninhalte/swot-analyse)
+	- [Portfolioanalyse](/lerninhalte/portfolioanalyse)
 - **Prozessoptimierung** (Fokus auf Prozessen)
-	- [[FMEA]]
-	- [[Ishikawa-Diagramm]]
+	- [FMEA](/lerninhalte/fmea)
+	- [Ishikawa-Diagramm](/lerninhalte/ishikawa-diagramm)
 - **Personalbedarfsermittlung** (Fokus Aufgaben mit Bearbeitungszeiten und Mengen)
-	- [[SWOT-Analyse]]
+	- [SWOT-Analyse](/lerninhalte/swot-analyse)
 
 ## Checkliste möglicher Schwachstellen
 - **Aufgaben**
@@ -58,7 +58,7 @@ description: "Die Ist-Analyse erfasst und bewertet systematisch den aktuellen Zu
 - **Prozesse**
 	- zu viele Rückkopllungen
 	- zu viele/wenige Verzweigungen
-	- fehlender [[Kontinuierlicher Verbesserungsprozess]]
+	- fehlender [Kontinuierlicher Verbesserungsprozess](/lerninhalte/kontinuierlicher-verbesserungsprozess)
 	- fehlende Qualitätssicherung
 - **Funktionen (Stellen, Kompetenzen)**
 	- zu zentrale/dezentrale Strukturen

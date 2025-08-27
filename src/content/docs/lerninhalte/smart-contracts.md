@@ -3,7 +3,7 @@ title: "Smart Contracts"
 description: "Smart Contracts sind selbst-ausführende Programme auf der Blockchain, die Bedingungen in Wenn-Dann-Aussagen formulieren. Sie bieten Vorteile wie Nicht-Manipulierbarkeit und Effizienz, haben aber Nachteile wie Programmierfehler."
 ---
 
-- in [[Block Chain]] **gespeichertes Programm**
+- in [Block Chain](/lerninhalte/block-chain) **gespeichertes Programm**
 - **digitaler Vertrag**
 - Bedingungen werden in **Wenn-Dann-Aussagen** formuliert
 - **Selbstausführend**

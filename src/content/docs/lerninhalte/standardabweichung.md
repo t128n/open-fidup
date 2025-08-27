@@ -9,7 +9,7 @@ description: "Standardabweichung misst Streuung von Daten um Mittelwert. Formel 
 $\sigma$ = Standardabweichung  
 $n$ = Anzahl an Daten  
 $x_i$ = Daten  
-$\bar{x}$ = [[Quadratisches Mittel|Mittelwert]] der Daten  
+$\bar{x}$ = [Mittelwert](/lerninhalte/quadratisches-mittel) der Daten  
 
 ### Gesamtheit
 $$

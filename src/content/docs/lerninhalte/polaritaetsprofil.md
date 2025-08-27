@@ -4,7 +4,7 @@ description: "Das Polaritätsprofil, auch semantisches Differential genannt, mis
 ---
 
 - auch **semantisches Differential** genannt, Methode der **Umfragetechnik**
-- Verwendet eine [[Likert-Skala]], typischerweise fünfstufig
+- Verwendet eine [Likert-Skala](/lerninhalte/likert-skala), typischerweise fünfstufig
 - Basiert auf Gegensatzpaaren (z.B. "heiß" - "kalt")
 - Häufig in Marktforschung, Kundenumfragen und Online-Fragebögen eingesetzt
 

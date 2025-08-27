@@ -17,7 +17,7 @@ description: "Peer-To-Peer-Netzwerke sind dezentral, wo alle Geräte gleichberec
 	- durch dezentrale Struktur **resistent**
 	- **Aufgaben** können **flexibel** verteilt werden
 	- Herkunft von Daten **schwer nachzuverfolgen**
-	- prinzipiell **sicherer** als **[[Client-Server]]-Netzwerke**
+	- prinzipiell **sicherer** als **[Client-Server](/lerninhalte/client-server)**-Netzwerke
 - **Nachteile**
 	- **sehr aufwendig** zu organisieren und zu verwalten
 	- **Datenverfügbarkeit** abhängig von **Peers**

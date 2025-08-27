@@ -29,9 +29,9 @@ description: "Predictive Maintenance nutzt Datenanalysen zur Vorhersage von Wart
 - **Energie**: Überwachung von Turbinen und Generatoren.
 
 ## Technologien
-- **[[Big Data]]**: Verarbeitung großer Datenmengen.
-- **[[Cloud-Computing]]**: Speicherung und Analyse von Daten in der Cloud.
-- **[[Fog-Computing|Edge Computing]]**: Datenverarbeitung nahe der Quelle zur Echtzeitanalyse.
+- **[Big Data](/lerninhalte/big-data)**: Verarbeitung großer Datenmengen.
+- **[Cloud-Computing](/lerninhalte/cloud-computing)**: Speicherung und Analyse von Daten in der Cloud.
+- **[Edge Computing](/lerninhalte/fog-computing)**: Datenverarbeitung nahe der Quelle zur Echtzeitanalyse.
 
 ## Quellen
 

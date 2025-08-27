@@ -23,7 +23,7 @@ description: "Ablauforganisation befasst sich mit der dynamischen und prozessori
 - **Arbeitsablauf** festlegen
 
 ## Darstellung
-- [[Flussdiagramm]]
+- [Flussdiagramm](/lerninhalte/flussdiagramm)
 
 ## Quellen
 

@@ -24,7 +24,7 @@ Diese Maßnahmen beziehen sich auf die **technischen Aspekte** der Datensicherhe
 - **Netzwerksicherheit**
 	- Firewalls
 	- Intrusion Detection Systems (IDS)
-	- [[VPN-Modelle|VPNs (Virtual Private Networks)]]
+	- [VPNs (Virtual Private Networks)](/lerninhalte/vpn-modelle)
 - **Datensicherung**
 	- Regelmäßige Backups
 	- Redundante Systeme

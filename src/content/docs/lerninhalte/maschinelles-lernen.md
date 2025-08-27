@@ -15,15 +15,16 @@ description: "Maschinelles Lernen ist ein Teilbereich der KI, der es Computern e
 7. **Modell evaluieren**
 
 ## Arten des maschinellen Lernens
-- **[[Überwachtes und nicht-überwachtes Lernen|Überwachtes Lernen]]**: Algorithmen werden mit gekennzeichneten Daten trainiert, d.h. die Eingabedaten sind mit den entsprechenden Ausgaben verknüpft. Beispiele sind Klassifikations- und Regressionsaufgaben.
-- **[[Überwachtes und nicht-überwachtes Lernen|Unüberwachtes Lernen]]**: Algorithmen arbeiten mit unbeschrifteten Daten und versuchen, Muster oder Strukturen zu erkennen. Beispiele sind Clusteranalysen und Dimensionsreduktion.
+## Arten des maschinellen Lernens
+- **[Überwachtes Lernen](/lerninhalte/überwachtes-und-nicht-überwachtes-lernen)**: Algorithmen werden mit gekennzeichneten Daten trainiert, d.h. die Eingabedaten sind mit den entsprechenden Ausgaben verknüpft. Beispiele sind Klassifikations- und Regressionsaufgaben.
+- **[Unüberwachtes Lernen](/lerninhalte/überwachtes-und-nicht-überwachtes-lernen)**: Algorithmen arbeiten mit unbeschrifteten Daten und versuchen, Muster oder Strukturen zu erkennen. Beispiele sind Clusteranalysen und Dimensionsreduktion.
 - **Bestärkendes Lernen**: Ein Agent lernt, Entscheidungen zu treffen, indem er Belohnungen oder Bestrafungen für seine Aktionen erhält. Es wird häufig in Spielen und Robotik eingesetzt.
 
 ## Algorithmen des maschinellen Lernens
-- **[[Regression|Lineare Regression]]**: Ein einfaches Modell zur Vorhersage einer kontinuierlichen Zielvariable basierend auf einer oder mehreren Eingangsvariablen.
-- **[[Entscheidungsbaum|Entscheidungsbäume]]**: Ein baumartiges Modell, das Entscheidungen basierend auf den Eingabedaten trifft und leicht interpretierbar ist.
-- **[[Neural Network|Künstliche Neuronale Netze]]**: Inspiriert vom menschlichen Gehirn, bestehen sie aus Schichten von Neuronen und sind besonders effektiv für komplexe Aufgaben wie Bild- und Sprachverarbeitung.
-- **[[Support Vector Machine|Support Vector Machines (SVM)]]**: Ein Klassifikationsalgorithmus, der versucht, die beste Trennlinie zwischen verschiedenen Klassen zu finden.
+- **[Lineare Regression](/lerninhalte/regression)**: Ein einfaches Modell zur Vorhersage einer kontinuierlichen Zielvariable basierend auf einer oder mehreren Eingangsvariablen.
+- **[Entscheidungsbäume](/lerninhalte/entscheidungsbaum)**: Ein baumartiges Modell, das Entscheidungen basierend auf den Eingabedaten trifft und leicht interpretierbar ist.
+- **[Künstliche Neuronale Netze](/lerninhalte/neural-network)**: Inspiriert vom menschlichen Gehirn, bestehen sie aus Schichten von Neuronen und sind besonders effektiv für komplexe Aufgaben wie Bild- und Sprachverarbeitung.
+- **[Support Vector Machines (SVM)](/lerninhalte/support-vector-machine)**: Ein Klassifikationsalgorithmus, der versucht, die beste Trennlinie zwischen verschiedenen Klassen zu finden.
 
 ## Anwendungen des maschinellen Lernens
 - **Bild- und Spracherkennung**: Verwendung in Anwendungen wie Gesichtserkennung, Spracherkennung und automatischen Übersetzungen.

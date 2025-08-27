@@ -7,9 +7,9 @@ description: "Der Median ist der Zentralwert, bei dem 50% der Werte kleiner und 
 - Werte werden **nach Größe sortiert**
 
 ## Anwendungsbereiche
-- bei [[Ordinalskala|ordinal skalierten Variablen]]
-- bei [[Kardinalskala|intervall- und verhältnisskalierten]] Daten
-- nicht für [[Nominalskala|nominal skalierte Variablen]]
+- bei [ordinal skalierten Variablen](/lerninhalte/ordinalskala)
+- bei [intervall- und verhältnisskalierten](/lerninhalte/kardinalskala) Daten
+- nicht für [nominal skalierte Variablen](/lerninhalte/nominalskala)
 
 ## Formel
 1. Werte werden *(aufsteigend)* geordnet
@@ -23,7 +23,7 @@ $x_n$=$x$ am Index $n$
 
 ## Vorteile
 - **Robustheit** gegenüber Ausreißern 
-- benötigt kein **Intervallskalenniveau**, wie der [[Arithmetisches Mittel|Mittelwert]]
+- benötigt kein **Intervallskalenniveau**, wie der [Mittelwert](/lerninhalte/arithmetisches-mittel)
 
 ## Quellen 
 

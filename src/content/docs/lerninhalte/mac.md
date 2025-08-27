@@ -5,7 +5,7 @@ description: "Die MAC-Adresse ist eine 48-Bit lange physische Adresse von Netzwe
 
 - **M**edia-**A**ccess-**C**ontrol-Adresse
 - **physische Adresse** von Netzwerkkarten 
-- [[OSI-Modell|Ebene 2, Sicherrungsschicht, Data Link Layer]]
+- [Ebene 2, Sicherrungsschicht, Data Link Layer](/lerninhalte/osi-modell)
 
 - **48-Bit** lang
 - besteht aus **hexadezimalen Ziffern**

@@ -44,8 +44,8 @@ description: "Das Internet of Things (IoT) verbindet physische Objekte mit Senso
 6. **Benutzeroberfläche:** Entwicklung von Anwendungen zur Visualisierung und Steuerung der IoT-Geräte.
 
 ## Edge Computing vs. Cloud Computing in IoT  
-- **[[Fog-Computing|Edge Computing]]:** Daten werden nahe der Quelle (d.h. am Gerät oder Gateway) verarbeitet, um Latenzzeiten zu reduzieren und Bandbreite zu sparen.
-- **[[Cloud-Computing|Cloud Computing]]:** Daten werden an zentrale Server gesendet, um dort verarbeitet, analysiert und gespeichert zu werden. Vorteilhaft bei großen Datenmengen oder rechenintensiven Aufgaben.
+- **[Edge Computing](/lerninhalte/fog-computing):** Daten werden nahe der Quelle (d.h. am Gerät oder Gateway) verarbeitet, um Latenzzeiten zu reduzieren und Bandbreite zu sparen.
+- **[Cloud Computing](/lerninhalte/cloud-computing):** Daten werden an zentrale Server gesendet, um dort verarbeitet, analysiert und gespeichert zu werden. Vorteilhaft bei großen Datenmengen oder rechenintensiven Aufgaben.
 
 ## Relevante Begriffe  
 - **Smart Devices:** Intelligente Geräte, die über Sensoren verfügen und mit dem Internet verbunden sind.

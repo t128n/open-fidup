@@ -4,10 +4,10 @@ description: "Der ID3-Algorithmus baut Entscheidungsbäume iterativ auf, indem e
 ---
 
 - **I**terative **D**ichotomiser **3**, Algorithmus zur **Entscheidungsfindung**
-- wird bei [[Entscheidungsbaum|Entscheidungsbäumen]] eingesetzt mit **großen Datenmengen** und **vielen verschiedene Attributen** von Bedeutung
+- wird bei [Entscheidungsbäumen](/lerninhalte/entscheidungsbaum) eingesetzt mit **großen Datenmengen** und **vielen verschiedene Attributen** von Bedeutung
 
 - Basisstruktur ist **iterativ**
-- **[[Entropie und Informationsgewinn|Entropien]]** berechnet, Attribut mit höchstem [[Entropie und Informationsgewinn|Informationsgewinn]] bzw. kleinster [[Entropie und Informationsgewinn|Entropie]] wird gewählt. Wenn jedem Blattknoten eine Klassifikation zugeordnet ist, ist Verfahren terminiert 
+- **[Entropien](/lerninhalte/entropie-und-informationsgewinn)** berechnet, Attribut mit höchstem [Informationsgewinn](/lerninhalte/entropie-und-informationsgewinn) bzw. kleinster [Entropie](/lerninhalte/entropie-und-informationsgewinn) wird gewählt. Wenn jedem Blattknoten eine Klassifikation zugeordnet ist, ist Verfahren terminiert 
 ## Algorithmus
 
 $T = Daten$
@@ -17,7 +17,7 @@ $T = Daten$
 			- ***Konstruiere*** ein Blatt mit **Klasse** als **Bezeichner**
 	- ***Sonst***
 		- *// Erzeuge rekursiv einen Teilbaum //*
-			- ***Wähle*** Merkmal $x_i$ mit höchstem **[[Entropie und Informationsgewinn|information gain]]**
+			- ***Wähle*** Merkmal $x_i$ mit höchstem **[information gain](/lerninhalte/entropie-und-informationsgewinn)**
 				- ***Für alle*** vorkommende Werte von Merkmal $x_i$
 					- ***Konstruiere*** alle Teilbäume rekursiv mit den entsprechenden Teilmengen als Daten
 				- ***Ende*** für Alle

@@ -6,13 +6,15 @@ description: "Das arithmetische Mittel repräsentiert den zentralen Wert einer D
 - auch als **Durchschnittswert** bezeichnet, repräsentiert den zentralen Wert einer Datenmenge
 
 ## Anwendungsbereiche
-- bei [[Kardinalskala|intervall- und verhältnisskalierten]] Daten
-- nicht für [[Ordinalskala|ordinal skalierte Variablen]] und [[Nominalskala|nominal skalierte Variablen]]
+- bei [intervall- und verhältnisskalierten](/lerninhalte/kardinalskala/) Daten
+- nicht für [ordinal skalierte Variablen](/lerninhalte/ordinalskala/) und [nominal skalierte Variablen](/lerninhalte/nominalskala/)
 
 ## Formel
 
 $$
+
 \bar{x} = \dfrac{1}{n} \sum^{n}_{i=1}x_i = \dfrac{x_1+x_2+x_3+...+x_n}{n}
+
 $$
 
 ## Vorteile

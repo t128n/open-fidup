@@ -36,7 +36,7 @@ description: "Das IT-Grundschutzmodell bietet einen ganzheitlichen Ansatz zur In
 - Praxiserprobte Methodik, in Verwaltung und Wirtschaft bewährt
 - Skalierbar für Institutionen unterschiedlicher Größe und Komplexität
 
-## [[Kontinuierlicher Verbesserungsprozess]]
+## [Kontinuierlicher Verbesserungsprozess](/lerninhalte/Kontinuierlicher-Verbesserungsprozess)
 - Regelmäßige Überprüfung und Aktualisierung des Sicherheitskonzepts
 - Anpassung an veränderte Anforderungen und neue Bedrohungen
 - Möglichkeit zur Steigerung des Sicherheitsniveaus über die Zeit

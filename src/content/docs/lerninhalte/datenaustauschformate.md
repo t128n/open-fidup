@@ -54,11 +54,11 @@ col1,col2,col3,col4
 data,is,0,"even spaces"
 ```
 ## Daten aus unterschiedlichen Systemen und unterschiedlichen Formaten zusammenführen können
-- **Schnittstellenentwicklung**: Entwicklung von [[API-Schnittstellen|API]]s oder Middleware, um Daten zwischen verschiedenen Systemen auszutauschen und zu konvertieren.
+- **Schnittstellenentwicklung**: Entwicklung von [APIs](/lerninhalte/api-schnittstellen) oder Middleware, um Daten zwischen verschiedenen Systemen auszutauschen und zu konvertieren.
 - **Formate, z.B.**:
-	- [[Datenaustauschformate|XML]]: Ideal für **komplexe** Datenstrukturen und **hierarchische** Daten.
-	- [[Datenaustauschformate|JSON]]: Optimal für **Webanwendungen** und **einfache Datenübertragungen**.
-	- [[Datenaustauschformate|CSV]]: Praktisch für **tabellarische Daten** und **einfache Datenimporte/-exporte**.
+	- [XML](lerninhalte/datenaustauschformate/): Ideal für **komplexe** Datenstrukturen und **hierarchische** Daten.
+	- [JSON](lerninhalte/datenaustauschformate/): Optimal für **Webanwendungen** und **einfache Datenübertragungen**.
+	- [CSV](lerninhalte/datenaustauschformate/): Praktisch für **tabellarische Daten** und **einfache Datenimporte/-exporte**.
 
 ## Quellen
 
