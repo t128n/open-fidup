@@ -44,13 +44,3 @@ Für eine effektive Abnahme sollten folgende Praktiken befolgt werden:
 
 ## Rechtliche Aspekte
 Das Abnahmeprotokoll hat rechtliche Bedeutung. Es hat Beweiskraft bei rechtlichen Auseinandersetzungen, beendet die Erfüllungsphase und leitet die Gewährleistungsphase ein. Verjährungsfristen für Mängelansprüche beginnen mit der Abnahme.
-
-## Quellen
-[^1]: https://www.youtube.com/watch?v=XxijMDva5sk  
-[^2]: https://blog.christianeirich.de/lernzettel-sql-zur-gap2-fuer-fachinformatiker-anwendungsentwicklung/  
-[^3]: https://it-berufe-podcast.de/vorbereitung-auf-die-ihk-abschlusspruefung-der-it-berufe/moegliche-themen-von-teil-2-der-gestreckten-abschlusspruefung-gap-fuer-fachinformatiker-anwendungsentwicklung/  
-[^4]: https://www.u-form-shop.de/lernkarten/lernkarten-papierversion/it-berufe/fachinformatiker-fachinformatikerin-systemintegration-lernkarten-abschlusspruefung-teil-nbsp-2  
-[^5]: https://www.u-form-shop.de/lernkarten/lernkarten-papierversion/it-berufe  
-[^6]: https://www.amazon.de/Lernkarten-Fachinformatiker-Anwendungsentwicklung-Pr%C3%BCfung-Pr%C3%BCfungsvorbereitung/dp/3943608522  
-[^7]: https://www.fachinformatiker.de/topic/174802-pr%C3%BCfungsvorbereitung-ap2/  
-[^8]: https://www.reddit.com/r/fachinformatiker/comments/1dqe7wu/lernzettel_fisi_ap2/

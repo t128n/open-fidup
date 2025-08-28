@@ -9,6 +9,14 @@ Das Client-Server-Modell stellt das gängigste Architekturkonzept in der Informa
 
 Im Client-Server-Modell erfolgt eine zentrale Verwaltung der Ressourcen durch den Server. Dies ermöglicht eine effiziente Organisation von Daten und Diensten. Die Kommunikation zwischen Clients und Servern folgt einem strukturierten Ansatz, bei dem Anfragen von Clients an den Server gerichtet werden und dieser entsprechende Antworten liefert.
 
+```mermaid
+sequenceDiagram
+    participant Client
+    participant Server
+    Client->>Server: Anfrage
+    Server->>Client: Antwort
+```
+
 ## Vorteile
 
 Das Modell bietet mehrere Vorteile:

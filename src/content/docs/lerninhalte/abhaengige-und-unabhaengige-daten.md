@@ -12,6 +12,26 @@ In der Statistik unterscheidet man zwischen abhängigen und unabhängigen Variab
 - **Abhängige Variable:** Im Beispiel der Verkaufszahlen von Masken ist die Anzahl der verkauften Masken oder der Erfolg die abhängige Variable, da sie von anderen Faktoren abhängt.
 - **Unabhängige Variablen:** Datum, Event, Ort, Zielgruppe, Werbemittel und Kosten sind unabhängige Variablen, die Einfluss auf die abhängige Variable ausüben.
 
+```mermaid
+flowchart TD
+    A[Datum] --> F[Verkaufszahlen]
+    B[Event] --> F
+    C[Ort] --> F
+    D[Zielgruppe] --> F
+    E[Werbemittel] --> F
+
+    classDef independent fill:#87CEEB,stroke:#000,stroke-width:2px
+    classDef dependent fill:#FFA07A,stroke:#000,stroke-width:2px
+
+    class A,B,C,D,E independent
+    class F dependent
+    
+    subgraph Legende
+      L1[Unabhängige Variable]:::independent
+      L2[Abhängige Variable]:::dependent
+    end
+```
+
 ## Unabhängige Daten
 
 Unabhängige Daten sind Datensätze ohne jeglichen Zusammenhang. Die Werte einer Datenmenge beeinflussen nicht die Werte einer anderen. Jeder Datensatz kann separat betrachtet werden, und statistische Tests für unabhängige Stichproben kommen zum Einsatz.

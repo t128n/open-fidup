@@ -13,18 +13,13 @@ Die Vorteile von BPMN liegen in ihrer standardisierten Darstellung, die das Vers
 
 ## Grundelemente
 
-Die Grundelemente von BPMN bilden die Bausteine für die Modellierung. Sie umfassen Ereignisse, Aktivitäten, Gateways, Verbindungen sowie Pools und Lanes. Ereignisse markieren den Beginn, das Ende oder Zwischenstadien eines Prozesses. Aktivitäten beschreiben Arbeitsschritte, die als einfache Tasks oder komplexere Sub-Prozesse ausgeführt werden. Gateways steuern den Prozessfluss und ermöglichen Entscheidungen, etwa durch logische Operatoren wie XOR, AND oder OR. Verbindungen zeigen Sequenzflüsse oder Nachrichtenflüsse zwischen Elementen. Pools repräsentieren Organisationen oder Teilnehmer, während Lanes diese in spezifische Rollen oder Abteilungen unterteilen.
+Die Grundelemente von BPMN bilden die Bausteine für die Modellierung. Sie umfassen Ereignisse, Aktivitäten, Gateways, Verbindungen sowie Pools und Lanes. Ereignisse markieren den Beginn, das Ende oder Zwischenstadien eines Prozesse. Aktivitäten beschreiben Arbeitsschritte, die als einfache Tasks oder komplexere Sub-Prozesse ausgeführt werden. Gateways steuern den Prozessfluss und ermöglichen Entscheidungen, etwa durch logische Operatoren wie XOR, AND oder OR. Verbindungen zeigen Sequenzflüsse oder Nachrichtenflüsse zwischen Elementen. Pools repräsentieren Organisationen oder Teilnehmer, während Lanes diese in spezifische Rollen oder Abteilungen unterteilen.
 
-Ein einfaches Beispiel für ein BPMN-Diagramm veranschaulicht diese Elemente:
+Ein Beispiel für ein BPMN-Diagramm veranschaulicht diese Elemente:
 
-```mermaid
-flowchart TD
-    A[Start-Ereignis] --> B[Task: Arbeitsschritt]
-    B --> C{Gateway: Entscheidung}
-    C -->|Ja| D[Task: Folgeschritt]
-    C -->|Nein| E[End-Ereignis]
-    D --> E
-```
+![BPMN Business Process Diagram Example](https://guides.visual-paradigm.com/wp-content/uploads/2023/09/1_20-bpmn-business-process-diagram-example.png)
+
+*Quelle: [Visual Paradigm Guides](https://guides.visual-paradigm.com/)*
 
 ## Anwendungsbereiche
 

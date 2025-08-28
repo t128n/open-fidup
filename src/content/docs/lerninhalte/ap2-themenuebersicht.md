@@ -1,6 +1,8 @@
 ---
 title: "Themenübersicht für die AP2"
 description: "Diese Übersicht für die AP2 behandelt fachübergreifende, berufsprofilgebende Kompetenzen, darunter Kundenberatung, die Bewertung von IT-Systemen, die Entwicklung von IT-Lösungen und Qualitätssicherung. Ebenfalls abgedeckt sind die Analyse von Daten und Prozessen, die Programmierung von Software sowie Wirtschafts- und Sozialkunde. Dieser Leitfaden dient der Vorbereitung auf die Abschlussprüfung."
+sidebar:
+  order: 1
 ---
 
 > [!CAUTION]

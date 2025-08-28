@@ -14,6 +14,13 @@ Bestimmte Informationen werden als Datensatz in einem Block verpackt. Ein Block 
 
 Durch die Referenzierung des vorherigen Blocks erfordern Änderungen einen hohen Rechenaufwand. Der erste Block in einer Blockchain heißt Genesis Block. Proof of Work ist eine Aufgabe, die erfüllt werden muss, um einen Block zu generieren; sie verlangsamt die Block-Kalkulation. Ein Konsens über Blöcke, die zur Kette hinzugefügt werden, wird erreicht.
 
+```mermaid
+flowchart LR
+    Genesis["Genesis Block (Data, Hash, Previous None)"] --> Block1["Block 1 (Data, Hash, Previous Genesis)"]
+    Block1 --> Block2["Block 2 (Data, Hash, Previous Block1)"]
+    Block2 --> BlockN["Block N (Data, Hash, Previous BlockN-1)"]
+```
+
 ## Anwendungsgebiete
 Blockchain findet Anwendung in verschiedenen Bereichen:
 

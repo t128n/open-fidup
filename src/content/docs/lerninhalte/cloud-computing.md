@@ -14,6 +14,15 @@ Cloud-Computing lässt sich in verschiedene Arten unterteilen:
 - **Multicloud**: Die Nutzung mehrerer Cloud-Provider, um die Abhängigkeit zu reduzieren, etwa durch politische Entscheidungen oder Ausfälle.
 - **Private Cloud**: Die Cloud-Infrastruktur steht ausschließlich einem Kunden zur Verfügung, oft lokal in dessen eigenem Rechenzentrum.
 
+### Vergleich der Cloud-Arten
+
+| Art der Cloud | Eigentümer | Zugänglichkeit | Typische Anwendungsfälle |
+|---------------|------------|----------------|---------------------------|
+| Public Cloud | Cloud-Anbieter | Öffentliches Internet | Allgemeine Dienste, SaaS, XaaS |
+| Private Cloud | Organisation | Internes Netzwerk | Sensible Daten, spezifische Anforderungen |
+| Hybrid Cloud | Beide (Organisation und Anbieter) | Kombination aus intern und öffentlich | Gemischte Workloads, sensible und öffentliche Daten |
+| Multicloud | Mehrere Anbieter | Verschiedene Netzwerke | Redundanz, Risikominimierung |
+
 ## Vorteile
 
 Cloud-Computing bietet mehrere Vorteile:
