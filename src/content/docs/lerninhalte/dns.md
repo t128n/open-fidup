@@ -43,6 +43,29 @@ www.example.com. IN  CNAME   example.com.
 example.com.    IN  MX      10 mail.example.com.
 ```
 
+## DNS-Auflösungsprozess
+
+Der DNS-Auflösungsprozess beschreibt, wie eine Domain in eine IP-Adresse umgewandelt wird. Nachfolgend ist ein Sequenzdiagramm dargestellt:
+
+```mermaid
+sequenceDiagram
+    participant Client
+    participant RecursiveResolver
+    participant RootServer
+    participant TLDServer
+    participant AuthoritativeServer
+
+    Client->>RecursiveResolver: DNS Query for example.com
+    RecursiveResolver-->>Client: Check Cache (if hit, return IP)
+    RecursiveResolver->>RootServer: Query for .com TLD
+    RootServer-->>RecursiveResolver: TLD Server IP
+    RecursiveResolver->>TLDServer: Query for example.com
+    TLDServer-->>RecursiveResolver: Authoritative Server IP
+    RecursiveResolver->>AuthoritativeServer: Query for example.com
+    AuthoritativeServer-->>RecursiveResolver: IP Address of example.com
+    RecursiveResolver-->>Client: IP Address of example.com
+```
+
 ## Vorteile und Herausforderungen
 
 ### Vorteile
