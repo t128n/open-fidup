@@ -200,4 +200,4 @@ Verschiedene Begriffe sind zentral für das Verständnis von KI und ihren Method
 - **Hyperparameteroptimierung:** Das Feintuning von Parametern wie Lernrate oder Batchgröße.
 
 ## Quellen
-Wikipedia: Künstliche Intelligenz. Abgerufen von https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz
+- [Wikipedia: Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
