@@ -17,8 +17,8 @@ Der Korrelationskoeffizient drückt die Stärke des statistischen Zusammenhangs 
 
 ## Berechnung
 
-Die Formel für den Korrelationskoeffizienten \( r_{xy} \) lautet:
+Die Formel für den Korrelationskoeffizienten $( r_{xy} )$ lautet:
 
 $$ r_{xy} = \dfrac{s_{xy}}{s_x \times s_y} $$
 
-Dabei bezeichnet \( s_{xy} \) die Kovarianz der Variablen \( x \) und \( y \), während \( s_x \) und \( s_y \) die Standardabweichungen der jeweiligen Variablen darstellen. Diese Formel basiert auf dem [arithmetisches Mittel](/open-fidup/lerninhalte/arithmetisches-mittel) und der [Varianz](/open-fidup/lerninhalte/varianz) der Daten.
+Dabei bezeichnet $( s_{xy} )$ die Kovarianz der Variablen $( x )$ und $( y )$, während $( s_x )$ und $( s_y )$ die Standardabweichungen der jeweiligen Variablen darstellen. Diese Formel basiert auf dem [arithmetisches Mittel](/open-fidup/lerninhalte/arithmetisches-mittel) und der [Varianz](/open-fidup/lerninhalte/varianz) der Daten.

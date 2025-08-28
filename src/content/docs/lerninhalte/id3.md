@@ -11,15 +11,15 @@ Der ID3-Algorithmus dient der Entscheidungsfindung und wird insbesondere bei [En
 
 ## Algorithmus
 
-Der Algorithmus arbeitet mit einem Datensatz \( T \). Die Schritte sind wie folgt:
+Der Algorithmus arbeitet mit einem Datensatz $(T)$. Die Schritte sind wie folgt:
 
-- Wenn alle Elemente aus \( T \) zu einer Klasse gehören:
+- Wenn alle Elemente aus $(T)$ zu einer Klasse gehören:
   - Konstruiere ein Blatt mit der Klasse als Bezeichner.
 - Andernfalls:
-  - Wähle das Merkmal \( x_i \) mit dem höchsten Informationsgewinn.
-  - Für alle vorkommenden Werte des Merkmals \( x_i \):
+  - Wähle das Merkmal $(x_i)$ mit dem höchsten Informationsgewinn.
+  - Für alle vorkommenden Werte des Merkmals $x_i$:
     - Konstruiere rekursiv Teilbäume mit den entsprechenden Teilmengen als Daten.
-  - Konstruiere einen Baumknoten mit dem Bezeichner \( x_i \) und hänge alle erzeugten Teilbäume an.
+  - Konstruiere einen Baumknoten mit dem Bezeichner $x_i$ und hänge alle erzeugten Teilbäume an.
 
 ## Beispiel
 

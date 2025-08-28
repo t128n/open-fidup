@@ -11,23 +11,23 @@ MTBF steht für Mean Time Between Failures und bezeichnet die durchschnittliche 
 
 ### Mathematische Zusammenhänge
 
-Die Verfügbarkeit \( p \) eines Systems berechnet sich als:
+Die Verfügbarkeit $( p )$ eines Systems berechnet sich als:
 
-\[
+$$
 p = \frac{\text{MTBF}}{\text{MTBF} + \text{MTTR}}
-\]
+$$
 
-Die Unverfügbarkeit \( q \) ergibt sich daraus als:
+Die Unverfügbarkeit $( q )$ ergibt sich daraus als:
 
-\[
+$$
 q = 1 - p = \frac{\text{MTTR}}{\text{MTBF} + \text{MTTR}}
-\]
+$$
 
-Die Ausfallrate \( \lambda \) wird definiert als:
+Die Ausfallrate $( \lambda )$ wird definiert als:
 
-\[
+$$
 \lambda = \frac{1}{\text{MTBF}}
-\]
+$$
 
 ## MTTR
 

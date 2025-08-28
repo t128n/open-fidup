@@ -6,19 +6,19 @@ description: "Die Varianz misst die Streuung von Daten um den Mittelwert. Es wer
 Die Varianz ist ein Maß für die Streuung von Datenpunkten um ihren Mittelwert. Sie quantifiziert, wie stark die Werte einer Datenmenge variieren, und bildet eine Grundlage für viele statistische Analysen. Die Berechnung unterscheidet sich zwischen der Gesamtheit und einer Stichprobe, wobei die Varianz in quadrierten Einheiten angegeben wird.
 
 ## Formel
-Die Varianz \( v \) beschreibt die durchschnittliche quadratische Abweichung der Datenpunkte vom Mittelwert. Dabei bezeichnet \( n \) die Anzahl der Datenpunkte, \( x_i \) die einzelnen Datenwerte und \( \bar{x} \) den [Mittelwert](/open-fidup/lerninhalte/quadratisches-mittel) der Daten.
+Die Varianz $( v )$ beschreibt die durchschnittliche quadratische Abweichung der Datenpunkte vom Mittelwert. Dabei bezeichnet $( n )$ die Anzahl der Datenpunkte, $( x_i )$ die einzelnen Datenwerte und $( \bar{x} )$ den [Mittelwert](/open-fidup/lerninhalte/quadratisches-mittel) der Daten.
 
 ### Gesamtheit
 Für eine vollständige Gesamtheit wird die Varianz wie folgt berechnet:
-\[
+$$
 v = \dfrac{1}{n} \sum^{n}_{i=1}(x_i - \bar{x})^2
-\]
+$$
 
 ### Stichprobe
-Bei einer Stichprobe aus der Gesamtheit erfolgt die Berechnung mit \( n-1 \) im Nenner, um eine unverzerrte Schätzung zu gewährleisten:
-\[
+Bei einer Stichprobe aus der Gesamtheit erfolgt die Berechnung mit $( n-1 )$ im Nenner, um eine unverzerrte Schätzung zu gewährleisten:
+$$
 v = \dfrac{1}{n-1} \sum^{n}_{i=1} (x_i - \bar{x})^2
-\]
+$$
 
 ## Vor- und Nachteile der Varianz
 
@@ -35,7 +35,7 @@ v = \dfrac{1}{n-1} \sum^{n}_{i=1} (x_i - \bar{x})^2
 
 ## Vergleich zwischen Standardabweichung und Varianz
 
-| Merkmal                     | Varianz (\( v \))                                      | Standardabweichung (\( \sigma \) oder \( s \))               |
+| Merkmal                     | Varianz ($( v )$)                                      | Standardabweichung ($( \sigma )$ oder $( s )$)               |
 |-----------------------------|-------------------------------------------------------|-------------------------------------------------------------|
 | Definition                  | Durchschnitt der quadrierten Abweichungen             | Quadratwurzel der Varianz                                   |
 | Einheit                     | Quadrat der Einheit der Daten                         | Gleiche Einheit wie die Daten                               |

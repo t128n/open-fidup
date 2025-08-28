@@ -9,11 +9,11 @@ Die Spannweite ist ein Maß in der Statistik, das die Variabilität einer Datenr
 Die Spannweite gehört zu den [Streumaßen](/open-fidup/lerninhalte/streumasse). Sie ergibt sich aus der Differenz zwischen dem größten (Maximum) und dem kleinsten (Minimum) Wert einer Datenreihe. Da sie nur die Extremwerte berücksichtigt, kann sie durch Ausreißer verzerrt werden.
 
 ## Formel
-Die Spannweite \( R \) wird wie folgt berechnet:
+Die Spannweite $(R)$ wird wie folgt berechnet:
 
-\[
+$$
 R = x_{\max} - x_{\min}
-\]
+$$
 
 ## Quellen
 > Spannweite berechnen. (2022, September 19). Retrieved from https://studyflix.de/statistik/spannweite-berechnen-5401  

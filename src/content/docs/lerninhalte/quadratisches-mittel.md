@@ -30,9 +30,9 @@ Das quadratische Mittel weist folgende Merkmale auf:
 
 Für die Werte 3, 4 und 5 erfolgt die Berechnung des quadratischen Mittels wie folgt:
 
-1. Quadriere die Werte: \(3^2 = 9\), \(4^2 = 16\), \(5^2 = 25\).
-2. Berechne den Durchschnitt der quadrierten Werte: \(\dfrac{9 + 16 + 25}{3} = \dfrac{50}{3} \approx 16,67\).
-3. Ziehe die Quadratwurzel: \(\sqrt{16,67} \approx 4,08\).
+1. Quadriere die Werte: $(3^2 = 9)$, $(4^2 = 16)$, $(5^2 = 25)$.
+2. Berechne den Durchschnitt der quadrierten Werte: $(\dfrac{9 + 16 + 25}{3} = \dfrac{50}{3} \approx 16,67)$.
+3. Ziehe die Quadratwurzel: $(\sqrt{16,67} \approx 4,08)$.
 
 Das quadratische Mittel dieser Werte beträgt somit ungefähr 4,08.
 

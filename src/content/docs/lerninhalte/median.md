@@ -22,10 +22,10 @@ Die Berechnung des Medians erfolgt in mehreren Schritten:
 2. Bei einer ungeraden Anzahl von Werten ist der mittlere Wert der Median.
 3. Bei einer geraden Anzahl wird der Median als arithmetisches Mittel der beiden mittleren Werte definiert.
 
-Hierbei bezeichnet \( n \) die Anzahl der Messwerte und \( x_n \) den Wert am Index \( n \).
+Hierbei bezeichnet $( n )$ die Anzahl der Messwerte und $( x_n )$ den Wert am Index $( n )$.
 
-- Bei gerader Anzahl: \( \widetilde{x} = \dfrac{1}{2} \left( x_{\dfrac{n}{2}} + x_{\dfrac{n}{2} + 1} \right) \)
-- Bei ungerader Anzahl: \( \widetilde{x} = x_{\dfrac{n + 1}{2}} \)
+- Bei gerader Anzahl: $( \widetilde{x} = \dfrac{1}{2} \left( x_{\dfrac{n}{2}} + x_{\dfrac{n}{2} + 1} \right) )$
+- Bei ungerader Anzahl: $( \widetilde{x} = x_{\dfrac{n + 1}{2}} )$
 
 ## Vorteile
 Der Median zeichnet sich durch Robustheit gegenüber Ausreißern aus. Anders als der [arithmetische Mittelwert](/open-fidup/lerninhalte/arithmetisches-mittel) erfordert er kein Intervallskalenniveau.
