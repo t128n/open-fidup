@@ -3,12 +3,15 @@ title: "Switching"
 description: "Switching analysiert Ethernet-Frames, speichert MAC-Adressen in der FDB und leitet Frames an den Zielport weiter. Es ermöglicht effiziente Datenübertragung auf der Netzzugangsschicht."
 ---
 
-- quasi wie [Routing](/open-fidup/lerninhalte/tcp-ip-modell), bloß auf [Ebene 2](/open-fidup/lerninhalte/osi-modell) bzw. [Netzzugangsschicht](/open-fidup/lerninhalte/tcp-ip-modell)
+Switching bezeichnet einen Prozess in der Netzwerktechnik, der ähnlich wie [Routing](/open-fidup/lerninhalte/tcp-ip-modell) funktioniert, jedoch auf der [Ebene 2](/open-fidup/lerninhalte/osi-modell) des OSI-Modells oder der [Netzzugangsschicht](/open-fidup/lerninhalte/tcp-ip-modell) des TCP/IP-Modells. Dabei werden eingehende Ethernet-Frames analysiert, die MAC-Adressen von Sender und Empfänger zusammen mit den entsprechenden Portnummern in einer MAC-Tabelle, auch Forwarding Database (FDB) genannt, gespeichert und die Frames an den Zielport weitergeleitet. Dies ermöglicht eine effiziente Datenübertragung in lokalen Netzwerken.
 
 ## Ablauf
-1. eingehendes **Ethernet-Frame** wird **analyisiert**
-2. MAC-Adressen und Port Nummern von Sender um Empfänger werden in *MAC-Tabelle* (FDB, Forwarding Database) gespeichert (Einträge werden regelmäßig erneuert da Port-Nummer sich ändern kann)
-3. Ethernet-Frame wird an Ziel Port Nummer weitergeleitet
+
+Der Prozess des Switchings folgt typischerweise diesen Schritten:
+
+1. Ein eingehendes Ethernet-Frame wird analysiert.
+2. Die MAC-Adressen und Portnummern von Sender und Empfänger werden in der MAC-Tabelle (FDB) gespeichert. Diese Einträge werden regelmäßig erneuert, da sich Portnummern ändern können.
+3. Das Ethernet-Frame wird an die Zielportnummer weitergeleitet.
 
 ## Quellen
 

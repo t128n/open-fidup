@@ -1,33 +1,39 @@
 ---
 title: "Erwartungswerte"
-description: "Erwartungswert ist die Prognose eines Ergebnisses eines Zufallsexperiments, der erwartete Ausgang. Bei diskreten Zufallsvariablen ist es die Summe von Wert mal Wahrscheinlichkeit. Bei stetigen erfolgt Integration. Er beschreibt den durchschnittlichen Ausgang."
+description: "Der Erwartungswert ist die Prognose eines Ergebnisses eines Zufallsexperiments und beschreibt den erwarteten Ausgang. Bei diskreten Zufallsvariablen ergibt er sich aus der Summe von Wert mal Wahrscheinlichkeit, bei stetigen aus einer Integration."
 ---
 
-## Prognose
-- **Prognose** eines Ergebnisses eines **Zufallsexperiments**: 
-  - Der *erwartete Ausgang* eines Zufallsexperiments, der Wert, den die Zufallsvariable am ehesten annimmt.
-  - Mathematisch dargestellt als: $x = E(X)$
+Der Erwartungswert ist ein zentrales Konzept in der Wahrscheinlichkeitstheorie. Er stellt die Prognose eines Ergebnisses eines Zufallsexperiments dar und beschreibt den erwarteten Ausgang, den die Zufallsvariable am ehesten annimmt. Mathematisch wird er als $E(X)$ bezeichnet.
 
-## Diskrete Zufallsvariable
-- Der Erwartungswert $E(X)$ einer [diskreten Zufallsvariable](/open-fidup/lerninhalte/zufallsvariable) wird berechnet durch:
-  $$E(X) = \sum x_i \times f(x_i)$$
-- Hierbei addieren wir die Produkte der möglichen Werte $x_i$ und deren relativen Wahrscheinlichkeiten $p_i$.
+## Definition
+Der Erwartungswert eines Zufallsexperiments ist der Wert, den die Zufallsvariable am ehesten annimmt. Er dient als Maß für den durchschnittlichen Ausgang.
+
+## Berechnung bei diskreten Zufallsvariablen
+Der Erwartungswert $E(X)$ einer [diskreten Zufallsvariable](/open-fidup/lerninhalte/zufallsvariable) wird berechnet durch:
+
+$$E(X) = \sum x_i \times p_i$$
+
+Hierbei werden die Produkte der möglichen Werte $x_i$ und deren relativen Wahrscheinlichkeiten $p_i$ addiert.
 
 ### Beispiel
+Ein Beispiel für die Berechnung des Erwartungswerts zeigt die folgende Tabelle mit Ereignissen, Gewinnen, Gewinn-Verlust-Werten und Wahrscheinlichkeiten:
+
 | Ereignis | Gewinn     | Gewinn - Verlust | Wahrscheinlichkeit |
 |----------|------------|------------------|--------------------|
 | 1.       | € 10.000  | € 9.999          | 1%                 |
 | 2.       | € 500     | € 499            | 9%                 |
 | 3.       | € 0       | -€ 1             | 90%                |
 
-Berechnung des Erwartungswerts:
+Die Berechnung des Erwartungswerts ergibt:
+
 $$E(X) = 9.999 \times 0,01 + 499 \times 0,09 + (-1) \times 0,9 = 144$$
 
-## Stetige Zufallsvariable
-- Der Erwartungswert $E(X)$ einer [stetigen Zufallsvariable](/open-fidup/lerninhalte/zufallsvariable) wird berechnet durch:
-  $$E(X) = \int_{-\infty}^{\infty} x \times f(x)$$
-- Hierbei ist $f(x)$ die [Dichtefunktion](/open-fidup/lerninhalte/dichtefunktion) der Zufallsvariablen.
+## Berechnung bei stetigen Zufallsvariablen
+Der Erwartungswert $E(X)$ einer [stetigen Zufallsvariable](/open-fidup/lerninhalte/zufallsvariable) wird berechnet durch:
+
+$$E(X) = \int_{-\infty}^{\infty} x \times f(x) \, dx$$
+
+Hierbei ist $f(x)$ die [Dichtefunktion](/open-fidup/lerninhalte/dichtefunktion) der Zufallsvariablen.
 
 ## Zusammenfassung
-- Der Erwartungswert ist ein zentrales Konzept in der Wahrscheinlichkeitstheorie, das den durchschnittlichen Ausgang eines Zufallsexperiments beschreibt.
-- Bei diskreten Zufallsvariablen erfolgt die Berechnung durch Summation, während bei stetigen Zufallsvariablen eine Integration notwendig ist.
+Der Erwartungswert beschreibt den durchschnittlichen Ausgang eines Zufallsexperiments. Bei diskreten Zufallsvariablen erfolgt die Berechnung durch Summation, bei stetigen Zufallsvariablen durch Integration. Er ist ein grundlegendes Werkzeug in der Wahrscheinlichkeitstheorie.

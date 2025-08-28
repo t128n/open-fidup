@@ -1,44 +1,26 @@
 ---
 title: "Hardwaretest"
-description: "Hardwaretests umfassen Wareneingangs- und Ausgangskontrollen zur Sicherstellung der Funktionalität und Qualität. Methoden wie visuelle Inspektion und Funktionstests minimieren Mängel und erhöhen Kundenzufriedenheit."
+description: "Hardwaretests umfassen systematische Prüfungen von Hardwarekomponenten zur Sicherstellung von Funktionalität, Qualität und Zuverlässigkeit. Sie spielen eine zentrale Rolle in der Qualitätssicherung während Produktion und Vertrieb."
 ---
 
-- systematische **Prüfungen von Hardwarekomponenten**, um deren Funktionalität, **Qualität und Zuverlässigkeit sicherzustellen**. Sie sind entscheidend für die Qualitätssicherung in der Produktion und im Vertrieb.
+Hardwaretests sind systematische Prüfungen von Hardwarekomponenten, die deren Funktionalität, Qualität und Zuverlässigkeit sicherstellen. Sie sind ein wesentlicher Bestandteil der Qualitätssicherung in Produktions- und Vertriebsprozessen und helfen dabei, Mängel zu minimieren und die Kundenzufriedenheit zu erhöhen.
 
 ## Arten von Hardwaretests
-- **Wareneingangskontrolle**
-  - **Zweck:** Überprüfung der gelieferten Hardware auf Vollständigkeit und Mängel.
-  - **Durchführung:**
-    - Sichtprüfung auf äußerliche Schäden.
-    - Vergleich mit Bestellunterlagen (Menge, Typ, Spezifikationen).
-    - Funktionstests (z.B. Einschalten, Grundfunktionen).
-  - **Dokumentation:** Protokollierung der Ergebnisse und eventueller Mängel.
-- **Mangelhafte Lieferung**
-  - **Identifikation:** Erkennung von defekten oder nicht konformen Produkten.
-  - **Maßnahmen:**
-    - Rückmeldung an den Lieferanten.
-    - Dokumentation der Mängel (Fotos, Berichte).
-    - Entscheidung über Rücksendung oder Nachbesserung.
-  - **Prüfkriterien:** Funktionalität, Kompatibilität, Qualität.
-- **Warenausgangskontrolle**
-  - **Zweck:** Sicherstellung, dass nur einwandfreie Produkte das Lager verlassen.
-  - **Durchführung:**
-    - Endkontrolle der Produkte vor dem Versand.
-    - Überprüfung der Verpackung und der Versanddokumente.
-    - Durchführung von Funktionstests, falls erforderlich.
-  - **Dokumentation:** Versandprotokolle, Prüfberichte.
+
+### Wareneingangskontrolle
+Die Wareneingangskontrolle dient der Überprüfung gelieferter Hardware auf Vollständigkeit und Mängel. Sie umfasst eine Sichtprüfung auf äußerliche Schäden, den Vergleich mit Bestellunterlagen hinsichtlich Menge, Typ und Spezifikationen sowie Funktionstests wie das Einschalten und die Überprüfung grundlegender Funktionen. Die Ergebnisse und eventuelle Mängel werden protokolliert.
+
+### Umgang mit mangelhaften Lieferungen
+Bei der Identifikation defekter oder nicht konformer Produkte erfolgt eine Rückmeldung an den Lieferanten. Mängel werden durch Fotos und Berichte dokumentiert, und es wird über Rücksendung oder Nachbesserung entschieden. Prüfkriterien beinhalten Funktionalität, Kompatibilität und Qualität.
+
+### Warenausgangskontrolle
+Die Warenausgangskontrolle stellt sicher, dass nur einwandfreie Produkte das Lager verlassen. Sie beinhaltet eine Endkontrolle der Produkte vor dem Versand, die Überprüfung der Verpackung und der Versanddokumente sowie gegebenenfalls Funktionstests. Versandprotokolle und Prüfberichte dienen der Dokumentation.
 
 ## Wichtige Prüfmethoden
-- **Visuelle Inspektion:** Überprüfung auf sichtbare Mängel oder Beschädigungen.
-- **Funktionstests:** Testen der Hardware unter realistischen Bedingungen.
-- **Leistungstests:** Messen der Leistungsfähigkeit (z.B. Geschwindigkeit, Kapazität).
-- **Kompatibilitätstests:** Sicherstellen, dass die Hardware mit anderen Komponenten funktioniert.
+Zu den gängigen Prüfmethoden zählen die visuelle Inspektion zur Erkennung sichtbarer Mängel oder Beschädigungen, Funktionstests unter realistischen Bedingungen, Leistungstests zur Messung von Geschwindigkeit oder Kapazität sowie Kompatibilitätstests, um die Zusammenarbeit mit anderen Komponenten zu gewährleisten.
 
 ## Dokumentation und Nachverfolgbarkeit
-- Alle Tests sollten dokumentiert werden, um eine lückenlose Nachverfolgbarkeit zu gewährleisten.
-- Verwendung von Prüfprotokollen und Berichten zur Analyse und Verbesserung der Prozesse.
+Alle Tests werden dokumentiert, um eine lückenlose Nachverfolgbarkeit zu ermöglichen. Prüfprotokolle und Berichte unterstützen die Analyse und Verbesserung der Prozesse.
 
 ## Bedeutung von Hardwaretests
-- **Qualitätssicherung:** Minimierung von Fehlern und Mängeln.
-- **Kundenzufriedenheit:** Sicherstellung, dass die gelieferten Produkte den Erwartungen entsprechen.
-- **Kostenreduktion:** Vermeidung von Rücksendungen und Nacharbeiten.
+Hardwaretests tragen zur Qualitätssicherung bei, indem sie Fehler und Mängel minimieren. Sie erhöhen die Kundenzufriedenheit, da die gelieferten Produkte den Erwartungen entsprechen, und reduzieren Kosten durch die Vermeidung von Rücksendungen und Nacharbeiten. Sie sind eng mit [Prüfverfahren](/open-fidup/lerninhalte/pruefverfahren) verbunden, die ähnliche systematische Ansätze verfolgen.

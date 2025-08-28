@@ -3,28 +3,30 @@ title: "Planning Poker"
 description: "Planning Poker ist eine spielerische Technik zur Schätzung von Aufgaben in agilen Projekten wie Scrum. Teilnehmer verwenden Karten mit Zahlenwerten, um unabhängig zu schätzen und anschließend zu diskutieren. Dies fördert strukturierte Abläufe und Wissensverbreitung im Team."
 ---
 
-- spielerisches Vorgehen bei Projektplanung
-- SCRUM Poker
-- Karten mit aufsteigenden Zahlen (0,1,2,3,5,8,13,20), Sonderkarten (Kaffepause, Ernsthafes Problem)
+Planning Poker ist eine spielerische Methode zur Schätzung von Aufgaben in agilen Projekten, insbesondere im [Scrum](/open-fidup/lerninhalte/scrum)-Rahmenwerk. Teilnehmer nutzen Karten mit aufsteigenden Zahlenwerten wie 0, 1, 2, 3, 5, 8, 13 und 20 sowie Sonderkarten wie für eine Kaffeepause oder ernsthafte Probleme. Die Technik ermöglicht unabhängige Schätzungen, gefolgt von Diskussionen, um Konsens zu erreichen. Sie unterstützt die Verwendung von Story Points in Scrum, lässt sich aber auch auf andere Schätzungen anwenden.
 
-1. Moderator erläutert Vorgehen und Thema
-2. Moderator nennt zu schätzende Aufgabe und steht für Rückfragen
-3. Teilnehmer nehmen Schätzung vor und legen Karten mit passenden Zahlen verdeckt auf den Tisch
-4. Alle Teilnehmer drehen Karten um
-5. Höchsten und niedrigsten Schätzungen begründen Ihre Meinung
-6. Weitere Schätzrunde
-7. Schätz-Zyklen werden so lange durchgeführt bis alle gleich sind
+## Ablauf
 
-- in Scrum sind Zahlen für Story Points, kann aber für andere Story Points benutzt werden
+Der Ablauf von Planning Poker folgt einem strukturierten Prozess, der von einem Moderator geleitet wird:
 
-**Vorteile**
-- spielerischer Ansatz
-- strukturierter Ablauf
-- unabhängige Expertenmeinungen
-- gemeinsame Schätzungen
-- Wissensverbreitung im Team
+1. Der Moderator erläutert das Vorgehen und das zu schätzende Thema.
+2. Der Moderator stellt die zu schätzende Aufgabe vor und beantwortet Rückfragen.
+3. Die Teilnehmer nehmen ihre Schätzung vor und legen die entsprechenden Karten verdeckt auf den Tisch.
+4. Alle Teilnehmer decken ihre Karten gleichzeitig auf.
+5. Die Teilnehmer mit den höchsten und niedrigsten Schätzungen begründen ihre Einschätzungen.
+6. Eine weitere Schätzrunde findet statt.
+7. Die Schätzzyklen werden wiederholt, bis alle Teilnehmer übereinstimmen.
 
+## Vorteile
+
+Planning Poker bietet mehrere Vorteile für die Projektplanung:
+
+- Spielerischer Ansatz zur Schätzung.
+- Strukturierter Ablauf, der Effizienz fördert.
+- Unabhängige Expertenmeinungen, die Bias reduzieren.
+- Gemeinsame Schätzungen, die Teamkonsens stärken.
+- Wissensverbreitung im Team durch Diskussionen.
 
 ## Quellen
 
-> https://www.youtube.com/watch?v=APDKb7Wo3gw
+- https://www.youtube.com/watch?v=APDKb7Wo3gw

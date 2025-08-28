@@ -1,42 +1,46 @@
 ---
 title: "eEPK"
-description: "eEPK ist zur Modellierung von Geschäftsprozessen geeignet. Regeln sind Beginn und Ende mit Ereignis, Wechsel von Ereignis und Funktion, Konnektoren. Elemente sind Ereignis, Funktion, Konnektoren, Kontrollfluss, Prozesswegweiser, Organisationseinheit, Daten, Programm, Anwendungssystem."
+description: "Die erweiterte Ereignisgesteuerte Prozesskette (eEPK) dient der Modellierung von Geschäftsprozessen. Sie folgt Regeln wie dem Beginn und Ende mit Ereignissen sowie dem Wechsel zwischen Ereignissen und Funktionen. Zu den Elementen zählen Ereignisse, Funktionen, Konnektoren, Kontrollfluss, Prozesswegweiser, Organisationseinheiten, Daten, Programme und Anwendungssysteme."
 ---
 
-- **e**rweiterte **E**reignisgesteuerte **P**rozess**k**etten
-- zur Modellierung von **[Geschäftsprozessen](/open-fidup/lerninhalte/geschaeftsprozess)** geeignet
+Die erweiterte Ereignisgesteuerte Prozesskette (eEPK) ist eine Methode zur Modellierung von [Geschäftsprozessen](/open-fidup/lerninhalte/geschaeftsprozess). Sie erweitert die Ereignisgesteuerte Prozesskette (EPK) um zusätzliche Elemente wie Organisationseinheiten, Daten und Anwendungssysteme. Die eEPK ermöglicht eine detaillierte Darstellung von Abläufen, Ressourcen und Verantwortlichkeiten in Prozessen.
 
 ## Regeln
-1. Ein eEPK **beginnt und endet mit einem Ereignis.**
-2. **Ereignisse und Funktionen wechseln** sich im Ablauf immer ab.
-3. Sowohl Ereignis aus auch Funktion haben jeweils nur **einen Kontrollflußeingang** und **einen Kontrollflußausgang.**
-4. Ein **Konnektor** kann **mehrere Kontrollflußeingänge** und **mehrere Kontrollflußausgänge** haben.
-5. **Mehrere Teilabläufe** werden durch die **gleiche Art Konnektor** **zusammengeführt**, mit **der sie aufgeteilt** wurden.
+
+1. Eine eEPK beginnt und endet mit einem Ereignis.
+2. Ereignisse und Funktionen wechseln sich im Ablauf immer ab.
+3. Sowohl Ereignisse als auch Funktionen haben jeweils nur einen Kontrollflußeingang und einen Kontrollflußausgang.
+4. Ein Konnektor kann mehrere Kontrollflußeingänge und mehrere Kontrollflußausgänge haben.
+5. Mehrere Teilabläufe werden durch die gleiche Art von Konnektor zusammengeführt, mit der sie aufgeteilt wurden.
 
 ## Elemente
-![[Pasted image 20240918104010.png]]
-- **Ereignis**, Start oder Ende eines Prozesses. Auslöser und Ergebnis von Funktionen
-![[Pasted image 20240918104044.png]]
-- **Funktion**, Elementarer Arbeitsschritt. Transformiert Input zu Output. Wird durch *Ereignis ausgelöst und hat Ereignis als Folge*
-![[Pasted image 20240918104129.png]]
-- **Oder-Konnektor** / **Operator**, teilt/verbindet Abfolge. Teilfolgen können *alternativ* oder auch *alle* durchlaufen werden
-![[Pasted image 20240918104221.png]]
-- **XOR-Konnektor** / **Operator**, teilt/verbindet Abfolge. Teilfolgen können nur *alternativ* durchlaufen werden
-![[Pasted image 20240918104252.png]]
-- **Und-Konnektor** / **Operator**, teilt/verbindet Abfolge. *Alle* Teilfolgen werden durchlaufen 
-![[Pasted image 20240918105726.png]]
-- **Kontrollfluss**, Verbindet Ereignisse und Funktionen sowie Konnektoren
-![[Pasted image 20240918105748.png]]
-- **Prozesswegweiser**, verweist auf kompletten *Teilprozess*, der separat modelliert ist
-![[Pasted image 20240918105820.png]]
-- **Organisationseinheit** / **Person**, Beteiligten an Funktion
-![[Pasted image 20240918105857.png]]
-- **Daten**, beschreibt welche Daten von einer Funktion *benötigt* oder *erzeugt* werden
-![[Pasted image 20240918105931.png]]
-- **Programm** / **Modul**, beschreibt mit welchem Modul/Programm die Funktion Daten transformiert
-![[Pasted image 20240918110321.png]]
-- **Anwendungssystem**, beschreibt mit welchem Anwendungssystem (mehreren Modulen, Programme, ...) die Funktion Daten transformiert
+
+Die Elemente der eEPK sind in der folgenden Tabelle dargestellt. Sie umfassen Symbole für Ereignisse, Funktionen, Konnektoren und weitere Komponenten, die den Prozessablauf und die Ressourcen beschreiben.
+
+| Element | Beschreibung | Symbol (vereinfacht) |
+|---------|-------------|----------------------|
+| Ereignis | Start oder Ende eines Prozesses. Dient als Auslöser oder Ergebnis von Funktionen. | Rechteck mit abgerundeten Ecken |
+| Funktion | Elementarer Arbeitsschritt. Transformiert Input zu Output. Wird durch ein Ereignis ausgelöst und hat ein Ereignis als Folge. | Rechteck |
+| Oder-Konnektor / Operator | Teilt oder verbindet Abfolgen. Teilfolgen können alternativ oder alle durchlaufen werden. | Kreis mit "O" |
+| XOR-Konnektor / Operator | Teilt oder verbindet Abfolgen. Teilfolgen können nur alternativ durchlaufen werden. | Kreis mit "X" |
+| Und-Konnektor / Operator | Teilt oder verbindet Abfolgen. Alle Teilfolgen werden durchlaufen. | Kreis mit "∧" oder "&" |
+| Kontrollfluss | Verbindet Ereignisse und Funktionen sowie Konnektoren. | Pfeil |
+| Prozesswegweiser | Verweist auf einen kompletten Teilprozess, der separat modelliert ist. | Rechteck mit gestrichelter Linie |
+| Organisationseinheit / Person | Beteiligte an einer Funktion. | Rechteck mit vertikaler Linie |
+| Daten | Beschreibt, welche Daten von einer Funktion benötigt oder erzeugt werden. | Parallelogramm |
+| Programm / Modul | Beschreibt, mit welchem Modul oder Programm die Funktion Daten transformiert. | Rechteck mit schräger Linie |
+| Anwendungssystem | Beschreibt, mit welchem Anwendungssystem (mehreren Modulen oder Programmen) die Funktion Daten transformiert. | Rechteck mit doppelter Linie |
 
 ## Beispiele
 
-![[Pasted image 20240918110920.png]]![[Pasted image 20240918110927.png]]
+Ein einfaches Beispiel für eine eEPK zeigt den Ablauf eines Bestellprozesses. Das Diagramm beginnt mit dem Ereignis "Bestellung eingegangen", gefolgt von der Funktion "Bestellung prüfen", die zu einem Oder-Konnektor führt, um alternative Pfade zu ermöglichen.
+
+```mermaid
+flowchart TD
+    A[Bestellung eingegangen] --> B[Bestellung prüfen]
+    B --> C{Oder}
+    C -->|Ja| D[Bestellung bestätigen]
+    C -->|Nein| E[Bestellung ablehnen]
+    D --> F[Bestellung abgeschlossen]
+    E --> F
+```

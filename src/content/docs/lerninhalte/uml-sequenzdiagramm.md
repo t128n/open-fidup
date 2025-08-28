@@ -3,39 +3,58 @@ title: "UML-Sequenzdiagramm"
 description: "Das UML-Sequenzdiagramm visualisiert den zeitlichen Ablauf von Nachrichten zwischen Objekten in einem System. Es umfasst Elemente wie Lebenslinien, synchrone und asynchrone Nachrichten sowie Aktivitätsbalken."
 ---
 
-- stellt **Ereignisauftritte chronologisch** dar
-- beschreibt wie **Objekte Nachrichten** in **bestimmter Reihenfolge austauschen**
-- **genaue Reihenfolge** ist wichtiger als spezifische Zeitpunkte
-- **Lebenslinien** repräsentiert **Zeitverlauf eines Prozesses**
+Das UML-Sequenzdiagramm ist ein Diagrammtyp der Unified Modeling Language (UML), der den zeitlichen Ablauf von Ereignissen und den Austausch von Nachrichten zwischen Objekten in einem System darstellt. Es konzentriert sich auf die genaue Reihenfolge der Interaktionen, wobei spezifische Zeitpunkte weniger relevant sind. Lebenslinien repräsentieren den Zeitverlauf einzelner Prozesse oder Objekte. Eine Gruppe von Objekten wird mit ihren Lebenslinien abgebildet, zusammen mit den Nachrichten, die sie während der Interaktion austauschen.
 
-- Sequenzdiagramm umfasst **Gruppe von Objekten**, die mit **Lebenslinien** dargestellt werden und die **Nachrichten** die sie während der **Interaktion** austauschen
+## Überblick
+Das Sequenzdiagramm stellt Ereignisse chronologisch dar und beschreibt, wie Objekte Nachrichten in einer bestimmten Reihenfolge austauschen. Die genaue Reihenfolge ist wichtiger als spezifische Zeitpunkte. Lebenslinien repräsentieren den Zeitverlauf eines Prozesses.
 
 ## Elemente
-![Objekt-Symbol](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-object-symbol.svg)
-- **Objekt**, wie in UML, *ohne* Klassenattribute
-![Aktivitätsbalken](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-activation-box-symbol.svg)
-- **Aktivitätsbalken**, Zeit, die ein Objekt zum *Abschluss* einer *Aufgabe* benötigt
-![Akteur-Symbol](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-actor-symbol.svg)
-- **Akteur**, Entitäten die mit dem *System interagieren* bzw. systemintern sind 
-![Lebenslinien-Symbol](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-lifeline-symbol.svg)
-- **Lebenslinien**, aufeinanderfolgende Ereignisse die einem 
-![Symbol für synchrone Nachrichten](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-synchronous-message-symbol.svg)
-- **synchrone Nachrichten**, Absender muss auf Antwort warten
-![Symbol für asynchrone Nachrichten](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-asynchronous-message-symbol.svg)
-- **asynchrone Nachrichten**, keine Antwort erforderlich
-![Symbol für asynchrone Antwortnachrichten](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-return-message-symbol.svg)
-- **(asynchrone) Antwortnachrichten**, Antwort vom Empfänger
-![Symbol für asynchrone Nachrichtenerstellung](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-create-message-symbol.svg)
-- **asynchrone Nachrichtenerstellung**, Erstellung eines neuen Objekts
-![Symbol für Löschnachrichten](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/discovery/UML/UML-Sequence/uml-deleted-message-symbol.svg)
-- **Löschnachrichten**, Zerstörung eines Objektes
+Das Sequenzdiagramm verwendet verschiedene Symbole und Elemente, die im Folgenden beschrieben werden. Diese Elemente helfen dabei, die Interaktionen zwischen Objekten zu visualisieren.
+
+| Element | Beschreibung |
+|---------|--------------|
+| Objekt | Ein Objekt in UML, dargestellt ohne Klassenattribute. |
+| Aktivitätsbalken | Der Zeitraum, den ein Objekt benötigt, um eine Aufgabe abzuschließen. |
+| Akteur | Entitäten, die mit dem System interagieren oder systemintern sind. |
+| Lebenslinien | Aufeinanderfolgende Ereignisse, die einem Objekt zugeordnet sind. |
+| Synchrone Nachrichten | Nachrichten, bei denen der Absender auf eine Antwort warten muss. |
+| Asynchrone Nachrichten | Nachrichten, bei denen keine Antwort erforderlich ist. |
+| (Asynchrone) Antwortnachrichten | Antworten vom Empfänger. |
+| Asynchrone Nachrichtenerstellung | Erstellung eines neuen Objekts. |
+| Löschnachrichten | Zerstörung eines Objekts. |
 
 ## Beispiel
-![[Pasted image 20240913065132.png]]
+Ein einfaches Beispiel für ein Sequenzdiagramm zeigt die Interaktion zwischen einem Benutzer und einem System zur Anmeldung.
 
-![[Pasted image 20240913072326.png]]
+```mermaid
+sequenceDiagram
+    participant Benutzer
+    participant System
+
+    Benutzer->>System: Anmeldedaten eingeben
+    System-->>Benutzer: Bestätigung
+    System->>System: Daten verifizieren
+    System-->>Benutzer: Erfolgreiche Anmeldung
+```
+
+Ein weiteres Beispiel illustriert eine komplexere Interaktion mit mehreren Objekten, einschließlich der Erstellung und Löschung von Objekten.
+
+```mermaid
+sequenceDiagram
+    participant Client
+    participant Server
+    participant Database
+
+    Client->>Server: Anfrage senden
+    Server->>Database: Neue Instanz erstellen
+    Database-->>Server: Bestätigung
+    Server-->>Client: Antwort
+    Server->>Database: Instanz löschen
+    Database-->>Server: Löschbestätigung
+```
+
 ## Quellen
 
-> Redaktion, I. (2018). Sequenzdiagramme: Den Nachrichtenaustausch in einem System mit UML darstellen. IONOS Digital Guide. Retrieved from https://www.ionos.de/digitalguide/websites/web-entwicklung/sequenzdiagramme-mit-uml-erstellen
-> Rational Application Developer for WebSphere Software 9.7.0. (2021, March 03). Retrieved from https://www.ibm.com/docs/de/radfws/9.7?topic=diagrams-sequence
+> Redaktion, I. (2018). Sequenzdiagramme: Den Nachrichtenaustausch in einem System mit UML darstellen. IONOS Digital Guide. Retrieved from https://www.ionos.de/digitalguide/websites/web-entwicklung/sequenzdiagramme-mit-uml-erstellen  
+> Rational Application Developer for WebSphere Software 9.7.0. (2021, March 03). Retrieved from https://www.ibm.com/docs/de/radfws/9.7?topic=diagrams-sequence  
 > UML Sequenzdiagramm. (2024, September 13). Retrieved from https://www.lucidchart.com/pages/de/uml-sequenzdiagramme

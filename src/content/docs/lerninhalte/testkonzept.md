@@ -3,12 +3,21 @@ title: "Testkonzept"
 description: "Ein Testkonzept definiert Ziele, Umfang, Methoden und Ressourcen für Tests. Es umfasst funktionale, Usability-, Leistungs- und Sicherheitstests, um Qualität und Funktionalität der App sicherzustellen."
 ---
 
-Ein Testkonzept ist entscheidend, um die **Qualität** und **Funktionalität** der App sicherzustellen. Hier sind drei wesentliche Inhalte, die in ein Testkonzept aufgenommen werden sollten:
+Ein Testkonzept legt die Grundlagen für systematische Tests fest, um die Qualität und Funktionalität einer Anwendung zu gewährleisten. Es beschreibt Ziele, Umfang, Methoden und Ressourcen, einschließlich funktionaler, Usability-, Leistungs- und Sicherheitstests.
 
-1. **Testziele und -umfang**: In diesem Abschnitt werden die *spezifischen Ziele des Tests definiert*, z. B. die Überprüfung der *Funktionalität*, *Benutzerfreundlichkeit*, *Leistung* und *Sicherheit* der App. Zudem sollte der Umfang des Tests festgelegt werden, also welche Funktionen und Komponenten der App getestet werden sollen. Dies hilft, den Fokus der Tests zu bestimmen und sicherzustellen, dass alle relevant en Aspekte abgedeckt werden.
-2. **Testmethoden und -arten**: Hier werden die verschiedenen *Testmethoden beschrieben, die angewendet werden sollen*, um die App zu testen. Dazu gehören unter anderem:
-   - **Funktionale Tests**: Überprüfung, ob die App die *definierten Anforderungen* erfüllt.
-   - **Usability-Tests**: Bewertung der *Benutzerfreundlichkeit* und der Benutzererfahrung.
-   - **Leistungstests**: Überprüfung der *Reaktionszeiten* und der *Stabilität* der App unter verschiedenen Lastbedingungen.
-   - **Sicherheitstests**: Identifikation von *Sicherheitsanfälligkeiten* und *Überprüfung der Datensicherheit*.
-3. **Testressourcen und -zeitplan**: In diesem Abschnitt werden die benötigten Ressourcen für die Durchführung der Tests festgelegt, einschließlich der Testumgebungen, Testwerkzeuge und der benötigten Testdaten. Zudem sollte ein *Zeitplan* erstellt werden, der die *verschiedenen Testphasen* und Meilensteine beschreibt, um sicherzustellen, dass die Tests rechtzeitig vor der Veröffentlichung der App abgeschlossen werden.
+## Testziele und -umfang
+
+Dieser Abschnitt definiert die spezifischen Ziele der Tests, etwa die Überprüfung der Funktionalität, Benutzerfreundlichkeit, Leistung und Sicherheit der Anwendung. Der Umfang legt fest, welche Funktionen und Komponenten getestet werden, um den Fokus zu bestimmen und relevante Aspekte abzudecken.
+
+## Testmethoden und -arten
+
+Hier werden die anzuwendenden Testmethoden beschrieben. Dazu zählen verschiedene Arten von Tests, die auf die definierten Anforderungen abzielen:
+
+- **Funktionale Tests**: Diese überprüfen, ob die Anwendung die festgelegten Anforderungen erfüllt. Sie basieren auf [funktionalen und nicht-funktionalen Anforderungen](/open-fidup/lerninhalte/funktionale-und-nicht-funktionale-anforderungen).
+- **Usability-Tests**: Diese bewerten die Benutzerfreundlichkeit und die Benutzererfahrung, oft unterstützt durch [Softwareergonomie](/open-fidup/lerninhalte/softwareergonomie).
+- **Leistungstests**: Diese prüfen Reaktionszeiten und Stabilität unter verschiedenen Lastbedingungen, wie in der [Systemlastanalyse](/open-fidup/lerninhalte/systemlastanalyse) beschrieben.
+- **Sicherheitstests**: Diese identifizieren Sicherheitsanfälligkeiten und überprüfen die Datensicherheit, unterstützt durch [präventive IT-Sicherheitsmaßnahmen](/open-fidup/lerninhalte/praeventive-it-sicherheitsmassnahmen).
+
+## Testressourcen und -zeitplan
+
+Dieser Abschnitt legt die benötigten Ressourcen fest, einschließlich Testumgebungen, Testwerkzeuge und Testdaten. Ein Zeitplan beschreibt die Testphasen und Meilensteine, um den Abschluss vor der Veröffentlichung der Anwendung zu sichern. [Testverfahren](/open-fidup/lerninhalte/testverfahren) und [Testdatengeneratoren](/open-fidup/lerninhalte/testdatengeneratoren) können dabei hilfreich sein.

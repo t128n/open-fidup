@@ -3,32 +3,49 @@ title: "TCP/IP-Modell"
 description: "Das TCP/IP-Modell ist eine Gruppe von Protokollen für Vermittlung und Transport in dezentralen Netzwerken. Es umfasst vier Schichten von Anwendung bis Netzzugang mit Aufgaben wie Adressierung und Routing. Vorteile sind Standortunabhängigkeit, Nachteile Ineffizienz bei kleinen Datenmengen."
 ---
 
-- Gruppe von **Netzwerkprotokollen**
-- **T**ransmission **C**ontrol **P**rotocol *(TCP)* **I**nternet **P**rotocol *(IP)*
-- Zuständig für **Vermittlung** und **Transport** innerhalb eines dezentralen Netzwerkes
+Das TCP/IP-Modell stellt eine Gruppe von Netzwerkprotokollen dar, die für die Vermittlung und den Transport von Daten in dezentralen Netzwerken zuständig sind. Es basiert auf den Protokollen Transmission Control Protocol (TCP) und Internet Protocol (IP) und gliedert sich in vier Schichten: Anwendungsschicht, Transportschicht, Internetschicht und Netzzugangsschicht. Zu den zentralen Aufgaben gehören logische Adressierung, Routing, Fehlerbehandlung sowie Anwendungsunterstützung. Das Modell ermöglicht standort- und herstellerunabhängige Datenübertragungen, weist jedoch Ineffizienzen bei geringen Datenmengen auf.
 
 ## Aufgaben
- - logische Adressierung / **logical Addressing**: Aufteilung großer Netzwerke in kleinere *Segmente*
- - Wegfindung / **Routing**: auf jedem *Netzwerkknoten* wird der nächste Knoten für ein Datenpaket ermittelt. Wegfindung von Paketen *über Netzwerksegmente hinaus* ^b4a03f
- - Fehlerbehandlung und Flusssteuerung / **Error and Flow Control**: *verbindungsorientierte* Kommunikation, bei Fehler *erneute Übertragung* von Paketen
- - Anwendungsunterstützung / **Application Support**: Adressierung von Diensten über *TCP/UDP-Ports*
- - Namensauflösung / **Name Resolution**: Auflösung von *Domänenamen* in IPv4/IPv6 Adressen
+
+Das TCP/IP-Modell übernimmt mehrere Schlüsselaufgaben zur Gewährleistung einer effizienten Kommunikation:
+
+- Logische Adressierung: Aufteilung großer Netzwerke in kleinere Segmente.
+- Routing: Ermittlung des nächsten Netzwerkknotens für ein Datenpaket, um die Wegfindung über Netzwerksegmente hinaus zu ermöglichen.
+- Fehlerbehandlung und Flusssteuerung: Sicherstellung einer verbindungsorientierten Kommunikation mit erneuter Übertragung von Paketen bei Fehlern.
+- Anwendungsunterstützung: Adressierung von Diensten über [TCP/UDP-Ports](/open-fidup/lerninhalte/tcp-udp).
+- Namensauflösung: Auflösung von Domänennamen in IPv4- oder IPv6-Adressen.
 
 ## Schichten
 
-4. **Anwendungsschicht**: *Anwendungen* die über das Netzwerk kommunizieren, Protokolle: *HTTP*, *FTP*, *POP*, *SMTP*, *TLS*, *SOCK5*
-3. **Transportschicht**: Aufrechthaltung *zuverlässiger End-to-End-Kommunikation*, Protokoll: *TCP*, *UDP*
-2. **Internetschicht**: Weiterleitung/*Routing* von Paketen, Protokolle: *IP*, *ICMP*
-1. **Netzzugangsschicht**: *physische Verbindung* von Subnetzen, Protokolle: *Ethernet* (Kabel), *IEEE 802.11* (Funk)
+Das Modell besteht aus vier hierarchisch angeordneten Schichten, die jeweils spezifische Funktionen erfüllen:
+
+4. **Anwendungsschicht**: Ermöglicht die Kommunikation von Anwendungen über das Netzwerk. Beispiele für Protokolle sind HTTP, FTP, POP, SMTP, TLS und SOCKS5.
+3. **Transportschicht**: Stellt eine zuverlässige End-to-End-Kommunikation sicher. Wichtige Protokolle sind [TCP](/open-fidup/lerninhalte/tcp-udp) und [UDP](/open-fidup/lerninhalte/tcp-udp).
+2. **Internetschicht**: Verantwortlich für die Weiterleitung und das Routing von Paketen. Protokolle umfassen IP und ICMP.
+1. **Netzzugangsschicht**: Regelt die physische Verbindung von Subnetzen. Beispiele sind [Ethernet](/open-fidup/lerninhalte/ethernet) für kabelgebundene Verbindungen und IEEE 802.11 für Funkverbindungen.
+
+```mermaid
+graph TD
+    A[Anwendungsschicht] --> B[Transportschicht]
+    B --> C[Internetschicht]
+    C --> D[Netzzugangsschicht]
+```
 
 ## Vorteile
-- Datenübertragung ist **standort-** und **herstellerunabhängig**
-- **Anwender** benötigt ausschließlich **Zieladresse** - Verbindung kontrolliert TCP/IP
-- Anwendungen sind vom **Übertragungssystem unabhängig**
+
+Das TCP/IP-Modell bietet mehrere Vorteile für die Netzwerkkommunikation:
+
+- Datenübertragungen sind standort- und herstellerunabhängig.
+- Der Anwender benötigt lediglich die Zieladresse; die Verbindung wird durch TCP/IP gesteuert.
+- Anwendungen sind vom Übertragungssystem unabhängig.
 
 ## Nachteile
-- **ineffizient** bei niedrigen Datenmengen
-- **spezielle Anforderungen** an Übertragungssystem nur **schwer realisierbar**
+
+Trotz seiner Stärken weist das Modell auch Schwächen auf:
+
+- Es ist ineffizient bei niedrigen Datenmengen.
+- Spezielle Anforderungen an das Übertragungssystem sind nur schwer zu realisieren.
 
 ## Quellen
+
 > TCP/IP. (2022, November 13). Retrieved from https://studyflix.de/informatik/tcp-ip-5692

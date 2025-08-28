@@ -3,71 +3,74 @@ title: "Ist-Analyse"
 description: "Die Ist-Analyse erfasst und bewertet systematisch den aktuellen Zustand eines Unternehmens oder Prozesses, um Schwachstellen und Optimierungspotenziale zu identifizieren. Sie nutzt Methoden wie Interviews, Beobachtung und Analysen in Bereichen wie Aufgaben, Prozesse und Personal."
 ---
 
-- **systematischen Erfassung** und **Bewertung** des **aktuellen Zustands** eines **Unternehmens** oder eines **spezifischen Prozesses**, um **Schwachstellen und Optimierungspotenziale** zu identifizieren.
-- Bestandteile je nach Schwerpunkt
-	- **Aufgaben** des Untersuchungsbereichs **hinterfragen** und **bewerten**
-	- bestehende Prozesse analysieren
-	- Bearbeitungszeiten und Mengen aufbereiten
-	- organisatorische Strukturen hinterfragen
+Die Ist-Analyse umfasst die systematische Erfassung und Bewertung des aktuellen Zustands eines Unternehmens oder eines spezifischen Prozesses. Ihr Ziel besteht darin, Schwachstellen zu identifizieren und Optimierungspotenziale aufzudecken. Die Analyse richtet sich je nach Schwerpunkt auf verschiedene Bestandteile: Aufgaben des Untersuchungsbereichs werden hinterfragt und bewertet, bestehende Prozesse analysiert, Bearbeitungszeiten und Mengen aufbereitet sowie organisatorische Strukturen überprüft.
 
 ## Methoden zur Datensammlung
-- **Interviews** mit Mitarbeitern und Führungskräften
-- **Umfragen** zur Erfassung von Meinungen und Erfahrungen (z.B. Fragebogen)
-- **Beobachtung** von Arbeitsabläufen
-- **Dokumentenanalyse** bestehender Unterlagen und Berichte
-- **Prozessuale Analyse**, dokumentation aller Tätigkeitsschritten
+
+Zur Datensammlung in der Ist-Analyse kommen verschiedene Methoden zum Einsatz:
+
+- Interviews mit Mitarbeitern und Führungskräften.
+- Umfragen zur Erfassung von Meinungen und Erfahrungen, beispielsweise mittels Fragebögen.
+- Beobachtung von Arbeitsabläufen.
+- Dokumentenanalyse bestehender Unterlagen und Berichte.
+- Prozessanalyse, die alle Tätigkeitsschritte dokumentiert.
 
 ### Stakeholder
-- **Mitarbeiter** verschiedener Ebenen
-- **Führungskräfte**
-- **Externe Berater** oder Experten
-- Relevante **Abteilungen** (z.B. HR, IT, Produktion, ...)
+
+Die Ist-Analyse bezieht verschiedene Stakeholder ein:
+
+- Mitarbeiter auf unterschiedlichen Ebenen.
+- Führungskräfte.
+- Externe Berater oder Experten.
+- Relevante Abteilungen, wie Human Resources, IT oder Produktion.
+
 ### Analysemethoden
-- **Aufgabenkritik** (Fokus auf Aufgaben)
-	- [ABC-Analyse](/open-fidup/lerninhalte/abc-analyse)
-	- [SWOT-Analyse](/open-fidup/lerninhalte/swot-analyse)
-	- [Portfolioanalyse](/open-fidup/lerninhalte/portfolioanalyse)
-- **Prozessoptimierung** (Fokus auf Prozessen)
-	- [FMEA](/open-fidup/lerninhalte/fmea)
-	- [Ishikawa-Diagramm](/open-fidup/lerninhalte/ishikawa-diagramm)
-- **Personalbedarfsermittlung** (Fokus Aufgaben mit Bearbeitungszeiten und Mengen)
-	- [SWOT-Analyse](/open-fidup/lerninhalte/swot-analyse)
+
+Die Analysemethoden variieren je nach Fokus. Bei der Aufgabenkritik, die sich auf Aufgaben konzentriert, finden Methoden wie die [ABC-Analyse](/open-fidup/lerninhalte/abc-analyse), die [SWOT-Analyse](/open-fidup/lerninhalte/swot-analyse) und die [Portfolioanalyse](/open-fidup/lerninhalte/portfolioanalyse) Anwendung. Für die Prozessoptimierung, die Prozesse in den Mittelpunkt stellt, werden die [FMEA](/open-fidup/lerninhalte/fmea) und das [Ishikawa-Diagramm](/open-fidup/lerninhalte/ishikawa-diagramm) eingesetzt. Bei der Personalbedarfsermittlung, die Aufgaben mit Bearbeitungszeiten und Mengen betrachtet, kommt die [SWOT-Analyse](/open-fidup/lerninhalte/swot-analyse) zum Einsatz.
 
 ## Checkliste möglicher Schwachstellen
-- **Aufgaben**
-	- überflüssige Aufgaben
-	- zu einfache/komplexe Aufgaben
-	- unklare Aufgabenstellungen
-	- Ort und Zeit der Aufgabenerfüllung ungeeignet
-	- fehlende Aufgabenpriorisierung
-- **Beschäftigten**
-	- unzureichend qualifizierte oder überqualifizierte Beschäftigte
-	- zu wenig/viel Personal
-	- mangelnde Führungskompetenzen
-	- einseitige Abhängigkeiten
-- **Sachmittel und Arbeitsumfeld**
-	- ungeeigneter Standort/lange Wege
-	- nicht kompatibel/normengerecht
-	- hohe Störanfälligkeit
-	- hohe Entwicklungs- und Wartungskosten
-- **Informationen**
-	- falscher Informationszeitpunkt
-	- zu viele Informationen
-	- unvollständige Informationen
-	- schlecht oder uneinheitlich aufbereitete Informationen
-- **Prozesse**
-	- zu viele Rückkopllungen
-	- zu viele/wenige Verzweigungen
-	- fehlender [Kontinuierlicher Verbesserungsprozess](/open-fidup/lerninhalte/kontinuierlicher-verbesserungsprozess)
-	- fehlende Qualitätssicherung
-- **Funktionen (Stellen, Kompetenzen)**
-	- zu zentrale/dezentrale Strukturen
-	- fehlende Aufstiegsmöglichkeiten/Anreize
-	- umständliche Kommunikationswege
-	- zu starke Spezialisierung
-	- überflüssige Stabsstellen
+
+Eine Checkliste hilft dabei, potenzielle Schwachstellen in verschiedenen Bereichen zu identifizieren:
+
+- **Aufgaben**:
+  - Überflüssige Aufgaben.
+  - Zu einfache oder zu komplexe Aufgaben.
+  - Unklare Aufgabenstellungen.
+  - Ungeeigneter Ort oder Zeit der Aufgabenerfüllung.
+  - Fehlende Aufgabenpriorisierung.
+
+- **Beschäftigte**:
+  - Unzureichend qualifizierte oder überqualifizierte Beschäftigte.
+  - Zu wenig oder zu viel Personal.
+  - Mangelnde Führungskompetenzen.
+  - Einseitige Abhängigkeiten.
+
+- **Sachmittel und Arbeitsumfeld**:
+  - Ungeeigneter Standort oder lange Wege.
+  - Nicht kompatible oder nicht normengerechte Mittel.
+  - Hohe Störanfälligkeit.
+  - Hohe Entwicklungs- und Wartungskosten.
+
+- **Informationen**:
+  - Falscher Informationszeitpunkt.
+  - Zu viele Informationen.
+  - Unvollständige Informationen.
+  - Schlecht oder uneinheitlich aufbereitete Informationen.
+
+- **Prozesse**:
+  - Zu viele Rückkopplungen.
+  - Zu viele oder zu wenige Verzweigungen.
+  - Fehlender [kontinuierlicher Verbesserungsprozess](/open-fidup/lerninhalte/kontinuierlicher-verbesserungsprozess).
+  - Fehlende Qualitätssicherung.
+
+- **Funktionen (Stellen, Kompetenzen)**:
+  - Zu zentrale oder dezentrale Strukturen.
+  - Fehlende Aufstiegsmöglichkeiten oder Anreize.
+  - Umständliche Kommunikationswege.
+  - Zu starke Spezialisierung.
+  - Überflüssige Stabsstellen.
 
 ## Quellen
 
-> Bundesministerium des Innern und für Heimat. (2024, September 19). Retrieved from https://www.orghandbuch.de/Webs/OHB/DE/Organisationshandbuch/2_Vorgehensmodell/23_Hauptuntersuchung/232_IstAnalyse/istanalyse-node.html
-> AI Chat. (2024, September 19). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+Bundesministerium des Innern und für Heimat. (2024, September 19). Abgerufen von https://www.orghandbuch.de/Webs/OHB/DE/Organisationshandbuch/2_Vorgehensmodell/23_Hauptuntersuchung/232_IstAnalyse/istanalyse-node.html  
+AI Chat. (2024, September 19). Abgerufen von https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1

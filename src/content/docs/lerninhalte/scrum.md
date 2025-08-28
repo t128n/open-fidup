@@ -3,52 +3,24 @@ title: "SCRUM"
 description: "SCRUM ist ein agiles Framework für selbstorganisierte Teams, das empirisch, inkrementell und iterativ arbeitet. Es verwendet Sprints, Rollen wie Product Owner und Scrum Master sowie Artefakte wie Product Backlog. Vorteile sind geringer Administrationsaufwand, Nachteile hoher Kommunikationsbedarf."
 ---
 
-- **agiles** Projektmanagement
-	- **Selbstorganisation** von **interdisziplinären** Teams
-	- statt Arbeitsanweisungen: **Aktivitäten**, wichtige **Dokumente** und feste **Rollen**
-- Ziele
-	- **schnell** auf Veränderungen reagieren
-	- **effizient** Zusammenarbeiten
-	- funktionsfähiges Zwischenprodukt nach jeder Etappe
-- nur **wenige** Regeln
+SCRUM stellt ein agiles Framework für [Projektmanagement](/open-fidup/lerninhalte/projektmanagement) dar, das selbstorganisierte, interdisziplinäre Teams unterstützt. Anstatt detaillierter Arbeitsanweisungen setzt es auf Aktivitäten, wichtige Dokumente und feste Rollen. Das Ziel besteht darin, schnell auf Veränderungen zu reagieren, effizient zusammenzuarbeiten und nach jeder Etappe ein funktionsfähiges Zwischenprodukt zu liefern. SCRUM folgt wenigen Regeln und arbeitet empirisch, inkrementell und iterativ. Die Projektlaufzeit gliedert sich in Sprints von zwei bis vier Wochen.
 
-- man arbeitet **empirisch** *(erfahrungsbasiert)*, **inkrementell** *(inkrementell)* und **iterativ** *(wiederholend)*
-- Projektlaufzeit in **zwei bis vierwöchige** **Sprints**
 ## Rollen
-- alle Beteiligten erhalten eine Rolle
-- **Product Owner**, für Produkt verantwortlich, Wertmaximierung, Blick auf *Kundenbedürfnisse*, hat *Projektanforderungen* im Blick, *entwickelt* selbst *nicht* mit. Anforderungen werden im **Product Backlog** festgehalten.
-- **Team**, *entwickelt* Produkt, *drei bis neun* Mitglieder, selbstorganisiert
-- **Scrum Master**, sorgt für effektive arbeit des Teams und *verhindert Störungen*, bei Problemen vermittelt Scrum Master als *Moderator*
+In SCRUM erhalten alle Beteiligten eine definierte Rolle. Der Product Owner trägt die Verantwortung für das Produkt, maximiert dessen Wert und berücksichtigt Kundenbedürfnisse sowie Projektanforderungen, ohne selbst an der Entwicklung teilzunehmen. Diese Anforderungen werden im Product Backlog festgehalten. Das Team entwickelt das Produkt, besteht aus drei bis neun Mitgliedern und organisiert sich selbst. Der Scrum Master sorgt für eine effektive Arbeitsweise des Teams, verhindert Störungen und vermittelt bei Problemen als Moderator.
 
 ## Artefakte
-- zeigen *Anforderungen an Projekt*, *Verbesserungsbedarf*
-- bieten **hohe Transparenz**
-- **Product Backlog**, liste mit Anforderungen, wird vom **Product Owner** aktuell gehalten
-- **Product Increment**, funktionsfähiges Zwischenprodukt
-- **Sprint Backlog**, Aufgaben im (nächsten) Entwicklungsschritt
+Die Artefakte in SCRUM zeigen Anforderungen an das Projekt sowie Verbesserungsbedarf auf und bieten hohe Transparenz. Das Product Backlog ist eine Liste mit Anforderungen, die der Product Owner aktuell hält. Das Product Increment stellt ein funktionsfähiges Zwischenprodukt dar. Das Sprint Backlog umfasst die Aufgaben für den nächsten Entwicklungsschritt.
 
-## Scrum Ablauf
-- nach jedem **Sprint** ein **Product Increment**
-1. **Sprint Planning**
-	1. *Anforderungen* werden besprochen
-	2. Aus Anforderungen werden *Tasks* erstellt
-	3. Tasks werden *zugeteilt*
-	4. Fertiger Plan: **Sprint Backlog**
-2. **Daily Scrum**
-	1. *tägliches Meeting* im Sprint
-	2. *Fortschritte* werden besprochen
-	3. nicht länger als *15min*, größeres übernimmt **Scrum Master**
-3. **Sprint Review**
-	1. Präsentation vom **Product Increment**
-	2. *Product Owner + Anwender* geben *Feedback*
-4. **Sprint Retrospective**
-	1. Gab es *Hindernisse*/*Probleme* bei Zusammenarbeit
-	2. *Verbesserungen*?
+## Ablauf
+Der SCRUM-Ablauf führt nach jedem Sprint zu einem Product Increment. Er besteht aus vier Phasen:
+
+1. **Sprint Planning**: Anforderungen werden besprochen, daraus Tasks erstellt und zugeteilt. Das Ergebnis ist das Sprint Backlog.
+2. **Daily Scrum**: Ein tägliches Meeting im Sprint, in dem Fortschritte besprochen werden. Es dauert nicht länger als 15 Minuten; größere Themen übernimmt der Scrum Master.
+3. **Sprint Review**: Präsentation des Product Increments, wobei der Product Owner und Anwender Feedback geben.
+4. **Sprint Retrospective**: Reflexion über Hindernisse oder Probleme in der Zusammenarbeit und mögliche Verbesserungen.
 
 ## Vorteile
-- wenig Hilfsmittel
-- **Aufwand** für Administration und Dokumentation **gering**
-- **kontinuierliche Verbesserung**
+SCRUM erfordert wenige Hilfsmittel und hält den Aufwand für Administration und Dokumentation gering. Es fördert kontinuierliche Verbesserung.
+
 ## Nachteile
-- viel Kommunikation
-- **nicht** für alle **Branchen geeignet**
+Der Ansatz verlangt viel Kommunikation und eignet sich nicht für alle Branchen.

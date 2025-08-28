@@ -1,18 +1,18 @@
 ---
 title: "Themenübersicht für die AP2"
 description: "Diese Übersicht für die AP2 behandelt fachübergreifende, berufsprofilgebende Kompetenzen, darunter Kundenberatung, die Bewertung von IT-Systemen, die Entwicklung von IT-Lösungen und Qualitätssicherung. Ebenfalls abgedeckt sind die Analyse von Daten und Prozessen, die Programmierung von Software sowie Wirtschafts- und Sozialkunde. Dieser Leitfaden dient der Vorbereitung auf die Abschlussprüfung."
-sidebar:
-  order: 1
 ---
 
 > [!CAUTION]
 > Diese Themenübersicht wurde für den Winter 2024/2025 erstellt und ist möglicherweise nicht mehr aktuell.
 
+Die Themenübersicht für die AP2 umfasst zentrale berufliche Qualifikationen und Kompetenzen in der IT-Branche. Sie deckt Bereiche wie Kundenberatung, Bewertung von IT-Systemen, Entwicklung von IT-Lösungen, Qualitätssicherung, Daten- und Prozessanalyse, Softwareprogrammierung sowie Wirtschafts- und Sozialkunde ab. Der Leitfaden unterstützt die Vorbereitung auf die Abschlussprüfung und berücksichtigt rechtliche, technische und organisatorische Aspekte.
+
 ## Übergreifende berufliche Qualifikationen und Kompetenzen
 
 ### Kundenberatung und -information
 
-**Methoden:** Aktives Zuhören, Anwendung von Kommunikationsmodellen (z.B. bei Telefonkonferenzen, Chats, virtuellen Meetings), Führung von Verkaufsgesprächen (von der Anfrage bis zum Auftrag) und Analyse von Kundenanforderungen (nicht Teil der schriftlichen Prüfung).
+Methoden umfassen aktives Zuhören, den Einsatz von Kommunikationsmodellen bei Telefonkonferenzen, Chats und virtuellen Meetings sowie die Führung von Verkaufsgesprächen von der Anfrage bis zum Auftrag. Die Analyse von Kundenanforderungen gehört nicht zur schriftlichen Prüfung.
 
 #### Gestaltung von Kundenbeziehungen unter Berücksichtigung rechtlicher Vorschriften und betrieblicher Prinzipien
 - [Customer Relationship Management](/open-fidup/lerninhalte/customer-relationship-management)
@@ -22,18 +22,13 @@ sidebar:
 - [Regelkonformität](/open-fidup/lerninhalte/regelkonformitaet)
 
 #### Auswahl und Anwendung von Instrumenten zur Datenauswertung sowie Interpretation der Ergebnisse
-- Präsentationstechniken
-- Grafische Aufbereitung ([Diagrammarten](/open-fidup/lerninhalte/diagrammarten), Bildbearbeitung, Videos, multimediale Inhalte)
-- Tabellenkalkulation
-- Präsentationssoftware
-- Software zur Erstellung multimedialer Inhalte
-- [Corporate Identity (CI)](/open-fidup/lerninhalte/corporate-identity)
+Präsentationstechniken, grafische Aufbereitung wie [Diagrammarten](/open-fidup/lerninhalte/diagrammarten), Bildbearbeitung, Videos und multimediale Inhalte, Tabellenkalkulation, Präsentationssoftware sowie Software zur Erstellung multimedialer Inhalte. Zudem [Corporate Identity (CI)](/open-fidup/lerninhalte/corporate-identity).
 
 ### Bewertung von marktgängigen IT-Systemen und kundenspezifischen Lösungen
 
 #### Erkennen und Identifizieren von Chancen und Risiken technologischer Entwicklungen
 - [Datensicherheit](/open-fidup/lerninhalte/datensicherheit), [Datenschutz](/open-fidup/lerninhalte/datenschutz)
-- Ausfallsicherheit, z.B. [redundante Systeme](/open-fidup/lerninhalte/redundante-systeme), [selbstkonfigurierende Systeme](/open-fidup/lerninhalte/selbstkonfigurierende-system)
+- Ausfallsicherheit, beispielsweise durch [redundante Systeme](/open-fidup/lerninhalte/redundante-systeme), [selbstkonfigurierende Systeme](/open-fidup/lerninhalte/selbstkonfigurierende-system)
 - [Lebenslanges Lernen](/open-fidup/lerninhalte/lebenslanges-lernen)
 - [Teilhabe](/open-fidup/lerninhalte/teilhabe), [soziale Stabilität](/open-fidup/lerninhalte/soziale-stabiliaet)
 
@@ -52,48 +47,31 @@ sidebar:
 
 #### Fehlererkennung, -analyse und -behebung
 - [Debugging](/open-fidup/lerninhalte/debugging), [Break Point](/open-fidup/lerninhalte/break-point)
-- Software-Tests, dynamische und statische [Testverfahren](/open-fidup/lerninhalte/testverfahren) (z.B. Black Box, White Box, Review, Extremwertetest)
+- Software-Tests, dynamische und statische [Testverfahren](/open-fidup/lerninhalte/testverfahren) wie Black Box, White Box, Review und Extremwertetest
 - Testdaten
 - Komponententest, Funktionstest, Integrationstest
 - [Versionsmanagement](/open-fidup/lerninhalte/versionsmanagement) des Quellcodes
 
 #### Formulierung von Algorithmen und Entwicklung von Programmen
-- Darstellung von Kontrollstrukturen mittels [Struktogramm](/open-fidup/lerninhalte/struktogramm), [Programmablaufplan (PAP)](/open-fidup/lerninhalte/programmablaufplan) oder [Pseudocode](/open-fidup/lerninhalte/pseudocode)
-- UML ([Use Case-Diagramm](/open-fidup/lerninhalte/uml-anwendungsfalldiagramm), [Klassendiagramm](/open-fidup/lerninhalte/uml-klassendiagramm))
-- Entwurf von Benutzeroberflächen ([Softwareergonomie](/open-fidup/lerninhalte/softwareergonomie), [Barrierefreiheit](/open-fidup/lerninhalte/barrierefreiheit))
+Darstellung von Kontrollstrukturen mittels [Struktogramm](/open-fidup/lerninhalte/struktogramm), [Programmablaufplan (PAP)](/open-fidup/lerninhalte/programmablaufplan) oder [Pseudocode](/open-fidup/lerninhalte/pseudocode). UML umfasst [Use Case-Diagramm](/open-fidup/lerninhalte/uml-anwendungsfalldiagramm) und [Klassendiagramm](/open-fidup/lerninhalte/uml-klassendiagramm). Entwurf von Benutzeroberflächen berücksichtigt [Softwareergonomie](/open-fidup/lerninhalte/softwareergonomie) und [Barrierefreiheit](/open-fidup/lerninhalte/barrierefreiheit).
 
 #### Modellierung und Erstellung von Datenbanken
-- Relationale und nicht-relationale Datenbanken, NoSQL-Datenbanken
-- Datentypen: Boolesche Werte, Ganzzahlen, Gleitkommawerte, Währung, Datum, Text, BLOB, Geokoordinaten
-- [Normalisierung](/open-fidup/lerninhalte/normalisierung) (1. bis 3. Normalform)
-- [Entity-Relationship-Modell](/open-fidup/lerninhalte/entity-relationship-model) (Attribute, Beziehungen, Kardinalitäten), referenzielle Integrität, Weitergabe von Aktualisierungen und Löschungen, Primär- und Fremdschlüssel
-- Datenbankabfragen und Datenpflege
-- Tabellenstruktur (CREATE TABLE, ALTER TABLE), Index (CREATE INDEX), Datenmanipulation (INSERT, UPDATE, DELETE), Projektion (SELECT FROM), Selektion (WHERE), Sortierung (ORDER BY), Gruppierung (GROUP BY, HAVING)
-- Abfragen über mehrere Tabellen (JOIN)
-- Ausdrücke und Bedingungen
-- Aggregatfunktionen (z.B. SUM)
-- [OpenData](/open-fidup/lerninhalte/opendata), [API-Schnittstellen](/open-fidup/lerninhalte/api-schnittstellen)
+Relationale und nicht-relationale Datenbanken, einschließlich NoSQL-Datenbanken. Datentypen sind Boolesche Werte, Ganzzahlen, Gleitkommawerte, Währung, Datum, Text, BLOB und Geokoordinaten. [Normalisierung](/open-fidup/lerninhalte/normalisierung) umfasst die erste bis dritte Normalform. [Entity-Relationship-Modell](/open-fidup/lerninhalte/entity-relationship-model) beinhaltet Attribute, Beziehungen und Kardinalitäten sowie referenzielle Integrität, Weitergabe von Aktualisierungen und Löschungen, Primär- und Fremdschlüssel. Datenbankabfragen und -pflege erfolgen über Tabellenstruktur wie CREATE TABLE, ALTER TABLE, Index wie CREATE INDEX, Datenmanipulation wie INSERT, UPDATE, DELETE, Projektion wie SELECT FROM, Selektion wie WHERE, Sortierung wie ORDER BY, Gruppierung wie GROUP BY und HAVING. Abfragen über mehrere Tabellen nutzen JOIN. Ausdrücke und Bedingungen sind relevant, ebenso Aggregatfunktionen wie SUM. [OpenData](/open-fidup/lerninhalte/opendata) und [API-Schnittstellen](/open-fidup/lerninhalte/api-schnittstellen) werden berücksichtigt.
 
 ### Durchführung und Dokumentation von qualitätssichernden Maßnahmen
 
 #### Anwendung von Methoden der Qualitätslenkung
-- [Prüfverfahren](/open-fidup/lerninhalte/pruefverfahren) (z.B. Parität, Redundanz)
-- Software-Tests (dynamisch und statisch, z.B. Black Box, White Box, Review, Extremwertetest)
+- [Prüfverfahren](/open-fidup/lerninhalte/pruefverfahren) wie Parität und Redundanz
+- Software-Tests, dynamisch und statisch, wie Black Box, White Box, Review und Extremwertetest
 - [Debugging](/open-fidup/lerninhalte/debugging), [Ablaufverfolgung](/open-fidup/lerninhalte/ablaufverfolgung)
-- [Netzwerkanalyse](/open-fidup/lerninhalte/netzwerkanalyse) (Bandbreite, Reaktionszeiten)
+- [Netzwerkanalyse](/open-fidup/lerninhalte/netzwerkanalyse) bezüglich Bandbreite und Reaktionszeiten
 
 #### Anwendung von Methoden zur Messung der Zielerreichung im QM-Prozess
-- Verbesserungsprozesse: [PDCA-Zyklus](/open-fidup/lerninhalte/pdca), [Kontinuierlicher Verbesserungsprozess (KVP)](/open-fidup/lerninhalte/kontinuierlicher-verbesserungsprozess), [Kennzahlen (KPIs)](/open-fidup/lerninhalte/kpi)
-- Kontrollverfahren:
-    - [Hardwaretests](/open-fidup/lerninhalte/hardwaretest) (z.B. Wareneingangs-/Warenausgangskontrolle, [Abnahmeprotokoll](/open-fidup/lerninhalte/abnahmeprotokoll))
-    - Software-Tests (z.B. [Testverfahren](/open-fidup/lerninhalte/testverfahren), [Abnahmeprotokoll](/open-fidup/lerninhalte/abnahmeprotokoll))
-- [Soll-Ist-Vergleich](/open-fidup/lerninhalte/soll-ist-vergleich), Erkennung und Berechnung von Abweichungen
-- [Testdatengeneratoren](/open-fidup/lerninhalte/testdatengeneratoren)
-- [Testprotokolle](/open-fidup/lerninhalte/testprotokolle)
+Verbesserungsprozesse wie [PDCA-Zyklus](/open-fidup/lerninhalte/pdca), [Kontinuierlicher Verbesserungsprozess (KVP)](/open-fidup/lerninhalte/kontinuierlicher-verbesserungsprozess) und [Kennzahlen (KPIs)](/open-fidup/lerninhalte/kpi). Kontrollverfahren umfassen Hardwaretests wie Wareneingangs-/Warenausgangskontrolle und [Abnahmeprotokoll](/open-fidup/lerninhalte/abnahmeprotokoll), sowie Software-Tests wie [Testverfahren](/open-fidup/lerninhalte/testverfahren) und [Abnahmeprotokoll](/open-fidup/lerninhalte/abnahmeprotokoll). [Soll-Ist-Vergleich](/open-fidup/lerninhalte/soll-ist-vergleich) beinhaltet Erkennung und Berechnung von Abweichungen. Zudem [Testdatengeneratoren](/open-fidup/lerninhalte/testdatengeneratoren) und [Testprotokolle](/open-fidup/lerninhalte/testprotokolle).
 
 ### Umsetzung, Integration und Prüfung von Maßnahmen zur IT-Sicherheit und zum Datenschutz
 
-**Grundsatz:** Für jede Anwendung, jedes IT-System und alle verarbeiteten Informationen müssen potenzielle Schäden bei Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit bewertet werden.
+Grundsatz: Für jede Anwendung, jedes IT-System und alle verarbeiteten Informationen müssen potenzielle Schäden bei Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit bewertet werden.
 
 #### Einschätzung von [Schadenspotenzialen bei IT-Sicherheitsvorfällen](/open-fidup/lerninhalte/schadenspotenziale-von-it-sicherheitsvorfaellen) und Schadensprävention
 - Imageschaden
@@ -102,32 +80,32 @@ sidebar:
 
 #### Planung und Umsetzung [präventiver IT-Sicherheitsmaßnahmen](/open-fidup/lerninhalte/praeventive-it-sicherheitsmassnahmen) für diverse Bedrohungsszenarien
 - [Datendiebstahl](/open-fidup/lerninhalte/datendiebstahl)
-- Digitale Erpressung ([Ransomware](/open-fidup/lerninhalte/ransomware))
-- Identitätsdiebstahl ([Phishing](/open-fidup/lerninhalte/phishing))
+- Digitale Erpressung wie [Ransomware](/open-fidup/lerninhalte/ransomware)
+- Identitätsdiebstahl wie [Phishing](/open-fidup/lerninhalte/phishing)
 
 #### Definition von Zielen für die Entwicklung von IT-Sicherheitskriterien
 - Richtlinien für Entwickler
-- Objektive Systembewertung ([IT-Grundschutzmodellierung](/open-fidup/lerninhalte/it-grundschutzmodell))
-- Unterstützung von Anwendern bei der Produktauswahl ([Security by Design](/open-fidup/lerninhalte/security-by-design))
+- Objektive Systembewertung wie [IT-Grundschutzmodellierung](/open-fidup/lerninhalte/it-grundschutzmodell)
+- Unterstützung von Anwendern bei der Produktauswahl wie [Security by Design](/open-fidup/lerninhalte/security-by-design)
 
 #### Beratung von Kunden zur IT-Sicherheit
 - Private Haushalte
 - Unternehmen
 - Öffentlicher Sektor
 - Funktionale und qualitative Anforderungen
-- Rahmenbedingungen (technologisch, organisatorisch, rechtlich, ethisch)
+- Rahmenbedingungen wie technologisch, organisatorisch, rechtlich und ethisch
 - Risikoanalyse
 
 #### Überprüfung von IT-Sicherheitsmaßnahmen mit verschiedenen Werkzeugen
 - [Penetrations-Test](/open-fidup/lerninhalte/penetrations-test)
 - [Device Security Check](/open-fidup/lerninhalte/device-security-check)
 - [Identity & Access Management](/open-fidup/lerninhalte/identity-&-access-management)
-- [Schwachstellenanalyse](/open-fidup/lerninhalte/schwachstellenanalyse) (z.B. Ende-zu-Ende-Verschlüsselung)
+- [Schwachstellenanalyse](/open-fidup/lerninhalte/schwachstellenanalyse) wie Ende-zu-Ende-Verschlüsselung
 
 #### Kontrolle von [technisch-organisatorischen Maßnahmen (TOM)](/open-fidup/lerninhalte/tom)
-- Zutrittskontrolle (z.B. Alarmanlage, Videoüberwachung)
-- Zugangskontrolle (z.B. passwortgeschützte Bildschirmschoner, Biometrie)
-- Zugriffskontrolle (z.B. Verschlüsselung, Rollenkonzepte)
+- Zutrittskontrolle wie Alarmanlage und Videoüberwachung
+- Zugangskontrolle wie passwortgeschützte Bildschirmschoner und Biometrie
+- Zugriffskontrolle wie Verschlüsselung und Rollenkonzepte
 - Log-Management
 - Compliance-Reports
 
@@ -145,11 +123,11 @@ sidebar:
 #### Vergleich und Analyse von Netzwerkkomponenten
 
 #### Benennung und Charakterisierung von [Netzwerkkonzepten](/open-fidup/lerninhalte/netzwerkkonzepte)
-- Ausdehnung (LAN/WAN/MAN/GAN)
+- Ausdehnung wie LAN/WAN/MAN/GAN
 - Datenübertragungsrate
-- Verschlüsselung (Preshared Key, RADIUS)
-- Strukturierte Verkabelung, VLAN
-- Drahtlos-Technologien (PAN/WLAN, Bluetooth)
+- Verschlüsselung wie Preshared Key und RADIUS
+- Strukturierte Verkabelung und VLAN
+- Drahtlos-Technologien wie PAN/WLAN und Bluetooth
 - Sicherheitskonzepte und -risiken
 
 #### Vergleich und Bewertung von [Peer-To-Peer](/open-fidup/lerninhalte/peer-to-peer)- und [Client-Server](/open-fidup/lerninhalte/client-server)-Konzepten
@@ -184,16 +162,16 @@ sidebar:
 - [Notfallkonzept (Disaster Recovery)](/open-fidup/lerninhalte/disaster-recovery)
 
 #### Beurteilung von Maßnahmen zur Betriebssicherstellung
-- Elektrotechnik ([USV](/open-fidup/lerninhalte/usv))
-- Hardware ([Redundanzen](/open-fidup/lerninhalte/hardware-redundanzen), [RAID](/open-fidup/lerninhalte/raid))
-- Software ([Backup](/open-fidup/lerninhalte/backup))
+- Elektrotechnik wie [USV](/open-fidup/lerninhalte/usv)
+- Hardware wie [Redundanzen](/open-fidup/lerninhalte/hardware-redundanzen) und [RAID](/open-fidup/lerninhalte/raid)
+- Software wie [Backup](/open-fidup/lerninhalte/backup)
 
 #### Anwendung und Interpretation von Monitoringsystemen
 - [SNMP](/open-fidup/lerninhalte/snmp), [S.M.A.R.T.](/open-fidup/lerninhalte/s.m.a.r.t.)
 - [Systemlastanalyse](/open-fidup/lerninhalte/systemlastanalyse)
 - [Predictive Maintenance](/open-fidup/lerninhalte/predictive-maintenance)
 - [Load Balancing](/open-fidup/lerninhalte/load-balancing)
-- [Incident Management](/open-fidup/lerninhalte/incident-management) (Ticketsystem)
+- [Incident Management](/open-fidup/lerninhalte/incident-management) mit Ticketsystem
 
 #### Analyse von Monitoringergebnissen und Ableitung korrektiver Maßnahmen
 - Standard Operation Procedures ([SOP](/open-fidup/lerninhalte/sop))
@@ -204,16 +182,16 @@ sidebar:
 ### Inbetriebnahme von [Speicherlösungen](/open-fidup/lerninhalte/speicherloesungen)
 
 #### [Technische und organisatorische Maßnahmen (TOM)](/open-fidup/lerninhalte/tom)
-- Berechtigungskonzepte, Organisationsstrukturen (Zugang, Zutritt, Zugriff)
+- Berechtigungskonzepte, Organisationsstrukturen für Zugang, Zutritt und Zugriff
 
 #### Benennung von Möglichkeiten zur [hardwaretechnischen Absicherung](/open-fidup/lerninhalte/hardwaretechnischen-absicherung)
-- Zugangskontrolle (Gebäude, Serverraum, etc.)
+- Zugangskontrolle für Gebäude, Serverraum etc.
 
 #### Implementierung von Möglichkeiten zur [softwaretechnischen Absicherung](/open-fidup/lerninhalte/softwaretechnischen-absicherung)
 - User-Management
 - Firewall/Webfilter
 - Port-Security
-- Verschlüsselung (TPM)
+- Verschlüsselung wie TPM
 
 #### Benennung und Auswahl verschiedener Service- und Liefermodelle
 - [Fog-Computing](/open-fidup/lerninhalte/fog-computing), [Cloud-Computing](/open-fidup/lerninhalte/cloud-computing)
@@ -245,7 +223,7 @@ sidebar:
 - [UML-Zustandsdiagramm](/open-fidup/lerninhalte/uml-zustandsdiagramm)
 
 #### Definition und Nutzung von Schnittstellen
-- [Datenaustauschformate](/open-fidup/lerninhalte/datenaustauschformate) (XML, JSON, etc.)
+- [Datenaustauschformate](/open-fidup/lerninhalte/datenaustauschformate) wie XML und JSON
 - Implementierung von Datenbankverbindungen
 - [SQL](/open-fidup/lerninhalte/sql)
 - [API-Schnittstellen](/open-fidup/lerninhalte/api-schnittstellen)
@@ -254,16 +232,16 @@ sidebar:
 - Performance, Speicherverbrauch, Portabilität, Frameworks/Bibliotheken, IDEs, Aufwand, Know-how
 
 #### Darstellung von Algorithmen in einer Programmiersprache
-Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/lerninhalte/pseudocode)) und muss nicht kompilierbar sein.
+Der Code soll allgemein verständlich sein, beispielsweise als [Pseudocode](/open-fidup/lerninhalte/pseudocode), und muss nicht kompilierbar sein.
 
 #### [Automatisierung und Überwachung wiederkehrender Systemabläufe mittels Skripten](/open-fidup/lerninhalte/wiederkehrende-systemablaeufe-mithilfe-von-skripten-automatisieren-und-ueberwachen-koennen)
-- [Shellprogrammierung](/open-fidup/lerninhalte/shellprogrammierung) ([PowerShell](/open-fidup/lerninhalte/powershell), [Bash](/open-fidup/lerninhalte/bash))
-- [Skriptprogrammierung](/open-fidup/lerninhalte/skriptprogrammierung) ([Python](/open-fidup/lerninhalte/python))
+- [Shellprogrammierung](/open-fidup/lerninhalte/shellprogrammierung) wie [PowerShell](/open-fidup/lerninhalte/powershell) und [Bash](/open-fidup/lerninhalte/bash)
+- [Skriptprogrammierung](/open-fidup/lerninhalte/skriptprogrammierung) wie [Python](/open-fidup/lerninhalte/python)
 
 ### Analyse von Arbeits- und Geschäftsprozessen
 
 #### Identifikation von Prozessen
-- Interaktion mit Kunden, Lieferanten, beteiligten Bereichen
+- Interaktion mit Kunden, Lieferanten und beteiligten Bereichen
 - [Schnittstellen zu anderen Prozessen](/open-fidup/lerninhalte/prozessschnittstellen)
 - Leistungs- und [Prozessindikatoren](/open-fidup/lerninhalte/prozessindikatoren)
 - [Methoden der Ist-Analyse](/open-fidup/lerninhalte/ist-analyse)
@@ -282,8 +260,8 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 - Schwachstellenanalyse:
     - [FMEA (Fehlermöglichkeits- und Einflussanalyse)](/open-fidup/lerninhalte/fmea)
     - [Ursache-Wirkungs-Diagramm (Ishikawa)](/open-fidup/lerninhalte/ishikawa-diagramm)
-- Priorisierung: [ABC-Analyse](/open-fidup/lerninhalte/abc-analyse)
-- Variantenvergleich: [Nutzwertanalyse](/open-fidup/lerninhalte/nutzwertanalyse), [Polaritätsprofil](/open-fidup/lerninhalte/polaritaetsprofil)
+- Priorisierung wie [ABC-Analyse](/open-fidup/lerninhalte/abc-analyse)
+- Variantenvergleich wie [Nutzwertanalyse](/open-fidup/lerninhalte/nutzwertanalyse) und [Polaritätsprofil](/open-fidup/lerninhalte/polaritaetsprofil)
 - [Wertschöpfungskette](/open-fidup/lerninhalte/wertschoepfungskette)
 
 #### Modifikation und Einführung von Prozessen
@@ -302,21 +280,21 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 
 #### Anwendung von Konzepten zur Prozessoptimierung
 - [Six Sigma](/open-fidup/lerninhalte/six-sigma) mit [DMAIC-Zyklus](/open-fidup/lerninhalte/six-sigma#dmaic-zyklus)
-- Agile und hybride Konzepte ([SCRUM](/open-fidup/lerninhalte/scrum), [PRINCE2](/open-fidup/lerninhalte/prince2))
+- Agile und hybride Konzepte wie [SCRUM](/open-fidup/lerninhalte/scrum) und [PRINCE2](/open-fidup/lerninhalte/prince2)
 
 ### Analyse von Datenquellen und Bereitstellung von Daten
 
 #### Identifikation prozessrelevanter Daten
-- [Data Mining](/open-fidup/lerninhalte/data-mining) ([CRISP-DM](/open-fidup/lerninhalte/crisp-dm))
+- [Data Mining](/open-fidup/lerninhalte/data-mining) mit [CRISP-DM](/open-fidup/lerninhalte/crisp-dm)
 
 #### Zusammenführung von Daten aus unterschiedlichen Quellen und Formaten
 - [Schnittstellenentwicklung](/open-fidup/lerninhalte/api-schnittstellen)
-- Formate ([XML](/open-fidup/lerninhalte/datenaustauschformate), [JSON](/open-fidup/lerninhalte/datenaustauschformate), [CSV](/open-fidup/lerninhalte/datenaustauschformate))
+- Formate wie [XML](/open-fidup/lerninhalte/datenaustauschformate), [JSON](/open-fidup/lerninhalte/datenaustauschformate) und [CSV](/open-fidup/lerninhalte/datenaustauschformate)
 
 #### Speicherung und Verarbeitung von Daten in Datenbanken
 - [Datenbankarchitektur](/open-fidup/lerninhalte/datenbankarchitektur), [3-Ebenen-Modell](/open-fidup/lerninhalte/ansi-sparc-architektur)
 - Auswahl eines [DBMS](/open-fidup/lerninhalte/dbms): [NoSQL vs. SQL](/open-fidup/lerninhalte/no-sql-sql-vergleich)
-- Datenmodellierung ([ERM](/open-fidup/lerninhalte/entity-relationship-model), [UML-Klassendiagramm](/open-fidup/lerninhalte/uml-klassendiagramm), [Relationenmodell](/open-fidup/lerninhalte/relationenmodell))
+- Datenmodellierung mit [ERM](/open-fidup/lerninhalte/entity-relationship-model), [UML-Klassendiagramm](/open-fidup/lerninhalte/uml-klassendiagramm) und [Relationenmodell](/open-fidup/lerninhalte/relationenmodell)
 - Anwendung von SQL-Befehlen
 
 #### Klassifizierung von Daten
@@ -339,7 +317,7 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 
 #### Aufbereitung von Daten zur Feststellung des Ist-Zustandes
 - Überprüfung auf Vollständigkeit
-- Beurteilung der Datenmengen (Stichprobengröße)
+- Beurteilung der Datenmengen wie Stichprobengröße
 
 #### Feststellung von Defiziten in der [Datenqualität](/open-fidup/lerninhalte/datenqualitaet)
 - Messung auf Vollständigkeit, Korrektheit, Aktualität, Widerspruchsfreiheit
@@ -347,7 +325,7 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 #### Ableitung von Maßnahmen zur Verbesserung der Datenqualität
 - [Normalisierung](/open-fidup/lerninhalte/normalisierung)
 - [Plausibilitätskontrollen](/open-fidup/lerninhalte/plausibilitaetskontrollen)
-- Kenntnis verschiedener [Datenbanksysteme](/open-fidup/lerninhalte/dbms) ([relationale DB](/open-fidup/lerninhalte/sql-datenbanken), [No-SQL DB](/open-fidup/lerninhalte/no-sql))
+- Kenntnis verschiedener [Datenbanksysteme](/open-fidup/lerninhalte/dbms) wie [relationale DB](/open-fidup/lerninhalte/sql-datenbanken) und [No-SQL DB](/open-fidup/lerninhalte/no-sql)
 - [Data Warehouse](/open-fidup/lerninhalte/data-warehouse)
 - Berechnung von [Lagemaßen](/open-fidup/lerninhalte/lagemasse) und [Streumaßen](/open-fidup/lerninhalte/streumasse)
 - [Arithmetisches Mittel](/open-fidup/lerninhalte/arithmetisches-mittel)
@@ -366,7 +344,7 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 - [Clustering](/open-fidup/lerninhalte/clustering) / [Assoziation](/open-fidup/lerninhalte/assoziation) / [Regression](/open-fidup/lerninhalte/regression) / [Klassifikation](/open-fidup/lerninhalte/klassifikation)
 
 #### Anwendung der Grundlagen des maschinellen Lernens
-- [K-Nearest Neighbor](/open-fidup/lerninhalte/k-nearest-neighbor) / [Entscheidungsbaum](/open-fidup/lerninhalte/entscheidungsbaum) ([ID3](/open-fidup/lerninhalte/id3))
+- [K-Nearest Neighbor](/open-fidup/lerninhalte/k-nearest-neighbor) / [Entscheidungsbaum](/open-fidup/lerninhalte/entscheidungsbaum) mit [ID3](/open-fidup/lerninhalte/id3)
 - [Evolutionäre Algorithmen](/open-fidup/lerninhalte/evolutionaere-algorithmen)
 - [Entropie und Informationsgewinn](/open-fidup/lerninhalte/entropie-und-informationsgewinn)
 
@@ -393,8 +371,8 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 - [Datensorgfalt](/open-fidup/lerninhalte/datensorgfalt)
 
 #### Auswahl und Nutzung von Datenverschlüsselungsverfahren
-- Auswahl der [Verschlüsselungsart](/open-fidup/lerninhalte/verschluesselungsart) (symmetrisch, asymmetrisch, hybrid)
-- Auswahl des [Hashing- und Verschlüsselungsverfahrens](/open-fidup/lerninhalte/hashing--und-verschluesselungsverfahren) (z.B. MD5, SHA256)
+- Auswahl der [Verschlüsselungsart](/open-fidup/lerninhalte/verschluesselungsart) wie symmetrisch, asymmetrisch oder hybrid
+- Auswahl des [Hashing- und Verschlüsselungsverfahrens](/open-fidup/lerninhalte/hashing--und-verschluesselungsverfahren) wie MD5 oder SHA256
 - Notwendigkeit und Umsetzung der [Digitalen Signatur](/open-fidup/lerninhalte/digitale-signatur)
 - Anwendungsszenarien für [Hashing](/open-fidup/lerninhalte/hashing)
 
@@ -403,14 +381,14 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 ### Berufsausbildung, Arbeits- und Tarifrecht
 
 #### Rechte und Pflichten in der Ausbildung
-- Inhalte des Ausbildungsvertrages (Partner, Arbeitszeit, Probezeit, Vergütung, Urlaub, Kündigung)
+- Inhalte des Ausbildungsvertrages: Partner, Arbeitszeit, Probezeit, Vergütung, Urlaub, Kündigung
 - Konsequenzen bei Nichteinhaltung, Beendigung, Arbeitszeugnis
 
 #### Vorteile des dualen Ausbildungssystems
 - Verschiedene Lernorte und Zusammenwirken von Betrieb und Berufsschule
 
 #### Aufgaben der Akteure in der Berufsausbildung
-- Ausbildungsbetrieb, Berufsschule, Kammern (IHK/HWK)
+- Ausbildungsbetrieb, Berufsschule, Kammern wie IHK/HWK
 - Berufsbildungsgesetz, Ausbildungsordnung, Schulpflicht
 
 #### Ausbildungsrahmenplan und betrieblicher Ausbildungsplan
@@ -418,12 +396,12 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 
 #### Grundsätze des Individual- und Kollektivarbeitsrechts
 - Arbeitnehmerrechte und -pflichten
-- Wichtige Gesetze (BBiG, ArbSchG, KSchG, JArbSchG, ArbZG, BetrVG)
+- Wichtige Gesetze: BBiG, ArbSchG, KSchG, JArbSchG, ArbZG, BetrVG
 - Sozialversicherung, Lohnsteuer
 
 #### Arbeitgeber- und Arbeitnehmerorganisationen
-- Verbände (Arbeitgeber, Wirtschaft), Kammern
-- Gewerkschaften, Betriebsräte (Wahl, Mitbestimmung), JAV
+- Verbände wie Arbeitgeber und Wirtschaft, Kammern
+- Gewerkschaften, Betriebsräte mit Wahl und Mitbestimmung, JAV
 
 #### Tarifrecht
 - Tarifverträge, Tarifautonomie, Tarifverhandlungen, Arbeitskampf
@@ -432,10 +410,10 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 - Brutto/Netto-Entgelt, Steuern, Sozialabgaben, vermögenswirksame Leistungen
 
 #### Lebensbegleitendes Lernen
-- Weiterbildungsmöglichkeiten (intern, extern), berufliche Fortbildung, Umschulung, staatliche Förderungen
+- Weiterbildungsmöglichkeiten intern und extern, berufliche Fortbildung, Umschulung, staatliche Förderungen
 
 #### Lern- und Arbeitstechniken
-- Lernmethoden (visuell, auditiv, kommunikativ, motorisch)
+- Lernmethoden: visuell, auditiv, kommunikativ, motorisch
 - Zeitmanagement, Präsentationstechniken, Projektplanung, Nutzung digitaler Lernmedien
 
 #### Berufliche Weiterentwicklung und Lebensplanung
@@ -447,12 +425,12 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 - Branchenzugehörigkeit, Produktpalette, Märkte
 
 #### Rechtsformen
-- Personengesellschaften (Einzelunternehmen, KG, OHG)
-- Kapitalgesellschaften (GmbH, AG)
+- Personengesellschaften: Einzelunternehmen, KG, OHG
+- Kapitalgesellschaften: GmbH, AG
 - Öffentliche und gemeinnützige Organisationen
 
 #### Unternehmensstruktur und -organisation
-- Organisationsformen (Einlinien-, Mehrlinien-, Stabliniensystem, Matrixorganisation)
+- Organisationsformen: Einlinien-, Mehrlinien-, Stabliniensystem, Matrixorganisation
 
 #### Wirtschaftliche Verflechtungen
 - Konzerne, Kartelle, Fusionen
@@ -465,12 +443,14 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 
 #### Verbände, Behörden und Vertretungen
 - Ziele und Aufgaben von Arbeitgeber- und Arbeitnehmerverbänden, Behörden
-- Grundsatz der vertrauensvollen Zusammenarbeit (BetrVG)
+- Grundsatz der vertrauensvollen Zusammenarbeit nach BetrVG
 
 ### Sicherheit und Gesundheitsschutz bei der Arbeit
 
 #### Gesundheits- und Arbeitsschutzvorschriften
-- Gesetze (ArbSchG, ArbSichG, ArbZG), Verordnungen (BetrSichV, ArbStättV), Unfallverhütungsvorschriften (UVV)
+- Gesetze: ArbSchG, ArbSichG, ArbZG
+- Verordnungen: BetrSichV, ArbStättV
+- Unfallverhütungsvorschriften (UVV)
 - Arbeitsplatzergonomie, Bildschirmarbeitsplatzverordnung
 
 #### Wahrnehmung und Einschätzung von Gefährdungen
@@ -489,19 +469,19 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 - Erste Hilfe, Notruf, Meldeketten, Evakuierung
 
 #### Verhalten im Brandfall und vorbeugender Brandschutz
-- Brandursachen, Brandschutzordnung, Brandschutzmittel (Feuerlöscher), Fluchtwege, Sicherheitszeichen
+- Brandursachen, Brandschutzordnung, Brandschutzmittel wie Feuerlöscher, Fluchtwege, Sicherheitszeichen
 
 ### Umweltschutz
 
 #### Vermeidung von Umweltbelastungen
-- Rationelle Energie- und Ressourcennutzung (Green IT)
-- Wiederverwertung (Recycling), Abfalltrennung und -vermeidung
+- Rationelle Energie- und Ressourcennutzung wie Green IT
+- Wiederverwertung wie Recycling, Abfalltrennung und -vermeidung
 
 #### Umgang mit Abfällen
 - Erfassung, Lagerung und Entsorgung branchenspezifischer Abfälle
 
 #### Öffentliche Systeme und Gesetze
-- Duales System (Verpackungsentsorgung), Immissionsschutzgesetz
+- Duales System für Verpackungsentsorgung, Immissionsschutzgesetz
 
 #### Nachhaltigkeit und Ressourcennutzung
 - Berücksichtigung bei Einkauf und Lieferantenauswahl
@@ -517,7 +497,7 @@ Der Code soll allgemein verständlich sein (z.B. als [Pseudocode](/open-fidup/le
 - Beachtung von Unternehmenswerten und Compliance-Regeln, Beseitigung von Vorurteilen
 
 #### Berücksichtigung informationstechnischer Schutzziele
-- Integrität, Vertraulichkeit und Authentizität (BSI-Standards)
+- Integrität, Vertraulichkeit und Authentizität nach BSI-Standards
 - Sensibler Umgang mit Kommunikation und Adressatenlisten
 
 #### Ethische Aspekte und Compliance

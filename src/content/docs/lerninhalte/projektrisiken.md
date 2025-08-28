@@ -3,31 +3,51 @@ title: "Projektrisiken"
 description: "Projektrisiken sind potenzielle Ereignisse mit negativen Auswirkungen auf Ziele. Sie werden identifiziert, analysiert und durch Vermeidung, Minderung oder Transfer bewältigt. Regelmäßiges Monitoring ist essenziell für den Projekterfolg."
 ---
 
- **1. Definition von Projektrisiken:**
-- Projektrisiken sind **potenzielle Ereignisse oder Umstände**, die **negative Auswirkungen auf die Projektziele** haben können, wie Zeit, Kosten, Qualität oder Umfang.
+Projektrisiken bezeichnen potenzielle Ereignisse oder Umstände, die negative Auswirkungen auf die Ziele eines Projekts haben können, etwa in Bezug auf Zeit, Kosten, Qualität oder Umfang. Sie werden systematisch identifiziert, analysiert und durch Maßnahmen wie Vermeidung, Minderung oder Transfer bewältigt. Regelmäßiges Monitoring und Anpassung der Strategien sind entscheidend, um den Projekterfolg zu sichern. Im Kontext des [Projektmanagements](/open-fidup/lerninhalte/projektmanagement) spielen sie eine zentrale Rolle bei der Planung und Durchführung.
 
-**2. Identifikation von Risiken:**
+## Definition von Projektrisiken
+
+Projektrisiken sind potenzielle Ereignisse oder Umstände, die negative Auswirkungen auf die Projektziele haben können, wie Zeit, Kosten, Qualität oder Umfang.
+
+## Identifikation von Risiken
+
+Die Identifikation von Risiken umfasst die systematische Erfassung potenzieller Bedrohungen. Diese lassen sich in interne und externe Risiken unterteilen.
+
 - **Interne Risiken:**
-    - Technische Probleme, Ressourcenengpässe, Widerstand im Team.
+  - Technische Probleme, Ressourcenengpässe, Widerstand im Team.
+
 - **Externe Risiken:**
-    - Marktveränderungen, rechtliche Anforderungen, Lieferantenprobleme.
+  - Marktveränderungen, rechtliche Anforderungen, Lieferantenprobleme.
 
-**3. Analyse der Risiken:**
+## Analyse der Risiken
+
+Die Analyse bewertet identifizierte Risiken, um ihre Bedeutung zu bestimmen und Prioritäten zu setzen.
+
 - **Wahrscheinlichkeit und Auswirkungen:**
-    - Bewerten Sie die Wahrscheinlichkeit des Eintretens und die potenziellen Auswirkungen auf das Projekt.
+  - Die Wahrscheinlichkeit des Eintretens und die potenziellen Auswirkungen auf das Projekt werden bewertet.
+
 - **Priorisierung:**
-    - Risiken nach ihrer Bedeutung priorisieren, um gezielt Maßnahmen zu entwickeln.
+  - Risiken werden nach ihrer Bedeutung priorisiert, um gezielt Maßnahmen zu entwickeln.
 
-**4. Entwicklung von Maßnahmen:**
+## Entwicklung von Maßnahmen
+
+Auf Basis der Analyse werden Strategien entwickelt, um Risiken zu bewältigen. Diese umfassen Vermeidung, Minderung und Transfer.
+
 - **Risikovermeidung:**
-    - Strategien entwickeln, um Risiken zu vermeiden (z. B. alternative Technologien).
-- **Risikominderung:**
-    - Maßnahmen zur Reduzierung der Auswirkungen (z. B. Schulungen, Backup-Systeme).
-- **Risikotransfer:**
-    - Risiken an Dritte übertragen (z. B. durch Versicherungen oder Outsourcing).
+  - Strategien zur Vermeidung von Risiken, beispielsweise durch alternative Technologien.
 
-**5. Monitoring und Anpassung:**
+- **Risikominderung:**
+  - Maßnahmen zur Reduzierung der Auswirkungen, etwa durch Schulungen oder Backup-Systeme.
+
+- **Risikotransfer:**
+  - Übertragung von Risiken an Dritte, beispielsweise durch Versicherungen oder Outsourcing.
+
+## Monitoring und Anpassung
+
+Risiken erfordern kontinuierliche Überwachung, um auf Veränderungen reagieren zu können.
+
 - **Regelmäßige Überprüfung:**
-    - Risiken kontinuierlich überwachen und bewerten.
+  - Risiken werden kontinuierlich überwacht und bewertet.
+
 - **Anpassung der Strategien:**
-    - Maßnahmen basierend auf neuen Informationen oder Veränderungen im Projektumfeld anpassen.
+  - Maßnahmen werden basierend auf neuen Informationen oder Veränderungen im Projektumfeld angepasst.

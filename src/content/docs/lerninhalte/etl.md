@@ -1,31 +1,22 @@
 ---
 title: "ETL"
-description: "ETL ist ein Prozess zur Vereinigung von Daten aus heterogenen Quellen. Extraktion selektiert Daten, Transformation verbessert und korrigiert sie, Load lädt sie effizient. Arten der Extraktion sind periodisch, ereignisgesteuert und anfragegesteuert. Ziel ist Datenintegration für Analyse."
+description: "ETL bezeichnet einen Prozess zur Integration von Daten aus unterschiedlichen Quellen. Dabei werden Daten extrahiert, transformiert und geladen, um sie für Analysen bereitzustellen."
 ---
 
-- **E**xtract, **T**ransform, **L**oad
-- Prozess von **Vereinigung** von Daten aus **heterogenen Quellen**
+ETL steht für Extract, Transform und Load und beschreibt einen Prozess zur Vereinigung von Daten aus heterogenen Quellen. Die Extraktion selektiert Daten aus verschiedenen Formaten und Strukturen. Die Transformation verbessert und korrigiert diese Daten syntaktisch und semantisch. Das Laden erfolgt effizient, ohne die Datenbank langfristig zu blockieren, und stellt die Integrität sowie eine Versionshistorie sicher. Ziel ist die Datenintegration für Analysen, beispielsweise in einem [Data Warehouse](/open-fidup/lerninhalte/data-warehouse).
 
 ## Extraktion
-- Extraktion einer Selektion von Daten aus Quellen
-- Daten liegen in **verschiedenen** Datenformaten, -strukturen, etc. vor
-- Arten
-	- **periodisch**, Quelle wird in regelmäßigen Abständen abgefragt
-	- **ereignisgesteuert**, Quelle wird bei bestimmten Ereignissen abgefragt
-	- **anfragegesteuert**, Quelle stellt Daten erst auf Anfrage bereit
+Die Extraktion umfasst die Auswahl von Daten aus Quellen, die in verschiedenen Formaten und Strukturen vorliegen. Es gibt drei Arten der Extraktion:
+
+- **Periodisch**: Die Quelle wird in regelmäßigen Abständen abgefragt.
+- **Ereignisgesteuert**: Die Abfrage erfolgt bei bestimmten Ereignissen.
+- **Anfragegesteuert**: Die Quelle stellt Daten erst auf Anfrage bereit.
 
 ## Transformation
-- **Syntaktische Transformation**
-	- **Verbesserung**/**Umsetzung**/**Korrektur** der Daten basierend auf **formalen** Aspekten
-	- Bspw. **Standardisierung** von Datumstypen
-- **Semantische Transformation**
-	- **Inhaltliche Aspekte** werden überprüft
-	- Bspw. Eliminierung von Duplikaten, Schlüsselanpassungen, Umrechnungen von Maßeinheiten, Aggregation, Anreicherungen, ...
-## Load
-- effizientes Einladen von Daten
-- Datenbank **nur kurz** oder **gar nicht** blockiert
-- **Integrität** soll gewährleistet werden
-- Anfertigung von **Versionshistorie**
-## Quellen
+Die Transformation verbessert und korrigiert die Daten. Sie unterteilt sich in syntaktische und semantische Aspekte.
 
-> Autoren der Wikimedia-Projekte. (2003, December 02). ETL-Prozess – Wikipedia. Retrieved from https://de.wikipedia.org/w/index.php?title=ETL-Prozess&oldid=243460066
+### Syntaktische Transformation
+Diese bezieht sich auf formale Aspekte und umfasst die Umsetzung oder Korrektur der Daten. Ein Beispiel ist die Standardisierung von Datumsformaten.
+
+### Semantische Transformation
+Diese überprüft inhaltliche Aspekte. Beispiele sind die Eliminierung von Duplikaten, Anpassungen von Schlüsseln, Umrechnungen von Maßeinheiten

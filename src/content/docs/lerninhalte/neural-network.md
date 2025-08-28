@@ -1,9 +1,9 @@
 ---
-title: "Neural Network"
+title: "Neuronale Netze"
 description: "Neuronale Netze sind Modelle des maschinellen Lernens, die aus Eingabe-, verborgenen und Ausgabeschichten bestehen. Sie verarbeiten Daten durch Gewichtungen und Aktivierungsfunktionen, mit Anwendungen in Mustererkennung und Vorhersage."
 ---
 
-Neuronale Netze sind Modelle des **maschinellen Lernens**, die dem menschlichen Gehirn nachempfunden sind. Sie bestehen aus verschiedenen Schichten, die Informationen verarbeiten und Ergebnisse liefern.
+Neuronale Netze sind Modelle des [maschinellen Lernens](/open-fidup/lerninhalte/maschinelles-lernen), die dem menschlichen Gehirn nachempfunden sind. Sie bestehen aus verschiedenen Schichten, die Informationen verarbeiten und Ergebnisse liefern. Diese Netze eignen sich besonders für die Verarbeitung komplexer Daten und finden Anwendung in Bereichen wie Mustererkennung und Vorhersage.
 
 ## Aufbau eines Neuronalen Netzes
 Ein neuronales Netz besteht aus drei Hauptschichten:
@@ -16,12 +16,28 @@ Ein neuronales Netz besteht aus drei Hauptschichten:
 - **Knoten (Neuronen)**: Die Verarbeitungseinheiten des Netzes.
 - **Kanten (Verbindungen)**: Die Verbindungen zwischen den Neuronen, die Gewichtungen tragen.
 
-![[Pasted image 20240919130334.png]]
+```mermaid
+graph TD
+    A[Eingabeschicht] --> B[Verborgene Schicht 1]
+    B --> C[Verborgene Schicht 2]
+    C --> D[Ausgabeschicht]
+    A --> D
+    B --> D
+```
+
 ## Funktionsweise
 1. **Informationserfassung**: Daten werden in der Eingabeschicht aufgenommen.
 2. **Datenverarbeitung**: Informationen werden durch die verborgenen Schichten geleitet und gewichtet.
 3. **Ergebnisausgabe**: Die Ausgabeschicht liefert das finale Ergebnis.
-![[image.psd(1).png]]
+
+```mermaid
+flowchart LR
+    A[Daten] --> B[Eingabeschicht]
+    B --> C[Verborgene Schichten]
+    C --> D[Ausgabeschicht]
+    D --> E[Ergebnis]
+```
+
 ## Wichtige Konzepte
 - **Gewichtungen**: Bestimmen die Stärke der Verbindungen zwischen Neuronen.
 - **Aktivierungsfunktion**: Entscheidet, ob und wie stark ein Neuron aktiviert wird.
@@ -83,14 +99,13 @@ Die Lernrate beeinflusst die Geschwindigkeit und Effektivität des Trainings:
 ## Vor- und Nachteile
 
 ### Vorteile
-- Verarbeitung **komplexer, nichtlinearer Zusammenhänge.**
-- **Gute Performanz** bei großen Datenmengen.
+- Verarbeitung komplexer, nichtlinearer Zusammenhänge.
+- Gute Performanz bei großen Datenmengen.
 
 ### Nachteile
-- Benötigt **große Trainingsdatensätze.**
-- "**Black Box**" - Entscheidungsprozess schwer nachvollziehbar.
-- Ethische Bedenken: **Bias in den Daten** kann zu unfairen Entscheidungen führen.
-
+- Benötigt große Trainingsdatensätze.
+- "Black Box" - Entscheidungsprozess schwer nachvollziehbar.
+- Ethische Bedenken: Bias in den Daten kann zu unfairen Entscheidungen führen.
 
 > Neuronale Netze. (2022, January 26). Retrieved from https://studyflix.de/informatik/neuronale-netze-4297
 > AI Chat. (2024, September 19). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1

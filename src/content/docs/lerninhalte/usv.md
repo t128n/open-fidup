@@ -1,43 +1,21 @@
 ---
 title: "USV"
-description: "USV-Geräte stellen kontinuierliche Stromversorgung sicher, schützen vor Stromausfällen und Spannungsschwankungen. Arten umfassen Offline, Line-Interactive und Online-USV, je nach Anforderungen an Umschaltzeit und Schutz."
+description: "USV-Geräte gewährleisten eine kontinuierliche Stromversorgung für kritische Systeme, schützen vor Stromausfällen und Spannungsschwankungen. Zu den Arten zählen Offline-, Line-Interactive- und Online-USV, die sich in Umschaltzeit und Schutzumfang unterscheiden."
 ---
 
-- Gerät, das eine **kontinuierliche Stromversorgung** für kritische Systeme sicherstellt, selbst bei **Stromausfällen** oder **Spannungsschwankungen**. Sie **überbrückt Stromausfälle** und **schützt Geräte** vor Datenverlust oder Beschädigungen durch unerwartete Abschaltungen.
+Eine unterbrechungsfreie Stromversorgung (USV) ist ein Gerät, das eine kontinuierliche Stromversorgung für kritische Systeme sicherstellt. Sie überbrückt Stromausfälle und schützt Geräte vor Datenverlust oder Beschädigungen durch unerwartete Abschaltungen. USVs sind in verschiedenen Arten erhältlich, die sich in Funktionsweise, Einsatzgebiet, Vorteilen und Nachteilen unterscheiden.
 
 ## USV-Arten
-![[Pasted image 20240920091305.png]]
-### Offline / Standby-USV
-- **Funktionsweise**: Die USV lädt im Normalbetrieb ihre Batterien und schaltet im Falle eines Stromausfalls in wenigen Millisekunden auf Batteriebetrieb um.
-- **Einsatzgebiet**: Geeignet für weniger kritische Systeme, bei denen kurze Umschaltzeiten tolerierbar sind (z. B. Büro-PCs).
-- **Vorteile**:
-    - Kostengünstig.
-    - Einfacher Aufbau.
-- **Nachteile**:
-    - Umschaltzeit, die zu kurzen Spannungsverlusten führen kann.
-    - Kein Schutz vor Spannungsspitzen oder -einbrüchen im Normalbetrieb.
 
-### Line-Interactive-USV
-- **Funktionsweise**: Diese USV verwendet einen Spannungsregler (AVR, Automatic Voltage Regulator), um Spannungsschwankungen im Netzbetrieb auszugleichen. Bei einem Stromausfall schaltet sie auf Batteriebetrieb um.
-- **Einsatzgebiet**: Geeignet für Systeme, die häufig Spannungsprobleme haben (z. B. Netzschwankungen).
-- **Vorteile**:
-    - Besserer Schutz vor Spannungsschwankungen als eine Offline-USV.
-    - Kürzere Umschaltzeit.
-- **Nachteile**:
-    - Umschaltzeit vorhanden.
-    - Höhere Kosten als bei einer Offline-USV.
+Die folgenden Arten von USVs bieten unterschiedliche Schutzmechanismen. Eine Übersicht über die Hauptmerkmale findet sich in der Tabelle.
 
-### Online / Doppelwandler-USV
-- **Funktionsweise**: Wandelt die Netzspannung kontinuierlich in Gleichstrom und dann wieder in Wechselstrom um. Dadurch wird eine konstante und unterbrechungsfreie Stromversorgung ohne Umschaltzeiten gewährleistet.
-- **Einsatzgebiet**: Für kritische Systeme (Server, Rechenzentren), die eine kontinuierliche Stromversorgung und Schutz vor allen Arten von Spannungsstörungen benötigen.
-- **Vorteile**:
-    - Kein Umschaltvorgang (0 ms Umschaltzeit).
-    - Schutz vor allen Arten von Netzstörungen.
-- **Nachteile**:
-    - Teurer als Offline- und Line-Interactive-USVs.
-    - Höherer Energieverbrauch (wegen ständiger Umwandlung).
+| Art                  | Funktionsweise                                                                 | Einsatzgebiet                                                                 | Vorteile                                                                 | Nachteile                                                                 |
+|----------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Offline / Standby-USV | Lädt Batterien im Normalbetrieb und schaltet bei Stromausfall in wenigen Millisekunden auf Batteriebetrieb um. | Weniger kritische Systeme, bei denen kurze Umschaltzeiten tolerierbar sind (z. B. Büro-PCs). | Kostengünstig; einfacher Aufbau.                                         | Umschaltzeit kann zu kurzen Spannungsverlusten führen; kein Schutz vor Spannungsspitzen oder -einbrüchen im Normalbetrieb. |
+| Line-Interactive-USV | Verwendet einen Spannungsregler (AVR), um Spannungsschwankungen im Netzbetrieb auszugleichen; schaltet bei Stromausfall auf Batteriebetrieb um. | Systeme mit häufigen Spannungsproblemen (z. B. bei Netzschwankungen).       | Besserer Schutz vor Spannungsschwankungen als Offline-USV; kürzere Umschaltzeit. | Umschaltzeit vorhanden; höhere Kosten als Offline-USV.                   |
+| Online / Doppelwandler-USV | Wandelt Netzspannung kontinuierlich in Gleichstrom und dann wieder in Wechselstrom um, wodurch eine konstante Stromversorgung ohne Umschaltzeiten entsteht. | Kritische Systeme (z. B. Server, Rechenzentren), die kontinuierliche Versorgung und Schutz vor allen Spannungsstörungen benötigen. | Kein Umschaltvorgang (0 ms Umschaltzeit); Schutz vor allen Netzstörungen. | Teurer als Offline- und Line-Interactive-USVs; höherer Energieverbrauch durch ständige Umwandlung. |
 
 ## Quellen
 
-> ChatGPT. (2024, September 20). Retrieved from https://chatgpt.com/c/66ed1d06-5424-800b-bc26-8455a49771b1
+> ChatGPT. (2024, September 20). Retrieved from https://chatgpt.com/c/66ed1d06-5424-800b-bc26-8455a49771b1  
 > mueller – Ihre USV-Beratung. (2024, September 20). Retrieved from https://www.usv-beratung.de

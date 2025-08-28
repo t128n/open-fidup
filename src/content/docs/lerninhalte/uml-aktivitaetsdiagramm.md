@@ -3,44 +3,42 @@ title: "UML-Aktivitätsdiagramm"
 description: "Das UML-Aktivitätsdiagramm stellt den Fluss von Aktivitäten in einem System dar, einschließlich Elemente wie Anfangsknoten, Aktionen und Entscheidungspunkte. Es hilft, komplexe Prozesse zu modellieren und zu verstehen."
 ---
 
-- hilft **bestimmten Anwendungsfall** auf **detaillierteren Ebene** zu visualisieren
-- **Fluss der Aktivitäten** durch ein System
+Das UML-Aktivitätsdiagramm ist ein Diagrammtyp der Unified Modeling Language ([UML](/open-fidup/lerninhalte/uml)), der den Ablauf von Aktivitäten in einem System visualisiert. Es dient dazu, einen bestimmten Anwendungsfall auf einer detaillierten Ebene darzustellen und den Fluss der Aktivitäten durch ein System zu zeigen. Auf diese Weise unterstützt es die Modellierung und das Verständnis komplexer Prozesse.
+
+## Zweck
+Das UML-Aktivitätsdiagramm hilft dabei, den Fluss von Aktivitäten in einem System zu visualisieren. Es ermöglicht die Darstellung eines bestimmten Anwendungsfalls auf einer detaillierten Ebene und zeigt den Ablauf der Aktivitäten durch das System.
 
 ## Elemente
-![[Pasted image 20240910081403.png]]
-- **Anfangsknoten**, stellt *Anfangszustand der Aktivität* dar
-![[Pasted image 20240910081554.png]]
-- **Aktivität**, Darstellung einer Aktivität des Prozesses
-![[Pasted image 20240910081751.png]]
-- **Aktion**, ausführbarer **Teilbereich** einer Aktivität
-![[Pasted image 20240910081954.png]]
-- **Kontrollfluss**, eine Aktion zu einer anderen
-![[Pasted image 20240910082546.png]]
-- **Objektfluss**, Weg von Objekten die sich durch Aktivität bewegen
-![[Pasted image 20240910082625.png]]
-- **Aktivität Endknoten**, Ende aller Kontrollflüsse
-![[Pasted image 20240910082812.png]]
-- **Fluss-Endknoten**, Ende eines einzelnen Kontrollflusses
-![[Pasted image 20240910082832.png]]
-- **Entscheidungs-Knotenpunkt** / **Knoten verschmelzen**, bedingter Verzweigungspunkt; Ein Eingang, mehrere Ausgänge / Zusammenfließen von Strömen; mehrere Eingänge, ein Ausgang
-![[Pasted image 20240910082952.png]]
-- **Gabel**, Fluss, der sich in zwei oder mehr parallele Ströme verzweigt
-![[Pasted image 20240910083034.png]]
-- **Zusammenführen**, Fluss, der zwei oder mehr parallele Ströme verzweigt
-![[Pasted image 20240910083103.png]]
-- **Senden von Signalen**, an eine annehmende Aktivität
-![[Pasted image 20240910083218.png]]
-- **Signal-Empfang**, von einer sendenen Aktivität
-![[Pasted image 20240910083244.png]]
-- **Anmerkung/Kommentar**
-![[Pasted image 20240910083302.png]]
-- **Swimlanes**, Partitionen. Aktionen werden anhand ihrer Akteure getrennt
-	- **Vorteile**: macht lineare Prozesse leichter lesbar, jedoch nicht mehr als 5 Swimlanes
+Das UML-Aktivitätsdiagramm umfasst verschiedene Elemente, die den Ablauf und die Struktur von Aktivitäten beschreiben. Die folgenden Elemente sind zentral:
+
+| Element | Beschreibung |
+|---------|--------------|
+| Anfangsknoten | Stellt den Anfangszustand der Aktivität dar. |
+| Aktivität | Darstellung einer Aktivität des Prozesses. |
+| Aktion | Ausführbarer Teilbereich einer Aktivität. |
+| Kontrollfluss | Verbindet eine Aktion mit einer anderen. |
+| Objektfluss | Weg von Objekten, die sich durch die Aktivität bewegen. |
+| Aktivität-Endknoten | Ende aller Kontrollflüsse. |
+| Fluss-Endknoten | Ende eines einzelnen Kontrollflusses. |
+| Entscheidungs-Knotenpunkt / Knoten verschmelzen | Bedingter Verzweigungspunkt mit einem Eingang und mehreren Ausgängen; Zusammenfließen von Strömen mit mehreren Eingängen und einem Ausgang. |
+| Gabel | Fluss, der sich in zwei oder mehr parallele Ströme verzweigt. |
+| Zusammenführen | Fluss, der zwei oder mehr parallele Ströme zusammenführt. |
+| Senden von Signalen | Sendet ein Signal an eine annehmende Aktivität. |
+| Signal-Empfang | Empfängt ein Signal von einer sendenden Aktivität. |
+| Anmerkung/Kommentar | Zusätzliche Erläuterungen oder Kommentare. |
+| Swimlanes | Partitionen, die Aktionen anhand ihrer Akteure trennen. Vorteile: Machen lineare Prozesse leichter lesbar, jedoch nicht mehr als fünf Swimlanes empfohlen. |
 
 ## Beispiel
+Ein Beispiel für ein UML-Aktivitätsdiagramm zeigt den Ablauf eines einfachen Prozesses, wie die Bearbeitung einer Bestellung. Es beginnt mit einem Anfangsknoten, führt durch Aktionen wie "Bestellung prüfen" und "Ware versenden" und endet mit einem Endknoten. Entscheidungspunkte können Verzweigungen darstellen, etwa bei der Prüfung der Verfügbarkeit.
 
-![[Pasted image 20240910083408.png]]
+```mermaid
+flowchart TD
+    A[Anfang] --> B{Bestellung prüfen}
+    B -->|Ja| C[Ware versenden]
+    B -->|Nein| D[Bestellung ablehnen]
+    C --> E[Ende]
+    D --> E
+```
 
 ## Quellen
-
-> Siriwardhana, S. (2022). Aktivitätsdiagramm UML: Symbol, Beispiele & Erstellung [Leitfaden]. Creately Blog. Retrieved from https://creately.com/blog/de/diagramme/aktivitatsdiagramm-uml
+Siriwardhana, S. (2022). Aktivitätsdiagramm UML: Symbol, Beispiele & Erstellung [Leitfaden]. Creately Blog. Abgerufen von https://creately.com/blog/de/diagramme/aktivitatsdiagramm-uml

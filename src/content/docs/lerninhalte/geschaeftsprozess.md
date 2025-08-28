@@ -1,39 +1,49 @@
 ---
 title: "Geschäftsprozess"
-description: "Ein Geschäftsprozess ist der Ablauf betrieblicher Funktionen, der zu einem gewünschten Ergebnis wie Umsatz führt. Er wird durch ein definiertes Ereignis ausgelöst und transformiert Input zu Output. Bei Änderungen sind Risiken bezüglich Wahrscheinlichkeit und Auswirkungen zu bewerten."
+description: "Ein Geschäftsprozess beschreibt den Ablauf betrieblicher Funktionen, der zu einem gewünschten Ergebnis wie Umsatz führt. Er wird durch ein definiertes Ereignis ausgelöst und transformiert Input zu Output. Bei Änderungen sind Risiken hinsichtlich Wahrscheinlichkeit und Auswirkungen zu bewerten."
 ---
 
-- **Ablauf** von betrieblichen **Funktionen**, der zu einem vom Unternehmen gewünschten **Ergebnis** führt -> **Umsatz** in irgend einer Form
-- wird durch **definiertes Ereignis** ausgelöst
-- transformiert **Input** durch Einsatz materieller und immaterieller Güter zu **Output**
+Ein Geschäftsprozess umfasst den Ablauf betrieblicher Funktionen, der zu einem vom Unternehmen gewünschten Ergebnis führt, beispielsweise in Form von Umsatz. Er wird durch ein definiertes Ereignis ausgelöst und transformiert Input durch den Einsatz materieller und immaterieller Güter zu Output.
 
 ```mermaid
 flowchart LR
-
-	Input-- transformation mit Gütern ---Output
+    Input -->|Transformation mit Gütern| Output
 ```
 
-## Bewertung von Risiken bei Änderungen an Geschäftsprozessen
+## Definition und Merkmale
 
-1. **Wahrscheinlichkeit des Eintretens**
-   - Einschätzung, wie wahrscheinlich ein Risiko eintritt.
-   - Methoden zur Ermittlung:
-     - Historische Datenanalyse
-     - Expertenmeinungen
-     - Risikoanalysen
-2. **Auswirkungen auf das Unternehmen**
-   - Bewertung der Konsequenzen eines eintretenden Risikos.
-   - Mögliche Auswirkungen:
-     - Finanzielle Verluste
-     - Reputationsschäden
-     - Rechtliche Konsequenzen
-     - Störungen im operativen Geschäft
-3. **Risikominderung und Kontrollmechanismen**
-   - Analyse der bestehenden Maßnahmen zur Risikominderung.
-   - Wichtige Aspekte:
-     - Vorhandene Kontrollen und Strategien
-     - Effektivität der Risikominderungsmaßnahmen
-     - Anpassungsbedarf der bestehenden Prozesse
+- Ablauf von betrieblichen Funktionen, der zu einem gewünschten Ergebnis führt, etwa Umsatz.
+- Auslösung durch ein definiertes Ereignis.
+- Transformation von Input zu Output unter Einsatz materieller und immaterieller Güter.
+
+## Bewertung von Risiken bei Änderungen
+
+Bei Änderungen an Geschäftsprozessen erfolgt eine Bewertung der Risiken hinsichtlich Wahrscheinlichkeit und Auswirkungen.
+
+### Wahrscheinlichkeit des Eintretens
+
+Die Wahrscheinlichkeit, mit der ein Risiko eintritt, wird eingeschätzt. Methoden zur Ermittlung umfassen:
+
+- Historische Datenanalyse
+- Expertenmeinungen
+- Risikoanalysen
+
+### Auswirkungen auf das Unternehmen
+
+Die Konsequenzen eines eintretenden Risikos werden bewertet. Mögliche Auswirkungen sind:
+
+- Finanzielle Verluste
+- Reputationsschäden
+- Rechtliche Konsequenzen
+- Störungen im operativen Geschäft
+
+### Risikominderung und Kontrollmechanismen
+
+Bestehende Maßnahmen zur Risikominderung werden analysiert. Wichtige Aspekte sind:
+
+- Vorhandene Kontrollen und Strategien
+- Effektivität der Risikominderungsmaßnahmen
+- Anpassungsbedarf der bestehenden Prozesse
 
 ## Quellen
 

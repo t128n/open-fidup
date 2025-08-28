@@ -3,80 +3,51 @@ title: "Entropie und Informationsgewinn"
 description: "Entropie misst die Unsicherheit oder Unordnung in einem Datensatz und liegt zwischen 0 und 1. Informationsgewinn berechnet den Unterschied der Entropie vor und nach der Teilung eines Attributs. Das Attribut mit dem höchsten Informationsgewinn ermöglicht die beste Aufteilung für Klassifikation."
 ---
 
+Entropie und Informationsgewinn sind Konzepte aus der [Entscheidungsbaum](/open-fidup/lerninhalte/entscheidungsbaum)-Analyse im [Maschinellen Lernen](/open-fidup/lerninhalte/maschinelles-lernen). Entropie quantifiziert die Unsicherheit oder Unordnung in einem Datensatz, wobei Werte zwischen 0 und 1 liegen. Informationsgewinn misst die Reduktion dieser Unsicherheit durch die Aufteilung des Datensatzes anhand eines Attributs. Das Attribut mit dem höchsten Informationsgewinn eignet sich am besten für eine effektive Klassifikation.
+
 ## Entropie
-- Maß für die **Unsicherheit** oder **Unordnung** in einem Datensatz. Je höher die Entropie, desto unordentlicher oder gemischter sind die Klassen im Datensatz.
-- Zahlenwert zwischen **0** und **1**. 
-	- Entropie 0: Es kann eine **absolut eindeutige Klassifikation** für den Knoten vorgenommen werden. 
-	- Entropie 1: Es ist gar **keine Tendenz** zu einer Klassifikation möglich.
+
+Entropie ist ein Maß für die Unsicherheit oder Unordnung in einem Datensatz. Je höher die Entropie, desto unordentlicher oder gemischter sind die Klassen im Datensatz. Der Wert liegt zwischen 0 und 1. Bei einer Entropie von 0 ist eine absolut eindeutige Klassifikation möglich. Bei einer Entropie von 1 besteht keine Tendenz zu einer Klassifikation.
+
 ### Formel
-#### Allgemein
-$S$ = Datensatz
-$C$ = Alle Klassen im Satz $S$
-$p(c)$ = Anzahl der Datenpunkte die zur Klasse $c$ gehören, im Verhältnis zur Gesamtzahl der Datenpunkte in Satz $S$
-$$
-Entropie(S) = - \sum_{c \in C} p(c) log_2 p(c)
-$$
-#### IHK
-$$
-\sum P \cdot log_2 \dfrac{1}{P}
-$$
-- $P$ Wahrscheinlichkeit von einer Klasse im Bezug auf alle Datenpunkte
+
+#### Allgemeine Formel
+
+$S$ bezeichnet den Datensatz, $C$ die Menge aller Klassen in $S$ und $p(c)$ den Anteil der Datenpunkte, die zur Klasse $c$ gehören, bezogen auf die Gesamtzahl der Datenpunkte in $S$.
+
+$$Entropie(S) = - \sum_{c \in C} p(c) \log_2 p(c)$$
+
+#### Variante
+
+Eine alternative Darstellung lautet:
+
+$$\sum P \cdot \log_2 \dfrac{1}{P}$$
+
+Hierbei steht $P$ für die Wahrscheinlichkeit einer Klasse bezogen auf alle Datenpunkte.
+
 ##### Beispiel
-- 91 durchgeführte Werbemaßnahmen 
-- 40 fehlgeschlagene Werbemaßnahmen
-- 51 erfolgreich durchgeführte Werbemaßnahmen
 
-$\sum P \cdot log_2 \dfrac{1}{P} = \dfrac{51}{91} \cdot log_2 \dfrac{1}{\dfrac{91}{51}} + \dfrac{40}{91} \cdot log_2 \dfrac{1}{\dfrac{40}{51}} = \dfrac{51}{91} \cdot log_2 \dfrac{91}{51} + \dfrac{40}{91} \cdot log_2 \dfrac{91}{40} \approx 0,9894$
+Gegeben sind 91 durchgeführte Werbemaßnahmen, davon 40 fehlgeschlagene und 51 erfolgreiche.
 
-> [!NOTE]- Erklärung
-> - Die Entropie wird berechnet, indem man für jede Klasse $c$ die Wahrscheinlichkeit $p(c)$ betrachtet, dass ein zufällig ausgewählter Datenpunkt aus dem Datensatz $S$ zu dieser Klasse gehört. 
->- Der Ausdruck $p(c) \log_2 p(c)$ quantifiziert die Unsicherheit oder den Informationsgehalt, der mit der Klasse $c$ verbunden ist. 
- > - Wenn $p(c)$ hoch ist (d.h. viele Datenpunkte gehören zu dieser Klasse), ist der Informationsgehalt niedrig, weil wir relativ sicher sind, dass ein zufällig ausgewählter Punkt zu dieser Klasse gehört. 
-  >- Umgekehrt, wenn $p(c)$ niedrig ist (d.h. wenige Datenpunkte gehören zu dieser Klasse), ist der Informationsgehalt hoch, weil es weniger wahrscheinlich ist, dass ein zufällig ausgewählter Punkt zu dieser Klasse gehört.
->- Das Minuszeichen vor der Summe sorgt dafür, dass die Entropie immer einen positiven Wert hat, da der Logarithmus von Werten zwischen 0 und 1 negativ ist. 
->- Die Entropie ist also ein Maß für die durchschnittliche Unsicherheit oder Unordnung im Datensatz: 
-  >- Wenn alle Stichproben in Datensatz $S$ zu einer Klasse gehören, dann ist $Entropie(S) = 0$, was bedeutet, dass es keine Unsicherheit gibt, da alle Datenpunkte gleich sind.
-  >- Wenn die Hälfte der Proben einer Klasse und die andere Hälfte einer anderen Klasse zugeordnet werden, dann ist $Entropie(S) = 1$ (maximaler Wert), was maximale Unsicherheit anzeigt, da die Klassen gleichmäßig verteilt sind.
+$$\sum P \cdot \log_2 \dfrac{1}{P} = \dfrac{51}{91} \cdot \log_2 \dfrac{1}{\dfrac{51}{91}} + \dfrac{40}{91} \cdot \log_2 \dfrac{1}{\dfrac{40}{91}} = \dfrac{51}{91} \cdot \log_2 \dfrac{91}{51} + \dfrac{40}{91} \cdot \log_2 \dfrac{91}{40} \approx 0{,}9894$$
 
-- wenn alle Stichproben in Datensatz $S$ zu einer Klasse gehören dann $Entropie(S) = 0$
-- wenn die Hälfte der Proben einer Klasse und die andere Hälfte einer anderen Klasse zugeordnet werden, dann $Entropie(S) = 1$ (maximal Wert)
-
-- Attribut mit *geringster Entropie* sollte gewählt werden
-
-### Berechnung
-
+Die Entropie wird berechnet, indem für jede Klasse $c$ die Wahrscheinlichkeit $p(c)$ betrachtet wird, dass ein zufällig ausgewählter Datenpunkt aus dem Datensatz $S$ zu dieser Klasse gehört. Der Ausdruck $p(c) \log_2 p(c)$ quantifiziert die Unsicherheit oder den Informationsgehalt, der mit der Klasse $c$ verbunden ist. Wenn $p(c)$ hoch ist, ist der Informationsgehalt niedrig, da die Zuordnung zu dieser Klasse relativ sicher ist. Wenn $p(c)$ niedrig ist, ist der Informationsgehalt hoch, da die Zuordnung weniger wahrscheinlich ist. Das Minuszeichen vor der Summe sorgt dafür, dass die Entropie einen positiven Wert annimmt, da der Logarithmus von Werten zwischen 0 und 1 negativ ist. Die Entropie ist ein Maß für die durchschnittliche Unsicherheit oder Unordnung im Datensatz. Wenn alle Datenpunkte in $S$ zu einer Klasse gehören, beträgt die Entropie 0, was keine Unsicherheit bedeutet. Wenn die Hälfte der Datenpunkte einer Klasse und die andere Hälfte einer anderen Klasse zugeordnet sind, beträgt die Entropie 1, was maximale Unsicherheit anzeigt. Für die Klassifikation sollte das Attribut mit der geringsten Entropie gewählt werden.
 
 ## Informationsgewinn
-- Unterschied der *Entropie* **vor** und **nach** einer **Teilung** eines bestimmten Attributs
-- Attribut mit **höchstem** Informationsgewinn erzeugt beste Aufteilung
+
+Informationsgewinn bezeichnet den Unterschied der Entropie vor und nach der Teilung eines Datensatzes anhand eines bestimmten Attributs. Das Attribut mit dem höchsten Informationsgewinn erzeugt die beste Aufteilung.
 
 ### Formel
-$$
-G(D,A) = Entropie(S) - \sum_{v \in V(A)} \dfrac{|D_v|}{|D|}\times{Entropie(S_v)}
-$$
 
-> [!NOTE]- Erklärung
->- Der Informationsgewinn $G(D,A)$ misst, wie viel Unsicherheit (Entropie) durch die Teilung des Datensatzes $D$ anhand des Attributs $A$ reduziert wird.
->- $Entropie(S)$ ist die Entropie des ursprünglichen Datensatzes $S$, bevor eine Teilung erfolgt. Es gibt an, wie unrein oder gemischt die Klassen im Datensatz sind.
->- Der Ausdruck $\sum_{v \in V(A)} \dfrac{D_v}{D} \times Entropie(S_v)$ repräsentiert die gewichtete Summe der Entropien der Teilmengen, die durch die Teilung des Datensatzes nach den Werten $v$ des Attributs $A$ entstehen.
-  >- Hierbei ist $V(A)$ die Menge der möglichen Werte des Attributs $A$.
-  > - $D_v$ ist die Anzahl der Datenpunkte, die dem Wert $v$ des Attributs $A$ zugeordnet sind, und $D$ ist die Gesamtanzahl der Datenpunkte im Datensatz $D$.
-  > - Der Term $\dfrac{D_v}{D}$ gibt den Anteil der Datenpunkte an, die dem Wert $v$ zugeordnet sind, und gewichtet somit die Entropie $Entropie(S_v)$ der Teilmenge $S_v$, die den Wert $v$ hat.
-> - Der Informationsgewinn $G(D,A)$ ist also die Differenz zwischen der Entropie des ursprünglichen Datensatzes und der gewichteten Summe der Entropien der Teilmengen. 
- > - Ein hoher Wert von $G(D,A)$ bedeutet, dass die Teilung des Attributs $A$ zu einer signifikanten Reduktion der Unsicherheit führt, was darauf hinweist, dass $A$ ein gutes Attribut für die Klassifikation ist.
-  >- Ein niedriger oder negativer Wert würde darauf hindeuten, dass die Teilung nicht viel zur Klärung der Klassen beiträgt.
+$$G(D,A) = Entropie(S) - \sum_{v \in V(A)} \dfrac{|D_v|}{|D|} \times Entropie(S_v)$$
 
-$G(D,A)$ = Informationsgewinn für das Attribut $A$ in Bezug auf den Datensatz $D$.
-$V(A)$ = Möglichen Werte des Attributs $A$
-$|D_v|$ = Anzahl der Datenpunkte, die dem Wert $v$ des Attributs $A$ zugeordnet sind
-$|D|$ = Gesamtanzahl der Datenpunkte im Datensatz $D$
-$Entropie(S_v)$ = Entropie des Teilsets $S_v$
+Hierbei ist $G(D,A)$ der Informationsgewinn für das Attribut $A$ bezogen auf den Datensatz $D$, $V(A)$ die Menge der möglichen Werte des Attributs $A$, $|D_v|$ die Anzahl der Datenpunkte, die dem Wert $v$ des Attributs $A$ zugeordnet sind, $|D|$ die Gesamtanzahl der Datenpunkte im Datensatz $D$ und $Entropie(S_v)$ die Entropie des Teilsets $S_v$.
 
+Der Informationsgewinn $G(D,A)$ misst, wie viel Unsicherheit durch die Teilung des Datensatzes $D$ anhand des Attributs $A$ reduziert wird. $Entropie(S)$ ist die Entropie des ursprünglichen Datensatzes $S$ vor der Teilung. Der Ausdruck $\sum_{v \in V(A)} \frac{|D_v|}{|D|} \times Entropie(S_v)$ repräsentiert die gewichtete Summe der Entropien der Teilmengen, die durch die Teilung nach den Werten $v$ des Attributs $A$ entstehen. $V(A)$ ist die Menge der möglichen Werte des Attributs $A$, $|D_v|$ die Anzahl der Datenpunkte mit dem Wert $v$ und $|D|$ die Gesamtanzahl. Der Term $\frac{|D_v|}{|D|}$ gibt den Anteil der Datenpunkte mit dem Wert $v$ an und gewichtet die Entropie $Entropie(S_v)$ der Teilmenge $S_v$. Der Informationsgewinn $G(D,A)$ ist die Differenz zwischen der Entropie des ursprünglichen Datensatzes und der gewichteten Summe der Entropien der Teilmengen. Ein hoher Wert von $G(D,A)$ bedeutet, dass die Teilung anhand des Attributs $A$ zu einer signifikanten Reduktion der Unsicherheit führt, was $A$ zu einem guten Attribut für die Klassifikation macht. Ein niedriger oder negativer Wert deutet darauf hin, dass die Teilung wenig zur Klärung der Klassen beiträgt.
 
-- Der Informationsgewinn $G(D,A)$ ist also die **Entropie des ursprünglichen Datensatzes** minus die **gewichtete Summe der Entropien der Teilmengen, die durch die Teilung entstehen**. Ein höherer Wert von $G(D,A)$ bedeutet, dass das Attribut $A$ eine **bessere Trennung** der Klassen ermöglicht.
-
+Der Informationsgewinn $G(D,A)$ ist die Entropie des ursprünglichen Datensatzes minus die gewichtete Summe der Entropien der Teilmengen, die durch die Teilung entstehen. Ein höherer Wert von $G(D,A)$ bedeutet, dass das Attribut $A$ eine bessere Trennung der Klassen ermöglicht.
 
 ## Quellen
 
-> Was ist ein Entscheidungsbaum | IBM. (2024, September 17). Retrieved from https://www.ibm.com/de-de/topics/decision-trees
-> Tutorials, T. M. (2017, February 16). Machine Learning #39 - Entscheidungsbäume #3 - Entropie und Informationsgewinn. Youtube. Retrieved from https://www.youtube.com/watch?v=lg1pb0YaAjI
+Was ist ein Entscheidungsbaum | IBM. (2024, September 17). Retrieved from https://www.ibm.com/de-de/topics/decision-trees  
+Tutorials, T. M. (2017, February 16). Machine Learning #39 - Entscheidungsbäume #3 - Entropie und Informationsgewinn. Youtube. Retrieved from https://www.youtube.com/watch?v=lg1pb0YaAjI

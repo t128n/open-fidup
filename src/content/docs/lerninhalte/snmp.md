@@ -1,49 +1,57 @@
 ---
 title: "SNMP"
-description: "SNMP überwacht und steuert Netzwerkgeräte via Manager-Agent-Modell. MIB-Datenbank, Nachrichten wie GET/SET/TRAP. Versionen v1-v3 mit Sicherheitsverbesserungen."
+description: "SNMP überwacht und steuert Netzwerkgeräte über das Manager-Agent-Modell. Es nutzt eine MIB-Datenbank und Nachrichten wie GET, SET und TRAP. Versionen von v1 bis v3 bieten zunehmende Sicherheitsverbesserungen."
 ---
 
-- Simple Network Management Protocol
-- Protokoll zur **Überwachung** und **Steuerung** von Netzwerkgeräten (z.B. Router, Switches, Server, Drucker, etc.) indem Daten von diesen Geräten abgefragt und konfiguriert werden können.
-- SNMP arbeitet auf der **Anwendungsschicht** (Layer 7).
+Das Simple Network Management Protocol (SNMP) ist ein Protokoll zur Überwachung und Steuerung von Netzwerkgeräten wie Routern, Switches, Servern und Druckern. Es ermöglicht das Abfragen und Konfigurieren von Daten auf diesen Geräten. SNMP operiert auf der Anwendungsschicht des [OSI-Modells](/open-fidup/lerninhalte/osi-modell).
 
 ## Protokollarchitektur
-- **Manager**: Zentrale Instanz, die Informationen von Netzwerkgeräten sammelt.
-- **Agent**: Software, die auf den Netzwerkgeräten installiert ist, um auf Anfragen des Managers zu reagieren.
-- **MIB (Management Information Base)**: Eine Datenbank, die Informationen über die Netzwerkgeräte in einer strukturierten Form speichert.
-  
+SNMP basiert auf einem Manager-Agent-Modell. Der Manager sammelt zentral Informationen von Netzwerkgeräten. Der Agent, eine Software auf den Geräten, reagiert auf Anfragen des Managers. Die Management Information Base (MIB) dient als strukturierte Datenbank für diese Informationen.
+
 ## Hauptaufgaben
-  - **Überwachen**: Erfassung von Netzwerkdaten, z.B. Bandbreitennutzung, Verfügbarkeit, CPU-Auslastung.
-  - **Steuern**: Änderungen an den Geräteeinstellungen vornehmen, z.B. Neustart eines Geräts oder Ändern von IP-Adressen.
-  - **Alarmierung**: SNMP kann Alarme auslösen, wenn ein Fehler oder eine Auffälligkeit auftritt (z.B. zu hohe CPU-Auslastung).
+SNMP erfüllt mehrere Kernfunktionen:
+
+- **Überwachen**: Es erfasst Netzwerkdaten, etwa Bandbreitennutzung, Verfügbarkeit und CPU-Auslastung.
+- **Steuern**: Es ermöglicht Änderungen an Geräteeinstellungen, beispielsweise den Neustart eines Geräts oder die Anpassung von IP-Adressen.
+- **Alarmierung**: Bei Fehlern oder Auffälligkeiten, wie hoher CPU-Auslastung, löst SNMP Alarme aus.
 
 ## Nachrichtenarten
-  - **GET**: Anforderung bestimmter Informationen von einem Agenten.
-  - **SET**: Ändert den Wert einer Variablen auf einem Agenten.
-  - **TRAP**: Unaufgeforderte Nachricht von einem Agenten an den Manager, z.B. wenn ein Problem erkannt wird.
-  - **GETNEXT**: Ruft die nächste Variable in der MIB ab.
-  - **GETBULK**: Fordert mehrere Daten auf einmal an.
+SNMP verwendet verschiedene Nachrichtentypen für die Kommunikation:
+
+- **GET**: Fordert spezifische Informationen von einem Agenten an.
+- **SET**: Ändert den Wert einer Variablen auf einem Agenten.
+- **TRAP**: Sendet unaufgeforderte Nachrichten vom Agenten an den Manager, etwa bei erkannten Problemen.
+- **GETNEXT**: Ruft die nächste Variable in der MIB ab.
+- **GETBULK**: Fordert mehrere Daten gleichzeitig an.
 
 ## Versionen
-  - **SNMPv1**: Die erste Version, relativ einfach, aber sicherheitsanfällig.
-  - **SNMPv2c**: Verbesserungen in der Leistung, aber noch immer mit Sicherheitslücken.
-  - **SNMPv3**: Fügt **Sicherheitsmechanismen** wie Authentifizierung und Verschlüsselung hinzu.
+SNMP existiert in mehreren Versionen mit unterschiedlichen Merkmalen:
+
+- **SNMPv1**: Die ursprüngliche Version, einfach gestaltet, aber anfällig für Sicherheitsprobleme.
+- **SNMPv2c**: Bietet Leistungsverbesserungen, weist jedoch weiterhin Sicherheitslücken auf.
+- **SNMPv3**: Integriert Sicherheitsmechanismen wie Authentifizierung und Verschlüsselung.
 
 ## Vorteile
-  - **Zentrale Verwaltung** von Netzwerken
-  - **Skalierbarkeit** für große Netzwerke
-  - **Automatisierte Benachrichtigungen** bei Problemen (z.B. Traps)
+SNMP bietet mehrere Stärken:
+
+- Zentrale Verwaltung von Netzwerken.
+- Skalierbarkeit für große Netzwerke.
+- Automatisierte Benachrichtigungen bei Problemen durch Traps.
 
 ## Nachteile
-  - Ältere Versionen (v1 und v2c) haben **Sicherheitsprobleme** (fehlende Verschlüsselung, einfache Authentifizierung).
-  - Kann bei vielen Geräten oder großen Datenmengen zu **Netzwerkbelastungen** führen.
+Trotz seiner Nutzen hat SNMP Einschränkungen:
+
+- Ältere Versionen wie v1 und v2c leiden unter Sicherheitsproblemen, etwa fehlender Verschlüsselung und einfacher Authentifizierung.
+- Bei vielen Geräten oder großen Datenmengen kann es zu Netzwerkbelastungen kommen.
 
 ## Anwendungsbeispiele
-  - Überwachung von **Servern** und **Routern** in einem Unternehmensnetzwerk.
-  - Automatisierte **Alarmierungen** bei Netzwerkausfällen oder Ressourcenüberlastung.
-  
-## Einsatzbereiche
-  - In IT-Infrastrukturen von kleinen bis großen Unternehmen zur **Netzwerkverwaltung** und Fehlerdiagnose.
-## Quellen
+SNMP findet Anwendung in verschiedenen Szenarien:
 
-> Thomas-Krenn. A. G. (2024, September 20). SNMP Grundlagen – Thomas-Krenn-Wiki. Retrieved from [https://www.thomas-krenn.com/de/wiki/SNMP_Grundlagen](https://www.thomas-krenn.com/de/wiki/SNMP_Grundlagen)
+- Überwachung von Servern und Routern in Unternehmensnetzwerken.
+- Automatisierte Alarmierungen bei Netzwerkausfällen oder Ressourcenüberlastung.
+
+## Einsatzbereiche
+SNMP wird in IT-Infrastrukturen von kleinen bis großen Unternehmen eingesetzt, um Netzwerkverwaltung und Fehlerdiagnose zu unterstützen.
+
+## Quellen
+Thomas-Krenn. A. G. (2024, September 20). SNMP Grundlagen – Thomas-Krenn-Wiki. Abgerufen von [https://www.thomas-krenn.com/de/wiki/SNMP_Grundlagen](https://www.thomas-krenn.com/de/wiki/SNMP_Grundlagen)

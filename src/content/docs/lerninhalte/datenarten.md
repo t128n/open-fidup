@@ -3,47 +3,61 @@ title: "Datenarten"
 description: "Datenarten umfassen strukturierte Daten in Tabellen, unstrukturierte Daten wie Texte und Bilder sowie halbstrukturierte Daten wie XML und JSON. Strukturierte Daten sind leicht abzufragen, unstrukturierte schwer zu analysieren. Halbstrukturierte bieten Flexibilität. Anwendungen sind Business Intelligence und NLP."
 ---
 
+Datenarten lassen sich in strukturierte, unstrukturierte und halbstrukturierte Daten unterteilen. Strukturierte Daten sind in einem festen Format wie Tabellen organisiert und eignen sich gut für Abfragen und Analysen. Unstrukturierte Daten weisen keine vordefinierte Struktur auf und stammen aus vielfältigen Quellen wie Texten oder Medien, was ihre Verarbeitung erschwert. Halbstrukturierte Daten bieten eine flexible Organisation mit Markern oder Tags, die eine hierarchische Struktur ermöglichen, ohne starr zu sein. Diese Klassifizierung findet Anwendung in Bereichen wie [Business Intelligence](/open-fidup/lerninhalte/business-reengineering) und der Verarbeitung natürlicher Sprache.
+
 ## Strukturierte Daten
-- Strukturierte Daten sind Daten, die in einem klar definierten Format organisiert sind, meist in Form von Tabellen mit Zeilen und Spalten.
+
+Strukturierte Daten sind in einem klar definierten Format organisiert, typischerweise in Tabellen mit Zeilen und Spalten.
 
 ### Merkmale
-- **Eindeutige Struktur**: Daten sind klar definiert und organisiert.
-- **Datentypen**: Jedes Feld hat einen festgelegten Datentyp (z.B. integer, string, date).
-- **Einfache Abfragen**: Daten können leicht abgerufen und bearbeitet werden, oft mit SQL oder ähnlichen Abfragesprachen.
+
+- **Eindeutige Struktur**: Die Daten sind klar definiert und organisiert.
+- **Datentypen**: Jedes Feld hat einen festgelegten Datentyp, beispielsweise Ganzzahl, Zeichenkette oder Datum.
+- **Einfache Abfragen**: Die Daten lassen sich leicht abrufen und bearbeiten, häufig mit [SQL](/open-fidup/lerninhalte/sql) oder ähnlichen Abfragesprachen.
 
 ### Beispiele
-- **Tabellen**: Kunden- und Bestelldaten in einer Datenbank.
-- **Datenbanken**: Relationale Datenbanken wie MySQL, PostgreSQL.
+
+- **Tabellen**: Kundendaten und Bestellungen in einer Datenbank.
+- **Datenbanken**: Relationale Datenbanken wie MySQL oder PostgreSQL.
 
 ### Anwendungen
-- Ideal für Business Intelligence, Datenanalysen und maschinelles Lernen, bei dem strukturierte Daten verarbeitet werden (z.B. Klassifikation, Regression).
+
+Diese Daten eignen sich ideal für Business Intelligence, Datenanalysen und [maschinelles Lernen](/open-fidup/lerninhalte/maschinelles-lernen), bei dem strukturierte Daten verarbeitet werden, etwa für Klassifikation oder Regression.
 
 ## Unstrukturierte Daten
-- Unstrukturierte Daten sind Daten, die **keine vordefinierte Struktur** oder Organisation aufweisen und daher schwer zu kategorisieren und zu analysieren sind.
+
+Unstrukturierte Daten weisen keine vordefinierte Struktur oder Organisation auf und sind daher schwer zu kategorisieren und zu analysieren.
 
 ### Merkmale
-- **Vielfalt der Formate**: Daten können aus unterschiedlichsten Quellen stammen (z.B. Texte, Bilder, Videos).
-- **Hohe Variabilität**: Inhalte sind in verschiedenen Längen und Formaten vorhanden, was die Verarbeitung erschwert.
+
+- **Vielfalt der Formate**: Die Daten stammen aus unterschiedlichen Quellen, beispielsweise Texten, Bildern oder Videos.
+- **Hohe Variabilität**: Die Inhalte variieren in Länge und Format, was die Verarbeitung erschwert.
 
 ### Beispiele
-- **Texte**: Social-Media-Beiträge, E-Mails, Blogartikel.
-- **Medien**: Bilder (JPEG, PNG), Videos (MP4, AVI).
 
-### Anwendungen:
-- Verarbeitung natürlicher Sprache (NLP), Bild- und Videoanalyse, Sentiment-Analyse.
+- **Texte**: Beiträge in sozialen Medien, E-Mails oder Blogartikel.
+- **Medien**: Bilder in Formaten wie JPEG oder PNG sowie Videos wie MP4 oder AVI.
+
+### Anwendungen
+
+Diese Daten finden Verwendung in der Verarbeitung natürlicher Sprache, Bild- und Videoanalyse sowie Sentiment-Analyse.
 
 ## Halbstrukturierte Daten
+
 ### Definition
-- Halbstrukturierte Daten weisen eine gewisse Struktur auf, sind aber nicht so starr wie strukturierte Daten. Sie enthalten Marker oder Tags, um Daten zu organisieren.
+
+Halbstrukturierte Daten weisen eine gewisse Struktur auf, sind jedoch nicht so starr wie strukturierte Daten. Sie enthalten Marker oder Tags zur Organisation der Daten.
 
 ### Merkmale
-- **Flexibilität**: Daten können in unterschiedlichen Formaten vorliegen, jedoch mit einer gewissen hierarchischen Struktur.
+
+- **Flexibilität**: Die Daten können in unterschiedlichen Formaten vorliegen, behalten aber eine hierarchische Struktur.
 - **Teilsystematisierung**: Die Struktur ist nicht festgelegt, was eine flexible Datenhaltung ermöglicht.
 
 ### Beispiele
+
 - **XML-Daten**: Strukturierte Textdateien mit Tags zur Kennzeichnung von Daten.
 - **JSON-Daten**: Häufig in Webanwendungen verwendet, um Daten zwischen Client und Server auszutauschen.
 
 ### Anwendungen
-- Web-APIs, Datenübertragung zwischen verschiedenen Systemen, Textanalyse.
 
+Diese Daten eignen sich für Web-APIs, Datenübertragung zwischen verschiedenen Systemen und Textanalyse.

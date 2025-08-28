@@ -3,6 +3,8 @@ title: "Vernetzung"
 description: "Vernetzung ermöglicht den Austausch von Daten zwischen Geräten. Arten umfassen LAN, WAN, MAN und VPN. Technologien wie Ethernet, Wi-Fi und Bluetooth bieten Ressourcenteilung, Zugänglichkeit und Skalierbarkeit, erfordern aber Sicherheitsmaßnahmen."
 ---
 
+Vernetzung bezeichnet die Verbindung verschiedener Geräte, Systeme oder Netzwerke, um den Austausch von Daten und Ressourcen zu ermöglichen. Sie umfasst verschiedene Arten wie lokale und weitreichende Netzwerke sowie Technologien zur drahtgebundenen oder drahtlosen Kommunikation. Dabei bietet sie Vorteile wie Ressourcenteilung und Skalierbarkeit, birgt jedoch Risiken wie Sicherheitsbedrohungen und erfordert bewährte Praktiken zur Verwaltung.
+
 ## Begriffsdefinitionen
 - **Vernetzung**: Verbindung von verschiedenen Geräten, Systemen oder Netzwerken, um den Austausch von Daten und Ressourcen zu ermöglichen.
 
@@ -40,4 +42,4 @@ description: "Vernetzung ermöglicht den Austausch von Daten zwischen Geräten. 
 - **Monitoring**: Überwachung des Netzwerkverkehrs zur Erkennung von Anomalien und zur Sicherstellung der Leistung.
 
 ## Quellen
-> AI Chat. (2024, September 20). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+> AI Chat. (2024, September 20). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 [Beleg erforderlich]

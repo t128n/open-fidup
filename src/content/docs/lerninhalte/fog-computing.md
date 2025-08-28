@@ -3,23 +3,37 @@ title: "Fog-Computing"
 description: "Fog-Computing ist eine Cloud-Technologie, bei der Endgeräte Daten in Fog Nodes vorverarbeiten, die dann in die Cloud geladen werden. Layer sind Edge, Fog und Cloud. Vorteile sind weniger Netzwerk-Traffic und geringe Latenz. Nachteile sind steigender Wartungsbedarf und höhere Hardware-Kosten."
 ---
 
-- **Cloud-Technologie**, Endgeräte vorverarbeiten Daten in **Fog Nodes** *(dezentrale Minirechenzentren)*, Fog-Nodes laden Daten in die **Cloud**
+Fog-Computing bezeichnet eine Cloud-Technologie, bei der Endgeräte Daten zunächst in dezentralen Fog Nodes vorverarbeiten, bevor diese in die Cloud übertragen werden. Es umfasst drei Schichten: Edge, Fog und Cloud. Diese Architektur reduziert den Netzwerkverkehr und die Latenz, erfordert jedoch zusätzlichen Wartungsaufwand und höhere Hardwarekosten.
 
-![[Pasted image 20240911072047.png]]
-3. **Cloud-Layer**, *zentraler* **Daten-Endpunkt**
-2. **Fog-Layer**, *dezentrale*, **leistungsstarke Server**, nehmen Daten entgegen, *vorverarbeiten* sie und laden sie bei Bedarf in die **Cloud**
-1. **Edge-Layer**, intelligente Geräte (**Edge-Devices**) verarbeiten Daten *direkt* oder übermitteln an *Fog Nodes*
+## Definition und Grundprinzip
+
+Fog-Computing ist eine Erweiterung der [Cloud-Computing](/open-fidup/lerninhalte/cloud-computing)-Technologie. Endgeräte verarbeiten Daten vorab in Fog Nodes, die als dezentrale Minirechenzentren fungieren. Diese Nodes laden die vorverarbeiteten Daten bei Bedarf in die Cloud. Der Ansatz zielt darauf ab, Datenverarbeitung näher an den Quellen zu bringen, um Effizienz zu steigern.
+
+## Schichtenmodell
+
+Das Fog-Computing-Modell besteht aus drei Schichten:
+
+1. **Edge-Layer**: Intelligente Geräte, sogenannte Edge-Devices, verarbeiten Daten direkt oder übermitteln sie an Fog Nodes.
+2. **Fog-Layer**: Dezentrale, leistungsstarke Server nehmen Daten entgegen, verarbeiten sie vorab und laden sie bei Bedarf in die Cloud.
+3. **Cloud-Layer**: Der zentrale Daten-Endpunkt, der die endgültige Speicherung und Verarbeitung übernimmt.
+
+```mermaid
+graph TD
+    A[Edge-Layer: Intelligente Geräte verarbeiten Daten direkt oder übermitteln an Fog Nodes] --> B[Fog-Layer: Dezentrale Server verarbeiten Daten vorab und laden in Cloud]
+    B --> C[Cloud-Layer: Zentraler Daten-Endpunkt]
+```
 
 ## Vorteile
 
-- **weniger Netzwerk-Traffic** zur Cloud
-- **Geringe Latenz**: dezentrale Server können näher am Endgerät sein
-- **Datensicherheit**, *Fogging* erfolgt Vorverarbeitung **lokal**, wodurch Daten anonymisiert werden können
+- Weniger Netzwerk-Traffic zur Cloud, da Daten vorab verarbeitet werden.
+- Geringe Latenz, da dezentrale Server näher an den Endgeräten platziert sein können.
+- Verbesserte Datensicherheit, da die Vorverarbeitung lokal erfolgt und Daten anonymisiert werden können.
 
 ## Nachteile
-- **steigender Wartungsbedarf** durch Verteilung von Verarbeitungs- und Speicherelementen
-- **höhere Hardware-Kosten**, durch lokale Datenverarbeitung
-- **zusätzliche Anforderungen** an **Netzwerksicherheit**, Daten können an Fog-Nodes abgegriffen 
+
+- Steigender Wartungsbedarf durch die Verteilung von Verarbeitungs- und Speicherelementen.
+- Höhere Hardware-Kosten aufgrund der lokalen Datenverarbeitung.
+- Zusätzliche Anforderungen an die Netzwerksicherheit, da Daten an Fog Nodes abgegriffen werden können.
 
 ## Quellen
 

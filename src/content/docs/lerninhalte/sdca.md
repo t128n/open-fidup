@@ -1,14 +1,24 @@
 ---
 title: "SDCA-Zyklus"
-description: "SDCA-Zyklus ähnlich PDCA: Standardize (Lösung standardisieren), Do (testen), Check (überprüfen), Act (umsetzen). Für kontinuierliche Verbesserung."
+description: "Der SDCA-Zyklus ist ein Modell für kontinuierliche Verbesserung, ähnlich dem PDCA-Zyklus. Er umfasst die Schritte Standardize (Lösung standardisieren), Do (testen), Check (überprüfen) und Act (umsetzen)."
 ---
 
-- ähnlich wie **[PDCA](/open-fidup/lerninhalte/pdca)**
+Der SDCA-Zyklus stellt ein Modell für kontinuierliche Verbesserung dar, das dem [PDCA-Zyklus](/open-fidup/lerninhalte/pdca) ähnelt. Er zielt darauf ab, Lösungen zu standardisieren, zu testen und zu implementieren, um Prozesse effizienter zu gestalten. Der Zyklus besteht aus vier Schritten, die iterativ angewendet werden.
 
-1. **Standardize**, Lösung verstehen und in Standard überführen
-2. **Do**, Testen mit schnellen und einfachen Mitteln
-3. **Check**, Resultat mit der Erwartung überprüfen
-4. **Act**, Umsetzung freigeben oder an Standardisierung weiterarbeiten
+## Schritte des SDCA-Zyklus
+
+1. **Standardize**: Die Lösung verstehen und in einen Standard überführen.
+2. **Do**: Testen mit schnellen und einfachen Mitteln.
+3. **Check**: Das Resultat mit der Erwartung überprüfen.
+4. **Act**: Die Umsetzung freigeben oder an der Standardisierung weiterarbeiten.
+
+```mermaid
+flowchart TD
+    A[Standardize] --> B[Do]
+    B --> C[Check]
+    C --> D[Act]
+    D --> A
+```
 
 ## Quellen
 > SDCA-Zyklus. (2024, September 10). Retrieved from https://www.leanprinzip.de/woerterbuch/sdcazyklus

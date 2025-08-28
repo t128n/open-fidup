@@ -1,40 +1,51 @@
 ---
 title: "SLA"
-description: "SLA definiert Erwartungen zwischen Dienstleister und Kunde. KPIs, Verfügbarkeit, Reaktionszeiten. Arten Customer/Internal/OLA; Supportlevel 1-3."
+description: "Service Level Agreements (SLAs) definieren Erwartungen und Verpflichtungen zwischen Dienstleistern und Kunden. Sie umfassen KPIs, Verfügbarkeit, Reaktionszeiten sowie Arten wie Customer SLA, Internal SLA und OLA. Supportlevel reichen von Level 1 bis Level 3."
 ---
 
-- **S**ervice **L**evel **A**greements
-- formelles Dokument, das die **Erwartungen** und **Verpflichtungen** zwischen einem Dienstleister und einem Kunden festlegt. Es definiert die **Qualität**, **Verfügbarkeit** und **Verantwortlichkeiten** der **Dienstleistungen**.
-- **Zweck**: **Sicherstellung**, dass beide Parteien **klare Erwartungen** haben und die vereinbarten Standards eingehalten werden.
+Service Level Agreements (SLAs) sind formelle Dokumente, die die Erwartungen und Verpflichtungen zwischen einem Dienstleister und einem Kunden festlegen. Sie definieren die Qualität, Verfügbarkeit und Verantwortlichkeiten der Dienstleistungen. Der Zweck besteht darin, klare Erwartungen zu sichern und die Einhaltung vereinbarter Standards zu gewährleisten.
 
-## Wichtige Bestandteile eines SLA:
+## Definition und Zweck
+SLAs sind formelle Dokumente, die die Erwartungen und Verpflichtungen zwischen einem Dienstleister und einem Kunden festlegen. Sie definieren die Qualität, Verfügbarkeit und Verantwortlichkeiten der Dienstleistungen. Der Zweck besteht darin, sicherzustellen, dass beide Parteien klare Erwartungen haben und die vereinbarten Standards eingehalten werden.
+
+## Wichtige Bestandteile eines SLA
+Die wichtigsten Bestandteile eines SLA umfassen:
+
 1. **Servicebeschreibung**: Detaillierte Beschreibung der angebotenen Dienstleistungen.
-2. **Leistungskennzahlen (KPIs)**: Metriken zur Messung der Servicequalität (z. B. Verfügbarkeit, Reaktionszeiten).
-3. **Verfügbarkeitsgarantien**: Zusicherungen über die Betriebszeiten (z. B. 99,9% Verfügbarkeit).
+2. **Leistungskennzahlen ([KPIs](/open-fidup/lerninhalte/kpi))**: Metriken zur Messung der Servicequalität, beispielsweise Verfügbarkeit und Reaktionszeiten.
+3. **Verfügbarkeitsgarantien**: Zusicherungen über die Betriebszeiten, etwa 99,9 % Verfügbarkeit.
 4. **Reaktionszeiten**: Zeitrahmen, innerhalb dessen der Dienstleister auf Anfragen oder Probleme reagieren muss.
 5. **Berichterstattung**: Regelmäßige Berichte über die Serviceleistung.
 6. **Strafen und Anreize**: Konsequenzen bei Nichteinhaltung der SLAs und mögliche Anreize für überdurchschnittliche Leistungen.
 
 ## Verschiedene Arten von SLAs
+Es gibt verschiedene Arten von SLAs, die unterschiedliche Kontexte abdecken:
+
 1. **Customer SLA (Kunden-SLA)**:
    - **Definition**: Vereinbarung zwischen einem Dienstleister und einem Endkunden.
    - **Zweck**: Festlegung der Erwartungen des Kunden an die Dienstleistungsqualität.
+
 2. **Internal SLA (Internes SLA)**:
    - **Definition**: Vereinbarung zwischen verschiedenen Abteilungen innerhalb eines Unternehmens.
    - **Zweck**: Sicherstellung, dass interne Dienstleistungen die erforderlichen Standards erfüllen, um die Gesamtleistung des Unternehmens zu unterstützen.
+
 3. **Operational Level Agreement (OLA)**:
    - **Definition**: Eine spezifische Art von internem SLA, das die Verpflichtungen zwischen verschiedenen internen Teams oder Abteilungen beschreibt.
    - **Zweck**: Unterstützung der Erfüllung von Kunden-SLAs durch Festlegung von Standards und Verantwortlichkeiten innerhalb des Unternehmens.
    - **Beispiel**: Ein OLA zwischen der IT-Abteilung und dem Kundenservice, das die Reaktionszeiten für technische Unterstützung definiert.
+
 4. **Service Level Objective (SLO)**:
    - **Definition**: Ein spezifisches Ziel innerhalb eines SLA, das eine messbare Leistung beschreibt.
    - **Zweck**: Dient als Grundlage für die Bewertung der Servicequalität.
-   - **Beispiel**: Ein SLO könnte festlegen, dass 95% der Supportanfragen innerhalb von 24 Stunden beantwortet werden.
+   - **Beispiel**: Ein SLO könnte festlegen, dass 95 % der Supportanfragen innerhalb von 24 Stunden beantwortet werden.
+
 5. **Service Level Management (SLM)**:
    - **Definition**: Der Prozess der Überwachung und Verwaltung von SLAs und SLOs.
    - **Zweck**: Sicherstellung, dass die vereinbarten Servicelevels eingehalten werden und kontinuierliche Verbesserungen stattfinden.
 
 ## Supportlevel
+Supportlevel strukturieren die technische Unterstützung in hierarchische Ebenen, die von einfachen Anfragen bis zu komplexen Problemen reichen.
+
 ### Level 1 Support
 - **Definition**: Erster Kontaktpunkt für Kundenanfragen und technische Probleme.
 - **Aufgaben**:

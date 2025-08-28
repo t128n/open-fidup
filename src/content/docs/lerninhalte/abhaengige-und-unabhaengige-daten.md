@@ -1,39 +1,36 @@
 ---
-title: "Abhängige und Unabhängige Daten in der Statistik"
+title: "Abhängige und unabhängige Daten in der Statistik"
 description: "Abhängige Daten sind Ergebnisvariablen, die von unabhängigen Eingabevariablen beeinflusst werden, während unabhängige Daten keinen Zusammenhang aufweisen. Die Unterscheidung ist entscheidend für die Wahl statistischer Verfahren und Tests. Beispiele umfassen Münzwürfe als unabhängig und Eltern-Kind-Körpergrößen als abhängig."
 ---
 
-> **Unabhängige Daten** sind **Eingabevariablen**. Abhängige Daten repräsentieren das Ergebnis oder die zu erklärende Variable, die von den unabhängigen Daten beeinflusst wird. **Abhängige Daten** können auch als **Ergebnisvariablen** bezeichnet werden.
+Abhängige und unabhängige Daten sind grundlegende Konzepte in der Statistik, die die Beziehungen zwischen Variablen beschreiben. Unabhängige Daten, auch als Eingabevariablen bezeichnet, haben keinen Zusammenhang miteinander und beeinflussen sich nicht gegenseitig. Abhängige Daten hingegen, oft als Ergebnisvariablen oder zu erklärende Variablen bezeichnet, werden von unabhängigen Daten beeinflusst und weisen einen Zusammenhang auf. Diese Unterscheidung ist wesentlich für die Auswahl geeigneter statistischer Verfahren und Tests, um korrekte Schlussfolgerungen zu ziehen.
 
-**Abhängige und unabhängige Daten** sind zentrale Begriffe in der Statistik, insbesondere bei der Planung und Auswertung von Experimenten. Sie beschreiben, wie verschiedene Datensätze miteinander in Beziehung stehen.
+## Variablen in der Statistik
 
-## (Un-)abhängige Variablen
-- **Abhängige Variable:** Dies ist die Variable, deren Wert man vorhersagen möchte. Im Beispiel ist die _Anzahl der verkauften Masken_ (oder der Erfolg/Misserfolg) die abhängige Variable, da sie von anderen Faktoren abhängt.
-- **Unabhängige Variablen:** Dies sind die Variablen, die Einfluss auf die abhängige Variable haben. Im Beispiel sind _Datum_, _Event_, _Ort_, _Zielgruppe_, _Werbemittel_ und _Kosten_ unabhängige Variablen.
+In der Statistik unterscheidet man zwischen abhängigen und unabhängigen Variablen, um Experimente zu planen und auszuwerten. Abhängige Variablen sind diejenigen, deren Werte vorhergesagt oder erklärt werden sollen. Sie hängen von anderen Faktoren ab. Unabhängige Variablen hingegen sind die Einflussfaktoren, die die abhängige Variable beeinflussen.
+
+- **Abhängige Variable:** Im Beispiel der Verkaufszahlen von Masken ist die Anzahl der verkauften Masken oder der Erfolg die abhängige Variable, da sie von anderen Faktoren abhängt.
+- **Unabhängige Variablen:** Datum, Event, Ort, Zielgruppe, Werbemittel und Kosten sind unabhängige Variablen, die Einfluss auf die abhängige Variable ausüben.
 
 ## Unabhängige Daten
-- **Definition:** Unabhängige Daten sind Datensätze, die **keinerlei Zusammenhang** miteinander haben. Die Werte einer Datenmenge beeinflussen nicht die Werte einer anderen.
-- **Beispiel:**
-    - Die Ergebnisse zweier Münzwürfe sind unabhängig voneinander.
-    - Die Körpergröße von zufällig ausgewählten Personen ist unabhängig von ihrer Postleitzahl.
-- **Merkmale:**
-    - Jeder Datensatz kann separat betrachtet werden.
-    - Statistische Tests für unabhängige Stichproben werden verwendet.
+
+Unabhängige Daten sind Datensätze ohne jeglichen Zusammenhang. Die Werte einer Datenmenge beeinflussen nicht die Werte einer anderen. Jeder Datensatz kann separat betrachtet werden, und statistische Tests für unabhängige Stichproben kommen zum Einsatz.
+
+- **Beispiele:**
+  - Die Ergebnisse zweier Münzwürfe sind unabhängig voneinander.
+  - Die Körpergröße von zufällig ausgewählten Personen ist unabhängig von ihrer Postleitzahl.
 
 ## Abhängige Daten
-- **Definition:** Abhängige Daten weisen einen **Zusammenhang** auf. Die Werte in einer Datenmenge beeinflussen oder sind korreliert mit den Werten in einer anderen.
-- **Beispiel:**
-    - Die Körpergröße von Eltern und ihren Kindern ist abhängig.
-    - Die Testergebnisse einer Person vor und nach einer Behandlung sind abhängig.
-- **Merkmale:**
-    - Die Datensätze sind oft paarweise verknüpft (z.B. Vorher-Nachher-Messungen).
-    - Statistische Tests für abhängige Stichproben werden verwendet.
 
-## Warum ist die Unterscheidung wichtig?
-Die Unterscheidung zwischen abhängigen und unabhängigen Daten ist entscheidend für die Wahl der richtigen statistischen Verfahren. Denn:
+Abhängige Daten weisen einen Zusammenhang auf, wobei die Werte in einer Datenmenge die Werte in einer anderen beeinflussen oder korreliert sind. Oft sind die Datensätze paarweise verknüpft, wie bei Vorher-Nachher-Messungen. Statistische Tests für abhängige Stichproben werden verwendet.
 
-- **Falsche Wahl:** Die Verwendung falscher Tests kann zu falschen Schlussfolgerungen führen.
-- **Abhängigkeit:** Abhängige Daten haben oft eine größere Varianz innerhalb der Gruppen, was die statistische Power verringern kann.
+- **Beispiele:**
+  - Die Körpergröße von Eltern und ihren Kindern ist abhängig.
+  - Die Testergebnisse einer Person vor und nach einer Behandlung sind abhängig.
+
+## Bedeutung der Unterscheidung
+
+Die korrekte Unterscheidung zwischen abhängigen und unabhängigen Daten ist entscheidend für die Wahl der statistischen Verfahren. Eine falsche Wahl kann zu fehlerhaften Schlussfolgerungen führen. Abhängige Daten haben häufig eine größere Varianz innerhalb der Gruppen, was die statistische Aussagekraft verringern kann.
 
 ### Visuelle Darstellung
 
@@ -44,7 +41,7 @@ Die Unterscheidung zwischen abhängigen und unabhängigen Daten ist entscheidend
 | **Statistische Tests** | t-Test für unabhängige Stichproben, ANOVA | t-Test für abhängige Stichproben, gepaarte Stichproben t-Test |
 
 ### Anwendungsbeispiele
-- **Medizin:** VerglZusammenhangeich der Wirksamkeit eines Medikaments bei zwei verschiedenen Patientengruppen (unabhängig) vs. Vergleich der Wirksamkeit eines Medikaments bei denselben Patienten vor und nach der Behandlung (abhängig).
-- **Psychologie:** Vergleich der Leistungsfähigkeit von zwei verschiedenen Lerngruppen (unabhängig) vs. Vergleich der Leistungsfähigkeit derselben Lerngruppe unter verschiedenen Bedingungen (abhängig).
-- **Soziologie:** Vergleich der Einkommen in zwei verschiedenen Städten (unabhängig) vs. Vergleich des Einkommens von Ehepartnern (abhängig).
 
+- **Medizin:** Vergleich der Wirksamkeit eines Medikaments bei zwei verschiedenen Patientengruppen (unabhängig) versus Vergleich der Wirksamkeit bei denselben Patienten vor und nach der Behandlung (abhängig).
+- **Psychologie:** Vergleich der Leistungsfähigkeit von zwei verschiedenen Lerngruppen (unabhängig) versus Vergleich der Leistungsfähigkeit derselben Lerngruppe unter verschiedenen Bedingungen (abhängig).
+- **Soziologie:** Vergleich der Einkommen in zwei verschiedenen Städten (unabhängig) versus Vergleich des Einkommens von Ehepartnern (abhängig).

@@ -3,47 +3,51 @@ title: "Industrie 4.0"
 description: "Industrie 4.0 integriert Technologien wie IoT, Cloud-Computing und maschinelles Lernen in die Fertigung. Sie ermöglicht cyber-physische Systeme, Automatisierung und datenbasierte Entscheidungen für effizientere Produktion."
 ---
 
-- auch **Smart Manufacturing** genannt
-- Integration neuer Technologien wie [IoT](/open-fidup/lerninhalte/iot), [Cloud-Computing](/open-fidup/lerninhalte/cloud-computing), [Big Data](/open-fidup/lerninhalte/big-data) und [Maschinelles Lernen](/open-fidup/lerninhalte/maschinelles-lernen)
+Industrie 4.0, auch als Smart Manufacturing bekannt, beschreibt die vierte industrielle Revolution. Sie integriert fortschrittliche Technologien wie das [Internet der Dinge](/open-fidup/lerninhalte/iot), [Cloud-Computing](/open-fidup/lerninhalte/cloud-computing), [Big Data](/open-fidup/lerninhalte/big-data) und [maschinelles Lernen](/open-fidup/lerninhalte/maschinelles-lernen) in die Fertigungsprozesse. Dadurch entstehen cyber-physische Systeme, die physische und digitale Elemente miteinander verbinden. Dies führt zu einer höheren Automatisierung, datenbasierten Entscheidungsfindung und effizienteren Produktion. Die Konzepte zielen auf Flexibilität, Vernetzung und Nachhaltigkeit ab, bergen jedoch Herausforderungen wie hohe Kosten und Sicherheitsrisiken.
 
-### Technologien und Konzepte
-- **Cyber-physische Systeme**: Vernetzung von physischen und digitalen Prozessen
-  - **Beispiele**: Digitale Zwillinge, Sensoren
-  - **Vorteile**: Echtzeitüberwachung, verbesserte Effizienz
-  - **Nachteile**: Hohe Implementierungskosten, Sicherheitsrisiken
+## Technologien und Konzepte
 
-- **Automatisierung**: Einsatz von Robotern und automatisierten Systemen zur Effizienzsteigerung
-  - **Beispiele**: Industrieroboter, autonome Fahrzeuge
-  - **Vorteile**: Erhöhung der Produktionsgeschwindigkeit, Reduzierung menschlicher Fehler
-  - **Nachteile**: Arbeitsplatzverlust, hohe Anfangsinvestitionen
+Die folgenden Technologien und Konzepte bilden die Grundlage von Industrie 4.0. Sie ermöglichen eine Vernetzung von Maschinen, Geräten und Menschen, um Produktionsprozesse zu optimieren.
 
-- **Datenanalyse**: Nutzung von Daten zur Optimierung von Produktionsprozessen und Entscheidungsfindung
-  - **Beispiele**: Predictive Analytics, Business Intelligence-Tools
-  - **Vorteile**: Bessere Entscheidungsfindung, Identifikation von Verbesserungspotenzialen
-  - **Nachteile**: Datenüberflutung, Datenschutzbedenken
+### Cyber-physische Systeme
+Diese Systeme verbinden physische Prozesse mit digitalen Technologien. Beispiele sind digitale Zwillinge und Sensoren. Vorteile umfassen Echtzeitüberwachung und verbesserte Effizienz. Nachteile bestehen in hohen Implementierungskosten und Sicherheitsrisiken.
 
-- **Flexibilität**: Anpassungsfähigkeit der Produktionssysteme an sich ändernde Anforderungen
-  - **Beispiele**: Modulare Produktionssysteme, 3D-Druck
-  - **Vorteile**: Schnelle Reaktion auf Marktveränderungen, individuelle Kundenwünsche
-  - **Nachteile**: Komplexität der Systeme, höhere Schulungsanforderungen
+### Automatisierung
+Der Einsatz von Robotern und automatisierten Systemen steigert die Effizienz. Beispiele sind Industrieroboter und autonome Fahrzeuge. Vorteile liegen in erhöhter Produktionsgeschwindigkeit und reduzierten menschlichen Fehlern. Nachteile umfassen potenzielle Arbeitsplatzverluste und hohe Anfangsinvestitionen.
 
-- **Vernetzung**: Kommunikation zwischen Maschinen, Geräten und Menschen in Echtzeit
-  - **Beispiele**: Industrie 4.0-Protokolle (z.B. MQTT, OPC UA)
-  - **Vorteile**: Effiziente Zusammenarbeit, verbesserte Transparenz
-  - **Nachteile**: Abhängigkeit von stabilen Netzwerken, Cybersecurity-Risiken
+### Datenanalyse
+Daten werden zur Optimierung von Produktionsprozessen und Entscheidungsfindung genutzt. Beispiele sind Predictive Analytics und Business Intelligence-Tools. Vorteile sind bessere Entscheidungen und Identifikation von Verbesserungspotenzialen. Nachteile bestehen in Datenüberflutung und Datenschutzbedenken.
 
-- **Kundenzentrierung**: Individualisierte Produkte und Dienstleistungen durch direkte Kundeninteraktion
-  - **Beispiele**: Mass Customization, Kundenportale
-  - **Vorteile**: Höhere Kundenzufriedenheit, Wettbewerbsvorteil
-  - **Nachteile**: Höhere Produktionskosten, komplexe Logistik
+### Flexibilität
+Produktionssysteme passen sich an veränderte Anforderungen an. Beispiele sind modulare Systeme und 3D-Druck. Vorteile umfassen schnelle Reaktionen auf Marktveränderungen und individuelle Kundenwünsche. Nachteile sind die Komplexität der Systeme und höhere Schulungsanforderungen.
 
-- **Nachhaltigkeit**: Ressourcenschonende Produktion und Reduzierung von Abfällen
-  - **Beispiele**: Kreislaufwirtschaft, energieeffiziente Maschinen
-  - **Vorteile**: Reduzierung der Umweltbelastung, Kosteneinsparungen durch Effizienz
-  - **Nachteile**: Anfangsinvestitionen in nachhaltige Technologien, mögliche Produktionsverzögerungen
+### Vernetzung
+Maschinen, Geräte und Menschen kommunizieren in Echtzeit. Beispiele sind Protokolle wie MQTT und OPC UA. Vorteile sind effiziente Zusammenarbeit und verbesserte Transparenz. Nachteile umfassen Abhängigkeit von stabilen Netzwerken und Cybersecurity-Risiken.
 
-![[Pasted image 20240919135944.png]]
+### Kundenzentrierung
+Produkte und Dienstleistungen werden individualisiert durch direkte Kundeninteraktion. Beispiele sind Mass Customization und Kundenportale. Vorteile sind höhere Kundenzufriedenheit und Wettbewerbsvorteile. Nachteile bestehen in höheren Produktionskosten und komplexer Logistik.
+
+### Nachhaltigkeit
+Die Produktion wird ressourcenschonend gestaltet und Abfälle reduziert. Beispiele sind Kreislaufwirtschaft und energieeffiziente Maschinen. Vorteile umfassen geringere Umweltbelastung und Kosteneinsparungen durch Effizienz. Nachteile sind Anfangsinvestitionen in nachhaltige Technologien und mögliche Produktionsverzögerungen.
+
+```mermaid
+graph TD
+    A[Industrie 4.0] --> B[Cyber-physische Systeme]
+    A --> C[Automatisierung]
+    A --> D[Datenanalyse]
+    A --> E[Flexibilität]
+    A --> F[Vernetzung]
+    A --> G[Kundenzentrierung]
+    A --> H[Nachhaltigkeit]
+    B --> I[Digitale Zwillinge]
+    C --> J[Industrieroboter]
+    D --> K[Predictive Analytics]
+    E --> L[Modulare Systeme]
+    F --> M[Protokolle wie MQTT]
+    G --> N[Mass Customization]
+    H --> O[Kreislaufwirtschaft]
+```
 
 ## Quellen
 
-> Ibm. (2023, December 19). Was ist Industrie 4.0 und wie funktioniert sie? | IBM. Retrieved from https://www.ibm.com/de-de/topics/industry-4-0
+Ibm. (2023, December 19). Was ist Industrie 4.0 und wie funktioniert sie? | IBM. Retrieved from https://www.ibm.com/de-de/topics/industry-4-0

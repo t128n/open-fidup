@@ -3,7 +3,7 @@ title: "UML"
 description: "UML ist eine Familie von Modellierungssprachen zur Visualisierung von Softwarestrukturen. Sie umfasst Diagramme wie Sequenz-, Klassen-, Zustands-, Aktivitäts- und Anwendungsfalldiagramme."
 ---
 
-- Familie an Modellierungssprachen
+UML bezeichnet eine Familie von Modellierungssprachen, die zur Visualisierung von Softwarestrukturen und -prozessen eingesetzt wird. Sie bietet standardisierte Diagramme, um komplexe Systeme darzustellen und zu analysieren. Zu den wichtigsten Diagrammtypen gehören Sequenz-, Klassen-, Zustands-, Aktivitäts- und Anwendungsfalldiagramme.
 
 ## Arten
 - [UML-Sequenzdiagramm](/open-fidup/lerninhalte/uml-sequenzdiagramm)

@@ -1,32 +1,33 @@
 ---
 title: "Pseudocode"
-description: "Pseudocode beschreibt Algorithmen in menschenlesbarer Form ohne spezifische Programmiersprache. Er verwendet Strukturen wie Schleifen und Bedingungen. Vorteile liegen in Klarheit und Planung vor der Implementierung."
+description: "Pseudocode beschreibt Algorithmen in einer menschenlesbaren Form ohne spezifische Programmiersprache. Er nutzt Strukturen wie Schleifen und Bedingungen. Vorteile liegen in Klarheit und Planung vor der Implementierung."
 ---
 
-## Grundlagen von Pseudocode
-- **Definition**: Pseudocode ist eine i**nformelle, menschenlesbare Beschreibung eines Algorithmus** oder Programms, die **keine spezifische Programmiersprache** verwendet.
-- **Zweck**: Dient dazu, die **Logik und Struktur eines Algorithmus klar und verständlich darzustellen**, bevor er in einer Programmiersprache implementiert wird.
+Pseudocode stellt eine informelle, menschenlesbare Beschreibung von Algorithmen oder Programmen dar, die unabhängig von spezifischen Programmiersprachen formuliert wird. Er dient der klaren Darstellung der Logik und Struktur, um die Entwicklung und Kommunikation von Ideen zu erleichtern.
 
-## Wichtige Merkmale
-- **Einfachheit**: Verwendet **einfache, klare Sprache**, um die Schritte eines Algorithmus zu beschreiben.
-- **Struktur**: Nutzt gängige Programmierkonzepte wie **Schleifen, Bedingungen und Variablen**.
-- **Unabhängigkeit**: Ist nicht an eine bestimmte Programmiersprache gebunden, was die Lesbarkeit und Verständlichkeit erhöht.
+## Grundlagen
+Pseudocode ist eine informelle, menschenlesbare Beschreibung eines Algorithmus oder Programms, die keine spezifische Programmiersprache verwendet. Sein Zweck besteht darin, die Logik und Struktur eines Algorithmus klar und verständlich darzustellen, bevor er in einer Programmiersprache implementiert wird.
 
-## Grundlegende Strukturen
+## Merkmale
+Pseudocode zeichnet sich durch Einfachheit aus, indem er einfache, klare Sprache verwendet, um die Schritte eines Algorithmus zu beschreiben. Er nutzt gängige Programmierkonzepte wie Schleifen, Bedingungen und Variablen. Zudem ist er nicht an eine bestimmte Programmiersprache gebunden, was die Lesbarkeit und Verständlichkeit erhöht.
+
+## Strukturen
+Pseudocode verwendet grundlegende Strukturen, die in vielen Programmiersprachen üblich sind. Dazu gehören:
+
 - **Variablenzuweisung**: `SET variable TO value`
-- **Bedingungen**: 
+- **Bedingungen**:
   - `IF condition THEN`
   - `ELSE`
   - `ENDIF`
-  
 - **Schleifen**:
   - `FOR each item IN collection DO`
   - `WHILE condition DO`
-  
-- **Funktionen**: 
+- **Funktionen**:
   - `FUNCTION functionName(parameters)`
 
-## Beispiel eines Pseudocodes
+## Beispiel
+Ein einfaches Beispiel für Pseudocode zeigt die Berechnung einer Summe:
+
 ```
 FUNCTION calculateSum(a, b)
     SET sum TO a + b
@@ -37,15 +38,8 @@ SET result TO calculateSum(5, 10)
 PRINT result
 ```
 
-## Vorteile von Pseudocode
-- **Klarheit**: Erleichtert das Verständnis komplexer Algorithmen.
-- **Planung**: Hilft bei der Planung und Strukturierung von Programmen, bevor sie codiert werden.
-- **Kommunikation**: Ermöglicht die Kommunikation von Ideen zwischen Entwicklern, auch wenn sie unterschiedliche Programmiersprachen verwenden.
-
-## Fazit
-Pseudocode ist ein nützliches Werkzeug zur Darstellung von Algorithmen und zur Planung von Programmen. Ein grundlegendes Verständnis der Struktur und der Merkmale von Pseudocode ist wichtig, um die Logik von Programmen effektiv zu entwickeln und zu kommunizieren.
-
+## Vorteile
+Pseudocode bietet mehrere Vorteile. Er erleichtert das Verständnis komplexer Algorithmen durch Klarheit. Zudem hilft er bei der Planung und Strukturierung von Programmen, bevor diese codiert werden. Schließlich ermöglicht er die Kommunikation von Ideen zwischen Entwicklern, auch wenn diese unterschiedliche Programmiersprachen verwenden.
 
 ## Quellen
-
-> AI Chat. (2024, September 18). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+> AI Chat. (2024, September 18). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 [Beleg erforderlich]

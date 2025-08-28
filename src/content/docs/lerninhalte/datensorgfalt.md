@@ -1,41 +1,41 @@
 ---
 title: "Datensorgfalt"
-description: "Datensorgfalt bezieht sich auf die verantwortungsvolle Handhabung von Daten während ihres Lebenszyklus. Sie umfasst Datenqualität, Datenschutz und Datenminimierung. Maßnahmen sind Validierungen, Verschlüsselung und Schulungen. Vorteile sind Schutz der Privatsphäre und rechtliche Sicherheit."
+description: "Datensorgfalt umfasst die verantwortungsvolle Handhabung von Daten während ihres Lebenszyklus. Sie beinhaltet Aspekte wie Datenqualität, Datenschutz und Datenminimierung. Maßnahmen reichen von Validierungen und Verschlüsselung bis hin zu Schulungen. Vorteile sind der Schutz der Privatsphäre und rechtliche Sicherheit."
 ---
 
-Datensorgfalt bezieht sich auf die **verantwortungsvolle und sorgfältige Handhabung von Daten** während ihres gesamten Lebenszyklus. Dies umfasst die **Erhebung, Speicherung, Verarbeitung, Nutzung und Löschung von Daten**. Das Ziel der Datensorgfalt ist es, die Integrität, Vertraulichkeit und Verfügbarkeit von Daten zu gewährleisten und gleichzeitig die Rechte der betroffenen Personen zu schützen.
+Datensorgfalt bezeichnet die verantwortungsvolle und sorgfältige Handhabung von Daten über ihren gesamten Lebenszyklus hinweg. Dies schließt die Erhebung, Speicherung, Verarbeitung, Nutzung und Löschung ein. Ziel ist es, die Integrität, Vertraulichkeit und Verfügbarkeit der Daten zu sichern und zugleich die Rechte betroffener Personen zu wahren.
 
 ## Wichtige Aspekte der Datensorgfalt
 
 ### Datenqualität
-- **Beschreibung**: Sicherstellung, dass die gesammelten Daten genau, vollständig und aktuell sind. Hohe Datenqualität ist entscheidend für fundierte Entscheidungen und effektive Prozesse.
-- **Maßnahmen**: Regelmäßige Überprüfungen und Validierungen der Daten, um Fehler und Inkonsistenzen zu identifizieren und zu beheben.
+- **Beschreibung**: Sicherstellung, dass die erfassten Daten genau, vollständig und aktuell sind. Eine hohe [Datenqualität](/open-fidup/lerninhalte/datenqualitaet) ist entscheidend für fundierte Entscheidungen und effiziente Prozesse.
+- **Maßnahmen**: Regelmäßige Überprüfungen und Validierungen zur Identifizierung und Behebung von Fehlern sowie Inkonsistenzen.
 
 ### Datenschutz
-- **Beschreibung**: Schutz personenbezogener Daten vor unbefugtem Zugriff, Missbrauch oder Verlust. Die Einhaltung von Datenschutzgesetzen, wie der Datenschutz-Grundverordnung (DSGVO), ist ein wesentlicher Bestandteil der Datensorgfalt.
-- **Maßnahmen**: Implementierung von Sicherheitsmaßnahmen wie Verschlüsselung, Zugriffskontrollen und Schulungen für Mitarbeiter.
+- **Beschreibung**: Schutz personenbezogener Daten vor unbefugtem Zugriff, Missbrauch oder Verlust. Die Einhaltung von [Datenschutz](/open-fidup/lerninhalte/datenschutz)gesetzen wie der Datenschutz-Grundverordnung (DSGVO) bildet einen wesentlichen Teil der Datensorgfalt.
+- **Maßnahmen**: Umsetzung von Sicherheitsmaßnahmen wie [Verschlüsselungsart](/open-fidup/lerninhalte/verschluesselungsart), Zugriffskontrollen und Schulungen für Mitarbeiter.
 
 ### Datenminimierung
-- **Beschreibung**: Erhebung und Verarbeitung nur der Daten, die für den jeweiligen Zweck notwendig sind. Dies reduziert das Risiko von Datenmissbrauch und erleichtert die Einhaltung von Datenschutzbestimmungen.
-- **Maßnahmen**: Regelmäßige Überprüfung der Datenerhebungspraktiken und Anpassung an die Prinzipien der Datensparsamkeit.
+- **Beschreibung**: Erhebung und Verarbeitung nur der Daten, die für den jeweiligen Zweck erforderlich sind. Dies mindert das Risiko von Datenmissbrauch und erleichtert die Einhaltung von [Datenschutz](/open-fidup/lerninhalte/datenschutz)bestimmungen.
+- **Maßnahmen**: Regelmäßige Überprüfung der Datenerhebungspraktiken und Anpassung an die Prinzipien der [Datensparsamkeit](/open-fidup/lerninhalte/datensparsamkeit).
 
 ### Dokumentation und Nachverfolgbarkeit
-- **Beschreibung**: Sorgfältige Dokumentation aller Datenverarbeitungsprozesse, um Transparenz und Nachverfolgbarkeit zu gewährleisten. Dies ist wichtig für Audits und die Einhaltung von Vorschriften.
-- **Maßnahmen**: Erstellung von Protokollen und Berichten über die Datenverarbeitung, einschließlich der Zwecke, der verwendeten Daten und der beteiligten Personen.
+- **Beschreibung**: Sorgfältige Aufzeichnung aller Datenverarbeitungsprozesse zur Gewährleistung von Transparenz und Nachverfolgbarkeit. Dies unterstützt Audits und die Einhaltung von Vorschriften.
+- **Maßnahmen**: Erstellung von Protokollen und Berichten über die Datenverarbeitung, einschließlich Zwecke, verwendete Daten und beteiligte Personen.
 
 ### Schulung und Sensibilisierung
-- **Beschreibung**: Schulung der Mitarbeiter im Umgang mit Daten und den relevanten Datenschutzbestimmungen. Sensibilisierung für die Bedeutung von Datensorgfalt und den Schutz personenbezogener Daten.
-- **Maßnahmen**: Regelmäßige Schulungen und Workshops, um das Bewusstsein für Datensorgfalt zu fördern und Best Practices zu vermitteln.
+- **Beschreibung**: Schulung der Mitarbeiter im Umgang mit Daten und relevanten [Datenschutz](/open-fidup/lerninhalte/datenschutz)bestimmungen. Sensibilisierung für die Bedeutung von Datensorgfalt und den Schutz personenbezogener Daten.
+- **Maßnahmen**: Regelmäßige Schulungen und Workshops zur Förderung des Bewusstseins und zur Vermittlung bewährter Praktiken.
 
 ## Vorteile der Datensorgfalt
-- **Schutz der Privatsphäre**: Durch sorgfältigen Umgang mit Daten wird das Risiko von Datenschutzverletzungen und Identitätsdiebstahl verringert.
-- **Vertrauen der Kunden**: Ein verantwortungsvoller Umgang mit Daten stärkt das Vertrauen der Kunden und Nutzer in das Unternehmen.
-- **Rechtliche Sicherheit**: Die Einhaltung von Datenschutzbestimmungen und die Umsetzung von Datensorgfalt reduzieren das Risiko von rechtlichen Konsequenzen und Strafen.
+- **Schutz der Privatsphäre**: Durch sorgfältigen Umgang mit Daten sinkt das Risiko von Datenschutzverletzungen und Identitätsdiebstahl.
+- **Vertrauen der Kunden**: Ein verantwortungsvoller Umgang mit Daten stärkt das Vertrauen von Kunden und Nutzern in das Unternehmen.
+- **Rechtliche Sicherheit**: Die Einhaltung von [Datenschutz](/open-fidup/lerninhalte/datenschutz)bestimmungen und die Umsetzung von Datensorgfalt verringern das Risiko rechtlicher Folgen und Strafen.
 
 ## Herausforderungen bei der Umsetzung der Datensorgfalt
-- **Technologische Komplexität**: Die Implementierung von Sicherheitsmaßnahmen und die Verwaltung von Daten können komplex sein und erfordern technisches Know-how.
-- **Widerstand gegen Veränderungen**: Mitarbeiter könnten an bestehenden Praktiken festhalten, die nicht den Prinzipien der Datensorgfalt entsprechen.
-- **Ressourcenaufwand**: Die Umsetzung von Datensorgfalt erfordert Zeit und Ressourcen, die möglicherweise nicht immer verfügbar sind.
+- **Technologische Komplexität**: Die Implementierung von Sicherheitsmaßnahmen und die Datenverwaltung können komplex sein und erfordern technisches Fachwissen.
+- **Widerstand gegen Veränderungen**: Mitarbeiter halten möglicherweise an bestehenden Praktiken fest, die den Prinzipien der Datensorgfalt widersprechen.
+- **Ressourcenaufwand**: Die Umsetzung von Datensorgfalt benötigt Zeit und Ressourcen, die nicht immer ausreichend verfügbar sind.
 
 ## Quellen
-> AI Chat. (2024, September 20). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+> AI Chat. (2024, September 20). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 [Beleg erforderlich]

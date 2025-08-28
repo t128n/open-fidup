@@ -3,34 +3,34 @@ title: "Hashing"
 description: "Hashing wandelt Daten in feste Hashwerte um, die für Integritätsprüfungen, Authentifizierung und Duplikatsuche verwendet werden. Eigenschaften wie Determinismus und Kollisionssicherheit machen es sicher."
 ---
 
-- **Kryptografische Methode** zur Umwandlung von Datensätzen und Zeichen beliebiger Länge in **kompakte, feste Hashwerte**.
-- Eine **Hashfunktion** ist ein kryptografischer Algorithmus, der Daten vollständig zerlegt und in eine Zeichenfolge fester Länge umwandelt.
-- Der **Hashwert** ist das Ergebnis der Hashfunktion und hat immer die gleiche Länge, die vom verwendeten Algorithmus abhängt.
+Hashing bezeichnet eine kryptografische Methode, die Daten beliebiger Länge in kompakte, feste Hashwerte umwandelt. Diese Technik dient der Integritätsprüfung, Authentifizierung und Duplikatsuche. Eine Hashfunktion zerlegt die Eingabedaten vollständig und erzeugt eine Zeichenfolge fester Länge, deren Größe vom Algorithmus abhängt. Der resultierende Hashwert ist deterministisch, nicht rücklesbar und kollisionssicher, was ihn für verschiedene Anwendungen unverzichtbar macht.
 
-## Charakteristische Eigenschaften
-- **Determinismus**: Gleiche Eingaben führen immer zu identischen Hashwerten, unabhängig von der Länge der Eingabe.
-- **Nicht rücklesbar**: Hashwerte können nicht in die ursprünglichen Daten zurückverwandelt werden.
-- **Kollisionssicherheit**: Es ist extrem unwahrscheinlich, dass verschiedene Eingaben denselben Hashwert erzeugen. Tritt dies doch auf, spricht man von einer *Kollision*.
-- **Kontinuität**: Kleine Änderungen in den Eingabedaten führen zu signifikant unterschiedlichen Hashwerten. Je nach Anwendungsfall können die Unterschiede stark oder minimal sein.
+## Definition und Grundlagen
+Eine Hashfunktion ist ein Algorithmus, der Eingabedaten in einen Hashwert umwandelt. Dieser Wert hat stets die gleiche Länge, unabhängig von der Größe der ursprünglichen Daten. Hashing unterscheidet sich von [Verschlüsselungsverfahren](/open-fidup/lerninhalte/hashing--und-verschluesselungsverfahren), da es keine Rückverwandlung ermöglicht und primär zur Datenintegrität dient.
+
+## Eigenschaften
+Hashfunktionen weisen mehrere charakteristische Merkmale auf:
+
+- **Determinismus**: Identische Eingaben erzeugen stets denselben Hashwert.
+- **Nicht-Rücklesbarkeit**: Aus dem Hashwert lassen sich die Originaldaten nicht rekonstruieren.
+- **Kollisionssicherheit**: Es ist extrem unwahrscheinlich, dass unterschiedliche Eingaben denselben Hashwert produzieren. Solche Fälle werden als Kollisionen bezeichnet.
+- **Avalanche-Effekt**: Geringe Änderungen an den Eingabedaten führen zu erheblich unterschiedlichen Hashwerten.
 
 ## Anwendungsbereiche
-- **Suche nach Duplikaten**: Identifikation identischer Daten.
-- **Prüfsummen und digitale Signaturen**: Gewährleistung der Integrität von Daten.
-- **Suche nach ähnlichen Daten**: Vergleich von Datensätzen auf Ähnlichkeit.
-- **Authentifizierungssysteme**: Sicherstellung der Identität von Benutzern.
-- **Caching**: Effiziente Speicherung von Daten zur schnelleren Wiederverwendung.
-- **"Verschlüsselung" wichtiger Daten**: Schutz sensibler Informationen durch Hashing.
+Hashing findet in zahlreichen Bereichen Anwendung:
+
+- Identifikation von Duplikaten durch Vergleich von Hashwerten.
+- Erstellung von Prüfsummen und digitalen Signaturen zur Gewährleistung der Datenintegrität.
+- Suche nach ähnlichen Daten durch Vergleich von Hashwerten.
+- Authentifizierung von Benutzern in Sicherheitssystemen.
+- Caching zur effizienten Datenspeicherung und Wiederverwendung.
+- Schutz sensibler Daten, etwa durch Speicherung von Hashwerten anstelle von Klartextpasswörtern.
 
 ## Digitale Signaturen und Prüfsummen
-- **Digitale Fingerabdrücke**: Ein einzigartiger Hashwert, der eine Datei oder Nachricht repräsentiert.
-- Bestätigung der Integrität bei der Kommunikation zwischen Sender und Empfänger.
-- **Zero-Knowledge Passwortspeicherung**: Speicherung von Hashwerten anstelle von Klartextpasswörtern, um die Sicherheit zu erhöhen.
+Hashwerte dienen als digitale Fingerabdrücke für Dateien oder Nachrichten. Sie bestätigen die Integrität bei der Kommunikation zwischen Sender und Empfänger. In der Zero-Knowledge-Passwortspeicherung werden Hashwerte anstelle von Klartextpasswörtern gespeichert, um die Sicherheit zu erhöhen, ohne die Originaldaten preiszugeben.
 
 ## Vorteile
-- Sensible Daten können sicher und kompakt gespeichert und verwaltet werden.
-- Hashwerte sind nicht rücklesbar, was die Sicherheit erhöht.
-- Gestohlene Hashwerte sind für Angreifende ohne weiteres nicht nützlich, da sie nicht die ursprünglichen Daten offenbaren.
+Hashing ermöglicht die sichere und kompakte Speicherung sensibler Daten. Da Hashwerte nicht rücklesbar sind, bieten sie einen hohen Schutz vor unbefugtem Zugriff. Gestohlene Hashwerte sind für Angreifer weitgehend nutzlos, da sie keine Rückschlüsse auf die ursprünglichen Daten zulassen.
 
 ## Quellen
-
-> Redaktion, I. (2022). Was ist Hashing? So funktioniert das Hashverfahren. IONOS Digital Guide. Retrieved from https://www.ionos.de/digitalguide/websites/web-entwicklung/hashing
+Redaktion, I. (2022). Was ist Hashing? So funktioniert das Hashverfahren. IONOS Digital Guide. Abgerufen von https://www.ionos.de/digitalguide/websites/web-entwicklung/hashing.

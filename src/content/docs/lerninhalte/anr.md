@@ -1,40 +1,32 @@
 ---
 title: "ANR"
-description: "ANR misst die Wahrscheinlichkeit eines erneuten Ausfalls kurz nach einer Reparatur und ist ein wichtiger Kennzahl im Risikomanagement. Sie hilft bei der Identifikation von Schwachstellen in Systemen und ermöglicht gezielte Verbesserungsmaßnahmen. Die Berechnung erfolgt durch Division der Anzahl der Ausfälle nach Reparatur durch die Gesamtzahl der Reparaturen."
+description: "ANR misst die Wahrscheinlichkeit eines erneuten Ausfalls kurz nach einer Reparatur und ist eine wichtige Kennzahl im Risikomanagement. Sie hilft bei der Identifikation von Schwachstellen in Systemen und ermöglicht gezielte Verbesserungsmaßnahmen. Die Berechnung erfolgt durch Division der Anzahl der Ausfälle nach Reparatur durch die Gesamtzahl der Reparaturen."
 ---
 
-- **A**usfallrate **n**ach **R**eparatur (engl. *After Repair Failure Rate*)
-- Kennzahl im **Risikomanagement** und der **Zuverlässigkeitsanalyse**
-- Misst die **Wahrscheinlichkeit eines erneuten Ausfalls** kurz nach einer Reparatur
+Die Ausfallrate nach Reparatur (ANR, englisch *After Repair Failure Rate*) ist eine Kennzahl im Risikomanagement und der Zuverlässigkeitsanalyse. Sie misst die Wahrscheinlichkeit eines erneuten Ausfalls kurz nach einer Reparatur und dient zur Bewertung der Qualität von Wartungs- und Reparaturprozessen.
 
 ## Bedeutung im Risikomanagement
-- Hilft bei der Identifikation von Schwachstellen in Systemen/Prozessen
-- Ermöglicht gezielte Maßnahmenplanung zur Verbesserung der Zuverlässigkeit 
-- Dient als Indikator im [PDCA](/open-fidup/lerninhalte/pdca)-Zyklus (Plan-Do-Check-Act)
+Die ANR hilft bei der Identifikation von Schwachstellen in Systemen und Prozessen. Sie ermöglicht die Planung gezielter Maßnahmen zur Verbesserung der Zuverlässigkeit. Als Indikator im [PDCA](/open-fidup/lerninhalte/pdca)-Zyklus (Plan-Do-Check-Act) unterstützt sie kontinuierliche Verbesserungsprozesse.
 
 ## Zusammenhang mit anderen Konzepten
-- Eng verbunden mit [MBTF (Mean Time Between Failures)](/open-fidup/lerninhalte/mbtf)
-- Wichtiger Bestandteil von Notfallkonzepten 
-- Trägt zur Berechnung von Ausfallwahrscheinlichkeiten bei
+Die ANR steht in engem Zusammenhang mit der mittleren Zeit zwischen Ausfällen ([MTBF](/open-fidup/lerninhalte/mtbf)). Sie ist ein wichtiger Bestandteil von Notfallkonzepten und trägt zur Berechnung von Ausfallwahrscheinlichkeiten bei.
 
 ## Anwendung
-- Risikoidentifikation: Aufdecken von Schwachstellen
-- Maßnahmenplanung: Entwicklung gezielter Verbesserungsstrategien
-- Notfallplanung: Hinweis auf Notwendigkeit robusterer Pläne
-- Zuverlässigkeitsanalyse: Verfeinerung von Berechnungen
+Die ANR findet Anwendung in verschiedenen Bereichen:
+- Risikoidentifikation: Aufdecken von Schwachstellen.
+- Maßnahmenplanung: Entwicklung gezielter Verbesserungsstrategien.
+- Notfallplanung: Hinweis auf die Notwendigkeit robusterer Pläne.
+- Zuverlässigkeitsanalyse: Verfeinerung von Berechnungen.
 
 ## Berechnung
+Die ANR wird wie folgt berechnet:
+
 $$
-ANR = \dfrac{Anzahl \space der \space Ausfälle \space nach \space Reparatur \space innerhalb \space eines \space bestimmten \space Zeitraums}{Gesamtzahl \space der \space Reparaturen \space im \space selben \space Zeitraum}
+ANR = \dfrac{\text{Anzahl der Ausfälle nach Reparatur innerhalb eines bestimmten Zeitraums}}{\text{Gesamtzahl der Reparaturen im selben Zeitraum}}
 $$
 
 ## Vorteile
-- Verbessert die Genauigkeit der Risikoanalyse
-- Unterstützt die Optimierung von Wartungs- und Reparaturprozessen
-- Erhöht die Gesamtzuverlässigkeit von Systemen
+Die Verwendung der ANR verbessert die Genauigkeit der Risikoanalyse. Sie unterstützt die Optimierung von Wartungs- und Reparaturprozessen und erhöht die Gesamtzuverlässigkeit von Systemen.
 
 ## Beachtung bei der Anwendung
-- Sollte in Kombination mit anderen Metriken wie [MTBF](/open-fidup/lerninhalte/mbtf) betrachtet werden
-- Regelmäßige Überprüfung und Aktualisierung erforderlich
-- Berücksichtigung bei der Entwicklung von Risikomanagementstrategien
-
+Die ANR sollte in Kombination mit anderen Metriken wie der [MTBF](/open-fidup/lerninhalte/mtbf) betrachtet werden. Eine regelmäßige Überprüfung und Aktualisierung ist erforderlich. Sie findet Berücksichtigung bei der Entwicklung von Risikomanagementstrategien.

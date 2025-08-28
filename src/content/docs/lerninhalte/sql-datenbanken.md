@@ -3,71 +3,57 @@ title: "SQL-Datenbanken"
 description: "SQL-Datenbanken verwenden ein festes Schema für strukturierte Daten in Tabellen mit ACID-Eigenschaften. Sie bieten starke Konsistenz und komplexe Abfragen, sind aber weniger skalierbar als NoSQL. Anwendungen umfassen Geschäftssysteme und Finanztransaktionen."
 ---
 
-SQL steht für "**S**tructured **Q**uery **L**anguage" und bezieht sich auf relationale Datenbanksysteme, die ein **festes Schema** verwenden, um Daten zu speichern, abzurufen und zu verwalten. SQL-Datenbanken sind weit verbreitet und bieten robuste Funktionen für die Datenintegrität und -konsistenz.
+SQL-Datenbanken sind relationale Datenbanksysteme, die auf der Structured Query Language (SQL) basieren und ein festes Schema für die Speicherung, den Abruf und die Verwaltung strukturierter Daten verwenden. Sie zeichnen sich durch robuste Funktionen zur Gewährleistung von Datenintegrität und -konsistenz aus und finden breite Anwendung in Bereichen wie Geschäftssystemen und Finanztransaktionen.
 
 ## Charakteristika
-- **Relationales Modell**: Daten werden in Tabellen gespeichert, die durch Beziehungen miteinander verbunden sind.
-- **Festes Schema**: Strukturiertes Datenmodell mit vordefinierten Tabellen, Spalten und Datentypen.
-- **ACID-Eigenschaften**: Gewährleistet Atomarität, Konsistenz, Isolation und Dauerhaftigkeit von Transaktionen.
-- **Standardisierte Abfragesprache**: SQL ist eine standardisierte Sprache zur Abfrage und Manipulation von Daten.
+SQL-Datenbanken basieren auf einem relationalen Modell, bei dem Daten in Tabellen organisiert sind, die durch Beziehungen miteinander verbunden werden. Das feste Schema definiert vordefinierte Tabellen, Spalten und Datentypen. Sie unterstützen ACID-Eigenschaften für Transaktionen und verwenden SQL als standardisierte Abfragesprache zur Datenmanipulation.
 
-## SQL-Datenbanktypen
+## Typen von SQL-Datenbanken
 
-### 1. Traditionelle relationale Datenbanken
-- Speichern Daten in Tabellen mit festem Schema.
-- **Beispiele**: MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server
-- **Anwendung**: Transaktionsverarbeitung, geschäftliche Anwendungen
+### Traditionelle relationale Datenbanken
+Diese speichern Daten in Tabellen mit einem festen Schema und eignen sich für Transaktionsverarbeitung und geschäftliche Anwendungen. Beispiele sind MySQL, PostgreSQL, Oracle Database und Microsoft SQL Server.
 
-### 2. NewSQL-Datenbanken
-- Kombinieren die Vorteile von SQL mit der Skalierbarkeit von NoSQL.
-- **Beispiele**: Google Spanner, CockroachDB
-- **Anwendung**: Hochverfügbare, skalierbare Systeme mit SQL-Kompatibilität
+### NewSQL-Datenbanken
+NewSQL-Datenbanken kombinieren die Vorteile von SQL mit der Skalierbarkeit von [NoSQL](/open-fidup/lerninhalte/no-sql). Sie bieten Hochverfügbarkeit und SQL-Kompatibilität. Beispiele sind Google Spanner und CockroachDB.
 
 ## ACID-Eigenschaften
-- **Atomicity (Atomarität)**: Eine Transaktion wird entweder vollständig ausgeführt oder gar nicht.
-- **Consistency (Konsistenz)**: Die Datenbank bleibt in einem konsistenten Zustand, auch nach Transaktionen.
-- **Isolation (Isolation)**: Transaktionen werden isoliert durchgeführt, um Konflikte zu vermeiden.
-- **Durability (Dauerhaftigkeit)**: Einmal abgeschlossene Transaktionen bleiben auch bei Systemausfällen bestehen.
+Die ACID-Eigenschaften gewährleisten die Zuverlässigkeit von Transaktionen in SQL-Datenbanken:
 
-## Vergleich zu NoSQL-Datenbanken
+- **Atomarität**: Eine Transaktion wird entweder vollständig ausgeführt oder gar nicht.
+- **Konsistenz**: Die Datenbank bleibt in einem konsistenten Zustand, auch nach Transaktionen.
+- **Isolation**: Transaktionen werden isoliert durchgeführt, um Konflikte zu vermeiden.
+- **Dauerhaftigkeit**: Abgeschlossene Transaktionen bleiben auch bei Systemausfällen erhalten.
 
-| Aspekt | SQL | NoSQL |
-|--------|-----|-------|
-| Schema | Starr | Flexibel |
-| Skalierung | Vertikal | Horizontal |
-| Konsistenz | ACID | Eventual |
-| Abfragesprache | SQL | Datenbankspezifisch |
+## Vergleich mit NoSQL-Datenbanken
 
-## Vor- und Nachteile von SQL-Datenbanken
+| Aspekt          | SQL                  | NoSQL                |
+|-----------------|----------------------|----------------------|
+| Schema          | Starr                | Flexibel             |
+| Skalierung      | Vertikal             | Horizontal           |
+| Konsistenz      | ACID                 | Eventual             |
+| Abfragesprache  | SQL                  | Datenbankspezifisch  |
+
+## Vor- und Nachteile
 
 ### Vorteile
-- **Datenintegrität**: Starke Konsistenz und Integrität durch das relationale Modell und ACID-Eigenschaften.
-- **Standardisierte Abfragen**: SQL ist eine weit verbreitete und gut dokumentierte Sprache, die eine einfache Datenmanipulation ermöglicht.
-- **Komplexe Abfragen**: Unterstützt komplexe Abfragen, Joins und Transaktionen.
+SQL-Datenbanken bieten starke Datenintegrität durch das relationale Modell und ACID-Eigenschaften. SQL ermöglicht standardisierte und komplexe Abfragen, einschließlich Joins und Transaktionen, was die Datenmanipulation vereinfacht.
 
 ### Nachteile
-- **Eingeschränkte Skalierbarkeit**: Vertikale Skalierung kann teuer sein und hat ihre Grenzen.
-- **Festes Schema**: Änderungen am Datenmodell können aufwendig sein, insbesondere bei großen Datenmengen.
-- **Leistungseinbußen bei großen Datenmengen**: Bei sehr großen Datensätzen kann die Leistung unter der Komplexität leiden.
+Die vertikale Skalierung kann teuer und begrenzt sein. Änderungen am festen Schema sind bei großen Datenmengen aufwendig. Bei sehr großen Datensätzen leidet die Leistung unter der Komplexität.
 
 ## Anwendungsfälle
-- Geschäftsanwendungen
-- Finanztransaktionen
-- Content Management Systeme (CMS)
-- Kundenbeziehungsmanagement (CRM)
+SQL-Datenbanken eignen sich für Geschäftssysteme, Finanztransaktionen, Content-Management-Systeme und Kundenbeziehungsmanagement.
 
 ## Herausforderungen
-- Schemaänderungen bei bestehenden Daten
-- Handhabung von großen Datenmengen und Hochlastanfragen
-- Integrationsprobleme mit modernen, agilen Entwicklungsmethoden
+Herausforderungen umfassen Schemaänderungen bei bestehenden Daten, die Handhabung großer Datenmengen und Hochlastanfragen sowie Integrationsprobleme mit agilen Entwicklungsmethoden.
 
 ## Praxisrelevante Konzepte
 
 ### Normalisierung
-Der Prozess zur Organisation von Daten, um Redundanz zu minimieren und Datenintegrität zu gewährleisten. Dabei werden Daten in separate, verknüpfte Tabellen aufgeteilt.
+[Normalisierung](/open-fidup/lerninhalte/normalisierung) bezeichnet den Prozess zur Organisation von Daten, um Redundanz zu minimieren und Datenintegrität zu gewährleisten. Dabei werden Daten in separate, verknüpfte Tabellen aufgeteilt.
 
 ### Indexierung
-Das Erstellen von Indizes zur Verbesserung der Abfragegeschwindigkeit und der Datenzugriffsleistung.
+Indexierung verbessert die Abfragegeschwindigkeit und Datenzugriffsleistung durch das Erstellen von Indizes.
 
 ### Transaktionen
-Ein Satz von Operationen, die als eine einzige Einheit betrachtet werden, um sicherzustellen, dass die ACID-Eigenschaften eingehalten werden.
+Transaktionen sind Sätze von Operationen, die als eine einzige Einheit behandelt werden, um die Einhaltung der ACID-Eigenschaften sicherzustellen.
