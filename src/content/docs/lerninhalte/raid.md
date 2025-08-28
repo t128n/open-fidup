@@ -120,18 +120,18 @@ MTTDL bezeichnet die mittlere Zeitspanne, die vergeht, bis ein RAID-Array Daten 
 
 ## Berechnung
 
-Die MTTDL wird basierend auf der MTBF der einzelnen Festplatten, der Anzahl der Festplatten \(n\) und der Zeit für den Wiederaufbau (Rebuild-Zeit \(T_{rebuild}\)) berechnet. Eine Näherungsformel für RAID 5 lautet:
+Die MTTDL wird basierend auf der MTBF der einzelnen Festplatten, der Anzahl der Festplatten $ n $ und der Zeit für den Wiederaufbau (Rebuild-Zeit $ T_{rebuild} $) berechnet. Eine Näherungsformel für RAID 5 lautet:
 
 $$ MTTDL = \frac{MTBF^2}{(n-1) \times T_{rebuild}} $$
 
 Hierbei gilt:
 - $MTBF$: Mittlere Zeit zwischen Ausfällen einer einzelnen Festplatte (in Stunden).
-- $(n$: Anzahl der Festplatten im Array.
-- $(T_{rebuild}$: Zeit, die für den Wiederaufbau des Arrays nach einem Ausfall benötigt wird (in Stunden).
+- $n$: Anzahl der Festplatten im Array.
+- $T_{rebuild}$: Zeit, die für den Wiederaufbau des Arrays nach einem Ausfall benötigt wird (in Stunden).
 
 Diese Formel berücksichtigt die Wahrscheinlichkeit, dass während des Rebuilds eine zweite Festplatte ausfällt, was zu Datenverlust führt.
 
-Für andere RAID-Levels variiert die Formel. Bei RAID 1 mit \(n\) Festplatten beträgt die MTTDL \( MTTDL = \frac{MTBF}{n} \), da der Ausfall aller Festplatten erforderlich ist.
+Für andere RAID-Levels variiert die Formel. Bei RAID 1 mit $ n $ Festplatten beträgt die MTTDL $  MTTDL = \frac{MTBF}{n}  $, da der Ausfall aller Festplatten erforderlich ist.
 
 ## Beispiele
 
