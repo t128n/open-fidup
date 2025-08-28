@@ -26,6 +26,10 @@ export default defineConfig({
 		}),
 		starlight({
 			title: 'open-fidup',
+			favicon: './src/assets/favicon.png',
+			logo: {
+				src: './src/assets/logo.webp',
+			},
 			description: 'Wissensdatenbank für die Vorbereitung auf die Abschlussprüfung Fachinformatiker für Daten- und Prozessanalyse (FiDuP)',
 			defaultLocale: 'root',
 			locales: {

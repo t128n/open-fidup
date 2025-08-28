@@ -1,0 +1,68 @@
+{
+  "promptName": "favicon",
+  "assetType": "favicon",
+  "description": "Browser tab icon featuring Byte-Bär mascot",
+  "mascotContext": {
+    "name": "Byte-Bär",
+    "displayName": "Byte",
+    "description": "A minimalist, cartoonish anthropomorphic bear mascot for open-fidup, representing reliable guidance and technical expertise in data analysis and process management education.",
+    "appearance": {
+      "species": "Stylized anthropomorphic bear",
+      "size": "Medium-sized, iconic proportions",
+      "posture": "Upright, confident stance with welcoming body language",
+      "head": "Clean, rounded bear head with simple, expressive features and slightly elongated shape",
+      "eyes": "Large, friendly black eyes with white catchlights for expressiveness",
+      "nose": "Simple black triangular nose",
+      "mouth": "Friendly smile with simple curved line, no visible teeth",
+      "ears": "Small, rounded bear ears positioned slightly to the sides",
+      "fur": "Clean, solid brown fur with minimal texture and subtle geometric patterns",
+      "specialFeatures": "Small graduation cap tilted slightly, data chart icon on chest, unique stylized bear features",
+      "accessories": "Minimalist round glasses, simple laptop or tablet"
+    },
+    "colorPalette": {
+      "primary": "#8B4513 (saddle brown)",
+      "secondary": "#D2691E (chocolate)",
+      "accent": "#FFD700 (gold - for glasses and highlights)",
+      "details": "#000000 (black - for eyes, nose, glasses frame)",
+      "background": "#FFFFFF (white - for teeth and catchlights)"
+    },
+    "style": {
+      "artStyle": "Minimalist cartoon, similar to Tux or Bun logo - clean, iconic, recognizable",
+      "lineWeight": "Bold, clean lines with minimal detailing",
+      "shading": "Simple flat shading, no complex gradients",
+      "texture": "Minimal texture, focus on clean shapes",
+      "proportions": "Head:Body ratio of 1:1.5, simplified anatomy"
+    },
+    "personality": "Reliable, approachable, technically knowledgeable, patient teacher, warm and encouraging"
+  },
+  "generationPrompt": "Create a minimalist favicon featuring Byte-Bär, the stylized anthropomorphic bear mascot. Focus on the bear's head and upper body with clean, bold lines. Use saddle brown (#8B4513) for the fur, black for eyes and nose, gold (#FFD700) for glasses. Include the graduation cap and simple glasses. Make it highly recognizable at 16x16px and 32x32px sizes. Clean, iconic design similar to Tux or Bun logo. Transparent background preferred.",
+  "railguards": {
+    "requiredElements": [
+      "Stylized bear head silhouette",
+      "Round glasses (key identifier)",
+      "Graduation cap",
+      "Friendly expression",
+      "High contrast colors"
+    ],
+    "prohibitedElements": [
+      "Full body (too complex for small sizes)",
+      "Fine details or textures",
+      "Low contrast elements",
+      "Complex backgrounds",
+      "Text or additional elements"
+    ],
+    "styleConstraints": [
+      "Must be recognizable at 16x16px",
+      "High contrast for any background",
+      "Simple geometric shapes",
+      "Bold, clean lines only",
+      "Consistent with mascot personality"
+    ]
+  },
+  "outputSpecifications": {
+    "dimensions": ["16x16", "32x32", "48x48", "64x64"],
+    "formats": ["PNG", "ICO", "SVG"],
+    "background": "transparent",
+    "fileNaming": "favicon-{size}.{format}"
+  }
+}

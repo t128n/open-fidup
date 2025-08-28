@@ -1,0 +1,71 @@
+{
+  "promptName": "logo",
+  "assetType": "logo",
+  "description": "Primary logo with Byte-Bär mascot and open-fidup text",
+  "mascotContext": {
+    "name": "Byte-Bär",
+    "displayName": "Byte",
+    "description": "A minimalist, cartoonish anthropomorphic bear mascot for open-fidup, representing reliable guidance and technical expertise in data analysis and process management education.",
+    "appearance": {
+      "species": "Stylized anthropomorphic bear",
+      "size": "Medium-sized, iconic proportions",
+      "posture": "Upright, confident stance with welcoming body language",
+      "head": "Clean, rounded bear head with simple, expressive features and slightly elongated shape",
+      "eyes": "Large, friendly black eyes with white catchlights for expressiveness",
+      "nose": "Simple black triangular nose",
+      "mouth": "Friendly smile with simple curved line, no visible teeth",
+      "ears": "Small, rounded bear ears positioned slightly to the sides",
+      "fur": "Clean, solid brown fur with minimal texture and subtle geometric patterns",
+      "specialFeatures": "Small graduation cap tilted slightly, data chart icon on chest, unique stylized bear features",
+      "accessories": "Minimalist round glasses, simple laptop or tablet"
+    },
+    "colorPalette": {
+      "primary": "#8B4513 (saddle brown)",
+      "secondary": "#D2691E (chocolate)",
+      "accent": "#FFD700 (gold - for glasses and highlights)",
+      "details": "#000000 (black - for eyes, nose, glasses frame)",
+      "background": "#FFFFFF (white - for teeth and catchlights)"
+    },
+    "style": {
+      "artStyle": "Minimalist cartoon, similar to Tux or Bun logo - clean, iconic, recognizable",
+      "lineWeight": "Bold, clean lines with minimal detailing",
+      "shading": "Simple flat shading, no complex gradients",
+      "texture": "Minimal texture, focus on clean shapes",
+      "proportions": "Head:Body ratio of 1:1.5, simplified anatomy"
+    },
+    "personality": "Reliable, approachable, technically knowledgeable, patient teacher, warm and encouraging"
+  },
+  "generationPrompt": "Create a clean, minimalist logo for open-fidup featuring Byte-Bär, the stylized anthropomorphic bear mascot. Place the bear on the left side in a confident, welcoming pose. On the right, add clean 'open-fidup' text in a modern sans-serif font. Use saddle brown (#8B4513) for the bear, gold (#FFD700) for glasses, and black for text. Horizontal layout, scalable design, professional educational aesthetic. Clean lines, iconic style similar to Tux or Bun logo.",
+  "railguards": {
+    "requiredElements": [
+      "Byte-Bär mascot on left side",
+      "Clean 'open-fidup' text on right",
+      "Horizontal layout (mascot + text)",
+      "Brand color usage",
+      "Minimalist cartoon style",
+      "Scalable vector design"
+    ],
+    "prohibitedElements": [
+      "Vertical layout",
+      "Text integrated into mascot",
+      "Inconsistent colors",
+      "Detailed textures or patterns",
+      "Complex backgrounds",
+      "Non-scalable elements"
+    ],
+    "styleConstraints": [
+      "Must maintain minimalist cartoon style",
+      "Typography must be clean and modern",
+      "Colors must match specified palette",
+      "Mascot must be recognizable",
+      "Professional educational appearance",
+      "Scalable for all sizes"
+    ]
+  },
+  "outputSpecifications": {
+    "dimensions": "Scalable (min 200px, max 2000px width)",
+    "formats": ["SVG", "PNG"],
+    "background": "transparent",
+    "fileNaming": "logo.{format}"
+  }
+}

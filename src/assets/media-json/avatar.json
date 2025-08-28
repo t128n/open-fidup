@@ -1,0 +1,68 @@
+{
+  "promptName": "avatar",
+  "assetType": "avatar",
+  "description": "Profile picture and social media avatar featuring Byte-Bär",
+  "mascotContext": {
+    "name": "Byte-Bär",
+    "displayName": "Byte",
+    "description": "A minimalist, cartoonish anthropomorphic bear mascot for open-fidup, representing reliable guidance and technical expertise in data analysis and process management education.",
+    "appearance": {
+      "species": "Stylized anthropomorphic bear",
+      "size": "Medium-sized, iconic proportions",
+      "posture": "Upright, confident stance with welcoming body language",
+      "head": "Clean, rounded bear head with simple, expressive features and slightly elongated shape",
+      "eyes": "Large, friendly black eyes with white catchlights for expressiveness",
+      "nose": "Simple black triangular nose",
+      "mouth": "Friendly smile with simple curved line, no visible teeth",
+      "ears": "Small, rounded bear ears positioned slightly to the sides",
+      "fur": "Clean, solid brown fur with minimal texture and subtle geometric patterns",
+      "specialFeatures": "Small graduation cap tilted slightly, data chart icon on chest, unique stylized bear features",
+      "accessories": "Minimalist round glasses, simple laptop or tablet"
+    },
+    "colorPalette": {
+      "primary": "#8B4513 (saddle brown)",
+      "secondary": "#D2691E (chocolate)",
+      "accent": "#FFD700 (gold - for glasses and highlights)",
+      "details": "#000000 (black - for eyes, nose, glasses frame)",
+      "background": "#FFFFFF (white - for teeth and catchlights)"
+    },
+    "style": {
+      "artStyle": "Minimalist cartoon, similar to Tux or Bun logo - clean, iconic, recognizable",
+      "lineWeight": "Bold, clean lines with minimal detailing",
+      "shading": "Simple flat shading, no complex gradients",
+      "texture": "Minimal texture, focus on clean shapes",
+      "proportions": "Head:Body ratio of 1:1.5, simplified anatomy"
+    },
+    "personality": "Reliable, approachable, technically knowledgeable, patient teacher, warm and encouraging"
+  },
+  "generationPrompt": "Create a clean, minimalist avatar featuring Byte-Bär, the stylized anthropomorphic bear mascot. Head and shoulders view, centered composition, friendly and welcoming expression. Use saddle brown (#8B4513) for fur, black for eyes and nose, gold (#FFD700) for glasses. Include graduation cap and simple glasses. Minimalist cartoon style similar to Tux or Bun logo. Clean, iconic design that works at 32x32px to 512x512px. Transparent background preferred.",
+  "railguards": {
+    "requiredElements": [
+      "Stylized bear appearance",
+      "Round glasses (key identifier)",
+      "Graduation cap",
+      "Friendly smile",
+      "Clean, minimalist design"
+    ],
+    "prohibitedElements": [
+      "Fangs or aggressive features",
+      "Dark or intimidating colors",
+      "Complex backgrounds",
+      "Fine details that won't scale",
+      "Typical bear features"
+    ],
+    "styleConstraints": [
+      "Must maintain minimalist cartoon style",
+      "Colors must match specified palette",
+      "Expression must be friendly and approachable",
+      "No fine details that won't scale down",
+      "Consistent with mascot personality"
+    ]
+  },
+  "outputSpecifications": {
+    "dimensions": ["32x32", "64x64", "128x128", "256x256", "512x512"],
+    "formats": ["PNG", "SVG"],
+    "background": "transparent",
+    "fileNaming": "avatar-{size}.{format}"
+  }
+}

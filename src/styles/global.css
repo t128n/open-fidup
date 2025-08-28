@@ -1,1 +1,9 @@
 @import "katex/dist/katex.min.css";
+
+/* Byte-Bär Brand Colors for Starlight Theme */
+:root {
+  --sl-color-accent: #8B4513;        /* Saddle brown - main brand color */
+  --sl-color-accent-high: #D2691E;   /* Chocolate - darker accent */
+  --sl-color-accent-low: #F4E4BC;    /* Light brown tint - subtle backgrounds */
+
+}

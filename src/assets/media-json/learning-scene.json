@@ -1,0 +1,68 @@
+{
+  "promptName": "learning-scene",
+  "assetType": "scene",
+  "description": "Learning scene with Byte-Bär teaching or studying",
+  "mascotContext": {
+    "name": "Byte-Bär",
+    "displayName": "Byte",
+    "description": "A minimalist, cartoonish anthropomorphic bear mascot for open-fidup, representing reliable guidance and technical expertise in data analysis and process management education.",
+    "appearance": {
+      "species": "Stylized anthropomorphic bear",
+      "size": "Medium-sized, iconic proportions",
+      "posture": "Upright, confident stance with welcoming body language",
+      "head": "Clean, rounded bear head with simple, expressive features and slightly elongated shape",
+      "eyes": "Large, friendly black eyes with white catchlights for expressiveness",
+      "nose": "Simple black triangular nose",
+      "mouth": "Friendly smile with simple curved line, no visible teeth",
+      "ears": "Small, rounded bear ears positioned slightly to the sides",
+      "fur": "Clean, solid brown fur with minimal texture and subtle geometric patterns",
+      "specialFeatures": "Small graduation cap tilted slightly, data chart icon on chest, unique stylized bear features",
+      "accessories": "Minimalist round glasses, simple laptop or tablet"
+    },
+    "colorPalette": {
+      "primary": "#8B4513 (saddle brown)",
+      "secondary": "#D2691E (chocolate)",
+      "accent": "#FFD700 (gold - for glasses and highlights)",
+      "details": "#000000 (black - for eyes, nose, glasses frame)",
+      "background": "#FFFFFF (white - for teeth and catchlights)"
+    },
+    "style": {
+      "artStyle": "Minimalist cartoon, similar to Tux or Bun logo - clean, iconic, recognizable",
+      "lineWeight": "Bold, clean lines with minimal detailing",
+      "shading": "Simple flat shading, no complex gradients",
+      "texture": "Minimal texture, focus on clean shapes",
+      "proportions": "Head:Body ratio of 1:1.5, simplified anatomy"
+    },
+    "personality": "Reliable, approachable, technically knowledgeable, patient teacher, warm and encouraging"
+  },
+  "generationPrompt": "Create a learning scene illustration featuring Byte-Bär, the stylized anthropomorphic bear mascot, engaged in educational activities. Show the bear studying with books, working on a laptop, or pointing to educational materials like data charts or diagrams. Include elements that represent FiDuP learning topics such as data analysis, process management, or programming. Clean, minimalist cartoon style similar to Tux or Bun logo. Encouraging and supportive atmosphere. Use brand colors: saddle brown (#8B4513) for bear, gold (#FFD700) for accents, with educational elements in the background.",
+  "railguards": {
+    "requiredElements": [
+      "Byte-Bär engaged in learning activity",
+      "Educational materials and elements",
+      "FiDuP-related content (data, processes, etc.)",
+      "Encouraging atmosphere",
+      "Clean minimalist composition"
+    ],
+    "prohibitedElements": [
+      "Overly complex technical diagrams",
+      "Intimidating educational content",
+      "Dark or heavy colors",
+      "Cluttered learning environment",
+      "Non-educational imagery"
+    ],
+    "styleConstraints": [
+      "Must maintain minimalist cartoon style",
+      "Educational content must be accessible",
+      "Supportive and encouraging tone",
+      "Professional but friendly",
+      "Consistent with mascot personality"
+    ]
+  },
+  "outputSpecifications": {
+    "dimensions": "800x600px",
+    "formats": ["SVG", "PNG"],
+    "background": "white or light educational theme",
+    "fileNaming": "scene-learning-800x600.{format}"
+  }
+}
