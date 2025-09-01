@@ -2,4 +2,4 @@ User-agent: *
 Allow: *
 
 # Sitemap
-Sitemap: https://t128n.github.io/open-fidup/sitemap.xml
+Sitemap: https://t128n.github.io/open-fidup/sitemap-index.xml
