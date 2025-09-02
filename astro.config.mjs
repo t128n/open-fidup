@@ -257,7 +257,7 @@ export default defineConfig({
 						"inLanguage": "de",
 						"isAccessibleForFree": true,
 						"url": "https://t128n.github.io/open-fidup",
-						"courseWorkload": "PT40H",
+						"courseWorkload": "PT12H",
 						"educationalUse": "Prüfungsvorbereitung",
 						"learningResourceType": "Wissensdatenbank",
 						"teaches": [
