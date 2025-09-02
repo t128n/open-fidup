@@ -23,6 +23,7 @@ export default defineConfig({
 			changefreq: 'weekly',
 			priority: 0.7,
 			lastmod: new Date(),
+			filter: (page) => !page.includes('/v1/'),
 		}),
 		starlight({
 			title: 'Fachinformatiker Daten- und Prozessanalyse AP2 - open-fidup',
@@ -57,7 +58,6 @@ export default defineConfig({
 					label: 'Info',
 					items: [
 						{ label: 'Über open-fidup', slug: 'ueber' },
-						{ label: 'Kontakt', slug: 'kontakt' },
 						{ label: 'Impressum', slug: 'impressum' },
 					],
 				},
