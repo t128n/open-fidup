@@ -1,6 +1,6 @@
 # Contributing to open-fidup
 
-Thank you for your interest in contributing to open-fidup! This project is a knowledge database for preparing for the Fachinformatik Daten- und Prozessanalyse (FiDuP) certification exam.
+Thank you for your interest in contributing to open-fidup! This project is a knowledge database for preparing for the Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) certification exam.
 
 ## How to Contribute
 
