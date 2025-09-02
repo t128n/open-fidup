@@ -116,7 +116,7 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						name: 'author',
-						content: 'Torben - open-fidup',
+						content: 'Torben Haack',
 					},
 				},
 				{
@@ -129,50 +129,8 @@ export default defineConfig({
 				{
 					tag: 'meta',
 					attrs: {
-						name: 'classification',
-						content: 'Education, IT Training, Vocational Education',
-					},
-				},
-				{
-					tag: 'meta',
-					attrs: {
-						name: 'category',
-						content: 'Education',
-					},
-				},
-				{
-					tag: 'meta',
-					attrs: {
-						name: 'coverage',
-						content: 'Germany',
-					},
-				},
-				{
-					tag: 'meta',
-					attrs: {
-						name: 'distribution',
-						content: 'Global',
-					},
-				},
-				{
-					tag: 'meta',
-					attrs: {
-						name: 'rating',
-						content: 'General',
-					},
-				},
-				{
-					tag: 'meta',
-					attrs: {
 						name: 'language',
 						content: 'de',
-					},
-				},
-				{
-					tag: 'meta',
-					attrs: {
-						name: 'target',
-						content: 'all',
 					},
 				},
 				{
@@ -276,7 +234,7 @@ export default defineConfig({
 						"keywords": "Fachinformatiker Daten- und Prozessanalyse, FiDuP, AP2, Abschlussprüfung, Prüfungsvorbereitung",
 						"provider": {
 							"@type": "Person",
-							"name": "Torben"
+							"name": "Torben Haack"
 						}
 					}),
 				},
