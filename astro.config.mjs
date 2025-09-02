@@ -113,13 +113,6 @@ export default defineConfig({
 					},
 				},
 				{
-					tag: 'link',
-					attrs: {
-						rel: 'canonical',
-						href: 'https://t128n.github.io/open-fidup/',
-					},
-				},
-				{
 					tag: 'meta',
 					attrs: {
 						property: 'og:image',
