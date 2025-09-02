@@ -209,7 +209,7 @@ export default defineConfig({
 						"description": "Kostenlose Wissensdatenbank für Fachinformatiker Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen",
 						"url": "https://t128n.github.io/open-fidup",
 						"logo": "https://t128n.github.io/open-fidup/logo.svg",
-						"educationalCredentialAwarded": "Fachinformatiker für Daten- und Prozessanalyse",
+						"educationalCredentialAwarded": "Fachinformatik Daten- und Prozessanalyse",
 						"hasEducationalUse": "Preparation for vocational examination",
 						"inLanguage": "de",
 						"audience": {
@@ -252,7 +252,7 @@ export default defineConfig({
 							"@type": "EducationalOrganization",
 							"name": "open-fidup"
 						},
-						"educationalCredentialAwarded": "Fachinformatiker für Daten- und Prozessanalyse",
+						"educationalCredentialAwarded": "Fachinformatik Daten- und Prozessanalyse",
 						"coursePrerequisites": "IT-Ausbildung, Grundkenntnisse in Datenanalyse",
 						"inLanguage": "de",
 						"isAccessibleForFree": true,
