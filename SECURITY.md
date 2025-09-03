@@ -6,7 +6,7 @@ We take security seriously at open-fidup. If you discover a security vulnerabili
 
 ### How to Report
 - **DO NOT** create public GitHub issues for security vulnerabilities
-- Email security concerns to: [Insert contact email here]
+- Email security concerns to: open-fidup@ipv4.8shield.net
 - Include detailed information about the vulnerability
 - Allow reasonable time for us to respond and fix the issue before public disclosure
 
