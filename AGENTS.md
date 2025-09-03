@@ -75,4 +75,4 @@ import { docsLoader } from '@astrojs/starlight/loaders';
 1. Run `bun run dev` for local development
 2. Test changes in browser at `localhost:4321`
 3. Run `bun run build` to verify production build
-4. Use `npx astro check` for type validation before committing
+4. Use `bunx astro check` for type validation before committing
