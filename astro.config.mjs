@@ -81,7 +81,7 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						name: 'keywords',
-						content: 'Fachinformatiker:in für Daten- und Prozessanalyse, FiDuP, AP2, Abschlussprüfung, Prüfungsvorbereitung, IT-Ausbildung, Lernmaterialien, Fachinformatiker:in AP2, Datenanalyse, Prozessanalyse, IHK Prüfung, Ausbildungsprüfung',
+						content: 'fachinformatiker für daten und prozessanalyse ap2, Fachinformatiker:in für Daten- und Prozessanalyse, FiDuP, AP2, Abschlussprüfung, Prüfungsvorbereitung, IT-Ausbildung, Lernmaterialien, Fachinformatiker:in AP2, Datenanalyse, Prozessanalyse, IHK Prüfung, Ausbildungsprüfung, fidup ap2',
 					},
 				},
 				{
