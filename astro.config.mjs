@@ -31,7 +31,7 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/logo.webp',
 			},
-			description: 'Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen',
+			description: 'Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - Fachinformatiker für Daten und Prozessanalyse AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen',
 			defaultLocale: 'root',
 			locales: {
 				root: {
@@ -74,28 +74,28 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						name: 'description',
-						content: 'Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien, Übungen und Prüfungsinhalten für die Abschlussprüfung.',
+						content: 'Kostenlose Wissensdatenbank für Fachinformatiker für Daten und Prozessanalyse AP2 - FiDuP Prüfungsvorbereitung mit umfassenden Lernmaterialien, Übungen und Prüfungsinhalten für die IHK Abschlussprüfung.',
 					},
 				},
 				{
 					tag: 'meta',
 					attrs: {
 						name: 'keywords',
-						content: 'Fachinformatiker:in für Daten- und Prozessanalyse, FiDuP, AP2, Abschlussprüfung, Prüfungsvorbereitung, IT-Ausbildung, Lernmaterialien, Fachinformatiker:in AP2, Datenanalyse, Prozessanalyse, IHK Prüfung, Ausbildungsprüfung',
+						content: 'fachinformatiker für daten und prozessanalyse ap2, Fachinformatiker:in für Daten- und Prozessanalyse, FiDuP, AP2, Abschlussprüfung, Prüfungsvorbereitung, IT-Ausbildung, Lernmaterialien, Fachinformatiker:in AP2, Datenanalyse, Prozessanalyse, IHK Prüfung, Ausbildungsprüfung, fachinformatiker daten und prozessanalyse, fidup ap2, fachinformatiker ap2',
 					},
 				},
 				{
 					tag: 'meta',
 					attrs: {
 						property: 'og:title',
-						content: 'Fachinformatiker:in für Daten- und Prozessanalyse AP2 - open-fidup Wissensdatenbank',
+						content: 'Fachinformatiker für Daten und Prozessanalyse AP2 - FiDuP Wissensdatenbank',
 					},
 				},
 				{
 					tag: 'meta',
 					attrs: {
 						property: 'og:description',
-						content: 'Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen.',
+						content: 'Kostenlose Wissensdatenbank für Fachinformatiker für Daten und Prozessanalyse AP2 - FiDuP Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen.',
 					},
 				},
 				{
@@ -123,7 +123,7 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						name: 'subject',
-						content: 'Fachinformatiker:in für Daten- und Prozessanalyse AP2 Prüfungsvorbereitung',
+						content: 'Fachinformatiker für Daten und Prozessanalyse AP2 Prüfungsvorbereitung',
 					},
 				},
 				{
@@ -179,14 +179,14 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						name: 'twitter:title',
-						content: 'Fachinformatiker:in für Daten- und Prozessanalyse AP2 - open-fidup Wissensdatenbank',
+						content: 'Fachinformatiker für Daten und Prozessanalyse AP2 - FiDuP Wissensdatenbank',
 					},
 				},
 				{
 					tag: 'meta',
 					attrs: {
 						name: 'twitter:description',
-						content: 'Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen.',
+						content: 'Kostenlose Wissensdatenbank für Fachinformatiker für Daten und Prozessanalyse AP2 - FiDuP Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen.',
 					},
 				},
 				{
@@ -204,9 +204,9 @@ export default defineConfig({
 					content: JSON.stringify({
 						"@context": "https://schema.org",
 						"@type": "EducationalOrganization",
-						"name": "open-fidup - Fachinformatiker:in für Daten- und Prozessanalyse Wissensdatenbank",
-						"alternateName": "FiDuP AP2 Prüfungsvorbereitung",
-						"description": "Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen",
+						"name": "open-fidup - Fachinformatiker für Daten und Prozessanalyse AP2 Wissensdatenbank",
+						"alternateName": ["FiDuP AP2 Prüfungsvorbereitung", "Fachinformatiker für Daten und Prozessanalyse", "FiDuP Wissensdatenbank"],
+						"description": "Kostenlose Wissensdatenbank für Fachinformatiker für Daten und Prozessanalyse AP2 - FiDuP Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen",
 						"url": "https://t128n.github.io/open-fidup",
 						"logo": "https://t128n.github.io/open-fidup/logo.svg",
 						"educationalCredentialAwarded": "Fachinformatiker:in für Daten- und Prozessanalyse",
@@ -220,6 +220,10 @@ export default defineConfig({
 						"about": [
 							{
 								"@type": "Thing",
+								"name": "Fachinformatiker für Daten und Prozessanalyse AP2"
+							},
+							{
+								"@type": "Thing",
 								"name": "Fachinformatiker:in für Daten- und Prozessanalyse"
 							},
 							{
@@ -229,9 +233,13 @@ export default defineConfig({
 							{
 								"@type": "Thing",
 								"name": "IT-Ausbildung"
+							},
+							{
+								"@type": "Thing",
+								"name": "FiDuP"
 							}
 						],
-						"keywords": "Fachinformatiker:in für Daten- und Prozessanalyse, FiDuP, AP2, Abschlussprüfung, Prüfungsvorbereitung",
+						"keywords": "fachinformatiker für daten und prozessanalyse ap2, Fachinformatiker:in für Daten- und Prozessanalyse, FiDuP, AP2, Abschlussprüfung, Prüfungsvorbereitung, fachinformatiker ap2",
 						"provider": {
 							"@type": "Person",
 							"name": "Torben Haack"
@@ -246,8 +254,8 @@ export default defineConfig({
 					content: JSON.stringify({
 						"@context": "https://schema.org",
 						"@type": "Course",
-						"name": "Fachinformatiker:in für Daten- und Prozessanalyse AP2 Vorbereitung",
-						"description": "Umfassende Prüfungsvorbereitung für die Abschlussprüfung Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) AP2",
+						"name": "Fachinformatiker für Daten und Prozessanalyse AP2 Vorbereitung",
+						"description": "Umfassende Prüfungsvorbereitung für die Abschlussprüfung Fachinformatiker für Daten und Prozessanalyse AP2",
 						"provider": {
 							"@type": "EducationalOrganization",
 							"name": "open-fidup"
@@ -269,7 +277,8 @@ export default defineConfig({
 							"Data Mining",
 							"IT-Sicherheit",
 							"Projektmanagement"
-						]
+						],
+						"keywords": "fachinformatiker für daten und prozessanalyse ap2, fidup ap2, fachinformatiker ap2"
 					}),
 				},
 			],
