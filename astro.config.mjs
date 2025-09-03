@@ -269,7 +269,23 @@ export default defineConfig({
 							"Data Mining",
 							"IT-Sicherheit",
 							"Projektmanagement"
-						]
+						],
+						"offers": {
+							"@type": "Offer",
+							"price": "0",
+							"priceCurrency": "EUR",
+							"availability": "https://schema.org/InStock",
+							"url": "https://t128n.github.io/open-fidup"
+						},
+						"hasCourseInstance": {
+							"@type": "CourseInstance",
+							"courseMode": "online",
+							"courseWorkload": "PT12H",
+							"instructor": {
+								"@type": "Person",
+								"name": "Torben Haack"
+							}
+						}
 					}),
 				},
 			],
