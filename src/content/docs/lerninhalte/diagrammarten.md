@@ -25,11 +25,10 @@ Das Balkendiagramm ist eine horizontale Darstellung von Säulendiagrammen, die D
 - Finanzberichte: Visualisierung von Einnahmen, Ausgaben oder anderen finanziellen Kennzahlen über verschiedene Zeiträume oder Abteilungen hinweg.
 
 ```mermaid
-bar-beta
-    title Balkendiagramm Beispiel
-    x-axis ["Kategorie A", "Kategorie B", "Kategorie C"]
-    y-axis "Wert" 0 --> 100
-    bar [20, 50, 80]
+graph TD
+    A[Kategorie A: 20] --> D[Werte]
+    B[Kategorie B: 50] --> D
+    C[Kategorie C: 80] --> D
 ```
 
 ## Liniendiagramm
@@ -52,11 +51,10 @@ Das Liniendiagramm stellt kontinuierliche Daten oder Daten mit unendlichen Werte
 - Web-Analytics: Analyse von Besucherzahlen oder Seitenaufrufen über Zeit, um Trends im Nutzerverhalten zu erkennen.
 
 ```mermaid
-line-beta
-    title Liniendiagramm Beispiel
-    x-axis ["Jan", "Feb", "Mar", "Apr"]
-    y-axis "Wert" 0 --> 100
-    line [10, 30, 50, 70]
+graph LR
+    A[Jan: 10] --> B[Feb: 30]
+    B --> C[Mar: 50]
+    C --> D[Apr: 70]
 ```
 
 ## Flächendiagramm
@@ -79,11 +77,15 @@ Das Flächendiagramm ähnelt dem Liniendiagramm, zeigt jedoch zusätzlich Volume
 - Verkaufsanalysen: Vergleich von Verkaufszahlen verschiedener Produkte über Zeit, um Trends und saisonale Schwankungen zu erkennen.
 
 ```mermaid
-area-beta
-    title Flächendiagramm Beispiel
-    x-axis ["Q1", "Q2", "Q3", "Q4"]
-    y-axis "Wert" 0 --> 100
-    area [20, 40, 60, 80]
+```mermaid
+graph LR
+    A[Q1: 20] --> B[Q2: 40]
+    B --> C[Q3: 60] 
+    C --> D[Q4: 80]
+    style A fill:#e1f5fe
+    style B fill:#b3e5fc
+    style C fill:#81d4fa
+    style D fill:#4fc3f7
 ```
 
 ## Streudiagramm
@@ -106,11 +108,12 @@ Das Streudiagramm, auch Punktediagramm genannt, zeigt Beziehungen zwischen zwei 
 - Qualitätskontrolle: Überwachung von Produktionsprozessen, um die Beziehung zwischen verschiedenen Produktionsparametern zu analysieren.
 
 ```mermaid
-scatter-beta
-    title Streudiagramm Beispiel
-    x-axis "Variable X" 0 --> 100
-    y-axis "Variable Y" 0 --> 100
-    point [10,20], [30,40], [50,60], [70,80]
+graph TD
+    A["Punkt 1 (10,20)"]
+    B["Punkt 2 (30,40)"]
+    C["Punkt 3 (50,60)"] 
+    D["Punkt 4 (70,80)"]
+```
 ```
 
 ## Kreisdiagramm
@@ -185,11 +188,11 @@ Das Säulendiagramm eignet sich zur Darstellung chronologischer Daten und visual
 - Finanzberichte: Visualisierung von Einnahmen, Ausgaben oder anderen finanziellen Kennzahlen über verschiedene Zeiträume oder Abteilungen hinweg.
 
 ```mermaid
-bar-beta
-    title Säulendiagramm Beispiel
-    x-axis ["Kategorie A", "Kategorie B", "Kategorie C"]
-    y-axis "Wert" 0 --> 100
-    bar [25, 45, 65]
+graph TD
+    A[Kategorie A: 25] --> D[Säulenwerte]
+    B[Kategorie B: 45] --> D
+    C[Kategorie C: 65] --> D
+```
 ```
 
 ## Blasendiagramm
@@ -212,11 +215,13 @@ Das Blasendiagramm ähnelt dem Streudiagramm, stellt jedoch durch Punktgröße u
 - Umweltstudien: Darstellung von Daten zu Emissionen, wobei die X-Achse CO2-Ausstoß, die Y-Achse Luftqualität und die Blasengröße die Bevölkerung eines Gebiets repräsentiert.
 
 ```mermaid
-scatter-beta
-    title Blasendiagramm Beispiel
-    x-axis "Variable X" 0 --> 100
-    y-axis "Variable Y" 0 --> 100
-    point [10,20, size=5], [30,40, size=10], [50,60, size=15]
+graph TD
+    A["Blase 1 (10,20) - Klein"]
+    B["Blase 2 (30,40) - Mittel"] 
+    C["Blase 3 (50,60) - Groß"]
+    style C fill:#ff9999
+    style B fill:#ffcc99
+    style A fill:#ccffcc
 ```
 
 ## Pegelkarte
@@ -239,12 +244,14 @@ Die Pegelkarte, auch Gauge-Diagramm genannt, zeigt, wo Datenwerte auf einer best
 - Gesundheitsüberwachung: Visualisierung von Vitalzeichen oder anderen Gesundheitskennzahlen, um den aktuellen Gesundheitszustand schnell zu erfassen.
 
 ```mermaid
-gauge-beta
-    title Pegelkarte Beispiel
-    section "Niedrig" : 0, 30
-    section "Mittel" : 30, 70
-    section "Hoch" : 70, 100
-    value : 75
+graph TD
+    A["Niedrig (0-30)"] 
+    B["Mittel (30-70)"]
+    C["Hoch (70-100)"]
+    D["Aktueller Wert: 75"]
+    C --> D
+    style D fill:#90EE90
+    style C fill:#FFB6C1
 ```
 
 ## Gestapeltes Venn
