@@ -1,27 +1,82 @@
 ---
 title: "Ablaufverfolgung"
-description: "Ablaufverfolgung bezeichnet eine Technik zur Überwachung und Analyse des Programmablaufs, um Fehler zu identifizieren und die Softwarequalität zu verbessern. Sie umfasst manuelle und automatisierte Methoden sowie Tracing-Frameworks für strukturierte Protokollierung. Best Practices beinhalten konsistente Protokollierung und regelmäßige Überprüfung der Logs."
+description: "Ablaufverfolgung in der Prozessanalyse bezeichnet die systematische Überwachung und Dokumentation von Geschäftsprozessen zur Effizienzsteigerung, Fehlererkennung und Qualitätssicherung. In der Softwareentwicklung wird der Begriff ergänzend für die Analyse von Programmabläufen genutzt."
 ---
 
-Ablaufverfolgung ist eine Technik zur Überwachung und Analyse des Programmablaufs, die dazu dient, Fehler zu identifizieren und den Programmfluss zu verstehen. Sie zielt auf die Verbesserung der Softwarequalität durch frühzeitige Fehlererkennung und -behebung ab. Dabei werden sowohl manuelle als auch automatisierte Ansätze eingesetzt, oft unterstützt durch Tracing-Frameworks für eine strukturierte Protokollierung.
+Im Kontext der **Prozessanalyse** bezeichnet eine **Ablaufverfolgung** (oder auch Prozessverfolgung) die systematische und kontinuierliche Überwachung sowie Dokumentation einzelner Aktivitäten oder Schritte innerhalb eines [Geschäftsprozesses](/open-fidup/geschaeftsprozess.md). Ziel ist es, den Fortschritt eines Prozesses nachvollziehbar zu machen, Zuständigkeiten, Bearbeitungszeiten und Status einzelner Aufgaben zu erfassen sowie eine lückenlose Rückverfolgbarkeit zu gewährleisten. Dadurch können Engpässe identifiziert, Fehlerquellen schnell erkannt und die Effizienz des Prozesses nachhaltig verbessert werden.
 
-## Bedeutung
-Die Ablaufverfolgung spielt eine zentrale Rolle in der Softwareentwicklung und -wartung. Sie ermöglicht die Fehleridentifikation, indem der Programmfluss dokumentiert wird, was die Ursachen von Fehlern aufdeckt. Zudem unterstützt sie die Performance-Analyse, indem Engpässe und ineffiziente Code-Pfade identifiziert werden. Dies trägt zur Optimierung der Software bei und fördert die Zuverlässigkeit des Systems.
+Die Ablaufverfolgung unterstützt somit die Prozessanalyse, indem sie Transparenz schafft und eine fundierte Grundlage bietet, Prozesse zu bewerten und gezielt zu optimieren. Kurz gesagt: Sie macht den Prozessablauf sichtbar und messbar, damit Abläufe besser verstanden, gesteuert und verbessert werden können.
 
-## Methoden
-Es existieren verschiedene Methoden zur Ablaufverfolgung, die je nach Kontext und Anforderungen eingesetzt werden.
+## Bedeutung in der Prozessanalyse
+Die Ablaufverfolgung spielt eine zentrale Rolle in der Überwachung von Geschäftsprozessen. Sie ermöglicht die kontinuierliche Aufzeichnung von Aktivitäten und Ereignissen, um den Fortschritt zu dokumentieren, Engpässe zu identifizieren und Compliance sicherzustellen. Typische Funktionen sind:
 
-### Manuelle Ablaufverfolgung
-Diese Methode beinhaltet das Einfügen von Debugging-Anweisungen, wie beispielsweise `print`-Statements, direkt im Code. Dadurch können Variablenwerte und Programmzustände nachverfolgt werden. Sie eignet sich für einfache Szenarien, erfordert jedoch manuelle Eingriffe und ist zeitaufwendig.
+- **Echtzeitüberwachung** von Prozessen  
+- **Aufgaben- und Statusverfolgung**  
+- **Zeitstempel und Protokollierung** einzelner Schritte  
+- **Benachrichtigungen bei Abweichungen**  
+- **Leistungsmetriken und KPIs**  
+- **Dashboards und Statusberichte** für Management und Controlling.
 
-### Automatisierte Ablaufverfolgung
-Hier kommen Debugging-Tools wie GDB oder Visual Studio Debugger zum Einsatz, um den Programmablauf in Echtzeit zu überwachen. Profiler-Tools analysieren die Performance und identifizieren Ressourcenverbrauch. Diese Methode ist effizienter für komplexe Anwendungen und reduziert den manuellen Aufwand.
+Dadurch wird nicht nur die Effizienz gesteigert, sondern auch die Qualitätssicherung und Risikominimierung unterstützt.
 
-### Tracing-Frameworks
-Tracing-Frameworks nutzen spezielle Bibliotheken, etwa Log4j oder SLF4J, für eine strukturierte Protokollierung. Sie unterstützen verschiedene Log-Level wie DEBUG, INFO, WARN und ERROR, was eine granulare Kontrolle über die Ausgaben ermöglicht. Solche Frameworks sind besonders nützlich in verteilten Systemen und fördern die Nachvollziehbarkeit von Abläufen.
+## Methoden der Ablaufverfolgung in Geschäftsprozessen
+Zur Umsetzung der Ablaufverfolgung in der Prozessanalyse existieren verschiedene Ansätze:
+
+### Ereignisbasierte Protokollierung
+Jede Aktivität innerhalb eines Prozesses wird mit Zeitstempel und Metadaten erfasst. Dies ermöglicht eine lückenlose Nachvollziehbarkeit und erleichtert spätere Analysen.
+
+### Prozess-Mining
+Durch die Auswertung von Log-Daten können reale Prozessabläufe rekonstruiert und mit Soll-Prozessen verglichen werden. Abweichungen, Engpässe und Optimierungspotenziale werden so sichtbar.
+
+### Monitoring- und Reporting-Systeme
+Dashboards und automatisierte Reports bieten eine visuelle Aufbereitung der Prozessdaten. Sie unterstützen Führungskräfte bei Entscheidungen und ermöglichen eine kontinuierliche Prozessverbesserung.
 
 ## Best Practices
-Um die Effektivität der Ablaufverfolgung zu maximieren, sollten bestimmte Best Practices befolgt werden. Dazu gehört eine konsistente Protokollierung mit einheitlicher Formatierung und Struktur der Log-Ausgaben. Die Wahl der Log-Level sollte angemessen erfolgen, um Informationsüberflutung zu vermeiden. Regelmäßige Überprüfung der Log-Dateien und Traces trägt zur kontinuierlichen Verbesserung bei. Zudem ist die Dokumentation von Erkenntnissen aus der Ablaufverfolgung wichtig, um Wissen zu sichern und zukünftige Analysen zu erleichtern.
+Um die Effektivität der Ablaufverfolgung in der Prozessanalyse zu maximieren, sollten bestimmte Best Practices beachtet werden:
 
-## Tools und Technologien
-Verschiedene Tools unterstützen die Ablaufverfolgung in der Praxis. Debugging-Tools wie GDB, Visual Studio Debugger und Eclipse Debugger ermöglichen die direkte Überwachung des Programmablaufs. Tracing-Tools wie Jaeger, Zipkin und OpenTelemetry eignen sich für die Analyse von verteilten Systemen. Logging-Frameworks wie Log4j, SLF4J und Winston (für Node.js) bieten strukturierte Protokollierungsmöglichkeiten. Diese Tools ergänzen sich und können je nach Projektanforderungen kombiniert werden.
+- **Konsistente Datenerfassung** mit einheitlichen Standards  
+- **Angemessene Granularität**: Wichtige Ereignisse erfassen, ohne Informationsüberflutung zu erzeugen  
+- **Regelmäßige Auswertung** der gesammelten Daten  
+- **Dokumentation der Erkenntnisse**, um Wissen zu sichern und Verbesserungen nachhaltig umzusetzen.
+
+## Werkzeuge und Technologien
+Zur Unterstützung der Ablaufverfolgung in Geschäftsprozessen stehen verschiedene Tools zur Verfügung, z. B.:
+
+- **[Business-Process-Management-Systeme (BPMS)](/open-fidup/bpmn.md)** wie ProcessMaker oder Camunda  
+- **[Prozess-Mining-Tools](/open-fidup/data-mining.md)** wie Celonis oder Disco  
+- **Monitoring- und Reporting-Lösungen** mit Dashboards und KPI-Tracking.
+
+Diese Werkzeuge ermöglichen eine strukturierte Erfassung, Analyse und Visualisierung von Prozessdaten.
+
+## Hinweis zur Softwareentwicklung
+Der Begriff **Ablaufverfolgung** wird auch in der [Softwareentwicklung](/open-fidup/debugging.md) verwendet, wo er die Analyse von Programmabläufen und Funktionsaufrufen beschreibt. Dort dient Tracing vor allem der Fehleridentifikation und Qualitätsverbesserung im Code. Dieser Aspekt ist jedoch eher ein Spezialfall und nicht der Kern der Prozessanalyse.
+
+## Siehe auch
+- [Geschäftsprozess](/open-fidup/geschaeftsprozess.md)
+- [BPMN](/open-fidup/bpmn.md)
+- [Data Mining](/open-fidup/data-mining.md)
+- [Debugging](/open-fidup/debugging.md)
+- [AP2 Themenübersicht](/open-fidup/ap2-themenuebersicht.md)
+
+## Quellen
+
+d.velop. (2022). *Prozessanalyse: Definition, Methoden und Beispiele*.  
+https://www.d-velop.de/blog/prozesse-gestalten/prozessanalyse/
+
+ProcessMaker. (2023). *What is Business Process Analysis?*  
+https://www.processmaker.com/de/blog/what-is-business-process-analysis/
+
+Qualitätsmanagement.me. (2023). *Prozessmanagement: Grundlagen und Methoden*.  
+https://qualitaetsmanagement.me/prozessmanagement/
+
+Rock the Prototype. (2023). *Tracing in der Programmierung lernen*.  
+https://rock-the-prototype.com/programmieren-lernen/tracing/
+
+SoftGuide. (2024). *Prozessverfolgung: Funktionen und Nutzen*.  
+https://www.softguide.de/funktion/prozessverfolgung
+
+Wikipedia. (2023). *Ablaufverfolgung*. In *Wikipedia*.  
+https://de.wikipedia.org/wiki/Ablaufverfolgung
+
+Zep. (2023). *Prozessanalyse: Definition und Nutzen*.  
+https://www.zep.de/lexikon/prozessanalyse
