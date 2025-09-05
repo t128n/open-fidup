@@ -1,6 +1,6 @@
 ---
-title: "Abhängige und unabhängige Daten in der Statistik"
-description: "Abhängige Daten sind Ergebnisvariablen, die von unabhängigen Eingabevariablen beeinflusst werden, während unabhängige Daten keinen Zusammenhang aufweisen. Die Unterscheidung ist entscheidend für die Wahl statistischer Verfahren und Tests. Beispiele umfassen Münzwürfe als unabhängig und Eltern-Kind-Körpergrößen als abhängig."
+title: "Abhängigen und unabhängigen Daten"
+description: "Abhängige Daten sind Ergebnisvariablen (y), die von unabhängigen Eingabevariablen (x) beeinflusst werden, während unabhängige Daten keinen Zusammenhang aufweisen. Die Unterscheidung ist entscheidend für die Wahl statistischer Verfahren und Tests. Beispiele umfassen Münzwürfe als unabhängig und Eltern-Kind-Körpergrößen als abhängig."
 ---
 
 Abhängige und unabhängige Daten sind grundlegende Konzepte in der Statistik, die die Beziehungen zwischen Variablen beschreiben. Unabhängige Daten, auch als Eingabevariablen bezeichnet, haben keinen Zusammenhang miteinander und beeinflussen sich nicht gegenseitig. Abhängige Daten hingegen, oft als Ergebnisvariablen oder zu erklärende Variablen bezeichnet, werden von unabhängigen Daten beeinflusst und weisen einen Zusammenhang auf. Diese Unterscheidung ist wesentlich für die Auswahl geeigneter statistischer Verfahren und Tests, um korrekte Schlussfolgerungen zu ziehen.
@@ -9,8 +9,8 @@ Abhängige und unabhängige Daten sind grundlegende Konzepte in der Statistik, d
 
 In der Statistik unterscheidet man zwischen abhängigen und unabhängigen Variablen, um Experimente zu planen und auszuwerten. Abhängige Variablen sind diejenigen, deren Werte vorhergesagt oder erklärt werden sollen. Sie hängen von anderen Faktoren ab. Unabhängige Variablen hingegen sind die Einflussfaktoren, die die abhängige Variable beeinflussen.
 
-- **Abhängige Variable:** Im Beispiel der Verkaufszahlen von Masken ist die Anzahl der verkauften Masken oder der Erfolg die abhängige Variable, da sie von anderen Faktoren abhängt.
-- **Unabhängige Variablen:** Datum, Event, Ort, Zielgruppe, Werbemittel und Kosten sind unabhängige Variablen, die Einfluss auf die abhängige Variable ausüben.
+- **Abhängige Variable (y):** Im Beispiel der Verkaufszahlen von Masken ist die Anzahl der verkauften Masken oder der Erfolg die abhängige Variable, da sie von anderen Faktoren abhängt.
+- **Unabhängige Variablen (x):** Datum, Event, Ort, Zielgruppe, Werbemittel und Kosten sind unabhängige Variablen, die Einfluss auf die abhängige Variable ausüben.
 
 ```mermaid
 flowchart TD
@@ -27,8 +27,8 @@ flowchart TD
     class F dependent
     
     subgraph Legende
-      L1[Unabhängige Variable]:::independent
-      L2[Abhängige Variable]:::dependent
+      L1["Unabhängige Variable (x)"]:::independent
+      L2["Abhängige Variable (y)"]:::dependent
     end
 ```
 
@@ -59,6 +59,9 @@ Die korrekte Unterscheidung zwischen abhängigen und unabhängigen Daten ist ent
 | **Beziehung**          | Kein Zusammenhang                         | Zusammenhang (Korrelation, Paarung)                           |
 | **Beispiel**           | Ergebnisse zweier verschiedener Gruppen   | Ergebnisse derselben Gruppe zu verschiedenen Zeitpunkten      |
 | **Statistische Tests** | t-Test für unabhängige Stichproben, ANOVA | t-Test für abhängige Stichproben, gepaarte Stichproben t-Test |
+
+### Abhängige vs. unabhängige Stichproben
+Im Kontext von statistischen Tests unterscheidet man zwischen **unabhängigen Stichproben** (z.B. Vergleich von zwei unterschiedlichen Gruppen) und **abhängigen Stichproben** (z.B. Messwiederholungen bei derselben Gruppe). Die Wahl des richtigen Tests (z.B. t-Test für unabhängige oder abhängige Stichproben) hängt von dieser Unterscheidung ab.
 
 ### Anwendungsbeispiele
 
