@@ -306,14 +306,11 @@ Der Mosaik-Plot visualisiert Verhältnisse zwischen mehreren kategorialen Variab
 - Gesundheitsforschung: Darstellung von Krankheitsverteilungen oder Risikofaktoren in verschiedenen Bevölkerungsgruppen, um Muster und Zusammenhänge zu erkennen.
 
 ```mermaid
-quadrant-beta
-    title Mosaik-Plot Beispiel
-    x-axis "Variable X" --> "Kategorie 1", "Kategorie 2"
-    y-axis "Variable Y" --> "Kategorie A", "Kategorie B"
-    quadrant-1 "Anteil 1"
-    quadrant-2 "Anteil 2"
-    quadrant-3 "Anteil 3"
-    quadrant-4 "Anteil 4"
+graph TD
+    A["Variable X / Variable Y<br/>Matrix"] --> B["Kategorie 1 / Kategorie A<br/>Anteil 1"]
+    A --> C["Kategorie 2 / Kategorie A<br/>Anteil 2"]
+    A --> D["Kategorie 1 / Kategorie B<br/>Anteil 3"]
+    A --> E["Kategorie 2 / Kategorie B<br/>Anteil 4"]
 ```
 
 ## Gantt-Diagramm
@@ -336,7 +333,7 @@ Das Gantt-Diagramm veranschaulicht einen Projektplan, wobei auf einer Achse Aufg
 - Softwareentwicklung: Visualisierung von Entwicklungszyklen, um die Planung von Aufgaben zu unterstützen.
 
 ```mermaid
-gantt-beta
+gantt
     title Gantt-Diagramm Beispiel
     dateFormat YYYY-MM-DD
     section Aufgabe 1
@@ -365,10 +362,12 @@ Die Radarkarte, auch als Spinnen- oder Netzdiagramm bekannt, verwendet mehrere v
 - Sportanalysen: Vergleich der Leistungen von Athleten oder Teams in verschiedenen Disziplinen oder Statistiken, um deren Gesamtleistung zu bewerten.
 
 ```mermaid
-radar-beta
-    title Radarkarte Beispiel
-    axes ["Variable 1", "Variable 2", "Variable 3", "Variable 4", "Variable 5"]
-    data ["Serie 1", [5, 4, 3, 5, 4]]
+graph TD
+    A["Variable 1: 5"] --> Center[Radarkarte<br/>Serie 1]
+    B["Variable 2: 4"] --> Center
+    C["Variable 3: 3"] --> Center
+    D["Variable 4: 5"] --> Center
+    E["Variable 5: 4"] --> Center
 ```
 
 ## Wasserfall-Diagramm
@@ -391,12 +390,16 @@ Das Wasserfall-Diagramm zeigt, wie ein Ausgangswert durch eine Reihe von Zwische
 - Verkaufsanalysen: Visualisierung von Verkaufszahlen, um die Auswirkungen von Marketingmaßnahmen oder saisonalen Schwankungen auf den Gesamtumsatz zu zeigen.
 
 ```mermaid
-waterfall-beta
-    title Wasserfall-Diagramm Beispiel
-    section "Start" : 100
-    section "Änderung 1" : +20
-    section "Änderung 2" : -10
-    section "Ende" : 110
+graph LR
+    A["Start: 100"] --> B["Änderung 1: +20"]
+    B --> C["Zwischenwert: 120"]
+    C --> D["Änderung 2: -10"]
+    D --> E["Ende: 110"]
+    style A fill:#e1f5fe
+    style B fill:#c8e6c9
+    style C fill:#fff3e0
+    style D fill:#ffcdd2
+    style E fill:#e1f5fe
 ```
 
 ## Wärmekarte
@@ -419,11 +422,27 @@ Die Wärmekarte macht Muster, Varianz und Cluster sichtbar, indem sie Dateninten
 - Gesundheitsforschung: Darstellung von Krankheitsverteilungen oder Risikofaktoren in verschiedenen Bevölkerungsgruppen, um Muster und Zusammenhänge zu erkennen.
 
 ```mermaid
-heatmap-beta
-    title Wärmekarte Beispiel
-    x-axis ["X1", "X2", "X3"]
-    y-axis ["Y1", "Y2", "Y3"]
-    data [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+graph TB
+    subgraph "Wärmekarte Matrix"
+        A["Y1/X1: 1"] 
+        B["Y1/X2: 2"]
+        C["Y1/X3: 3"]
+        D["Y2/X1: 4"]
+        E["Y2/X2: 5"]
+        F["Y2/X3: 6"]
+        G["Y3/X1: 7"]
+        H["Y3/X2: 8"]
+        I["Y3/X3: 9"]
+    end
+    style A fill:#e3f2fd
+    style B fill:#bbdefb
+    style C fill:#90caf9
+    style D fill:#64b5f6
+    style E fill:#42a5f5
+    style F fill:#2196f3
+    style G fill:#1e88e5
+    style H fill:#1976d2
+    style I fill:#1565c0
 ```
 
 ## Trichterdiagramm
@@ -446,12 +465,14 @@ Das Trichterdiagramm zeigt den Fluss von Nutzern durch einen Konversionsprozess.
 - Projektmanagement: Darstellung von Phasen in einem Projekt, um den Fortschritt und die Anzahl der abgeschlossenen Aufgaben in jeder Phase zu verfolgen.
 
 ```mermaid
-funnel-beta
-    title Trichterdiagramm Beispiel
-    section "Phase 1" : 100
-    section "Phase 2" : 75
-    section "Phase 3" : 50
-    section "Phase 4" : 25
+graph TD
+    A["Phase 1: 100"] --> B["Phase 2: 75"]
+    B --> C["Phase 3: 50"]
+    C --> D["Phase 4: 25"]
+    style A fill:#4caf50
+    style B fill:#ff9800
+    style C fill:#ff5722
+    style D fill:#f44336
 ```
 
 ## Pareto-Diagramm
@@ -474,16 +495,21 @@ Das Pareto-Diagramm enthält sowohl Balken als auch ein Liniendiagramm, wobei Ba
 - Kostenanalyse: Identifikation der Hauptkostenfaktoren in einem Unternehmen, um gezielte Einsparungsmaßnahmen zu entwickeln.
 
 ```mermaid
-bar-beta
-    title Pareto-Diagramm Beispiel (Balken)
-    x-axis ["Faktor A", "Faktor B", "Faktor C"]
-    y-axis "Wert" 0 --> 100
-    bar [60, 25, 15]
-line-beta
-    title Pareto-Diagramm Beispiel (Linie)
-    x-axis ["Faktor A", "Faktor B", "Faktor C"]
-    y-axis "Kumuliert %" 0 --> 100
-    line [60, 85, 100]
+graph TD
+    A[Faktor A: 60] --> D[Pareto-Diagramm]
+    B[Faktor B: 25] --> D
+    C[Faktor C: 15] --> D
+    style A fill:#4caf50
+    style B fill:#ff9800
+    style C fill:#f44336
+```
+```mermaid
+graph LR
+    A[Faktor A: 60%] --> B[Faktor B: 85%]
+    B --> C[Faktor C: 100%]
+    style A fill:#4caf50
+    style B fill:#ff9800
+    style C fill:#2196f3
 ```
 
 ## Gestapeltes Balkendiagramm
@@ -506,12 +532,19 @@ Das gestapelte Balkendiagramm stellt verschiedene Kategorien von Daten in einem 
 - Marktforschung: Vergleich der Marktanteile verschiedener Unternehmen in einer Branche, um die Wettbewerbslandschaft zu verstehen.
 
 ```mermaid
-bar-beta
-    title Gestapeltes Balkendiagramm Beispiel
-    x-axis ["Kategorie 1", "Kategorie 2"]
-    y-axis "Wert" 0 --> 100
-    bar [20, 30] stacked
-    bar [40, 20] stacked
+graph TD
+    subgraph "Kategorie 1"
+        A1["Segment 1: 20"] 
+        A2["Segment 2: 40"]
+    end
+    subgraph "Kategorie 2"
+        B1["Segment 1: 30"]
+        B2["Segment 2: 20"]
+    end
+    style A1 fill:#4caf50
+    style A2 fill:#2196f3
+    style B1 fill:#4caf50
+    style B2 fill:#2196f3
 ```
 
 ## Flussdiagramm
@@ -563,10 +596,23 @@ Der Boxplot ist eine grafische Darstellung der Verteilung von Datenpunkten durch
 - Forschung: Visualisierung von Umfragedaten oder experimentellen Ergebnissen, um die Verteilung und Variabilität der Antworten zu analysieren.
 
 ```mermaid
-box-beta
-    title Boxplot Beispiel
-    data "Gruppe 1" : [10, 20, 30, 40, 50]
-    data "Gruppe 2" : [15, 25, 35, 45, 55]
+graph TD
+    subgraph "Boxplot Vergleich"
+        subgraph "Gruppe 1"
+            A1["Min: 10"]
+            A2["Q1: 20"]
+            A3["Median: 30"]
+            A4["Q3: 40"] 
+            A5["Max: 50"]
+        end
+        subgraph "Gruppe 2"
+            B1["Min: 15"]
+            B2["Q1: 25"]
+            B3["Median: 35"]
+            B4["Q3: 45"]
+            B5["Max: 55"]
+        end
+    end
 ```
 
 ## Quellen
