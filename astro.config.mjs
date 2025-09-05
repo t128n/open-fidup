@@ -20,17 +20,23 @@ export default defineConfig({
 	integrations: [
 		mermaid(),
 		sitemap({
-			changefreq: 'weekly',
-			priority: 0.7,
-			lastmod: new Date(),
 			filter: (page) => !page.includes('/v1/'),
 			serialize: (item) => {
-				return {
-					url: item.url,
-					changefreq: item.changefreq,
-					lastmod: item.lastmod,
-					priority: item.priority,
-				};
+				// Use more realistic lastmod dates based on content type
+				if (item.url.includes('/lerninhalte/')) {
+					// Learning content
+					item.lastmod = new Date('2025-01-01').toISOString();
+					item.priority = 0.8;
+				} else if (item.url.endsWith('/') && item.url.split('/').length <= 5) {
+					// Main pages
+					item.lastmod = new Date('2025-01-15').toISOString();
+					item.priority = 0.9;
+				} else {
+					// Other pages
+					item.lastmod = new Date('2024-12-01').toISOString();
+					item.priority = 0.6;
+				}
+				return item;
 			},
 		}),
 		starlight({

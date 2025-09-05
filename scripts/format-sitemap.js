@@ -15,6 +15,15 @@ function formatXML(xmlString) {
   try {
     const doc = parser.parseFromString(xmlString, 'text/xml');
     
+    // Remove unnecessary namespaces for basic sitemaps
+    if (doc.documentElement.nodeName === 'urlset') {
+      // Remove news, xhtml, image, video namespaces as they're not needed
+      doc.documentElement.removeAttribute('xmlns:news');
+      doc.documentElement.removeAttribute('xmlns:xhtml');
+      doc.documentElement.removeAttribute('xmlns:image');
+      doc.documentElement.removeAttribute('xmlns:video');
+    }
+    
     // Format the XML with proper indentation
     function formatNode(node, indent = '') {
       if (node.nodeType === 1) { // Element node
