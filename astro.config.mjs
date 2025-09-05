@@ -1,7 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import sitemap from '@astrojs/sitemap';
 import starlightGitHubAlerts from 'starlight-github-alerts';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
@@ -11,7 +10,7 @@ import mermaid from 'astro-mermaid';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://t128n.github.io/',
+	// site: 'https://t128n.github.io/', // Commenting out to disable automatic sitemap generation
 	base: '/open-fidup/',
 	markdown: {
 		remarkPlugins: [remarkMath],
@@ -19,26 +18,6 @@ export default defineConfig({
 	},
 	integrations: [
 		mermaid(),
-		sitemap({
-			filter: (page) => !page.includes('/v1/'),
-			serialize: (item) => {
-				// Use more realistic lastmod dates based on content type
-				if (item.url.includes('/lerninhalte/')) {
-					// Learning content
-					item.lastmod = new Date('2025-01-01').toISOString();
-					item.priority = 0.8;
-				} else if (item.url.endsWith('/') && item.url.split('/').length <= 5) {
-					// Main pages
-					item.lastmod = new Date('2025-01-15').toISOString();
-					item.priority = 0.9;
-				} else {
-					// Other pages
-					item.lastmod = new Date('2024-12-01').toISOString();
-					item.priority = 0.6;
-				}
-				return item;
-			},
-		}),
 		starlight({
 			title: 'open-fidup',
 			favicon: './src/assets/favicon.png',
