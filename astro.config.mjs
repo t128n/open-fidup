@@ -24,6 +24,14 @@ export default defineConfig({
 			priority: 0.7,
 			lastmod: new Date(),
 			filter: (page) => !page.includes('/v1/'),
+			serialize: (item) => {
+				return {
+					url: item.url,
+					changefreq: item.changefreq,
+					lastmod: item.lastmod,
+					priority: item.priority,
+				};
+			},
 		}),
 		starlight({
 			title: 'open-fidup',
