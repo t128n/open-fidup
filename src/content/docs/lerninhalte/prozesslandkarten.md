@@ -3,7 +3,7 @@ title: "Prozesslandkarten"
 description: "Prozesslandkarten stellen die Ablauforganisation eines Unternehmens dar, indem sie Kern-, Führungs- und Supportprozesse gliedern. Sie bieten einen Überblick über interne Abläufe und Wertschöpfung."
 ---
 
-Prozesslandkarten sind eine Darstellungsform der Ablauforganisation eines Unternehmens. Sie zeigen, was im Unternehmen geschieht, und sind nicht normiert. Diese Karten gliedern die Prozesse in drei Hauptbereiche: Leistungs- oder Kernprozesse, Führungs- oder Managementprozesse sowie Unterstützungs- oder Supportprozesse. Dadurch schaffen sie Übersicht über interne Abläufe und Wertschöpfung.
+Prozesslandkarten sind eine Darstellungsform der Ablauforganisation eines Unternehmens. Sie zeigen, was im Unternehmen geschieht, und sind nicht normiert. Diese Karten gliedern die Prozesse in drei Hauptbereiche: Leistungs- oder Kernprozesse, Führungs- oder Managementprozesse sowie Unterstützungs- oder Supportprozesse. Dadurch schaffen sie Übersicht über interne Abläufe und Wertschöpfung. Für die detaillierte Modellierung einzelner Prozesse können standardisierte Notationen wie [BPMN](/open-fidup/lerninhalte/bpmn) oder [eEPK](/open-fidup/lerninhalte/eepk) verwendet werden.
 
 ## Gliederung
 

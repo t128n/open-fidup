@@ -3,7 +3,7 @@ title: "Geschäftsprozess"
 description: "Ein Geschäftsprozess beschreibt den Ablauf betrieblicher Funktionen, der zu einem gewünschten Ergebnis wie Umsatz führt. Er wird durch ein definiertes Ereignis ausgelöst und transformiert Input zu Output. Bei Änderungen sind Risiken hinsichtlich Wahrscheinlichkeit und Auswirkungen zu bewerten."
 ---
 
-Ein Geschäftsprozess umfasst den Ablauf betrieblicher Funktionen, der zu einem vom Unternehmen gewünschten Ergebnis führt, beispielsweise in Form von Umsatz. Er wird durch ein definiertes Ereignis ausgelöst und transformiert Input durch den Einsatz materieller und immaterieller Güter zu Output.
+Ein Geschäftsprozess umfasst den Ablauf betrieblicher Funktionen, der zu einem vom Unternehmen gewünschten Ergebnis führt, beispielsweise in Form von Umsatz. Er wird durch ein definiertes Ereignis ausgelöst und transformiert Input durch den Einsatz materieller und immaterieller Güter zu Output. Zur Modellierung und Visualisierung solcher Prozesse werden standardisierte Notationen wie [BPMN](/open-fidup/lerninhalte/bpmn) und [eEPK](/open-fidup/lerninhalte/eepk) eingesetzt.
 
 ```mermaid
 flowchart LR

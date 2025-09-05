@@ -1,6 +1,6 @@
 ---
-title: "ANSI-SPARC-Architektur"
-description: "Die ANSI-SPARC-Architektur trennt Datenbankschemata in externe, konzeptionelle und interne Ebene, um die Datenunabhängigkeit zu verbessern. Die externe Ebene bietet individuelle Benutzersichten, die konzeptionelle Ebene speichert Daten strukturiert und redundanzfrei, und die interne Ebene handhabt die physische Speicherung. Dies fördert Robustheit und erleichtert Wartung und Anpassung."
+title: "ANSI-SPARC-Architekturmodell"
+description: "Das ANSI-SPARC-Architekturmodell trennt Datenbankschemata in externe, konzeptionelle und interne Ebene, um die Datenunabhängigkeit zu verbessern. Die externe Ebene bietet individuelle Benutzersichten, die konzeptionelle Ebene speichert Daten strukturiert und redundanzfrei, und die interne Ebene handhabt die physische Speicherung. Dies fördert Robustheit und erleichtert Wartung und Anpassung."
 ---
 
 Die ANSI-SPARC-Architektur ist ein Modell zur Strukturierung von Datenbankschemata, das eine grundlegende Trennung verschiedener Beschreibungsebenen vorsieht. Es zielt darauf ab, die Unabhängigkeit der Daten zu erhöhen, indem es zwischen externen, konzeptionellen und internen Ebenen unterscheidet. Dies ermöglicht eine robustere und wartungsfreundlichere Datenbankgestaltung.

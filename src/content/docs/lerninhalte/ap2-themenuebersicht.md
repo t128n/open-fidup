@@ -256,6 +256,7 @@ Der Code soll allgemein verständlich sein, beispielsweise als [Pseudocode](/ope
 - [Prozesslandkarten](/open-fidup/lerninhalte/prozesslandkarten)
 - [Flussdiagramme](/open-fidup/lerninhalte/flussdiagramm)
 - [eEPK](/open-fidup/lerninhalte/eepk)
+- [BPMN](/open-fidup/lerninhalte/bpmn)
 - [UML-Aktivitätsdiagramm](/open-fidup/lerninhalte/uml-aktivitaetsdiagramm)
 
 #### Bewertung von Prozessen

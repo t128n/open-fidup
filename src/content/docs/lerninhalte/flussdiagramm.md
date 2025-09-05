@@ -3,7 +3,7 @@ title: "Flussdiagramm"
 description: "Ein Flussdiagramm visualisiert Prozesse oder Arbeitsabläufe zur Dokumentation, Planung und Optimierung. Es umfasst Elemente wie Terminator, Verbindungspfeil, Prozess, Dokument, Datenbank, Entscheidung und Anmerkungen. Vorteile liegen in der schnellen Darstellung und dem Überblick, Nachteile in Schwierigkeiten bei parallelen Prozessen."
 ---
 
-Ein Flussdiagramm ist eine grafische Darstellung, die einen Prozess oder Arbeitsablauf abbildet. Es dient der Dokumentation, Planung und Optimierung von Arbeitsprozessen, indem es Schritte, Entscheidungen und Verbindungen visuell strukturiert.
+Ein Flussdiagramm ist eine grafische Darstellung, die einen Prozess oder Arbeitsablauf abbildet. Es dient der Dokumentation, Planung und Optimierung von Arbeitsprozessen, indem es Schritte, Entscheidungen und Verbindungen visuell strukturiert. Für komplexere Prozesse eignen sich standardisierte Notationen wie [BPMN](/open-fidup/lerninhalte/bpmn) oder [eEPK](/open-fidup/lerninhalte/eepk).
 
 ## Elemente
 
