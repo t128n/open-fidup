@@ -272,6 +272,7 @@ export default defineConfig({
 						],
 						"offers": {
 							"@type": "Offer",
+							"category": "Vocational Training",
 							"price": "0",
 							"priceCurrency": "EUR",
 							"availability": "https://schema.org/InStock",
