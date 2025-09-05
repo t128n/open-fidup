@@ -32,6 +32,9 @@ export default defineConfig({
 				src: './src/assets/logo.webp',
 			},
 			description: 'Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen',
+			editLink: {
+				baseUrl: 'https://github.com/t128n/open-fidup/edit/main/',
+			},
 			defaultLocale: 'root',
 			locales: {
 				root: {
