@@ -24,7 +24,6 @@ export default defineConfig({
 			priority: 0.7,
 			lastmod: new Date(),
 			filter: (page) => !page.includes('/v1/'),
-			filenameBase: 'open-fidup-sitemap'
 		}),
 		starlight({
 			title: 'open-fidup',
