@@ -151,13 +151,6 @@ export default defineConfig({
 					},
 				},
 				{
-					tag: 'link',
-					attrs: {
-						rel: 'canonical',
-						href: 'https://t128n.github.io/open-fidup/',
-					},
-				},
-				{
 					tag: 'meta',
 					attrs: {
 						property: 'og:image',
@@ -226,7 +219,7 @@ export default defineConfig({
 								"name": "Fachinformatiker:in für Daten- und Prozessanalyse"
 							},
 							{
-								"@type": "Thing", 
+								"@type": "Thing",
 								"name": "AP2 Abschlussprüfung"
 							},
 							{
@@ -265,7 +258,7 @@ export default defineConfig({
 						"learningResourceType": "Wissensdatenbank",
 						"teaches": [
 							"Datenanalyse",
-							"Prozessanalyse", 
+							"Prozessanalyse",
 							"BPMN",
 							"SQL",
 							"Python",
