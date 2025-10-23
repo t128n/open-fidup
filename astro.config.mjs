@@ -154,7 +154,7 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						property: 'og:image',
-						content: 'https://t128n.github.io/open-fidup/logo.svg',
+						content: 'https://t128n.github.io/open-fidup/logo.webp',
 					},
 				},
 				{
@@ -189,7 +189,7 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						name: 'twitter:image',
-						content: 'https://t128n.github.io/open-fidup/logo.svg',
+						content: 'https://t128n.github.io/open-fidup/logo.webp',
 					},
 				},
 				{
@@ -204,7 +204,7 @@ export default defineConfig({
 						"alternateName": "FiDuP AP2 Prüfungsvorbereitung",
 						"description": "Kostenlose Wissensdatenbank für Fachinformatiker:in für Daten- und Prozessanalyse (FiDuP) - AP2 Prüfungsvorbereitung mit umfassenden Lernmaterialien und Übungen",
 						"url": "https://t128n.github.io/open-fidup",
-						"logo": "https://t128n.github.io/open-fidup/logo.svg",
+						"logo": "https://t128n.github.io/open-fidup/logo.webp",
 						"educationalCredentialAwarded": "Fachinformatiker:in für Daten- und Prozessanalyse",
 						"hasEducationalUse": "Preparation for vocational examination",
 						"inLanguage": "de",
