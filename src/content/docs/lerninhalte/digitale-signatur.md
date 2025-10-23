@@ -45,4 +45,4 @@ Zertifikate müssen regelmäßig überprüft und erneuert werden. Bei Verlust de
 
 ## Quellen
 
-> OpenAI. (2024). _ChatGPT AI language model_. Abgerufen am 18. September 2024, von [https://www.openai.com/chatgpt](https://www.openai.com/chatgpt)
+- [Wikipedia: Digitale Signatur](https://de.wikipedia.org/wiki/Digitale_Signatur)

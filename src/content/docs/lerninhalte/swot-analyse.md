@@ -95,4 +95,4 @@ flowchart TD
 
 > Bundesministerium des Innern und für Heimat. (2024). SWOT Analyse. Bundesministerium des Innern und für Heimat. Retrieved from https://www.orghandbuch.de/Webs/OHB/DE/OrganisationshandbuchNEU/4_MethodenUndTechniken/Methoden_A_bis_Z/SWOT_Analyse/swot_analyse_node.html%3Bjsessionid=A9EC8CF14A322DA22146DA463549ADD9.live882
 
-> ChatGPT. (2024, September 19). Retrieved from https://chatgpt.com/c/66ebd0b5-9cac-800b-aea4-b8fedad5efac
+- [Wikipedia: SWOT-Analyse](https://de.wikipedia.org/wiki/SWOT-Analyse)

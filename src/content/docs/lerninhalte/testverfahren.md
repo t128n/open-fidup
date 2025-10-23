@@ -100,3 +100,7 @@ graph TD
     C --> D[Komponententests<br/>Weniger Tests<br/>Mittlere Ausführung]
     D --> E[Unit-Tests<br/>Viele Tests<br/>Schnelle Ausführung]
 ```
+
+## Quellen
+
+- [Wikipedia: Softwaretest](https://de.wikipedia.org/wiki/Softwaretest)

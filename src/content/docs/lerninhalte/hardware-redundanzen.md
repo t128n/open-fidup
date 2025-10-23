@@ -65,4 +65,4 @@ Für eine effektive Implementierung von Redundanzen sind folgende Best Practices
 - **Geografische Redundanz**: Für höchste Ausfallsicherheit sollten Backup-Systeme und Netzwerke an verschiedenen Standorten betrieben werden, um Disaster Recovery zu ermöglichen.
 
 ## Quellen
-ChatGPT. (2024, September 20). Abgerufen von https://chatgpt.com/c/66ed1d06-5424-800b-bc26-8455a49771b1
+- [Wikipedia: Redundanz (Technik)](https://de.wikipedia.org/wiki/Redundanz_(Technik))

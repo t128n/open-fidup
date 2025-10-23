@@ -107,5 +107,7 @@ Die Lernrate beeinflusst die Geschwindigkeit und Effektivität des Trainings:
 - "Black Box" - Entscheidungsprozess schwer nachvollziehbar.
 - Ethische Bedenken: Bias in den Daten kann zu unfairen Entscheidungen führen.
 
-> Neuronale Netze. (2022, January 26). Retrieved from https://studyflix.de/informatik/neuronale-netze-4297
-> AI Chat. (2024, September 19). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+## Quellen
+
+- [Wikipedia: Künstliches neuronales Netz](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz)
+- Neuronale Netze. (2022, January 26). Retrieved from https://studyflix.de/informatik/neuronale-netze-4297

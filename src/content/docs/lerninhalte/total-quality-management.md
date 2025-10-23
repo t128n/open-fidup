@@ -44,6 +44,7 @@ graph TD
 - Strikte Einhaltung der Abläufe kann bei vielen involvierten Mitarbeitern schwierig sein.
 
 ## Quellen
+- [Wikipedia: Total Quality Management](https://de.wikipedia.org/wiki/Total_Quality_Management)
 - Wirtschaft, D. M. (2016, August 14). Total Quality Management (TQM & EFQM) einfach erklärt - Qualitätsmanagement in Unternehmen. Youtube. Abgerufen von https://www.youtube.com/watch?v=nIXPrC_jfhU
 - caesar. academy. (2022, December 05). Total-Quality-Management (Definition) - 👨🏼‍🎓 EINFACH ERKLÄRT 👩🏼‍🎓. Youtube. Abgerufen von https://www.youtube.com/watch?v=vv9vL1jzRWo
 - ▷ Total Quality Management (TQM) » Definition, Erklärung & Beispiele + Übungsfragen. (2022, May 10). Abgerufen von https://www.bwl-lexikon.de/wiki/total-quality-management-tqm/#welche-prinzipien-verfolgt-tqm

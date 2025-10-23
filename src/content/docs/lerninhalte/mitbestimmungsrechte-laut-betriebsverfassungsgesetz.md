@@ -81,4 +81,4 @@ Der Betriebsrat hat ein Mitwirkungsrecht in Fragen des betrieblichen Arbeitsschu
 
 ## Quellen
 
-> ChatGPT. (2024, September 20). Retrieved from https://chatgpt.com/c/66ed1d06-5424-800b-bc26-8455a49771b1
+- [Wikipedia: Betriebsverfassungsgesetz](https://de.wikipedia.org/wiki/Betriebsverfassungsgesetz)

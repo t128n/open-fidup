@@ -17,5 +17,5 @@ Die folgenden Arten von USVs bieten unterschiedliche Schutzmechanismen. Eine Üb
 
 ## Quellen
 
-> ChatGPT. (2024, September 20). Retrieved from https://chatgpt.com/c/66ed1d06-5424-800b-bc26-8455a49771b1  
+- [Wikipedia: Unterbrechungsfreie Stromversorgung](https://de.wikipedia.org/wiki/Unterbrechungsfreie_Stromversorgung)  
 > mueller – Ihre USV-Beratung. (2024, September 20). Retrieved from https://www.usv-beratung.de

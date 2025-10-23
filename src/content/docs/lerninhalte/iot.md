@@ -90,4 +90,4 @@ In IoT-Systemen werden Datenverarbeitungsmethoden gewählt, die auf die Anforder
 
 ## Quellen
 
-> ChatGPT. (2024, September 20). Retrieved from https://chatgpt.com/c/66ed3ccd-34d4-800b-a198-dee9a0d61710 [Beleg erforderlich]
+- [Wikipedia: Internet der Dinge](https://de.wikipedia.org/wiki/Internet_der_Dinge)

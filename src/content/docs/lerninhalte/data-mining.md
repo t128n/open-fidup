@@ -39,4 +39,4 @@ Trotz seiner Nutzen weist Data Mining auch Nachteile auf:
 ## Quellen
 
 > Was ist Data-Mining? | IBM. (2024, September 11). Retrieved from https://www.ibm.com/de-de/topics/data-mining  
-> OpenAI. (2024). Data Mining. Retrieved from [OpenAI ChatGPT](https://www.openai.com)
+- [Wikipedia: Data Mining](https://de.wikipedia.org/wiki/Data_Mining)

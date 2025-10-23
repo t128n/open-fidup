@@ -151,4 +151,4 @@ graph TD
 ## Quellen
 
 > Dalwigk, F. (2021, October 20). PAN vs. LAN vs. MAN vs. WAN vs. GAN vs. VPN ... Netzwerktypen einfach erklärt | Netzwerktechnik. Youtube. Retrieved from https://www.youtube.com/watch?v=JbGSAhl7ptI
-> ChatGPT. (2024, September 18). Netzwerktypen und Sicherheitskonzepte. OpenAI. https://chat.openai.com
+- [Wikipedia: Computernetzwerk](https://de.wikipedia.org/wiki/Computernetzwerk)

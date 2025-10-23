@@ -17,4 +17,4 @@ $$
 
 ## Quellen
 > Spannweite berechnen. (2022, September 19). Retrieved from https://studyflix.de/statistik/spannweite-berechnen-5401  
-> OpenAI. (2024, 16. September). _ChatGPT_. DuckDuckGo. Abgerufen von https://duck.ai
+- [Wikipedia: Spannweite (Statistik)](https://de.wikipedia.org/wiki/Spannweite_(Statistik))

@@ -35,4 +35,4 @@ Predictive Maintenance, oft als PdM abgekürzt, umfasst die Vorhersage von Wartu
 - **[Edge Computing](/open-fidup/lerninhalte/fog-computing)**: Datenverarbeitung nahe der Quelle zur Ermöglichung von Echtzeitanalysen.
 
 ## Quellen
-DuckDuckGo. (2024). *ChatGPT: An AI language model*. Abgerufen am 18. September 2024, von https://www.duckduckgo.com/chatgpt.
+- [Wikipedia: Predictive Maintenance](https://de.wikipedia.org/wiki/Predictive_Maintenance)

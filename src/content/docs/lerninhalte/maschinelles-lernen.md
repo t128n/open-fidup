@@ -53,6 +53,6 @@ Zu den Herausforderungen zählen:
 - **Überanpassung**: Modelle können zu komplex werden und sich zu stark an die Trainingsdaten anpassen, was ihre Generalisierungsfähigkeit beeinträchtigt.
 - **Erklärbarkeit**: Viele ML-Modelle, insbesondere neuronale Netze, sind schwer zu interpretieren, was die Nachvollziehbarkeit von Entscheidungen erschwert.
 - **Ethik und Bias**: Risiken von Vorurteilen in den Daten, die zu unfairen oder diskriminierenden Ergebnissen führen können.
+## Quellen
 
-## Quelle
-> AI Chat. (2024, September 19). Retrieved from https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
+- [Wikipedia: Maschinelles Lernen](https://de.wikipedia.org/wiki/Maschinelles_Lernen)

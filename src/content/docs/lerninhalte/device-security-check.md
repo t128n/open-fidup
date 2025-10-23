@@ -64,4 +64,4 @@ Der Device Security Check bezeichnet Maßnahmen und Strategien zur Sicherstellun
 - **Kontinuierliche Überwachung**: Ständige Überwachung der Gerätesicherheit und sofortige Reaktion auf erkannte Bedrohungen.
 
 ## Quellen
-> ChatGPT. (2024, September 20). Retrieved from https://chatgpt.com [Beleg erforderlich].
+- [Wikipedia: Computersicherheit](https://de.wikipedia.org/wiki/Computersicherheit)

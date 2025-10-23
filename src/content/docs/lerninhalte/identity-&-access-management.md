@@ -62,4 +62,4 @@ Identity & Access Management (IAM) ist ein Rahmenwerk aus Strategien und Technol
 
 ## Quellen
 
-> ChatGPT. (2024, September 20). Retrieved from https://chatgpt.com [Beleg erforderlich]
+- [Wikipedia: Identity and Access Management](https://de.wikipedia.org/wiki/Identity_and_Access_Management)
